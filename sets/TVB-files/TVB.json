@@ -1,10 +1,16 @@
 ﻿{
+    "name": "The Void Beneath",
+    "formats": "",
+    "trimmed": "y",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "CW01 Ascendant Guide",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 16,
             "color_identity": "W",
             "cost": "{W}",
@@ -17,14 +23,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW01: One-mana creature",
-            "image_type": "png"
+            "notes": "CW01: One-mana creature"
         },
         {
             "card_name": "CW02 Heartpact Acolyte",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Cleric",
+            "type": "Creature \u2014 Elf Cleric",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW02: Two-mana creature",
-            "image_type": "png"
+            "notes": "CW02: Two-mana creature"
         },
         {
             "card_name": "CW03 Wingblade Recruit",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 18,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -57,14 +61,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW03: Two-mana creature",
-            "image_type": "png"
+            "notes": "CW03: Two-mana creature"
         },
         {
             "card_name": "CW05 Reckless Raptor",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 20,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -77,14 +80,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW05: Three-mana creature\ncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "CW05: Three-mana creature\ncommon_waste_cycle"
         },
         {
             "card_name": "CW06 Skyport Sanctifier",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Cleric",
+            "type": "Creature \u2014 Elf Cleric",
             "number": 21,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -97,14 +99,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW06: Three-mana creature",
-            "image_type": "png"
+            "notes": "CW06: Three-mana creature"
         },
         {
             "card_name": "CW07 Ardent Aviphile",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 22,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -117,14 +118,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\n!token Bird",
-            "image_type": "png"
+            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\n!token Bird"
         },
         {
             "card_name": "CW08 Eager Settler",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 23,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW08: Four-mana creature\n[canon reprint \u2014 search party captain]",
-            "image_type": "png"
+            "notes": "CW08: Four-mana creature\n[canon reprint \u2014 search party captain]"
         },
         {
             "card_name": "CW09 Magnanimous Magistrate",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Advisor",
+            "type": "Creature \u2014 Elf Advisor",
             "number": 24,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/r8662\n!token Soldier",
-            "image_type": "png"
+            "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/r8662\n!token Soldier"
         },
         {
             "card_name": "CW10 Barrescape Conquerer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 25,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -177,14 +175,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW10: Five- or six-mana creature",
-            "image_type": "png"
+            "notes": "CW10: Five- or six-mana creature"
         },
         {
             "card_name": "CW11 Shimmering Stalker",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Cockatrice",
+            "type": "Creature \u2014 Voidling Cockatrice",
             "number": 7,
             "color_identity": "W",
             "cost": "{7}",
@@ -197,8 +194,7 @@
             "loyalty": "",
             "artist": "Noel Hill",
             "alias": "",
-            "notes": "CW11: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/oxJm",
-            "image_type": "png"
+            "notes": "CW11: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/oxJm"
         },
         {
             "card_name": "CW15 Heartpact Rebirth",
@@ -217,14 +213,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW15: Disenchant/removal spell\n[ignored bc i have creature that does it]",
-            "image_type": "png"
+            "notes": "CW15: Disenchant/removal spell\n[ignored bc i have creature that does it]"
         },
         {
             "card_name": "CU01 Highspire Sentry",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 39,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -237,14 +232,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU01: Two-mana creature",
-            "image_type": "png"
+            "notes": "CU01: Two-mana creature"
         },
         {
             "card_name": "CU02 Wild Whelp",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Drake",
+            "type": "Creature \u2014 Drake",
             "number": 40,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -257,14 +251,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU02: Two-mana creature\ncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "CU02: Two-mana creature\ncommon_waste_cycle"
         },
         {
             "card_name": "CU03 Lumina Technician",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Artificer",
+            "type": "Creature \u2014 Elf Artificer",
             "number": 41,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -277,14 +270,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU03: Three-mana creature\n!token Prism",
-            "image_type": "png"
+            "notes": "CU03: Three-mana creature\n!token Prism"
         },
         {
             "card_name": "CU04 Voidcaller Merchant",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 42,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -297,14 +289,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU04: Three-mana creature",
-            "image_type": "png"
+            "notes": "CU04: Three-mana creature"
         },
         {
             "card_name": "CU05 Curio Collector",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 43,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -317,14 +308,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU05: Three-mana creature",
-            "image_type": "png"
+            "notes": "CU05: Three-mana creature"
         },
         {
             "card_name": "CU06 Luxara Doorman",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Mercenary",
+            "type": "Creature \u2014 Elf Mercenary",
             "number": 44,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -337,14 +327,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]",
-            "image_type": "png"
+            "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]"
         },
         {
             "card_name": "CU07 Wingblade Scholar",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 45,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -357,14 +346,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU07: Five- or six-mana creature\n[canon reprint \u2014 icewind elemental]",
-            "image_type": "png"
+            "notes": "CU07: Five- or six-mana creature\n[canon reprint \u2014 icewind elemental]"
         },
         {
             "card_name": "CU15 Sepia Serpent",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Serpent",
+            "type": "Creature \u2014 Voidling Serpent",
             "number": 6,
             "color_identity": "U",
             "cost": "{7}",
@@ -377,14 +365,13 @@
             "loyalty": "",
             "artist": "Justin Gerard",
             "alias": "",
-            "notes": "CU15: Modal spell\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/bKkAXr",
-            "image_type": "png"
+            "notes": "CU15: Modal spell\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/bKkAXr"
         },
         {
             "card_name": "CB01 Lifeleeched Vermin",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat",
+            "type": "Creature \u2014 Rat",
             "number": 61,
             "color_identity": "B",
             "cost": "{B}",
@@ -397,14 +384,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB01: One- or two-mana creature\n!token Voidling",
-            "image_type": "png"
+            "notes": "CB01: One- or two-mana creature\n!token Voidling"
         },
         {
             "card_name": "CB02 Deathrattle Scorpion",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Scorpion",
+            "type": "Creature \u2014 Scorpion",
             "number": 62,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -417,18 +403,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB02: Two-mana creature\ncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "CB02: Two-mana creature\ncommon_waste_cycle"
         },
         {
             "card_name": "CB03 Duram Nightstalker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Vampire",
+            "type": "Creature \u2014 Vampire",
             "number": 63,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flying\n[i]Descend 4[/i] \u2013 As long as there are four or more permanent cards in your graveyard, this creature gets +2/+1.",
+            "rules_text": "Flying\n[i]Descend 4[/i] \u2014 As long as there are four or more permanent cards in your graveyard, this creature gets +2/+1.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -437,14 +422,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB03: Two-mana creature",
-            "image_type": "png"
+            "notes": "CB03: Two-mana creature"
         },
         {
             "card_name": "CB04 Sinister Administrator",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Advisor",
+            "type": "Creature \u2014 Elf Advisor",
             "number": 64,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -457,14 +441,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB04: Three-mana creature\n[canon reprint \u2014 grim javelineer]",
-            "image_type": "png"
+            "notes": "CB04: Three-mana creature\n[canon reprint \u2014 grim javelineer]"
         },
         {
             "card_name": "CB05 Voidheart Mystic",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 65,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -477,14 +460,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB05: Three-mana creature",
-            "image_type": "png"
+            "notes": "CB05: Three-mana creature"
         },
         {
             "card_name": "CB06 Desperate Howler",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Wolf",
+            "type": "Creature \u2014 Wolf",
             "number": 66,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -497,14 +479,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB06: Four-mana creature",
-            "image_type": "png"
+            "notes": "CB06: Four-mana creature"
         },
         {
             "card_name": "CB07 Sickleblade Rallier",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 67,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -517,14 +498,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB07: Four- or five-mana creature\n[canon reprint \u2014 fanatic of the harrowing]",
-            "image_type": "png"
+            "notes": "CB07: Four- or five-mana creature\n[canon reprint \u2014 fanatic of the harrowing]"
         },
         {
             "card_name": "CB09 Blood-Rage Minotaur",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Minotaur Mercenary",
+            "type": "Creature \u2014 Minotaur Mercenary",
             "number": 69,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -537,14 +517,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB09: Six- or seven-mana creature",
-            "image_type": "png"
+            "notes": "CB09: Six- or seven-mana creature"
         },
         {
             "card_name": "CB08 Graverazer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Bat",
+            "type": "Creature \u2014 Bat",
             "number": 68,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -557,8 +536,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB08: Five- or six-mana creature",
-            "image_type": "png"
+            "notes": "CB08: Five- or six-mana creature"
         },
         {
             "card_name": "CB10 Unfortunate Tumble",
@@ -577,8 +555,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB10: Small conditional removal",
-            "image_type": "png"
+            "notes": "CB10: Small conditional removal"
         },
         {
             "card_name": "CB11 Blackened Blade",
@@ -597,8 +574,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB11: Combat trick",
-            "image_type": "png"
+            "notes": "CB11: Combat trick"
         },
         {
             "card_name": "CB12 Zealous Dissection",
@@ -617,14 +593,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB12: Card draw (added cost)\n[canon reprint \u2014 village rites]",
-            "image_type": "png"
+            "notes": "CB12: Card draw (added cost)\n[canon reprint \u2014 village rites]"
         },
         {
             "card_name": "CB13 Madness Incarnate",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Horror",
+            "type": "Creature \u2014 Voidling Horror",
             "number": 3,
             "color_identity": "B",
             "cost": "{6}",
@@ -637,8 +612,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "CB13: Coercion +\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/Qn63Y4",
-            "image_type": "png"
+            "notes": "CB13: Coercion +\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/Qn63Y4"
         },
         {
             "card_name": "CB15 Mindless Culling",
@@ -657,14 +631,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB15: Slightly overcosted removal",
-            "image_type": "png"
+            "notes": "CB15: Slightly overcosted removal"
         },
         {
             "card_name": "CR01 Sparking Charger",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Rebel",
+            "type": "Creature \u2014 Goblin Rebel",
             "number": 84,
             "color_identity": "R",
             "cost": "{R}",
@@ -677,14 +650,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR01: One- or two-mana creature\n[canon reprint \u2014 clockwork percussionist]",
-            "image_type": "png"
+            "notes": "CR01: One- or two-mana creature\n[canon reprint \u2014 clockwork percussionist]"
         },
         {
             "card_name": "CR02 Careless Cartographer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 85,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -697,18 +669,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR02: Two-mana creature",
-            "image_type": "png"
+            "notes": "CR02: Two-mana creature"
         },
         {
             "card_name": "CR03 Ravaged Lands Avenger",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 86,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\n[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
+            "rules_text": "Haste\n[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -717,14 +688,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR03: Two-mana creature",
-            "image_type": "png"
+            "notes": "CR03: Two-mana creature"
         },
         {
             "card_name": "CR04 Caustic Peakcrawler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Salamander",
+            "type": "Creature \u2014 Salamander",
             "number": 87,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -737,14 +707,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR04: Three-mana creature\ncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "CR04: Three-mana creature\ncommon_waste_cycle"
         },
         {
             "card_name": "CR06 Voidcaller Druid",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Druid",
+            "type": "Creature \u2014 Goblin Druid",
             "number": 89,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -757,18 +726,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR06: Three- or four-mana creature\n!token Voidling",
-            "image_type": "png"
+            "notes": "CR06: Three- or four-mana creature\n!token Voidling"
         },
         {
             "card_name": "CR07 Zealous Artillerist",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 90,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -777,14 +745,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR07: Four- or five-mana creature",
-            "image_type": "png"
+            "notes": "CR07: Four- or five-mana creature"
         },
         {
             "card_name": "CR08 Cindertusk Boar",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Boar",
+            "type": "Creature \u2014 Boar",
             "number": 91,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -797,14 +764,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR08: Five-mana creature",
-            "image_type": "png"
+            "notes": "CR08: Five-mana creature"
         },
         {
             "card_name": "CR09 Barrescape Behemoth",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Giant",
+            "type": "Creature \u2014 Giant",
             "number": 92,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -817,8 +783,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR09: Six-mana creature\n[canon reprint \u2014 boilerbilges ripper (very slightly different)]",
-            "image_type": "png"
+            "notes": "CR09: Six-mana creature\n[canon reprint \u2014 boilerbilges ripper (very slightly different)]"
         },
         {
             "card_name": "CR10 Magma Lash",
@@ -837,8 +802,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR10: Direct damage (deals 2)\ncommon_waste_spell_cycle",
-            "image_type": "png"
+            "notes": "CR10: Direct damage (deals 2)\ncommon_waste_spell_cycle"
         },
         {
             "card_name": "CR11 Beckoning Void",
@@ -857,8 +821,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR11: Combat trick\n!token Voidling",
-            "image_type": "png"
+            "notes": "CR11: Combat trick\n!token Voidling"
         },
         {
             "card_name": "CR12 Storm the Terralance",
@@ -877,8 +840,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR12: Rummaging/impulsive draw",
-            "image_type": "png"
+            "notes": "CR12: Rummaging/impulsive draw"
         },
         {
             "card_name": "CR13 Grind the Gears",
@@ -888,7 +850,7 @@
             "number": 96,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2013 \n\u2022 Exile the top two cards of your library. You may play those cards this turn.\n\u2022 Destroy target artifact.",
+            "rules_text": "Choose one \u2014 \n\u2022 Exile the top two cards of your library. You may play those cards this turn.\n\u2022 Destroy target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -897,14 +859,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR13: Modal Shatter",
-            "image_type": "png"
+            "notes": "CR13: Modal Shatter"
         },
         {
             "card_name": "CR14 Lightning Flare",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Elemental",
+            "type": "Creature \u2014 Voidling Elemental",
             "number": 5,
             "color_identity": "R",
             "cost": "{7}",
@@ -917,8 +878,7 @@
             "loyalty": "",
             "artist": "Jean Collard",
             "alias": "",
-            "notes": "CR14: Direct damage (efficient, usually deals 4)\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/d0qo3Q",
-            "image_type": "png"
+            "notes": "CR14: Direct damage (efficient, usually deals 4)\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/d0qo3Q"
         },
         {
             "card_name": "CR15 Scorching Abrasion",
@@ -937,18 +897,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR15: Direct damage (five mana, 6 damage)\n!token Voidling",
-            "image_type": "png"
+            "notes": "CR15: Direct damage (five mana, 6 damage)\n!token Voidling"
         },
         {
             "card_name": "CG01 Cycle Tender",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 106,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, you gain 1 life.\nWhen this creature dies, you may return another permanent you control to its owner's hand.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life.\nWhen this creature dies, you may return another permanent you control to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -957,18 +916,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG01: One- or two-mana creature",
-            "image_type": "png"
+            "notes": "CG01: One- or two-mana creature"
         },
         {
             "card_name": "CG02 Ichortongue Lizard",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Lizard",
+            "type": "Creature \u2014 Lizard",
             "number": 107,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Deathtouch\n[i]Descend 4[/i] \u2013 As long as there are four or more permanent cards in your graveyard, this creature gets +2/+1.",
+            "rules_text": "Deathtouch\n[i]Descend 4[/i] \u2014 As long as there are four or more permanent cards in your graveyard, this creature gets +2/+1.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -977,14 +935,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG02: Two-mana creature",
-            "image_type": "png"
+            "notes": "CG02: Two-mana creature"
         },
         {
             "card_name": "CG03 Barrescape Nurturer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 108,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -997,14 +954,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]",
-            "image_type": "png"
+            "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]"
         },
         {
             "card_name": "CG05 Voidheart Disciple",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 110,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1017,14 +973,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG05: Three-mana creature\n[canon reprint \u2014 loporrit scout]",
-            "image_type": "png"
+            "notes": "CG05: Three-mana creature\n[canon reprint \u2014 loporrit scout]"
         },
         {
             "card_name": "CG06 Soil Stirrer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 111,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1037,14 +992,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG06: Three- or four-mana creature",
-            "image_type": "png"
+            "notes": "CG06: Three- or four-mana creature"
         },
         {
             "card_name": "CG07 Thunderous Terrapin",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Turtle",
+            "type": "Creature \u2014 Turtle",
             "number": 112,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1057,18 +1011,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG07: Four- or five-mana creature\nRG+GU\ncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "CG07: Four- or five-mana creature\nRG+GU\ncommon_waste_cycle"
         },
         {
             "card_name": "CG08 Deeproot Treefolk",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Treefolk",
+            "type": "Creature \u2014 Treefolk",
             "number": 113,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Reach\n[i]Descend 4[/i] \u2013 When this creature enters, if there are four or more permanent cards in your graveyard, put two +1/+1 counters on this creature.",
+            "rules_text": "Reach\n[i]Descend 4[/i] \u2014 When this creature enters, if there are four or more permanent cards in your graveyard, put two +1/+1 counters on this creature.",
             "flavor_text": "[i]\u201cWhen I was a sprout, the elves nurtured me. Now they burn my branches.\u201d[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1077,14 +1030,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG08: Five-mana creature",
-            "image_type": "png"
+            "notes": "CG08: Five-mana creature"
         },
         {
             "card_name": "CG09 Disciple of Koma",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 114,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1097,8 +1049,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG09: Six-mana creature",
-            "image_type": "png"
+            "notes": "CG09: Six-mana creature"
         },
         {
             "card_name": "CG12 Peatfield Ambush",
@@ -1108,7 +1059,7 @@
             "number": 116,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Descend 4[/i] \u2013 This spell costs {1} less to cast if there are four or more permanent cards in your graveyard.\nPut a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.",
+            "rules_text": "[i]Descend 4[/i] \u2014 This spell costs {1} less to cast if there are four or more permanent cards in your graveyard.\nPut a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1117,8 +1068,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG12: Bite spell",
-            "image_type": "png"
+            "notes": "CG12: Bite spell"
         },
         {
             "card_name": "CG11 Nature's Wrath",
@@ -1128,7 +1078,7 @@
             "number": 115,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Choose one \u2013 \n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Destroy target noncreature artifact.",
+            "rules_text": "Choose one \u2014 \n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Destroy target noncreature artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1137,14 +1087,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG11: Fight spell",
-            "image_type": "png"
+            "notes": "CG11: Fight spell"
         },
         {
             "card_name": "CG10 Burgeoning Stampede",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Beast",
+            "type": "Creature \u2014 Voidling Beast",
             "number": 4,
             "color_identity": "G",
             "cost": "{7}",
@@ -1157,8 +1106,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\n!token Voidling Beast",
-            "image_type": "png"
+            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\n!token Voidling Beast"
         },
         {
             "card_name": "CG13 Oxhide Veil",
@@ -1177,8 +1125,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG13: Combat trick (power pump)",
-            "image_type": "png"
+            "notes": "CG13: Combat trick (power pump)"
         },
         {
             "card_name": "CG14 Leyline Navigation",
@@ -1197,8 +1144,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG14: Mana acceleration",
-            "image_type": "png"
+            "notes": "CG14: Mana acceleration"
         },
         {
             "card_name": "CG15 Harvest Cycle",
@@ -1217,14 +1163,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG15: Dig for lands and/or creatures\ncommon_waste_spell_cycle",
-            "image_type": "png"
+            "notes": "CG15: Dig for lands and/or creatures\ncommon_waste_spell_cycle"
         },
         {
             "card_name": "UM01 Thopter Suit",
             "color": "WU",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 128,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -1237,14 +1182,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Soldier",
-            "image_type": "png"
+            "notes": "Archetype enabler\n!token Soldier"
         },
         {
             "card_name": "UM02 Wingblade General",
             "color": "WU",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 129,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
@@ -1257,14 +1201,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff\n[canon reprint \u2014 thunderclap wyvern]",
-            "image_type": "png"
+            "notes": "Archetype payoff\n[canon reprint \u2014 thunderclap wyvern]"
         },
         {
             "card_name": "UM03 Blightwing Locust",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 130,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -1277,14 +1220,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler",
-            "image_type": "png"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM04 Cunning Projectionist",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 131,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -1297,14 +1239,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM05 Voidheart Rallier",
             "color": "BR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 132,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -1317,14 +1258,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Voidling",
-            "image_type": "png"
+            "notes": "Archetype enabler\n!token Voidling"
         },
         {
             "card_name": "UM06 Underfall Flamer",
             "color": "BR",
             "rarity": "rare",
-            "type": "Creature \u2013 Imp Rebel",
+            "type": "Creature \u2014 Imp Rebel",
             "number": 133,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -1337,14 +1277,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM19 Dreamroot Mass",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Plant",
+            "type": "Creature \u2014 Voidling Plant",
             "number": 12,
             "color_identity": "UG",
             "cost": "{7}",
@@ -1357,18 +1296,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler",
-            "image_type": "png"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM08 Leyline Defender",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 135,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, target creature gets +1/+1 and gains first strike until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, target creature gets +1/+1 and gains first strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1377,8 +1315,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM09 Settler's Day Parade",
@@ -1397,14 +1334,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Soldier;Elephant",
-            "image_type": "png"
+            "notes": "Archetype enabler\n!token Soldier;Elephant"
         },
         {
             "card_name": "UM10 Heartland Hero",
             "color": "WG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 137,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -1417,8 +1353,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM11 Fractal Form",
@@ -1437,14 +1372,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler",
-            "image_type": "png"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM12 Vision Sublime",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Angel",
+            "type": "Creature \u2014 Voidling Angel",
             "number": 11,
             "color_identity": "WB",
             "cost": "{9}",
@@ -1457,14 +1391,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/9Nba9Q",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/9Nba9Q"
         },
         {
             "card_name": "UM14 Cobbled Contraption",
             "color": "UR",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 140,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -1477,18 +1410,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM13 Ephemera Vendor",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Artificer",
+            "type": "Creature \u2014 Elf Artificer",
             "number": 139,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "When this creature enters, choose one \u2013 \n\u2022 Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n\u2022 Create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "When this creature enters, choose one \u2014 \n\u2022 Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n\u2022 Create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1497,14 +1429,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Voidling;Prism",
-            "image_type": "png"
+            "notes": "Archetype enabler\n!token Voidling;Prism"
         },
         {
             "card_name": "UM15 Darkeater",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2013 Basilisk",
+            "type": "Creature \u2014 Basilisk",
             "number": 141,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
@@ -1517,18 +1448,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler",
-            "image_type": "png"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM16 Underdark Avenger",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 142,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "[i]Descend 4[/i] \u2013 As long as there are four or more permanent cards in your graveyard, this creature gets +2/+2 and gains deathtouch.\n[i]Descend 8[/i] \u2013 As long as there are eight or more permanent cards in your graveyard, this creature gets an additional +4/+4 and gains trample.",
+            "rules_text": "[i]Descend 4[/i] \u2014 As long as there are four or more permanent cards in your graveyard, this creature gets +2/+2 and gains deathtouch.\n[i]Descend 8[/i] \u2014 As long as there are eight or more permanent cards in your graveyard, this creature gets an additional +4/+4 and gains trample.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1537,14 +1467,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM18 Battlefield Troubador",
             "color": "WR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 144,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -1557,14 +1486,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "UM07 Seasoned Adventurer",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 134,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -1577,14 +1505,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler",
-            "image_type": "png"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM20 Aurora Watcher",
             "color": "UG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 145,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
@@ -1597,14 +1524,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype payoff",
-            "image_type": "png"
+            "notes": "Archetype payoff"
         },
         {
             "card_name": "CA01 Wasteland Wanderer",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 1,
             "color_identity": "C",
             "cost": "{2C}",
@@ -1617,14 +1543,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)",
-            "image_type": "png"
+            "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)"
         },
         {
             "card_name": "CA02 Skyport Custodian",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 146,
             "color_identity": "C",
             "cost": "{3}",
@@ -1637,14 +1562,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA02: Three-mana creature\n!token Treasure",
-            "image_type": "png"
+            "notes": "CA02: Three-mana creature\n!token Treasure"
         },
         {
             "card_name": "CA03 Periscope Sentinel",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 147,
             "color_identity": "C",
             "cost": "{4}",
@@ -1657,14 +1581,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA03: Four-mana creature\ncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "CA03: Four-mana creature\ncommon_waste_cycle"
         },
         {
             "card_name": "CA04 Shadow Self",
             "color": "",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 2,
             "color_identity": "C",
             "cost": "{1}{2C}",
@@ -1677,8 +1600,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA04: Removal",
-            "image_type": "png"
+            "notes": "CA04: Removal"
         },
         {
             "card_name": "CA05 Prismatic Lens",
@@ -1697,8 +1619,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA05: Manalith+ ability\n[canon reprint]",
-            "image_type": "png"
+            "notes": "CA05: Manalith+ ability\n[canon reprint]"
         },
         {
             "card_name": "UA05 Aderic's Sextant",
@@ -1717,8 +1638,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Wastes Token<2>",
-            "image_type": "png"
+            "notes": "!token Wastes Token<2>"
         },
         {
             "card_name": "Common Keyword Distribution",
@@ -1737,14 +1657,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Voidling",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Voidling",
+            "type": "Token Creature \u2014 Voidling",
             "number": 4,
             "color_identity": "C",
             "cost": "",
@@ -1757,14 +1676,13 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/RYKW4e",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/RYKW4e"
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 11,
             "color_identity": "C",
             "cost": "",
@@ -1777,14 +1695,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Soldier",
+            "type": "Token Creature \u2014 Soldier",
             "number": 6,
             "color_identity": "W",
             "cost": "",
@@ -1797,14 +1714,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bird",
             "color": "U",
             "rarity": "common",
-            "type": "Token Creature \u2013 Bird",
+            "type": "Token Creature \u2014 Bird",
             "number": 7,
             "color_identity": "U",
             "cost": "",
@@ -1817,8 +1733,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CW12 Ruinating Strike",
@@ -1837,8 +1752,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW12: Combat-related removal\ncommon_waste_spell_cycle",
-            "image_type": "png"
+            "notes": "CW12: Combat-related removal\ncommon_waste_spell_cycle"
         },
         {
             "card_name": "CW13 Severed Sanctum",
@@ -1857,8 +1771,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW13: Banishing light",
-            "image_type": "png"
+            "notes": "CW13: Banishing light"
         },
         {
             "card_name": "CW14 Fleeting Flight",
@@ -1877,14 +1790,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW14: Combat trick\n[canon reprint]",
-            "image_type": "png"
+            "notes": "CW14: Combat trick\n[canon reprint]"
         },
         {
             "card_name": "CW04 Frontline Vassal",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 19,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1897,8 +1809,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW04: Two-mana creature",
-            "image_type": "png"
+            "notes": "CW04: Two-mana creature"
         },
         {
             "card_name": "CU09 Rescue",
@@ -1917,8 +1828,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU09: Protective instant\n[canon reprint]",
-            "image_type": "png"
+            "notes": "CU09: Protective instant\n[canon reprint]"
         },
         {
             "card_name": "UU09 Rasping Currents",
@@ -1937,8 +1847,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/w6EZNZ\nuncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/w6EZNZ\nuncommon_waste_cycle"
         },
         {
             "card_name": "CU11 Dazzling Maneuver",
@@ -1957,8 +1866,7 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/VJKVLR",
-            "image_type": "png"
+            "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/VJKVLR"
         },
         {
             "card_name": "CU12 Abrasive Ideation",
@@ -1977,14 +1885,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU12: Draw spell (two to three cards)\ncommon_waste_spell_cycle",
-            "image_type": "png"
+            "notes": "CU12: Draw spell (two to three cards)\ncommon_waste_spell_cycle"
         },
         {
             "card_name": "CU13 Utter Insignificance",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 51,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1997,8 +1904,7 @@
             "loyalty": "",
             "artist": "ands",
             "alias": "",
-            "notes": "CU13: Witness Protection Aura\n[canon reprint]\nhttps://unsplash.com/illustrations/a-girl-falls-through-the-starry-sky-TksnTKTPZgE",
-            "image_type": "png"
+            "notes": "CU13: Witness Protection Aura\n[canon reprint]\nhttps://unsplash.com/illustrations/a-girl-falls-through-the-starry-sky-TksnTKTPZgE"
         },
         {
             "card_name": "CU14 Chonofraction",
@@ -2017,14 +1923,13 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)\nhttps://www.artstation.com/artwork/X1YoyL\n!token Prism",
-            "image_type": "png"
+            "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)\nhttps://www.artstation.com/artwork/X1YoyL\n!token Prism"
         },
         {
             "card_name": "CU08 Flickerlight Projection",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Illusion",
+            "type": "Creature \u2014 Illusion",
             "number": 46,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -2037,8 +1942,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU08: Six- or seven-mana creature",
-            "image_type": "png"
+            "notes": "CU08: Six- or seven-mana creature"
         },
         {
             "card_name": "Cycles",
@@ -2057,8 +1961,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CB14 Split the Earth",
@@ -2077,14 +1980,13 @@
             "loyalty": "",
             "artist": "Aleksi Briclot",
             "alias": "",
-            "notes": "CB14: Unconditional removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/QrRn3",
-            "image_type": "png"
+            "notes": "CB14: Unconditional removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/QrRn3"
         },
         {
             "card_name": "CR05 Cyclone Caller",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 88,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2097,18 +1999,17 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "CR05: Three-mana creature\n[canon reprint \u2014 rescue leopard]",
-            "image_type": "png"
+            "notes": "CR05: Three-mana creature\n[canon reprint \u2014 rescue leopard]"
         },
         {
             "card_name": "CG04 Clawfoot Herd",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 109,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +2/+2 and gains trample until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature gets +2/+2 and gains trample until end of turn.",
             "flavor_text": "[i]It is said that the clawfoots of Anoxi store their memories in their stomachs.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2117,8 +2018,7 @@
             "loyalty": "",
             "artist": "Luca Testi",
             "alias": "",
-            "notes": "CG04: Three-mana creature\nhttps://www.artstation.com/artwork/2B9Ove",
-            "image_type": "png"
+            "notes": "CG04: Three-mana creature\nhttps://www.artstation.com/artwork/2B9Ove"
         },
         {
             "card_name": "Ivyflow Quarry",
@@ -2137,8 +2037,7 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/zrO2L",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/zrO2L"
         },
         {
             "card_name": "Magmafell Quarry",
@@ -2157,8 +2056,7 @@
             "loyalty": "",
             "artist": "Stas Yurev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/LxBX0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/LxBX0"
         },
         {
             "card_name": "Rootbound Quarry",
@@ -2177,8 +2075,7 @@
             "loyalty": "",
             "artist": "Davey Baker",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/AqZLWo",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/AqZLWo"
         },
         {
             "card_name": "Runespark Quarry",
@@ -2197,8 +2094,7 @@
             "loyalty": "",
             "artist": "Collette Curran",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/rbKzG",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/rbKzG"
         },
         {
             "card_name": "Sandswept Quarry",
@@ -2217,8 +2113,7 @@
             "loyalty": "",
             "artist": "Sergei Sarichev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/obqE3q",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/obqE3q"
         },
         {
             "card_name": "Scorchwheat Quarry",
@@ -2237,8 +2132,7 @@
             "loyalty": "",
             "artist": "Aaron Limonick",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/3vowo",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/3vowo"
         },
         {
             "card_name": "Shadowcrest Quarry",
@@ -2257,8 +2151,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/qe1AOn",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/qe1AOn"
         },
         {
             "card_name": "Cryptveil Quarry",
@@ -2277,8 +2170,7 @@
             "loyalty": "",
             "artist": "Dorje Bellbrook",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/2xOqg",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/2xOqg"
         },
         {
             "card_name": "Umberdark Quarry",
@@ -2297,8 +2189,7 @@
             "loyalty": "",
             "artist": "Jorge Jacinto",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/8lLZGR",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/8lLZGR"
         },
         {
             "card_name": "Wickfield Quarry",
@@ -2317,14 +2208,13 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/OyX0Y6",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/OyX0Y6"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 169,
             "color_identity": "W",
             "cost": "",
@@ -2337,14 +2227,13 @@
             "loyalty": "",
             "artist": "Ryan Groskamp",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/elKAY",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/elKAY"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 168,
             "color_identity": "W",
             "cost": "",
@@ -2357,14 +2246,13 @@
             "loyalty": "",
             "artist": "Chen Chaoteng",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/mqKAXd",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/mqKAXd"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 171,
             "color_identity": "U",
             "cost": "",
@@ -2377,14 +2265,13 @@
             "loyalty": "",
             "artist": "Mark Kolobaev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/48Vyq",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/48Vyq"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 170,
             "color_identity": "U",
             "cost": "",
@@ -2397,14 +2284,13 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/EzL6zA",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/EzL6zA"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 173,
             "color_identity": "B",
             "cost": "",
@@ -2417,14 +2303,13 @@
             "loyalty": "",
             "artist": "Sam White",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/21r8x",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/21r8x"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 172,
             "color_identity": "B",
             "cost": "",
@@ -2437,14 +2322,13 @@
             "loyalty": "",
             "artist": "Magda Wo\u017aniak",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/B1BJe8",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/B1BJe8"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 174,
             "color_identity": "R",
             "cost": "",
@@ -2457,14 +2341,13 @@
             "loyalty": "",
             "artist": "Dimitrije Miljus",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/zPNB6Z",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/zPNB6Z"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 175,
             "color_identity": "R",
             "cost": "",
@@ -2477,14 +2360,13 @@
             "loyalty": "",
             "artist": "Kalen Art",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/434g2",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/434g2"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 177,
             "color_identity": "G",
             "cost": "",
@@ -2497,14 +2379,13 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/yDz1wR",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/yDz1wR"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 176,
             "color_identity": "G",
             "cost": "",
@@ -2517,8 +2398,7 @@
             "loyalty": "",
             "artist": "Benjamin Rzp",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/lxKDge",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/lxKDge"
         },
         {
             "card_name": "Wastes",
@@ -2537,8 +2417,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!cardname Wastes Token",
-            "image_type": "png"
+            "notes": "!cardname Wastes Token"
         },
         {
             "card_name": "UR11 The Blind Army",
@@ -2548,7 +2427,7 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n{1}{R}, Sacrifice this enchantment: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n{1}{R}, Sacrifice this enchantment: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2557,14 +2436,13 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/LVGbr\n!token Voidling",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/LVGbr\n!token Voidling"
         },
         {
             "card_name": "Prism",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Prism",
+            "type": "Token Artifact \u2014 Prism",
             "number": 9,
             "color_identity": "C",
             "cost": "",
@@ -2577,8 +2455,7 @@
             "loyalty": "",
             "artist": "Hayley Bell",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/K2WdX",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/K2WdX"
         },
         {
             "card_name": "Draft Archetypes",
@@ -2588,7 +2465,7 @@
             "number": 3,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Mechanics:\nURW Lay waste\nUBG Evoke\nRGW [i]Landfall[/i]\n\nWU \u2013 Flying | Fast\nUB \u2013 Colorless costs | Mid\nBR \u2013 Aristocrats | Mid\nRG \u2013 [i]Landfall[/i] | Fast\nGW \u2013 Go wide etbs | Mid\nWB \u2013 Reanimator | Slow\nUR \u2013 Colorless permanents | Mid\nBG \u2013 [i]Descend 4[/i] | Slow\nRW \u2013 Tapped creatures | Fast\nGU \u2013 Evoke ramp | Slow",
+            "rules_text": "Mechanics:\nURW Lay waste\nUBG Evoke\nRGW [i]Landfall[/i]\n\nWU \u2014 Flying | Fast\nUB \u2014 Colorless costs | Mid\nBR \u2014 Aristocrats | Mid\nRG \u2014 [i]Landfall[/i] | Fast\nGW \u2014 Go wide etbs | Mid\nWB \u2014 Reanimator | Slow\nUR \u2014 Colorless permanents | Mid\nBG \u2014 [i]Descend 4[/i] | Slow\nRW \u2014 Tapped creatures | Fast\nGU \u2014 Evoke ramp | Slow",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2597,14 +2474,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Elephant",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Elephant",
+            "type": "Token Creature \u2014 Elephant",
             "number": 8,
             "color_identity": "G",
             "cost": "",
@@ -2617,14 +2493,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW02 Coordinated Captain",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 30,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2637,14 +2512,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW03 Inspiring Veteran",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 31,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2657,14 +2531,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW04 Dawncaller",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 32,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2677,8 +2550,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW05 Leyline Patrol",
@@ -2697,14 +2569,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle"
         },
         {
             "card_name": "UW06 Back-Rank Pikeman",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 34,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2717,14 +2588,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_typal_cycle",
-            "image_type": "png"
+            "notes": "uncommon_typal_cycle"
         },
         {
             "card_name": "UW07 Wakecatcher",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 35,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2737,14 +2607,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW08 Raptor Trainer",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 36,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2757,18 +2626,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UW09 Pioneering General",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 37,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, create a 2/2 white Soldier creature token.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 2/2 white Soldier creature token.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -2777,14 +2645,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_landfall_cycle",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle"
         },
         {
             "card_name": "UW11 Empathic Mesh",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 38,
             "color_identity": "W",
             "cost": "{W}",
@@ -2797,14 +2664,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU02 Shifting Spectre",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Illusion",
+            "type": "Creature \u2014 Illusion",
             "number": 54,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2817,18 +2683,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU04 Wakewatcher Wizard",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 55,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2837,14 +2702,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_landfall_cycle",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle"
         },
         {
             "card_name": "UU05 Mammoth Spotter",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Advisor",
+            "type": "Creature \u2014 Elf Advisor",
             "number": 56,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2857,14 +2721,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU06 Imperial Mistweaver",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -2877,14 +2740,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_typal_cycle",
-            "image_type": "png"
+            "notes": "uncommon_typal_cycle"
         },
         {
             "card_name": "UU07 Stormwake Draconid",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Drake",
+            "type": "Creature \u2014 Drake",
             "number": 58,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -2897,14 +2759,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "May be non-creature",
-            "image_type": "png"
+            "notes": "May be non-creature"
         },
         {
             "card_name": "UU08 Scalefeather Twister",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Bird",
+            "type": "Creature \u2014 Voidling Bird",
             "number": 14,
             "color_identity": "U",
             "cost": "{6}",
@@ -2917,8 +2778,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CU10 Dissonant Dream",
@@ -2937,8 +2797,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU10: Counterspell",
-            "image_type": "png"
+            "notes": "CU10: Counterspell"
         },
         {
             "card_name": "UU10 Obsessive Search",
@@ -2957,18 +2816,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB01 Thornmarrow Mass",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Plant Zombie",
+            "type": "Creature \u2014 Plant Zombie",
             "number": 75,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]\n[i]Landfall[/i] \u2013 Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",
+            "rules_text": "Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]\n[i]Landfall[/i] \u2014 Whenever a land you control enters, you may return this card from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2977,14 +2835,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_landfall_cycle",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle"
         },
         {
             "card_name": "UB02 Voidseeker Fanatic",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 76,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2997,14 +2854,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB03 Pitiless Plunderer",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Pirate",
+            "type": "Creature \u2014 Elf Pirate",
             "number": 77,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3017,14 +2873,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle"
         },
         {
             "card_name": "UB04 Mindshrieker",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 78,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3037,14 +2892,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB05 Void Summoner",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 79,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3057,14 +2911,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB06 Lifeblood Lurker",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vampire",
+            "type": "Creature \u2014 Vampire",
             "number": 80,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3077,14 +2930,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB07 Bloodsniffer Ogre",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre",
+            "type": "Creature \u2014 Ogre",
             "number": 81,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -3097,8 +2949,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UB09 Encroaching Void",
@@ -3117,8 +2968,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling",
-            "image_type": "png"
+            "notes": "!token Voidling"
         },
         {
             "card_name": "UB10 Shadows Around Us",
@@ -3128,7 +2978,7 @@
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Choose one \u2013\n\u2022 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u2022 Exile target creature card from a graveyard. Create a 3/2 colorless Voidling Beast creature token.",
+            "rules_text": "Choose one \u2014\n\u2022 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u2022 Exile target creature card from a graveyard. Create a 3/2 colorless Voidling Beast creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3137,14 +2987,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling Beast",
-            "image_type": "png"
+            "notes": "!token Voidling Beast"
         },
         {
             "card_name": "UR01 Scarred Brute",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Berserker",
+            "type": "Creature \u2014 Goblin Berserker",
             "number": 98,
             "color_identity": "R",
             "cost": "{R}",
@@ -3157,14 +3006,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle"
         },
         {
             "card_name": "UR02 Mask Dancer",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Performer",
+            "type": "Creature \u2014 Goblin Performer",
             "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3177,14 +3025,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR03 Sparkwork Sorcerer",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 100,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3197,14 +3044,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR05 Greyheart Avenger",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Rebel",
+            "type": "Creature \u2014 Goblin Rebel",
             "number": 101,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3217,14 +3063,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_typal_cycle",
-            "image_type": "png"
+            "notes": "uncommon_typal_cycle"
         },
         {
             "card_name": "UR06 Boulder Breaker",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Mercenary",
+            "type": "Creature \u2014 Ogre Mercenary",
             "number": 102,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3237,14 +3082,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Treasure",
-            "image_type": "png"
+            "notes": "!token Treasure"
         },
         {
             "card_name": "UR07 Strikesoul Rallier",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 103,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -3257,14 +3101,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR09 Magmablood Manticore",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Manticore",
+            "type": "Creature \u2014 Voidling Manticore",
             "number": 13,
             "color_identity": "R",
             "cost": "{6}",
@@ -3277,8 +3120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UR10 Terrabomb",
@@ -3288,7 +3130,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a charge counter on this artifact.\n{T}, Sacrifice this artifact: It deals X damage to any target, where X is the number of charge counters on it.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a charge counter on this artifact.\n{T}, Sacrifice this artifact: It deals X damage to any target, where X is the number of charge counters on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3297,14 +3139,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_landfall_cycle",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle"
         },
         {
             "card_name": "UM17 Barrescape Crawler",
             "color": "WR",
             "rarity": "rare",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 143,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -3317,14 +3158,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler",
-            "image_type": "png"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UG01 Veiled Asp",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Snake",
+            "type": "Creature \u2014 Snake",
             "number": 120,
             "color_identity": "G",
             "cost": "{G}",
@@ -3337,14 +3177,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG02 Earthweaver Druid",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 121,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -3357,18 +3196,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle"
         },
         {
             "card_name": "UG03 Koma's Chosen",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 122,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i]Descend 4[/i] \u2013 Whenever you attack, if there are four or more permanent cards in your graveyard, target creature gets +3/+3 until end of turn.",
+            "rules_text": "[i]Descend 4[/i] \u2014 Whenever you attack, if there are four or more permanent cards in your graveyard, target creature gets +3/+3 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3377,14 +3215,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG04 Rebellion Rookie",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 123,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3397,14 +3234,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG05 Scruptions Tiller",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 124,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3417,18 +3253,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG07 Clawfoot Elder",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 125,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a +1/+1 counter on this creature.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3437,14 +3272,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_landfall_cycle",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle"
         },
         {
             "card_name": "UG10 Sporespawn Voidling",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Fungus",
+            "type": "Creature \u2014 Voidling Fungus",
             "number": 10,
             "color_identity": "G",
             "cost": "{7}",
@@ -3457,8 +3291,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG11 Spirited Growth",
@@ -3477,8 +3310,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UG12 Blessing of Selas",
@@ -3497,14 +3329,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "CA06 Leyline Surveyor",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Thopter",
+            "type": "Artifact Creature \u2014 Thopter",
             "number": 149,
             "color_identity": "C",
             "cost": "{2}",
@@ -3517,14 +3348,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA06: Land fixing",
-            "image_type": "png"
+            "notes": "CA06: Land fixing"
         },
         {
             "card_name": "UA04 Endless Hollow",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 9,
             "color_identity": "C",
             "cost": "{2C}{2C}{2C}",
@@ -3537,18 +3367,17 @@
             "loyalty": "",
             "artist": "John Howard",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/KJl9x",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/KJl9x"
         },
         {
             "card_name": "UA06 Adventuring Gear",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 153,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3557,8 +3386,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "[canon reprint]",
-            "image_type": "png"
+            "notes": "[canon reprint]"
         },
         {
             "card_name": "UL01 Deepwell Quarry",
@@ -3577,8 +3405,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UL02 Neglected Digsite",
@@ -3597,14 +3424,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "[canon reprint \u2014 tocasia's dig site]",
-            "image_type": "png"
+            "notes": "[canon reprint \u2014 tocasia's dig site]"
         },
         {
             "card_name": "Voidling Beast",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Voidling Beast",
+            "type": "Token Creature \u2014 Voidling Beast",
             "number": 5,
             "color_identity": "C",
             "cost": "",
@@ -3617,14 +3443,13 @@
             "loyalty": "",
             "artist": "Noel Hill",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/n4Je",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/n4Je"
         },
         {
             "card_name": "UA01 Fading Voyager",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 8,
             "color_identity": "C",
             "cost": "{2}",
@@ -3637,14 +3462,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UA02 Imperfect Vessel",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 150,
             "color_identity": "C",
             "cost": "{3}",
@@ -3657,14 +3481,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling",
-            "image_type": "png"
+            "notes": "!token Voidling"
         },
         {
             "card_name": "UA03 Meteor Golem",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 151,
             "color_identity": "C",
             "cost": "{7}",
@@ -3677,14 +3500,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "canon reprint",
-            "image_type": "png"
+            "notes": "canon reprint"
         },
         {
             "card_name": "UA07 Voidcraft Blade",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 154,
             "color_identity": "C",
             "cost": "{3}",
@@ -3697,14 +3519,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling",
-            "image_type": "png"
+            "notes": "!token Voidling"
         },
         {
             "card_name": "UA08 Scouting Ship",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 155,
             "color_identity": "C",
             "cost": "{3}",
@@ -3717,14 +3538,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "May be land",
-            "image_type": "png"
+            "notes": "May be land"
         },
         {
             "card_name": "Servo",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Servo",
+            "type": "Token Artifact Creature \u2014 Servo",
             "number": 10,
             "color_identity": "C",
             "cost": "",
@@ -3737,14 +3557,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "UU01 Radiant Crab",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Crab",
+            "type": "Creature \u2014 Crab",
             "number": 53,
             "color_identity": "U",
             "cost": "{U}",
@@ -3757,8 +3576,7 @@
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/YeQOgd",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/YeQOgd"
         },
         {
             "card_name": "wildcard",
@@ -3777,8 +3595,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         }
-    ]
+    ],
+    "version": 2
 }

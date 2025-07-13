@@ -1,4 +1,254 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+RU01 removed.
+RU02 removed.
+RU03 removed.
+RU04 removed.
+RU05 removed.
+RU06 removed.
+RU07 removed.
+RR01 removed.
+RR02 removed.
+RR03 removed.
+RR04 removed.
+RR05 removed.
+RR06 removed.
+RR07 removed.
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB10 Unfortunate Tumble
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Ravaged Lands Avenger
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR10 Magma Lash
+
+CR11 Beckoning Void
+
+CR12 Storm the Terralance
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Voidheart Disciple
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM08 Leyline Defender
+
+UM09 Settler's Day Parade
+
+UM10 Heartland Hero
+
+UM11 Fractal Form
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM07 Seasoned Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+UU09 Rasping Currents
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+UU02 Shifting Spectre
+
+UU04 Wakewatcher Wizard
+
+UU05 Mammoth Spotter
+
+UU06 Imperial Mistweaver
+
+UU07 Stormwake Draconid
+
+UU10 Obsessive Search
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Bloodsniffer Ogre
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Sparkwork Sorcerer
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR10 Terrabomb
+
+UM17 Barrescape Crawler
+
+UG01 Veiled Asp
+
+UG02 Earthweaver Druid
+
+UG03 Koma's Chosen
+
+UG04 Rebellion Rookie
+
+UG05 Scruptions Tiller
+
+UG07 Clawfoot Elder
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+UU01 Radiant Crab
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
