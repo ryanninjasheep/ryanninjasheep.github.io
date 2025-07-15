@@ -281,13 +281,13 @@
 			}
 		},
 		{
-			"name": "CB10 Unfortunate Tumble",
+			"name": "CB13 Out of Focus",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "82",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/82_CB10 Unfortunate Tumble.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/84_CB13 Out of Focus.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/83_CB11 Blackened Blade.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/82_CB11 Blackened Blade.png"
 			}
 		},
 		{
@@ -305,19 +305,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/84_CB12 Zealous Dissection.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/83_CB12 Zealous Dissection.png"
 			}
 		},
 		{
-			"name": "CB13 Madness Incarnate",
+			"name": "CB10 Madness Incarnate",
 			"rarity": "common",
-			"mana_cost": "{6}",
+			"mana_cost": "{7}",
 			"type": "Creature — Voidling Horror",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/3_CB13 Madness Incarnate.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/3_CB10 Madness Incarnate.png"
 			}
 		},
 		{
@@ -2388,10 +2388,9 @@
 	8 CB07 Sickleblade Rallier
 	8 CB09 Blood-Rage Minotaur
 	8 CB08 Graverazer
-	8 CB10 Unfortunate Tumble
 	8 CB11 Blackened Blade
 	8 CB12 Zealous Dissection
-	8 CB13 Madness Incarnate
+	8 CB10 Madness Incarnate
 	8 CR01 Sparking Charger
 	8 CR02 Careless Cartographer
 	8 CR03 Ravaged Lands Avenger
@@ -2459,10 +2458,9 @@
 	12 CB07 Sickleblade Rallier
 	12 CB09 Blood-Rage Minotaur
 	12 CB08 Graverazer
-	12 CB10 Unfortunate Tumble
 	12 CB11 Blackened Blade
 	12 CB12 Zealous Dissection
-	12 CB13 Madness Incarnate
+	12 CB10 Madness Incarnate
 	12 CR01 Sparking Charger
 	12 CR02 Careless Cartographer
 	12 CR03 Ravaged Lands Avenger
@@ -2629,10 +2627,9 @@
 	6 CB07 Sickleblade Rallier
 	6 CB09 Blood-Rage Minotaur
 	6 CB08 Graverazer
-	6 CB10 Unfortunate Tumble
 	6 CB11 Blackened Blade
 	6 CB12 Zealous Dissection
-	6 CB13 Madness Incarnate
+	6 CB10 Madness Incarnate
 	6 CR01 Sparking Charger
 	6 CR02 Careless Cartographer
 	6 CR03 Ravaged Lands Avenger

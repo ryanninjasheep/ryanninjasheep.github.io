@@ -1,4 +1,18 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CB13 Out of Focus added.
+CB10 Madness Incarnate added.
+
+CB10 Unfortunate Tumble removed.
+CB13 Madness Incarnate removed.
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CW07 Model Aeronaut added.

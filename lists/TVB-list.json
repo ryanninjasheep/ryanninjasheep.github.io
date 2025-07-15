@@ -492,7 +492,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB10 Unfortunate Tumble",
+        "card_name": "CB11 Blackened Blade",
         "number": 82,
         "shape": "normal",
         "set": "TVB"
@@ -522,7 +522,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB11 Blackened Blade",
+        "card_name": "CB12 Zealous Dissection",
         "number": 83,
         "shape": "normal",
         "set": "TVB"
@@ -552,8 +552,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB12 Zealous Dissection",
-        "number": 84,
+        "card_name": "CB14 Split the Earth",
+        "number": 85,
         "shape": "normal",
         "set": "TVB"
     },
@@ -582,10 +582,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB14 Split the Earth",
-        "number": 85,
-        "shape": "normal",
-        "set": "TVB"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1004,7 +1001,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB13 Madness Incarnate",
+        "card_name": "CB10 Madness Incarnate",
         "number": 3,
         "shape": "normal",
         "set": "TVB"
@@ -1494,6 +1491,12 @@
         "set": "TVB"
     },
     {
+        "card_name": "CB13 Out of Focus",
+        "number": 84,
+        "shape": "token",
+        "set": "TVB"
+    },
+    {
         "card_name": "CB15 Mindless Culling",
         "number": 86,
         "shape": "token",
@@ -1546,9 +1549,6 @@
         "number": 174,
         "shape": "token",
         "set": "TVB"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
