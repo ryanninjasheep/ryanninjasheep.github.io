@@ -1,4 +1,412 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+CU04 Voidcraft Scholar added.
+CU07 Wingblade Surveyor added.
+UM07 Bullish Adventurer added.
+RW01 Deft Hexmage added.
+RW02 Empire's Wing added.
+RW03 Effervescent Enigma added.
+UW06 Battlebond Pikeman added.
+UW12 Rewarding Retreat added.
+RU01 Pfiel, Expansion Architect added.
+RU02 Barrescape Stalker added.
+RU03 Chimeric Terror added.
+UU05 Leyline Tracker added.
+UU11 Sparkwork Kaleidoscope added.
+RB02 Grim Opportunist added.
+RB03 Pact Eternal added.
+UB08 Grotesque Gestalt added.
+RR01 Barrescape Tyrant added.
+RR03 Lucient Amalgam added.
+RR02 Earthquake Elemental added.
+UR03 Voidcraft Champion added.
+UR08 Barrescape Pioneer added.
+UR09 Warpwalk added.
+RG01 Sundering Hydra added.
+RG02 Venerant Earthspeaker added.
+RG03 Sporespawn Drift added.
+UG06 Reckless Roots added.
+MX01 placeholder added.
+RM01 Dzaan, Wingblade Veteran added.
+RM02 Vel, Grand Illusionist added.
+RM03 Dance of Undeath added.
+RM04 Greyheart Awakener added.
+RM05 Oasis Sumpter added.
+RM06 Dusk's Chosen added.
+RM07 Sparkwork Sorcerer added.
+RM08 Mycolid Rejuvinator added.
+RM09 Righteous Rebellion added.
+RM10 Shattered Earth added.
+RX01 Empty Heart added.
+RB01 Fetid Maw added.
+Saproling added.
+
+CU04 Voidcaller Merchant removed.
+CU07 Wingblade Scholar removed.
+UM07 Seasoned Adventurer removed.
+UW06 Back-Rank Pikeman removed.
+UU05 Mammoth Spotter removed.
+UR03 Sparkwork Sorcerer removed.
+UR09 Magmablood Manticore removed.
+wildcard removed.
+
+CW01 Ascendant Guide
+
+CW02 Heartpact Acolyte
+
+CW03 Wingblade Recruit
+
+CW05 Reckless Raptor
+
+CW06 Skyport Sanctifier
+
+CW07 Ardent Aviphile
+
+CW08 Eager Settler
+
+CW09 Magnanimous Magistrate
+
+CW10 Barrescape Conquerer
+
+CW11 Shimmering Stalker
+pt: 3/3 => 3/5
+
+CW15 Heartpact Rebirth
+
+CU01 Highspire Sentry
+
+CU02 Wild Whelp
+
+CU03 Lumina Technician
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB10 Unfortunate Tumble
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB13 Madness Incarnate
+pt: 3/3 => 4/3
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Ravaged Lands Avenger
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR10 Magma Lash
+
+CR11 Beckoning Void
+
+CR12 Storm the Terralance
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Voidheart Disciple
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+rules_text: Whenever this creature attacks, create a 2/2 colorless Voidling creature token with decayed that's tapped and attacking. Sacrifice it at end of combat. => Whenever this creature attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking. Sacrifice it at the beginning of the next end step.
+pt: 2/4 => 2/3
+
+UM06 Underfall Flamer
+
+UM19 Dreamroot Mass
+
+UM08 Leyline Defender
+cost: {1}{R}{G} => {2}{R}{G}
+pt: 3/3 => 3/4
+
+UM09 Settler's Day Parade
+
+UM10 Heartland Hero
+
+UM11 Fractal Form
+rules_text: Return target creature card from your graveyard to the battlefield with a finality counter on it. If it was colorless, draw a card. => Return target creature card from your graveyard to the battlefield with a finality counter on it.
+Flashback {3}{C}{W}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+UM12 Vision Sublime
+type: Creature — Voidling Angel => Creature — Angel
+cost: {9} => {3}{W}{W}{B}{B}
+rules_text: Flying, lifelink
+When this creature enters, each opponent loses 2 life and you gain 2 life.
+Evoke {2}{W}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying, lifelink
+Whenever this creature attacks, you may discard a card. If you do, draw a card.
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Treasure
+
+CW12 Ruinating Strike
+
+CW13 Severed Sanctum
+
+CW14 Fleeting Flight
+
+CW04 Frontline Vassal
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+Cycles
+rules_text: common_evoke_cycle
+common_waste_cycle
+common_waste_spell_cycle
+uncommon_landfall_cycle
+uncommon_waste_cycle
+uncommon_typal_cycle => common_evoke_cycle
+common_waste_cycle
+common_waste_spell_cycle
+uncommon_landfall_cycle
+uncommon_waste_cycle
+rare_voidling_cycle
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+Prism
+
+UW02 Coordinated Captain
+
+UW03 Inspiring Veteran
+
+UW04 Dawncaller
+cost: {1}{W} => {2}{W}
+rules_text: Flying
+When this creature enters, target creature you control gets +1/+1 until end of turn. => Flying
+When this creature enters, target creature you control gets +1/+1 and gains flying until end of turn.
+pt: 2/1 => 1/3
+
+UW05 Leyline Patrol
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering General
+
+UW11 Empathic Mesh
+
+UU02 Shifting Spectre
+
+UU04 Wakewatcher Wizard
+
+UU06 Imperial Mistweaver
+
+UU07 Stormwake Draconid
+
+UU08 Scalefeather Twister
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Bloodsniffer Ogre
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR05 Greyheart Avenger
+rules_text: Whenever you sacrifice a Voidling, put a +1/+1 counter on this creature. => Whenever you sacrifice a colorless permanent, put a +1/+1 counter on this creature.
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR10 Terrabomb
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a charge counter on this artifact.
+{T}, Sacrifice this artifact: It deals X damage to any target, where X is the number of charge counters on it. => [i]Landfall[/i] — Whenever a land you control enters, put a charge counter on this artifact.
+{3}, {T}, Sacrifice this artifact: It deals damage equal to the number of charge counters on it to any target.
+
+UM17 Barrescape Crawler
+
+UG01 Veiled Asp
+
+UG02 Earthweaver Druid
+rules_text: When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+At the beginning of your end step, if a land card entered your graveyard from anywhere this turn, draw a card. => When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+At the beginning of your end step, if a land card was put into your graveyard from anywhere this turn, draw a card.
+
+UG03 Koma's Chosen
+
+UG04 Rebellion Rookie
+
+UG05 Scruptions Tiller
+
+UG07 Clawfoot Elder
+
+UG10 Sporespawn Voidling
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+rules_text: Return target permanent card from your graveyard to your hand. Create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Return target permanent card from your graveyard to your hand. Create a tapped Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+CA06 Leyline Surveyor
+
+UA04 Endless Hollow
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA01 Fading Voyager
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+Servo
+
+UU01 Radiant Crab
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
