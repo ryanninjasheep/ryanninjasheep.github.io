@@ -1,4 +1,388 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CW07 Model Aeronaut added.
+Thopter added.
+RW01 Aethelia Mentor added.
+UW01 Munitions Supplier added.
+UU03 Thopter Engineer added.
+UB11 Live or Die added.
+UR04 Potshot Goblin added.
+UG09 Brush Stomper added.
+UG10 Budding Mycospawn added.
+MX01 Empty Heart added.
+Rock added.
+
+CW07 Ardent Aviphile removed.
+Bird removed.
+RW01 Deft Hexmage removed.
+UG10 Sporespawn Voidling removed.
+MX01 placeholder removed.
+RX01 Empty Heart removed.
+
+CW08 Eager Settler
+rules_text: This spell costs {1} less to cast for each creature you attacked with this turn.
+When this creature enters, draw a card. => This spell costs {1} less to cast for each tapped creature you control.
+When this creature enters, draw a card.
+
+CU01 Highspire Sentry
+
+CU02 Wild Whelp
+
+CU03 Lumina Technician
+
+CU04 Voidcraft Scholar
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB10 Unfortunate Tumble
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Ravaged Lands Avenger
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR10 Magma Lash
+
+CR11 Beckoning Void
+
+CR12 Storm the Terralance
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Voidheart Disciple
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM08 Leyline Defender
+
+UM09 Settler's Day Parade
+
+UM10 Heartland Hero
+
+UM11 Fractal Form
+
+UM12 Vision Sublime
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+cost: {1}{R}{W} => {R}{W}
+pt: 3/3 => 2/2
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Treasure
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+Prism
+
+Elephant
+
+RW03 Effervescent Enigma
+
+UW02 Coordinated Captain
+
+UW03 Inspiring Veteran
+
+UW04 Dawncaller
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering General
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Barrescape Stalker
+
+RU03 Chimeric Terror
+
+UU02 Shifting Spectre
+rules_text: Vigilance
+{C}: This creature gets +1/-1 until end of turn. => Vigilance
+{2C}: This creature gets +1/-1 until end of turn. [i]({2C} can be paid with any two mana or with {C}.)[/i]
+
+UU04 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+
+UU06 Imperial Mistweaver
+
+UU07 Stormwake Draconid
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+RB02 Grim Opportunist
+
+RB03 Pact Eternal
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+rules_text: Discard a card: This creature gets +1/+1 until end of turn. => [i]Descend 4[/i] — Whenever this creature deals damage to a player, if there are four or more permanent cards in your graveyard, that player discards a card.
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Bloodsniffer Ogre
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+RR01 Barrescape Tyrant
+
+RR03 Lucient Amalgam
+
+RR02 Earthquake Elemental
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Voidcraft Champion
+
+UR05 Greyheart Avenger
+type: Creature — Goblin Rebel => Creature — Human Rebel
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Barrescape Crawler
+cost: {R}{W} => {1}{R}{W}
+rules_text: Whenever this Vehicle attacks, it deals 2 damage to target player and you gain 2 life.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever this Vehicle attacks, it deals 2 damage to defending player and you gain 2 life.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+RG03 Sporespawn Drift
+
+UG01 Veiled Asp
+
+UG02 Earthweaver Druid
+
+UG03 Koma's Chosen
+
+UG04 Rebellion Rookie
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM05 Oasis Sumpter
+
+RM06 Dusk's Chosen
+
+RM07 Sparkwork Sorcerer
+rules_text: Vigilance, trample
+Whenever this creature deals combat damage to a player, exile the top X cards of your library, where X is the amount of damage dealt. You may play them this turn. Colorless spells cast this way cost {C} less to cast. This effect reduces only the amount of colorless mana you pay. => Vigilance, trample
+Whenever this creature deals combat damage to a player, exile the top X cards of your library, where X is the amount of damage dealt. You may play them this turn. Colorless spells cast this way cost {C} [i](or {1})[/i] less to cast.
+
+RM08 Mycolid Rejuvinator
+
+RM09 Righteous Rebellion
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+Saproling
+
+
+VERSION 3 CHANGELOG
 ====================
 
 CU04 Voidcraft Scholar added.
