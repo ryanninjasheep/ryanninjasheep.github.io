@@ -803,7 +803,7 @@
 		{
 			"name": "CA01 Wasteland Wanderer",
 			"rarity": "common",
-			"mana_cost": "{2/C}",
+			"mana_cost": "{C}",
 			"type": "Creature — Voidling",
 			"collector_number": "1",
 			"image_uris": {
@@ -833,7 +833,7 @@
 		{
 			"name": "CA04 Shadow Self",
 			"rarity": "common",
-			"mana_cost": "{1}{2/C}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
@@ -2103,7 +2103,7 @@
 		{
 			"name": "UA04 Endless Hollow",
 			"rarity": "uncommon",
-			"mana_cost": "{2/C}{2/C}{2/C}",
+			"mana_cost": "{C}{C}{C}",
 			"type": "Creature — Voidling",
 			"collector_number": "15",
 			"image_uris": {
@@ -2304,16 +2304,6 @@
 	4 UM07 Bullish Adventurer
 	4 UM20 Aurora Watcher
 	4 UU09 Rasping Currents
-	4 Ivyflow Quarry
-	4 Magmafell Quarry
-	4 Rootbound Quarry
-	4 Runespark Quarry
-	4 Sandswept Quarry
-	4 Scorchwheat Quarry
-	4 Shadowcrest Quarry
-	4 Cryptveil Quarry
-	4 Umberdark Quarry
-	4 Wickfield Quarry
 	4 UW01 Munitions Supplier
 	4 UW02 Coordinated Captain
 	4 UW03 Inspiring Veteran
@@ -2357,8 +2347,6 @@
 	4 UG11 Spirited Growth
 	4 UA04 Endless Hollow
 	4 UA06 Adventuring Gear
-	4 UL01 Deepwell Quarry
-	4 UL02 Neglected Digsite
 	4 UA01 Fading Voyager
 	4 UA03 Meteor Golem
 	4 UA08 Scouting Ship
@@ -2771,3 +2759,21 @@
 	15 UU01 Radiant Crab
 	7 RB01 Fetid Maw
 	4 MX01 Empty Heart
+[land(1)]
+	4 UL01 Deepwell Quarry
+	4 UL02 Neglected Digsite
+	4 Ivyflow Quarry
+	4 Magmafell Quarry
+	4 Rootbound Quarry
+	4 Runespark Quarry
+	4 Sandswept Quarry
+	4 Scorchwheat Quarry
+	4 Shadowcrest Quarry
+	4 Cryptveil Quarry
+	4 Umberdark Quarry
+	4 Wickfield Quarry
+    8 Plains
+    8 Island
+    8 Swamp
+    8 Mountain
+    8 Forest
