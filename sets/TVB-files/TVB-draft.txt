@@ -21,13 +21,13 @@
 			}
 		},
 		{
-			"name": "CW03 Wingblade Recruit",
+			"name": "CW03 Wingblade Duelist",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Soldier",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/22_CW03 Wingblade Recruit.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/22_CW03 Wingblade Duelist.png"
 			}
 		},
 		{
@@ -501,13 +501,13 @@
 			}
 		},
 		{
-			"name": "CG05 Voidheart Disciple",
+			"name": "CG05 Mycolid Renewer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Rebel",
+			"type": "Creature — Fungus",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/130_CG05 Voidheart Disciple.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/130_CG05 Mycolid Renewer.png"
 			}
 		},
 		{
@@ -691,23 +691,23 @@
 			}
 		},
 		{
-			"name": "UM09 Settler's Day Parade",
+			"name": "UG02 Settler's Day Parade",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "170",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/170_UM09 Settler's Day Parade.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/143_UG02 Settler's Day Parade.png"
 			}
 		},
 		{
-			"name": "UM10 Heartland Hero",
+			"name": "UM10 Rebellion Rookie",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{G}{W}",
 			"type": "Creature — Human Rebel",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/171_UM10 Heartland Hero.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/171_UM10 Rebellion Rookie.png"
 			}
 		},
 		{
@@ -803,7 +803,7 @@
 		{
 			"name": "CA01 Wasteland Wanderer",
 			"rarity": "common",
-			"mana_cost": "{C}",
+			"mana_cost": "{2/C}",
 			"type": "Creature — Voidling",
 			"collector_number": "1",
 			"image_uris": {
@@ -833,7 +833,7 @@
 		{
 			"name": "CA04 Shadow Self",
 			"rarity": "common",
-			"mana_cost": "{1}{C}",
+			"mana_cost": "{1}{2/C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "2",
 			"image_uris": {
@@ -1165,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/204_Plains.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/203_Plains.png"
 			}
 		},
 		{
@@ -1175,19 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/203_Plains.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "206",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/206_Island.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/204_Plains.png"
 			}
 		},
 		{
@@ -1201,13 +1191,13 @@
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "207",
+			"type": "Basic Land — Island",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207_Swamp.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/206_Island.png"
 			}
 		},
 		{
@@ -1221,13 +1211,13 @@
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "210",
+			"type": "Basic Land — Swamp",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/210_Mountain.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207_Swamp.png"
 			}
 		},
 		{
@@ -1241,13 +1231,13 @@
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "212",
+			"type": "Basic Land — Mountain",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/212_Forest.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/210_Mountain.png"
 			}
 		},
 		{
@@ -1258,6 +1248,16 @@
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/211_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/212_Forest.png"
 			}
 		},
 		{
@@ -1363,7 +1363,7 @@
 		{
 			"name": "UW03 Inspiring Veteran",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}{W}",
 			"type": "Creature — Elf Soldier",
 			"collector_number": "38",
 			"image_uris": {
@@ -1891,13 +1891,13 @@
 			}
 		},
 		{
-			"name": "UG02 Earthweaver Druid",
+			"name": "UM09 Oasis Sumpter",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid",
-			"collector_number": "143",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Camel",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/143_UG02 Earthweaver Druid.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/170_UM09 Oasis Sumpter.png"
 			}
 		},
 		{
@@ -1911,13 +1911,13 @@
 			}
 		},
 		{
-			"name": "UG04 Rebellion Rookie",
+			"name": "UG04 Earthweaver Druid",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Rebel",
+			"type": "Creature — Human Druid",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145_UG04 Rebellion Rookie.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145_UG04 Earthweaver Druid.png"
 			}
 		},
 		{
@@ -2031,13 +2031,13 @@
 			}
 		},
 		{
-			"name": "RM05 Oasis Sumpter",
+			"name": "RM05 Ration Supplier",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Camel",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Rebel",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/156_RM05 Oasis Sumpter.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/156_RM05 Ration Supplier.png"
 			}
 		},
 		{
@@ -2103,7 +2103,7 @@
 		{
 			"name": "UA04 Endless Hollow",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{C}{C}",
+			"mana_cost": "{2/C}{2/C}{2/C}",
 			"type": "Creature — Voidling",
 			"collector_number": "15",
 			"image_uris": {
@@ -2272,6 +2272,7 @@
 	2 RB02 Grim Opportunist
 	2 RB03 Pact Eternal
 	2 RR01 Barrescape Tyrant
+	2 RR03 Lucient Amalgam
 	2 RR02 Earthquake Elemental
 	2 RG01 Sundering Hydra
 	2 RG02 Venerant Earthspeaker
@@ -2280,40 +2281,60 @@
 	2 RM02 Vel, Grand Illusionist
 	2 RM03 Dance of Undeath
 	2 RM04 Greyheart Awakener
-	2 RM05 Oasis Sumpter
+	2 RM05 Ration Supplier
 	2 RM06 Dusk's Chosen
 	2 RM07 Sparkwork Sorcerer
+	2 RM08 Mycolid Rejuvinator
 	2 RM09 Righteous Rebellion
 	2 RM10 Shattered Earth
 	2 RB01 Fetid Maw
 	1 MX01 Empty Heart
 [uncommon(3)]
+	4 UM01 Thopter Suit
 	4 UM02 Wingblade General
 	4 UM03 Blightwing Locust
 	4 UM04 Cunning Projectionist
+	4 UM05 Voidheart Rallier
 	4 UM06 Underfall Flamer
 	4 UM19 Dreamroot Mass
 	4 UM08 Leyline Defender
-	4 UM10 Heartland Hero
+	4 UG02 Settler's Day Parade
+	4 UM10 Rebellion Rookie
 	4 UM11 Fractal Form
 	4 UM12 Vision Sublime
 	4 UM14 Cobbled Contraption
+	4 UM13 Ephemera Vendor
 	4 UM15 Darkeater
 	4 UM16 Underdark Avenger
 	4 UM18 Battlefield Troubador
 	4 UM07 Bullish Adventurer
 	4 UM20 Aurora Watcher
+	4 UA05 Aderic's Sextant
 	4 UU09 Rasping Currents
+	4 Ivyflow Quarry
+	4 Magmafell Quarry
+	4 Rootbound Quarry
+	4 Runespark Quarry
+	4 Sandswept Quarry
+	4 Scorchwheat Quarry
+	4 Shadowcrest Quarry
+	4 Cryptveil Quarry
+	4 Umberdark Quarry
+	4 Wickfield Quarry
+	4 UR11 The Blind Army
 	4 UW01 Munitions Supplier
 	4 UW02 Coordinated Captain
 	4 UW03 Inspiring Veteran
 	4 UW04 Dawncaller
+	4 UW05 Leyline Patrol
 	4 UW06 Battlebond Pikeman
 	4 UW07 Wakecatcher
 	4 UW08 Raptor Trainer
+	4 UW09 Pioneering General
 	4 UW11 Empathic Mesh
 	4 UW12 Rewarding Retreat
 	4 UU02 Shifting Spectre
+	4 UU03 Thopter Engineer
 	4 UU04 Wakewatcher Wizard
 	4 UU05 Leyline Tracker
 	4 UU06 Imperial Mistweaver
@@ -2323,51 +2344,68 @@
 	4 UU11 Sparkwork Kaleidoscope
 	4 UB01 Thornmarrow Mass
 	4 UB02 Voidseeker Fanatic
+	4 UB03 Pitiless Plunderer
 	4 UB04 Mindshrieker
+	4 UB05 Void Summoner
 	4 UB06 Lifeblood Lurker
 	4 UB07 Bloodsniffer Ogre
 	4 UB08 Grotesque Gestalt
+	4 UB09 Encroaching Void
+	4 UB10 Shadows Around Us
 	4 UB11 Live or Die
 	4 UR01 Scarred Brute
 	4 UR02 Mask Dancer
 	4 UR03 Voidcraft Champion
+	4 UR04 Potshot Goblin
 	4 UR05 Greyheart Avenger
+	4 UR06 Boulder Breaker
 	4 UR07 Strikesoul Rallier
+	4 UR08 Barrescape Pioneer
+	4 UR09 Warpwalk
 	4 UR10 Terrabomb
 	4 UM17 Barrescape Crawler
 	4 UG01 Veiled Asp
-	4 UG02 Earthweaver Druid
+	4 UM09 Oasis Sumpter
 	4 UG03 Koma's Chosen
-	4 UG04 Rebellion Rookie
+	4 UG04 Earthweaver Druid
 	4 UG05 Scruptions Tiller
 	4 UG06 Reckless Roots
 	4 UG07 Clawfoot Elder
 	4 UG09 Brush Stomper
 	4 UG10 Budding Mycospawn
 	4 UG11 Spirited Growth
+	4 UG12 Blessing of Selas
 	4 UA04 Endless Hollow
 	4 UA06 Adventuring Gear
+	4 UL01 Deepwell Quarry
+	4 UL02 Neglected Digsite
 	4 UA01 Fading Voyager
+	4 UA02 Imperfect Vessel
 	4 UA03 Meteor Golem
+	4 UA07 Voidcraft Blade
 	4 UA08 Scouting Ship
 	4 UU01 Radiant Crab
 [common(7)]
 	8 CW01 Ascendant Guide
 	8 CW02 Heartpact Acolyte
-	8 CW03 Wingblade Recruit
+	8 CW03 Wingblade Duelist
 	8 CW05 Reckless Raptor
 	8 CW06 Skyport Sanctifier
+	8 CW07 Model Aeronaut
 	8 CW08 Eager Settler
+	8 CW09 Magnanimous Magistrate
 	8 CW10 Barrescape Conquerer
 	8 CW11 Shimmering Stalker
 	8 CW15 Heartpact Rebirth
 	8 CU01 Highspire Sentry
 	8 CU02 Wild Whelp
+	8 CU03 Lumina Technician
 	8 CU04 Voidcraft Scholar
 	8 CU05 Curio Collector
 	8 CU06 Luxara Doorman
 	8 CU07 Wingblade Surveyor
 	8 CU15 Sepia Serpent
+	8 CB01 Lifeleeched Vermin
 	8 CB02 Deathrattle Scorpion
 	8 CB03 Duram Nightstalker
 	8 CB04 Sinister Administrator
@@ -2376,34 +2414,41 @@
 	8 CB07 Sickleblade Rallier
 	8 CB09 Blood-Rage Minotaur
 	8 CB08 Graverazer
+	8 CB13 Out of Focus
 	8 CB11 Blackened Blade
 	8 CB12 Zealous Dissection
 	8 CB10 Madness Incarnate
+	8 CB15 Mindless Culling
 	8 CR01 Sparking Charger
 	8 CR02 Careless Cartographer
 	8 CR03 Ravaged Lands Avenger
 	8 CR04 Caustic Peakcrawler
+	8 CR06 Voidcaller Druid
 	8 CR07 Zealous Artillerist
 	8 CR08 Cindertusk Boar
 	8 CR09 Barrescape Behemoth
 	8 CR10 Magma Lash
+	8 CR11 Beckoning Void
 	8 CR12 Storm the Terralance
 	8 CR13 Grind the Gears
 	8 CR14 Lightning Flare
+	8 CR15 Scorching Abrasion
 	8 CG01 Cycle Tender
 	8 CG02 Ichortongue Lizard
 	8 CG03 Barrescape Nurturer
-	8 CG05 Voidheart Disciple
+	8 CG05 Mycolid Renewer
 	8 CG06 Soil Stirrer
 	8 CG07 Thunderous Terrapin
 	8 CG08 Deeproot Treefolk
 	8 CG09 Disciple of Koma
 	8 CG12 Peatfield Ambush
 	8 CG11 Nature's Wrath
+	8 CG10 Burgeoning Stampede
 	8 CG13 Oxhide Veil
 	8 CG14 Leyline Navigation
 	8 CG15 Harvest Cycle
 	8 CA01 Wasteland Wanderer
+	8 CA02 Skyport Custodian
 	8 CA03 Periscope Sentinel
 	8 CA04 Shadow Self
 	8 CA05 Prismatic Lens
@@ -2415,6 +2460,7 @@
 	8 CU11 Dazzling Maneuver
 	8 CU12 Abrasive Ideation
 	8 CU13 Utter Insignificance
+	8 CU14 Chonofraction
 	8 CU08 Flickerlight Projection
 	8 CB14 Split the Earth
 	8 CR05 Cyclone Caller
@@ -2424,20 +2470,24 @@
 [foil(1)]
 	12 CW01 Ascendant Guide
 	12 CW02 Heartpact Acolyte
-	12 CW03 Wingblade Recruit
+	12 CW03 Wingblade Duelist
 	12 CW05 Reckless Raptor
 	12 CW06 Skyport Sanctifier
+	12 CW07 Model Aeronaut
 	12 CW08 Eager Settler
+	12 CW09 Magnanimous Magistrate
 	12 CW10 Barrescape Conquerer
 	12 CW11 Shimmering Stalker
 	12 CW15 Heartpact Rebirth
 	12 CU01 Highspire Sentry
 	12 CU02 Wild Whelp
+	12 CU03 Lumina Technician
 	12 CU04 Voidcraft Scholar
 	12 CU05 Curio Collector
 	12 CU06 Luxara Doorman
 	12 CU07 Wingblade Surveyor
 	12 CU15 Sepia Serpent
+	12 CB01 Lifeleeched Vermin
 	12 CB02 Deathrattle Scorpion
 	12 CB03 Duram Nightstalker
 	12 CB04 Sinister Administrator
@@ -2446,52 +2496,64 @@
 	12 CB07 Sickleblade Rallier
 	12 CB09 Blood-Rage Minotaur
 	12 CB08 Graverazer
+	12 CB13 Out of Focus
 	12 CB11 Blackened Blade
 	12 CB12 Zealous Dissection
 	12 CB10 Madness Incarnate
+	12 CB15 Mindless Culling
 	12 CR01 Sparking Charger
 	12 CR02 Careless Cartographer
 	12 CR03 Ravaged Lands Avenger
 	12 CR04 Caustic Peakcrawler
+	12 CR06 Voidcaller Druid
 	12 CR07 Zealous Artillerist
 	12 CR08 Cindertusk Boar
 	12 CR09 Barrescape Behemoth
 	12 CR10 Magma Lash
+	12 CR11 Beckoning Void
 	12 CR12 Storm the Terralance
 	12 CR13 Grind the Gears
 	12 CR14 Lightning Flare
+	12 CR15 Scorching Abrasion
 	12 CG01 Cycle Tender
 	12 CG02 Ichortongue Lizard
 	12 CG03 Barrescape Nurturer
-	12 CG05 Voidheart Disciple
+	12 CG05 Mycolid Renewer
 	12 CG06 Soil Stirrer
 	12 CG07 Thunderous Terrapin
 	12 CG08 Deeproot Treefolk
 	12 CG09 Disciple of Koma
 	12 CG12 Peatfield Ambush
 	12 CG11 Nature's Wrath
+	12 CG10 Burgeoning Stampede
 	12 CG13 Oxhide Veil
 	12 CG14 Leyline Navigation
 	12 CG15 Harvest Cycle
+	6 UM01 Thopter Suit
 	6 UM02 Wingblade General
 	6 UM03 Blightwing Locust
 	6 UM04 Cunning Projectionist
+	6 UM05 Voidheart Rallier
 	6 UM06 Underfall Flamer
 	6 UM19 Dreamroot Mass
 	6 UM08 Leyline Defender
-	6 UM10 Heartland Hero
+	6 UG02 Settler's Day Parade
+	6 UM10 Rebellion Rookie
 	6 UM11 Fractal Form
 	6 UM12 Vision Sublime
 	6 UM14 Cobbled Contraption
+	6 UM13 Ephemera Vendor
 	6 UM15 Darkeater
 	6 UM16 Underdark Avenger
 	6 UM18 Battlefield Troubador
 	6 UM07 Bullish Adventurer
 	6 UM20 Aurora Watcher
 	12 CA01 Wasteland Wanderer
+	12 CA02 Skyport Custodian
 	12 CA03 Periscope Sentinel
 	12 CA04 Shadow Self
 	12 CA05 Prismatic Lens
+	6 UA05 Aderic's Sextant
 	12 CW12 Ruinating Strike
 	12 CW13 Severed Sanctum
 	12 CW14 Fleeting Flight
@@ -2501,6 +2563,7 @@
 	12 CU11 Dazzling Maneuver
 	12 CU12 Abrasive Ideation
 	12 CU13 Utter Insignificance
+	12 CU14 Chonofraction
 	12 CU08 Flickerlight Projection
 	12 CB14 Split the Earth
 	12 CR05 Cyclone Caller
@@ -2515,6 +2578,7 @@
 	6 Cryptveil Quarry
 	6 Umberdark Quarry
 	6 Wickfield Quarry
+	6 UR11 The Blind Army
 	2 RW01 Aethelia Mentor
 	2 RW02 Empire's Wing
 	2 RW03 Effervescent Enigma
@@ -2522,15 +2586,18 @@
 	6 UW02 Coordinated Captain
 	6 UW03 Inspiring Veteran
 	6 UW04 Dawncaller
+	6 UW05 Leyline Patrol
 	6 UW06 Battlebond Pikeman
 	6 UW07 Wakecatcher
 	6 UW08 Raptor Trainer
+	6 UW09 Pioneering General
 	6 UW11 Empathic Mesh
 	6 UW12 Rewarding Retreat
 	2 RU01 Pfiel, Expansion Architect
 	2 RU02 Barrescape Stalker
 	2 RU03 Chimeric Terror
 	6 UU02 Shifting Spectre
+	6 UU03 Thopter Engineer
 	6 UU04 Wakewatcher Wizard
 	6 UU05 Leyline Tracker
 	6 UU06 Imperial Mistweaver
@@ -2543,40 +2610,51 @@
 	2 RB03 Pact Eternal
 	6 UB01 Thornmarrow Mass
 	6 UB02 Voidseeker Fanatic
+	6 UB03 Pitiless Plunderer
 	6 UB04 Mindshrieker
+	6 UB05 Void Summoner
 	6 UB06 Lifeblood Lurker
 	6 UB07 Bloodsniffer Ogre
 	6 UB08 Grotesque Gestalt
+	6 UB09 Encroaching Void
+	6 UB10 Shadows Around Us
 	6 UB11 Live or Die
 	2 RR01 Barrescape Tyrant
+	2 RR03 Lucient Amalgam
 	2 RR02 Earthquake Elemental
 	6 UR01 Scarred Brute
 	6 UR02 Mask Dancer
 	6 UR03 Voidcraft Champion
+	6 UR04 Potshot Goblin
 	6 UR05 Greyheart Avenger
+	6 UR06 Boulder Breaker
 	6 UR07 Strikesoul Rallier
+	6 UR08 Barrescape Pioneer
+	6 UR09 Warpwalk
 	6 UR10 Terrabomb
 	6 UM17 Barrescape Crawler
 	2 RG01 Sundering Hydra
 	2 RG02 Venerant Earthspeaker
 	2 RG03 Sporespawn Drift
 	6 UG01 Veiled Asp
-	6 UG02 Earthweaver Druid
+	6 UM09 Oasis Sumpter
 	6 UG03 Koma's Chosen
-	6 UG04 Rebellion Rookie
+	6 UG04 Earthweaver Druid
 	6 UG05 Scruptions Tiller
 	6 UG06 Reckless Roots
 	6 UG07 Clawfoot Elder
 	6 UG09 Brush Stomper
 	6 UG10 Budding Mycospawn
 	6 UG11 Spirited Growth
+	6 UG12 Blessing of Selas
 	2 RM01 Dzaan, Wingblade Veteran
 	2 RM02 Vel, Grand Illusionist
 	2 RM03 Dance of Undeath
 	2 RM04 Greyheart Awakener
-	2 RM05 Oasis Sumpter
+	2 RM05 Ration Supplier
 	2 RM06 Dusk's Chosen
 	2 RM07 Sparkwork Sorcerer
+	2 RM08 Mycolid Rejuvinator
 	2 RM09 Righteous Rebellion
 	2 RM10 Shattered Earth
 	12 CA06 Leyline Surveyor
@@ -2585,7 +2663,9 @@
 	6 UL01 Deepwell Quarry
 	6 UL02 Neglected Digsite
 	6 UA01 Fading Voyager
+	6 UA02 Imperfect Vessel
 	6 UA03 Meteor Golem
+	6 UA07 Voidcraft Blade
 	6 UA08 Scouting Ship
 	6 UU01 Radiant Crab
 	2 RB01 Fetid Maw
@@ -2593,20 +2673,24 @@
 [wildcard(1)]
 	6 CW01 Ascendant Guide
 	6 CW02 Heartpact Acolyte
-	6 CW03 Wingblade Recruit
+	6 CW03 Wingblade Duelist
 	6 CW05 Reckless Raptor
 	6 CW06 Skyport Sanctifier
+	6 CW07 Model Aeronaut
 	6 CW08 Eager Settler
+	6 CW09 Magnanimous Magistrate
 	6 CW10 Barrescape Conquerer
 	6 CW11 Shimmering Stalker
 	6 CW15 Heartpact Rebirth
 	6 CU01 Highspire Sentry
 	6 CU02 Wild Whelp
+	6 CU03 Lumina Technician
 	6 CU04 Voidcraft Scholar
 	6 CU05 Curio Collector
 	6 CU06 Luxara Doorman
 	6 CU07 Wingblade Surveyor
 	6 CU15 Sepia Serpent
+	6 CB01 Lifeleeched Vermin
 	6 CB02 Deathrattle Scorpion
 	6 CB03 Duram Nightstalker
 	6 CB04 Sinister Administrator
@@ -2615,52 +2699,64 @@
 	6 CB07 Sickleblade Rallier
 	6 CB09 Blood-Rage Minotaur
 	6 CB08 Graverazer
+	6 CB13 Out of Focus
 	6 CB11 Blackened Blade
 	6 CB12 Zealous Dissection
 	6 CB10 Madness Incarnate
+	6 CB15 Mindless Culling
 	6 CR01 Sparking Charger
 	6 CR02 Careless Cartographer
 	6 CR03 Ravaged Lands Avenger
 	6 CR04 Caustic Peakcrawler
+	6 CR06 Voidcaller Druid
 	6 CR07 Zealous Artillerist
 	6 CR08 Cindertusk Boar
 	6 CR09 Barrescape Behemoth
 	6 CR10 Magma Lash
+	6 CR11 Beckoning Void
 	6 CR12 Storm the Terralance
 	6 CR13 Grind the Gears
 	6 CR14 Lightning Flare
+	6 CR15 Scorching Abrasion
 	6 CG01 Cycle Tender
 	6 CG02 Ichortongue Lizard
 	6 CG03 Barrescape Nurturer
-	6 CG05 Voidheart Disciple
+	6 CG05 Mycolid Renewer
 	6 CG06 Soil Stirrer
 	6 CG07 Thunderous Terrapin
 	6 CG08 Deeproot Treefolk
 	6 CG09 Disciple of Koma
 	6 CG12 Peatfield Ambush
 	6 CG11 Nature's Wrath
+	6 CG10 Burgeoning Stampede
 	6 CG13 Oxhide Veil
 	6 CG14 Leyline Navigation
 	6 CG15 Harvest Cycle
+	15 UM01 Thopter Suit
 	15 UM02 Wingblade General
 	15 UM03 Blightwing Locust
 	15 UM04 Cunning Projectionist
+	15 UM05 Voidheart Rallier
 	15 UM06 Underfall Flamer
 	15 UM19 Dreamroot Mass
 	15 UM08 Leyline Defender
-	15 UM10 Heartland Hero
+	15 UG02 Settler's Day Parade
+	15 UM10 Rebellion Rookie
 	15 UM11 Fractal Form
 	15 UM12 Vision Sublime
 	15 UM14 Cobbled Contraption
+	15 UM13 Ephemera Vendor
 	15 UM15 Darkeater
 	15 UM16 Underdark Avenger
 	15 UM18 Battlefield Troubador
 	15 UM07 Bullish Adventurer
 	15 UM20 Aurora Watcher
 	6 CA01 Wasteland Wanderer
+	6 CA02 Skyport Custodian
 	6 CA03 Periscope Sentinel
 	6 CA04 Shadow Self
 	6 CA05 Prismatic Lens
+	15 UA05 Aderic's Sextant
 	6 CW12 Ruinating Strike
 	6 CW13 Severed Sanctum
 	6 CW14 Fleeting Flight
@@ -2670,6 +2766,7 @@
 	6 CU11 Dazzling Maneuver
 	6 CU12 Abrasive Ideation
 	6 CU13 Utter Insignificance
+	6 CU14 Chonofraction
 	6 CU08 Flickerlight Projection
 	6 CB14 Split the Earth
 	6 CR05 Cyclone Caller
@@ -2684,6 +2781,7 @@
 	15 Cryptveil Quarry
 	15 Umberdark Quarry
 	15 Wickfield Quarry
+	15 UR11 The Blind Army
 	7 RW01 Aethelia Mentor
 	7 RW02 Empire's Wing
 	7 RW03 Effervescent Enigma
@@ -2691,15 +2789,18 @@
 	15 UW02 Coordinated Captain
 	15 UW03 Inspiring Veteran
 	15 UW04 Dawncaller
+	15 UW05 Leyline Patrol
 	15 UW06 Battlebond Pikeman
 	15 UW07 Wakecatcher
 	15 UW08 Raptor Trainer
+	15 UW09 Pioneering General
 	15 UW11 Empathic Mesh
 	15 UW12 Rewarding Retreat
 	7 RU01 Pfiel, Expansion Architect
 	7 RU02 Barrescape Stalker
 	7 RU03 Chimeric Terror
 	15 UU02 Shifting Spectre
+	15 UU03 Thopter Engineer
 	15 UU04 Wakewatcher Wizard
 	15 UU05 Leyline Tracker
 	15 UU06 Imperial Mistweaver
@@ -2712,40 +2813,51 @@
 	7 RB03 Pact Eternal
 	15 UB01 Thornmarrow Mass
 	15 UB02 Voidseeker Fanatic
+	15 UB03 Pitiless Plunderer
 	15 UB04 Mindshrieker
+	15 UB05 Void Summoner
 	15 UB06 Lifeblood Lurker
 	15 UB07 Bloodsniffer Ogre
 	15 UB08 Grotesque Gestalt
+	15 UB09 Encroaching Void
+	15 UB10 Shadows Around Us
 	15 UB11 Live or Die
 	7 RR01 Barrescape Tyrant
+	7 RR03 Lucient Amalgam
 	7 RR02 Earthquake Elemental
 	15 UR01 Scarred Brute
 	15 UR02 Mask Dancer
 	15 UR03 Voidcraft Champion
+	15 UR04 Potshot Goblin
 	15 UR05 Greyheart Avenger
+	15 UR06 Boulder Breaker
 	15 UR07 Strikesoul Rallier
+	15 UR08 Barrescape Pioneer
+	15 UR09 Warpwalk
 	15 UR10 Terrabomb
 	15 UM17 Barrescape Crawler
 	7 RG01 Sundering Hydra
 	7 RG02 Venerant Earthspeaker
 	7 RG03 Sporespawn Drift
 	15 UG01 Veiled Asp
-	15 UG02 Earthweaver Druid
+	15 UM09 Oasis Sumpter
 	15 UG03 Koma's Chosen
-	15 UG04 Rebellion Rookie
+	15 UG04 Earthweaver Druid
 	15 UG05 Scruptions Tiller
 	15 UG06 Reckless Roots
 	15 UG07 Clawfoot Elder
 	15 UG09 Brush Stomper
 	15 UG10 Budding Mycospawn
 	15 UG11 Spirited Growth
+	15 UG12 Blessing of Selas
 	7 RM01 Dzaan, Wingblade Veteran
 	7 RM02 Vel, Grand Illusionist
 	7 RM03 Dance of Undeath
 	7 RM04 Greyheart Awakener
-	7 RM05 Oasis Sumpter
+	7 RM05 Ration Supplier
 	7 RM06 Dusk's Chosen
 	7 RM07 Sparkwork Sorcerer
+	7 RM08 Mycolid Rejuvinator
 	7 RM09 Righteous Rebellion
 	7 RM10 Shattered Earth
 	6 CA06 Leyline Surveyor
@@ -2754,26 +2866,10 @@
 	15 UL01 Deepwell Quarry
 	15 UL02 Neglected Digsite
 	15 UA01 Fading Voyager
+	15 UA02 Imperfect Vessel
 	15 UA03 Meteor Golem
+	15 UA07 Voidcraft Blade
 	15 UA08 Scouting Ship
 	15 UU01 Radiant Crab
 	7 RB01 Fetid Maw
 	4 MX01 Empty Heart
-[land(1)]
-	4 UL01 Deepwell Quarry
-	4 UL02 Neglected Digsite
-	4 Ivyflow Quarry
-	4 Magmafell Quarry
-	4 Rootbound Quarry
-	4 Runespark Quarry
-	4 Sandswept Quarry
-	4 Scorchwheat Quarry
-	4 Shadowcrest Quarry
-	4 Cryptveil Quarry
-	4 Umberdark Quarry
-	4 Wickfield Quarry
-    8 Plains
-    8 Island
-    8 Swamp
-    8 Mountain
-    8 Forest

@@ -1,4 +1,150 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+CW03 Wingblade Duelist added.
+CG05 Mycolid Renewer added.
+UG02 Settler's Day Parade added.
+UM10 Rebellion Rookie added.
+UM09 Oasis Sumpter added.
+UG04 Earthweaver Druid added.
+RM05 Ration Supplier added.
+
+CW03 Wingblade Recruit removed.
+CG05 Voidheart Disciple removed.
+UM09 Settler's Day Parade removed.
+UM10 Heartland Hero removed.
+UG02 Earthweaver Druid removed.
+UG04 Rebellion Rookie removed.
+RM05 Oasis Sumpter removed.
+
+CW07 Model Aeronaut
+
+CW09 Magnanimous Magistrate
+
+CW10 Barrescape Conquerer
+rules_text: During your turn, this creature has first strike.
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn. => During your turn, this creature has first strike.
+[i]Landfall[/i] — Whenever a land you control enters, this creature gets +1/+0 until end of turn.
+
+CU01 Highspire Sentry
+rules_text: Defender
+{1}{C}: This creature can attack this turn as though it didn't have defender. => Defender, flying
+{1}{C}: This creature can attack this turn as though it didn't have defender.
+pt: 3/3 => 2/3
+
+CU03 Lumina Technician
+
+CB01 Lifeleeched Vermin
+
+CB13 Out of Focus
+
+CB10 Madness Incarnate
+rules_text: When this creature enters, target creature gets -3/-3 until end of turn.
+Evoke {2}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When this creature enters, target creature gets -2/-2 until end of turn.
+Evoke {2}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+CB15 Mindless Culling
+
+CR06 Voidcaller Druid
+
+CR11 Beckoning Void
+
+CR15 Scorching Abrasion
+
+CG10 Burgeoning Stampede
+
+UM01 Thopter Suit
+
+UM05 Voidheart Rallier
+
+UM13 Ephemera Vendor
+
+CA02 Skyport Custodian
+
+UA05 Aderic's Sextant
+
+CU14 Chonofraction
+
+UR11 The Blind Army
+
+Draft Archetypes
+rules_text: Mechanics:
+URW Lay waste
+UBG Evoke
+RGW [i]Landfall[/i]
+
+WU — Flying | Fast
+UB — Colorless costs | Mid
+BR — Aristocrats | Mid
+RG — [i]Landfall[/i] | Fast
+GW — Go wide etbs | Mid
+WB — Reanimator | Slow
+UR — Colorless permanents | Mid
+BG — [i]Descend 4[/i] | Slow
+RW — Tapped creatures | Fast
+GU — Evoke ramp | Slow => Mechanics:
+URW Lay waste
+UBG Evoke
+RGW [i]Landfall[/i]
+
+WU — Flying | Fast
+UB — Colorless costs | Mid
+BR — Aristocrats | Mid
+RG — [i]Landfall[/i] | Fast
+GW — +1/+1 counters | Mid
+WB — Reanimator | Slow
+UR — Colorless permanents | Mid
+BG — [i]Descend 4[/i] | Slow
+RW — Tapped creatures | Fast
+GU — Evoke ramp | Slow
+
+UW03 Inspiring Veteran
+cost: {1}{W} => {W}{W}
+rules_text: At the beginning of your end step, if this creature is tapped, put a +1/+1 counter on target creature you control. => At the beginning of your end step, if this creature is tapped, put a +1/+1 counter on target creature.
+
+UW05 Leyline Patrol
+
+UW09 Pioneering General
+
+UU03 Thopter Engineer
+
+UB03 Pitiless Plunderer
+
+UB05 Void Summoner
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+RR03 Lucient Amalgam
+
+UR04 Potshot Goblin
+
+UR06 Boulder Breaker
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UG01 Veiled Asp
+rules_text: Deathtouch
+Whenever you cast a spell with mana value 5 or greater, put a +1/+1 counter on this creature. It gains hexproof until end of turn. => Deathtouch
+When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Whenever you cast a spell with mana value 5 or more, you may pay {G}. When you do, return this card from your graveyard to your hand.
+
+UG12 Blessing of Selas
+
+RM08 Mycolid Rejuvinator
+
+UA01 Fading Voyager
+pt: 4/2 => 4/4
+
+UA02 Imperfect Vessel
+
+UA07 Voidcraft Blade
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CB13 Out of Focus added.

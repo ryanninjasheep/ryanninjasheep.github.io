@@ -45,16 +45,16 @@
             "notes": "CW02: Two-mana creature"
         },
         {
-            "card_name": "CW03 Wingblade Recruit",
+            "card_name": "CW03 Wingblade Duelist",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Elf Soldier",
             "number": 22,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever another creature you control enters, this creature gains flying until end of turn.",
+            "rules_text": "Double strike",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -113,12 +113,12 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\n!token Thopter"
+            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]"
         },
         {
             "card_name": "CW08 Eager Settler",
@@ -151,12 +151,12 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/r8662\n!token Soldier"
+            "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/r8662"
         },
         {
             "card_name": "CW10 Barrescape Conquerer",
@@ -166,7 +166,7 @@
             "number": 29,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "During your turn, this creature has first strike.\nWhenever another creature you control enters, this creature gets +1/+0 until end of turn.",
+            "rules_text": "During your turn, this creature has first strike.\n[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -223,9 +223,9 @@
             "number": 47,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Defender\n{1}{C}: This creature can attack this turn as though it didn't have defender.",
+            "rules_text": "Defender, flying\n{1}{C}: This creature can attack this turn as though it didn't have defender.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -265,12 +265,12 @@
             "flavor_text": "[i]Flickerlight illusionists provide scenic views of a healthier world.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CU03: Three-mana creature\n!token Prism"
+            "notes": "CU03: Three-mana creature"
         },
         {
             "card_name": "CU04 Voidcraft Scholar",
@@ -379,12 +379,12 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB01: One- or two-mana creature\n!token Voidling"
+            "notes": "CB01: One- or two-mana creature"
         },
         {
             "card_name": "CB02 Deathrattle Scorpion",
@@ -550,12 +550,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB13: Coercion +\n!token Prism"
+            "notes": "CB13: Coercion +"
         },
         {
             "card_name": "CB11 Blackened Blade",
@@ -603,7 +603,7 @@
             "number": 3,
             "color_identity": "B",
             "cost": "{7}",
-            "rules_text": "When this creature enters, target creature gets -3/-3 until end of turn.\nEvoke {2}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
+            "rules_text": "When this creature enters, target creature gets -2/-2 until end of turn.\nEvoke {2}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -626,12 +626,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CB15: Slightly overcosted removal\n!token Voidling"
+            "notes": "CB15: Slightly overcosted removal"
         },
         {
             "card_name": "CR01 Sparking Charger",
@@ -721,12 +721,12 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR06: Three- or four-mana creature\n!token Voidling"
+            "notes": "CR06: Three- or four-mana creature"
         },
         {
             "card_name": "CR07 Zealous Artillerist",
@@ -816,12 +816,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR11: Combat trick\n!token Voidling"
+            "notes": "CR11: Combat trick"
         },
         {
             "card_name": "CR12 Storm the Terralance",
@@ -892,12 +892,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CR15: Direct damage (five mana, 6 damage)\n!token Voidling"
+            "notes": "CR15: Direct damage (five mana, 6 damage)"
         },
         {
             "card_name": "CG01 Cycle Tender",
@@ -957,23 +957,23 @@
             "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]"
         },
         {
-            "card_name": "CG05 Voidheart Disciple",
+            "card_name": "CG05 Mycolid Renewer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rebel",
+            "type": "Creature \u2014 Fungus",
             "number": 130,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever another creature you control enters, this creature gets +1/+1 until end of turn.",
+            "rules_text": "This creature enters with two +1/+1 counters on it.\nWhen this creature dies, put its counters on target creature you control.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "0/0",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG05: Three-mana creature\n[canon reprint \u2014 loporrit scout]"
+            "notes": "CG05: Three-mana creature"
         },
         {
             "card_name": "CG06 Soil Stirrer",
@@ -1101,12 +1101,12 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\n!token Voidling Beast"
+            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle"
         },
         {
             "card_name": "CG13 Oxhide Veil",
@@ -1177,12 +1177,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Soldier"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM02 Wingblade General",
@@ -1253,12 +1253,12 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Voidling Beast"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM06 Underfall Flamer",
@@ -1318,35 +1318,35 @@
             "notes": "Archetype payoff"
         },
         {
-            "card_name": "UM09 Settler's Day Parade",
-            "color": "WG",
+            "card_name": "UG02 Settler's Day Parade",
+            "color": "G",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 170,
-            "color_identity": "WG",
-            "cost": "{G}{W}",
-            "rules_text": "When this enchantment enters, create a 2/2 white Soldier creature token.\n{1}{G}{W}, Sacrifice this enchantment: Create a 4/4 green Elephant creature token. Activate only as a sorcery.",
+            "number": 143,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "When this enchantment enters, create a 2/2 white Soldier creature token.\n{1}{G}{G}, Sacrifice this enchantment: Create a 4/4 green Elephant creature token. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Soldier;Elephant"
+            "notes": ""
         },
         {
-            "card_name": "UM10 Heartland Hero",
+            "card_name": "UM10 Rebellion Rookie",
             "color": "WG",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Rebel",
             "number": 171,
             "color_identity": "WG",
-            "cost": "{1}{G}{W}",
-            "rules_text": "Whenever another creature you control enters, put a +1/+1 counter on this creature if it had power 4 or greater. Otherwise, this creature gets +1/+1 until end of turn.",
+            "cost": "{G}{W}",
+            "rules_text": "Vigilance\nWhenever one or more counters are put on another creature you control, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -1424,12 +1424,12 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "Archetype enabler\n!token Voidling;Prism"
+            "notes": "Archetype enabler"
         },
         {
             "card_name": "UM15 Darkeater",
@@ -1557,12 +1557,12 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "CA02: Three-mana creature\n!token Treasure"
+            "notes": "CA02: Three-mana creature"
         },
         {
             "card_name": "CA03 Periscope Sentinel",
@@ -1633,12 +1633,12 @@
             "flavor_text": "[i]The cartographers feared that there would soon be nothing left worth mapping.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Wastes Token<2>"
+            "notes": ""
         },
         {
             "card_name": "Common Keyword Distribution",
@@ -1918,12 +1918,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)\nhttps://www.artstation.com/artwork/X1YoyL\n!token Prism"
+            "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)"
         },
         {
             "card_name": "CU08 Flickerlight Projection",
@@ -2215,7 +2215,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 204,
+            "number": 203,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2234,7 +2234,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 203,
+            "number": 204,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2253,7 +2253,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 206,
+            "number": 205,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -2272,7 +2272,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 205,
+            "number": 206,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -2291,7 +2291,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 207,
+            "number": 208,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -2310,7 +2310,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 208,
+            "number": 207,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -2329,7 +2329,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 210,
+            "number": 209,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -2348,7 +2348,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 209,
+            "number": 210,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -2367,7 +2367,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 212,
+            "number": 211,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2386,7 +2386,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 211,
+            "number": 212,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2431,12 +2431,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/LVGbr\n!token Voidling"
+            "notes": "https://www.artstation.com/artwork/LVGbr"
         },
         {
             "card_name": "Prism",
@@ -2465,7 +2465,7 @@
             "number": 3,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "Mechanics:\nURW Lay waste\nUBG Evoke\nRGW [i]Landfall[/i]\n\nWU \u2014 Flying | Fast\nUB \u2014 Colorless costs | Mid\nBR \u2014 Aristocrats | Mid\nRG \u2014 [i]Landfall[/i] | Fast\nGW \u2014 Go wide etbs | Mid\nWB \u2014 Reanimator | Slow\nUR \u2014 Colorless permanents | Mid\nBG \u2014 [i]Descend 4[/i] | Slow\nRW \u2014 Tapped creatures | Fast\nGU \u2014 Evoke ramp | Slow",
+            "rules_text": "Mechanics:\nURW Lay waste\nUBG Evoke\nRGW [i]Landfall[/i]\n\nWU \u2014 Flying | Fast\nUB \u2014 Colorless costs | Mid\nBR \u2014 Aristocrats | Mid\nRG \u2014 [i]Landfall[/i] | Fast\nGW \u2014 +1/+1 counters | Mid\nWB \u2014 Reanimator | Slow\nUR \u2014 Colorless permanents | Mid\nBG \u2014 [i]Descend 4[/i] | Slow\nRW \u2014 Tapped creatures | Fast\nGU \u2014 Evoke ramp | Slow",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2597,8 +2597,8 @@
             "type": "Creature \u2014 Elf Soldier",
             "number": 38,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "At the beginning of your end step, if this creature is tapped, put a +1/+1 counter on target creature you control.",
+            "cost": "{W}{W}",
+            "rules_text": "At the beginning of your end step, if this creature is tapped, put a +1/+1 counter on target creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2640,12 +2640,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle\n!token Soldier<2>"
+            "notes": "uncommon_waste_cycle"
         },
         {
             "card_name": "UW06 Battlebond Pikeman",
@@ -2716,12 +2716,12 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_landfall_cycle\n!token Soldier"
+            "notes": "uncommon_landfall_cycle"
         },
         {
             "card_name": "UW11 Empathic Mesh",
@@ -2849,12 +2849,12 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Thopter"
+            "notes": ""
         },
         {
             "card_name": "UU04 Wakewatcher Wizard",
@@ -3096,12 +3096,12 @@
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle\n!token Prism"
+            "notes": "uncommon_waste_cycle"
         },
         {
             "card_name": "UB04 Mindshrieker",
@@ -3134,12 +3134,12 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling"
+            "notes": ""
         },
         {
             "card_name": "UB06 Lifeblood Lurker",
@@ -3210,12 +3210,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling"
+            "notes": ""
         },
         {
             "card_name": "UB10 Shadows Around Us",
@@ -3229,12 +3229,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling Beast"
+            "notes": ""
         },
         {
             "card_name": "UB11 Live or Die",
@@ -3286,12 +3286,12 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "rare_evoke_cycle\n!token Voidling<2>"
+            "notes": "rare_evoke_cycle"
         },
         {
             "card_name": "RR02 Earthquake Elemental",
@@ -3381,12 +3381,12 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Rock"
+            "notes": ""
         },
         {
             "card_name": "UR05 Greyheart Avenger",
@@ -3419,12 +3419,12 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Treasure"
+            "notes": ""
         },
         {
             "card_name": "UR07 Strikesoul Rallier",
@@ -3457,12 +3457,12 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "May be non-creature\n!token Voidling"
+            "notes": "May be non-creature"
         },
         {
             "card_name": "UR09 Warpwalk",
@@ -3476,12 +3476,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling"
+            "notes": ""
         },
         {
             "card_name": "UR10 Terrabomb",
@@ -3586,7 +3586,7 @@
             "number": 142,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Deathtouch\nWhenever you cast a spell with mana value 5 or greater, put a +1/+1 counter on this creature. It gains hexproof until end of turn.",
+            "rules_text": "Deathtouch\nWhen this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with \u201c{T}: Add {C}.\u201d)[/i]\nWhenever you cast a spell with mana value 5 or more, you may pay {G}. When you do, return this card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -3595,26 +3595,26 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "uncommon_waste_cycle"
         },
         {
-            "card_name": "UG02 Earthweaver Druid",
-            "color": "G",
+            "card_name": "UM09 Oasis Sumpter",
+            "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Druid",
-            "number": 143,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with \u201c{T}: Add {C}.\u201d)[/i]\nAt the beginning of your end step, if a land card was put into your graveyard from anywhere this turn, draw a card.",
+            "type": "Creature \u2014 Camel",
+            "number": 170,
+            "color_identity": "WG",
+            "cost": "{1}{G}{W}",
+            "rules_text": "Whenever another creature you control enters, put a +1/+1 counter on that creature.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "uncommon_waste_cycle"
+            "notes": "Archetype enabler\n[canon reprint]"
         },
         {
             "card_name": "UG03 Koma's Chosen",
@@ -3636,16 +3636,16 @@
             "notes": ""
         },
         {
-            "card_name": "UG04 Rebellion Rookie",
+            "card_name": "UG04 Earthweaver Druid",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Rebel",
+            "type": "Creature \u2014 Human Druid",
             "number": 145,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance\nWhenever another creature you control enters, if its power is greater than this creature's power or its toughness is greater than this creature's toughness, put a +1/+1 counter on this creature.",
+            "rules_text": "Vigilance\nAt the beginning of your end step, if a land card was put into your graveyard from anywhere this turn, draw a card.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -3780,12 +3780,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Prism"
+            "notes": ""
         },
         {
             "card_name": "RM01 Dzaan, Wingblade Veteran",
@@ -3864,15 +3864,15 @@
             "notes": ""
         },
         {
-            "card_name": "RM05 Oasis Sumpter",
+            "card_name": "RM05 Ration Supplier",
             "color": "WG",
             "rarity": "rare",
-            "type": "Creature \u2014 Camel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 156,
             "color_identity": "WG",
-            "cost": "{1}{G}{W}",
-            "rules_text": "Vigilance\n{T}: Exile target creature you control Return it to the battlefield under its owner's control at the beginning of the next end step.",
-            "flavor_text": "[i]And yet, life persists.[/i]",
+            "cost": "{2}{G}{W}",
+            "rules_text": "{4}{W}: Put a +1/+1 counter on each creature you control.\n{4}{G}: Creatures you control get +2/+2 until end of turn.",
+            "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -3932,12 +3932,12 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Saproling"
+            "notes": ""
         },
         {
             "card_name": "RM09 Righteous Rebellion",
@@ -4101,7 +4101,7 @@
             "cost": "{2}",
             "rules_text": "This creature can't block.\nWhenever this creature attacks, you may exile a permanent card from your graveyard. If you don't, sacrifice this creature at end of combat.",
             "flavor_text": "[i][/i]",
-            "pt": "4/2",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -4122,12 +4122,12 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling"
+            "notes": ""
         },
         {
             "card_name": "UA03 Meteor Golem",
@@ -4160,12 +4160,12 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "TVB",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "!token Voidling"
+            "notes": ""
         },
         {
             "card_name": "UA08 Scouting Ship",

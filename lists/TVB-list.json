@@ -114,7 +114,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "UG02 Earthweaver Druid",
+        "card_name": "UG02 Settler's Day Parade",
         "number": 143,
         "shape": "normal",
         "set": "TVB"
@@ -126,14 +126,14 @@
         "set": "TVB"
     },
     {
-        "card_name": "UU04 Wakewatcher Wizard",
-        "number": 66,
+        "card_name": "UU03 Thopter Engineer",
+        "number": 65,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UB04 Mindshrieker",
-        "number": 92,
+        "card_name": "UB03 Pitiless Plunderer",
+        "number": 91,
         "shape": "normal",
         "set": "TVB"
     },
@@ -156,14 +156,44 @@
         "set": "TVB"
     },
     {
+        "card_name": "UU04 Wakewatcher Wizard",
+        "number": 66,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UB04 Mindshrieker",
+        "number": 92,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UR04 Potshot Goblin",
+        "number": 118,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UG04 Earthweaver Druid",
+        "number": 145,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UW05 Leyline Patrol",
+        "number": 40,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
         "card_name": "UU05 Leyline Tracker",
         "number": 67,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UB06 Lifeblood Lurker",
-        "number": 94,
+        "card_name": "UB05 Void Summoner",
+        "number": 93,
         "shape": "normal",
         "set": "TVB"
     },
@@ -174,8 +204,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "UG04 Rebellion Rookie",
-        "number": 145,
+        "card_name": "UG05 Scruptions Tiller",
+        "number": 146,
         "shape": "normal",
         "set": "TVB"
     },
@@ -192,20 +222,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "UB07 Bloodsniffer Ogre",
-        "number": 95,
+        "card_name": "UB06 Lifeblood Lurker",
+        "number": 94,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UR07 Strikesoul Rallier",
-        "number": 121,
+        "card_name": "UR06 Boulder Breaker",
+        "number": 120,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UG05 Scruptions Tiller",
-        "number": 146,
+        "card_name": "UG06 Reckless Roots",
+        "number": 147,
         "shape": "normal",
         "set": "TVB"
     },
@@ -222,20 +252,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "UB11 Live or Die",
-        "number": 98,
+        "card_name": "UB07 Bloodsniffer Ogre",
+        "number": 95,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UR10 Terrabomb",
-        "number": 124,
+        "card_name": "UR07 Strikesoul Rallier",
+        "number": 121,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UG06 Reckless Roots",
-        "number": 147,
+        "card_name": "UG07 Clawfoot Elder",
+        "number": 148,
         "shape": "normal",
         "set": "TVB"
     },
@@ -252,6 +282,126 @@
         "set": "TVB"
     },
     {
+        "card_name": "UB09 Encroaching Void",
+        "number": 96,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UR08 Barrescape Pioneer",
+        "number": 122,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UG09 Brush Stomper",
+        "number": 149,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UW09 Pioneering General",
+        "number": 44,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UU10 Obsessive Search",
+        "number": 71,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UB10 Shadows Around Us",
+        "number": 97,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UR09 Warpwalk",
+        "number": 123,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UG11 Spirited Growth",
+        "number": 150,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UW11 Empathic Mesh",
+        "number": 45,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UU11 Sparkwork Kaleidoscope",
+        "number": 72,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UB11 Live or Die",
+        "number": 98,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UR10 Terrabomb",
+        "number": 124,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UG12 Blessing of Selas",
+        "number": 151,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UW12 Rewarding Retreat",
+        "number": 46,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CU01 Highspire Sentry",
+        "number": 47,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CB01 Lifeleeched Vermin",
+        "number": 73,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UR11 The Blind Army",
+        "number": 125,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CG01 Cycle Tender",
+        "number": 126,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CW01 Ascendant Guide",
+        "number": 20,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CU02 Wild Whelp",
+        "number": 48,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
         "card_name": "CB02 Deathrattle Scorpion",
         "number": 74,
         "shape": "normal",
@@ -264,20 +414,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "UG07 Clawfoot Elder",
-        "number": 148,
+        "card_name": "CG02 Ichortongue Lizard",
+        "number": 127,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UW11 Empathic Mesh",
-        "number": 45,
+        "card_name": "CW02 Heartpact Acolyte",
+        "number": 21,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UU10 Obsessive Search",
-        "number": 71,
+        "card_name": "CU03 Lumina Technician",
+        "number": 49,
         "shape": "normal",
         "set": "TVB"
     },
@@ -294,20 +444,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "UG09 Brush Stomper",
-        "number": 149,
+        "card_name": "CG03 Barrescape Nurturer",
+        "number": 128,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UW12 Rewarding Retreat",
-        "number": 46,
+        "card_name": "CW03 Wingblade Duelist",
+        "number": 22,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UU11 Sparkwork Kaleidoscope",
-        "number": 72,
+        "card_name": "CU04 Voidcraft Scholar",
+        "number": 50,
         "shape": "normal",
         "set": "TVB"
     },
@@ -324,98 +474,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "UG11 Spirited Growth",
-        "number": 150,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CW01 Ascendant Guide",
-        "number": 20,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CU01 Highspire Sentry",
-        "number": 47,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB05 Voidheart Mystic",
-        "number": 77,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR04 Caustic Peakcrawler",
-        "number": 102,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CG01 Cycle Tender",
-        "number": 126,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CW02 Heartpact Acolyte",
-        "number": 21,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CU02 Wild Whelp",
-        "number": 48,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB06 Desperate Howler",
-        "number": 78,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR05 Cyclone Caller",
-        "number": 103,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CG02 Ichortongue Lizard",
-        "number": 127,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CW03 Wingblade Recruit",
-        "number": 22,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CU04 Voidcraft Scholar",
-        "number": 50,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB07 Sickleblade Rallier",
-        "number": 79,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR07 Zealous Artillerist",
-        "number": 105,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CG03 Barrescape Nurturer",
-        "number": 128,
+        "card_name": "CG04 Clawfoot Herd",
+        "number": 129,
         "shape": "normal",
         "set": "TVB"
     },
@@ -432,20 +492,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB08 Graverazer",
-        "number": 80,
+        "card_name": "CB05 Voidheart Mystic",
+        "number": 77,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CR08 Cindertusk Boar",
-        "number": 106,
+        "card_name": "CR04 Caustic Peakcrawler",
+        "number": 102,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CG04 Clawfoot Herd",
-        "number": 129,
+        "card_name": "CG05 Mycolid Renewer",
+        "number": 130,
         "shape": "normal",
         "set": "TVB"
     },
@@ -462,20 +522,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB09 Blood-Rage Minotaur",
-        "number": 81,
+        "card_name": "CB06 Desperate Howler",
+        "number": 78,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CR09 Barrescape Behemoth",
-        "number": 107,
+        "card_name": "CR05 Cyclone Caller",
+        "number": 103,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CG05 Voidheart Disciple",
-        "number": 130,
+        "card_name": "CG06 Soil Stirrer",
+        "number": 131,
         "shape": "normal",
         "set": "TVB"
     },
@@ -492,44 +552,14 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB11 Blackened Blade",
-        "number": 82,
+        "card_name": "CB07 Sickleblade Rallier",
+        "number": 79,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CR10 Magma Lash",
-        "number": 108,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CG06 Soil Stirrer",
-        "number": 131,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CW08 Eager Settler",
-        "number": 27,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CU08 Flickerlight Projection",
-        "number": 54,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB12 Zealous Dissection",
-        "number": 83,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR12 Storm the Terralance",
-        "number": 110,
+        "card_name": "CR06 Voidcaller Druid",
+        "number": 104,
         "shape": "normal",
         "set": "TVB"
     },
@@ -540,26 +570,26 @@
         "set": "TVB"
     },
     {
-        "card_name": "CW10 Barrescape Conquerer",
-        "number": 29,
+        "card_name": "CW07 Model Aeronaut",
+        "number": 26,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CU09 Rescue",
-        "number": 55,
+        "card_name": "CU08 Flickerlight Projection",
+        "number": 54,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CB14 Split the Earth",
-        "number": 85,
+        "card_name": "CB08 Graverazer",
+        "number": 80,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CR13 Grind the Gears",
-        "number": 111,
+        "card_name": "CR07 Zealous Artillerist",
+        "number": 105,
         "shape": "normal",
         "set": "TVB"
     },
@@ -570,8 +600,38 @@
         "set": "TVB"
     },
     {
-        "card_name": "CW12 Ruinating Strike",
-        "number": 30,
+        "card_name": "CW08 Eager Settler",
+        "number": 27,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CU09 Rescue",
+        "number": 55,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CB09 Blood-Rage Minotaur",
+        "number": 81,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CR08 Cindertusk Boar",
+        "number": 106,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CG09 Disciple of Koma",
+        "number": 134,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CW09 Magnanimous Magistrate",
+        "number": 28,
         "shape": "normal",
         "set": "TVB"
     },
@@ -582,20 +642,26 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG09 Disciple of Koma",
-        "number": 134,
+        "card_name": "CB11 Blackened Blade",
+        "number": 82,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CW13 Severed Sanctum",
-        "number": 31,
+        "card_name": "CR09 Barrescape Behemoth",
+        "number": 107,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CG11 Nature's Wrath",
+        "number": 135,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CW10 Barrescape Conquerer",
+        "number": 29,
         "shape": "normal",
         "set": "TVB"
     },
@@ -606,20 +672,26 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG11 Nature's Wrath",
-        "number": 135,
+        "card_name": "CB12 Zealous Dissection",
+        "number": 83,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CW14 Fleeting Flight",
-        "number": 32,
+        "card_name": "CR10 Magma Lash",
+        "number": 108,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CG12 Peatfield Ambush",
+        "number": 136,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CW12 Ruinating Strike",
+        "number": 30,
         "shape": "normal",
         "set": "TVB"
     },
@@ -630,20 +702,26 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG12 Peatfield Ambush",
-        "number": 136,
+        "card_name": "CB13 Out of Focus",
+        "number": 84,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "CW15 Heartpact Rebirth",
-        "number": 33,
+        "card_name": "CR11 Beckoning Void",
+        "number": 109,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CG13 Oxhide Veil",
+        "number": 137,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CW13 Severed Sanctum",
+        "number": 31,
         "shape": "normal",
         "set": "TVB"
     },
@@ -654,28 +732,16 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CG13 Oxhide Veil",
-        "number": 137,
+        "card_name": "CB14 Split the Earth",
+        "number": 85,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "CR12 Storm the Terralance",
+        "number": 110,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
         "card_name": "CG14 Leyline Navigation",
@@ -684,22 +750,55 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "CW14 Fleeting Flight",
+        "number": 32,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "CU14 Chonofraction",
+        "number": 60,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "CB15 Mindless Culling",
+        "number": 86,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "CR13 Grind the Gears",
+        "number": 111,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
         "card_name": "CG15 Harvest Cycle",
         "number": 139,
         "shape": "normal",
         "set": "TVB"
+    },
+    {
+        "card_name": "CW15 Heartpact Rebirth",
+        "number": 33,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR15 Scorching Abrasion",
+        "number": 112,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -739,14 +838,14 @@
         "set": "TVB"
     },
     {
-        "card_name": "RM05 Oasis Sumpter",
+        "card_name": "RM05 Ration Supplier",
         "number": 156,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM02 Wingblade General",
-        "number": 163,
+        "card_name": "UM01 Thopter Suit",
+        "number": 162,
         "shape": "normal",
         "set": "TVB"
     },
@@ -757,8 +856,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "UM06 Underfall Flamer",
-        "number": 167,
+        "card_name": "UM05 Voidheart Rallier",
+        "number": 166,
         "shape": "normal",
         "set": "TVB"
     },
@@ -769,13 +868,16 @@
         "set": "TVB"
     },
     {
-        "card_name": "UM10 Heartland Hero",
-        "number": 171,
+        "card_name": "UM09 Oasis Sumpter",
+        "number": 170,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "UM02 Wingblade General",
+        "number": 163,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
         "card_name": "UM04 Cunning Projectionist",
@@ -784,7 +886,10 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "UM06 Underfall Flamer",
+        "number": 167,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
         "card_name": "UM08 Leyline Defender",
@@ -793,7 +898,10 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "UM10 Rebellion Rookie",
+        "number": 171,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
         "card_name": "er"
@@ -823,8 +931,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "UM15 Darkeater",
-        "number": 176,
+        "card_name": "RM08 Mycolid Rejuvinator",
+        "number": 159,
         "shape": "normal",
         "set": "TVB"
     },
@@ -847,14 +955,14 @@
         "set": "TVB"
     },
     {
-        "card_name": "UM14 Cobbled Contraption",
-        "number": 175,
+        "card_name": "UM13 Ephemera Vendor",
+        "number": 174,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM16 Underdark Avenger",
-        "number": 177,
+        "card_name": "UM15 Darkeater",
+        "number": 176,
         "shape": "normal",
         "set": "TVB"
     },
@@ -877,10 +985,16 @@
         "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "UM14 Cobbled Contraption",
+        "number": 175,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
-        "card_name": "e"
+        "card_name": "UM16 Underdark Avenger",
+        "number": 177,
+        "shape": "normal",
+        "set": "TVB"
     },
     {
         "card_name": "UM18 Battlefield Troubador",
@@ -919,6 +1033,12 @@
     {
         "card_name": "RG03 Sporespawn Drift",
         "number": 10,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RR03 Lucient Amalgam",
+        "number": 11,
         "shape": "normal",
         "set": "TVB"
     },
@@ -971,14 +1091,32 @@
         "set": "TVB"
     },
     {
+        "card_name": "UA02 Imperfect Vessel",
+        "number": 185,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
         "card_name": "UA03 Meteor Golem",
         "number": 186,
         "shape": "normal",
         "set": "TVB"
     },
     {
+        "card_name": "UA05 Aderic's Sextant",
+        "number": 187,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
         "card_name": "UA06 Adventuring Gear",
         "number": 188,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UA07 Voidcraft Blade",
+        "number": 189,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1007,6 +1145,12 @@
         "set": "TVB"
     },
     {
+        "card_name": "CG10 Burgeoning Stampede",
+        "number": 4,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
         "card_name": "CR14 Lightning Flare",
         "number": 5,
         "shape": "normal",
@@ -1021,6 +1165,12 @@
     {
         "card_name": "CW11 Shimmering Stalker",
         "number": 7,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "CA02 Skyport Custodian",
+        "number": 181,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1041,9 +1191,6 @@
         "number": 184,
         "shape": "normal",
         "set": "TVB"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1191,19 +1338,13 @@
     },
     {
         "card_name": "Plains",
-        "number": 204,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Plains",
         "number": 203,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "Island",
-        "number": 206,
+        "card_name": "Plains",
+        "number": 204,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1214,8 +1355,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Swamp",
-        "number": 207,
+        "card_name": "Island",
+        "number": 206,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1226,8 +1367,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Mountain",
-        "number": 210,
+        "card_name": "Swamp",
+        "number": 207,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1238,14 +1379,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "Forest",
-        "number": 212,
+        "card_name": "Mountain",
+        "number": 210,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Forest",
         "number": 211,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Forest",
+        "number": 212,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1263,30 +1410,6 @@
     },
     "a->token",
     {
-        "card_name": "RR03 Lucient Amalgam",
-        "number": 11,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UA02 Imperfect Vessel",
-        "number": 185,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UA05 Aderic's Sextant",
-        "number": 187,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UA07 Voidcraft Blade",
-        "number": 189,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
         "card_name": "Common Keyword Distribution",
         "number": 1,
         "shape": "token",
@@ -1301,12 +1424,6 @@
     {
         "card_name": "Draft Archetypes",
         "number": 3,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CG10 Burgeoning Stampede",
-        "number": 4,
         "shape": "token",
         "set": "TVB"
     },
@@ -1359,90 +1476,6 @@
         "set": "TVB"
     },
     {
-        "card_name": "CA02 Skyport Custodian",
-        "number": 181,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UW05 Leyline Patrol",
-        "number": 40,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UW09 Pioneering General",
-        "number": 44,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UU03 Thopter Engineer",
-        "number": 65,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UB03 Pitiless Plunderer",
-        "number": 91,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UB05 Void Summoner",
-        "number": 93,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UB09 Encroaching Void",
-        "number": 96,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UB10 Shadows Around Us",
-        "number": 97,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UR04 Potshot Goblin",
-        "number": 118,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UR06 Boulder Breaker",
-        "number": 120,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UR08 Barrescape Pioneer",
-        "number": 122,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UR09 Warpwalk",
-        "number": 123,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UR11 The Blind Army",
-        "number": 125,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UG12 Blessing of Selas",
-        "number": 151,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
         "card_name": "Soldier",
         "number": 6,
         "shape": "token",
@@ -1459,99 +1492,6 @@
         "number": 8,
         "shape": "token",
         "set": "TVB"
-    },
-    {
-        "card_name": "CW07 Model Aeronaut",
-        "number": 26,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CW09 Magnanimous Magistrate",
-        "number": 28,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CU03 Lumina Technician",
-        "number": 49,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CU14 Chonofraction",
-        "number": 60,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB01 Lifeleeched Vermin",
-        "number": 73,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB13 Out of Focus",
-        "number": 84,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CB15 Mindless Culling",
-        "number": 86,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR06 Voidcaller Druid",
-        "number": 104,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR11 Beckoning Void",
-        "number": 109,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "CR15 Scorching Abrasion",
-        "number": 112,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "RM08 Mycolid Rejuvinator",
-        "number": 159,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM01 Thopter Suit",
-        "number": 162,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM05 Voidheart Rallier",
-        "number": 166,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM09 Settler's Day Parade",
-        "number": 170,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM13 Ephemera Vendor",
-        "number": 174,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
