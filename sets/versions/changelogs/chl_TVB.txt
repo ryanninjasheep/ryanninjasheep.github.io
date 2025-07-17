@@ -1,4 +1,921 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+RW02 Bastion of Destiny added.
+RW04 Empire's Wing added.
+UW10 Silvershield Martyr added.
+UU04 Voidseeker Sneak added.
+UU06 Thopter Engineer added.
+RU04 Imperial Mistweaver added.
+UU12 Flickerlight Form added.
+RB04 Bitter Grudge added.
+UB12 Wreckage Extractor added.
+RR04 Leila, Reckless Pyromancer added.
+UR12 Dizzying Resummoning added.
+UG01 Manaseeker Serpent added.
+UG03 Underfall Harmonist added.
+UG08 Koma's Chosen added.
+RX01 Void Engine added.
+
+MW01 removed.
+MW02 removed.
+RW02 Empire's Wing removed.
+RW04 removed.
+RW05 removed.
+RW06 removed.
+RW07 removed.
+UW10 removed.
+UW13 removed.
+UW14 removed.
+MU01 removed.
+MU02 removed.
+RU04 removed.
+RU05 removed.
+RU06 removed.
+RU07 removed.
+UU03 Thopter Engineer removed.
+UU06 Imperial Mistweaver removed.
+UU12 removed.
+UU13 removed.
+UU14 removed.
+MB01 removed.
+MB02 removed.
+RB04 removed.
+RB05 removed.
+RB06 removed.
+RB07 removed.
+UB12 removed.
+UB13 removed.
+UB14 removed.
+MR01 removed.
+MR02 removed.
+RR04 removed.
+RR05 removed.
+RR06 removed.
+RR07 removed.
+UR12 removed.
+UR13 removed.
+UR14 removed.
+MG01 removed.
+MG02 removed.
+RG05 removed.
+RG06 removed.
+RG07 removed.
+UG01 Veiled Asp removed.
+UG03 Koma's Chosen removed.
+UG08 removed.
+UG13 removed.
+UG14 removed.
+RX01 removed.
+MX02 removed.
+MX03 removed.
+MX04 removed.
+MX05 removed.
+MX06 removed.
+MX07 removed.
+MX08 removed.
+MX09 removed.
+MX10 removed.
+RX02 removed.
+RX03 removed.
+RX04 removed.
+RX05 removed.
+RX06 removed.
+RX07 removed.
+RX08 removed.
+RX09 removed.
+RX10 removed.
+RX11 removed.
+RX12 removed.
+RX13 removed.
+RX14 removed.
+RX15 removed.
+
+CU01 Highspire Sentry
+
+CU02 Wild Whelp
+
+CU03 Lumina Technician
+
+CU04 Voidcraft Scholar
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Ravaged Lands Avenger
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+pt: 3/3 => 3/4
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR10 Magma Lash
+
+CR11 Beckoning Void
+
+CR12 Storm the Terralance
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Mycolid Renewer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM19 Dreamroot Mass
+type: Creature — Voidling Plant Skeleton => Creature — Voidling Plant
+
+UM08 Leyline Defender
+
+UG02 Settler's Day Parade
+
+UM10 Rebellion Rookie
+
+UM11 Fractal Form
+
+UM12 Vision Sublime
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+RW01 Aethelia Mentor
+
+RW03 Effervescent Enigma
+rules_text: Flash
+Flying
+When this creature enters, target creature gains indestructible until end of turn.
+Evoke {W}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flash
+Flying
+When this creature enters exile target non-Pegasus creature, then return it to the battlefield under its owner's control.
+Evoke {W}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+UW01 Munitions Supplier
+
+UW02 Coordinated Captain
+
+UW03 Inspiring Veteran
+
+UW04 Dawncaller
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering Aristocrat
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Aderic, Savvy Surveyor
+rules_text: As long as defending player controls a face-down land, this creature can't be blocked.
+Whenever this creature deals damage to an opponent, surveil 1. => As long as defending player controls a face-down land, this creature can't be blocked.
+Whenever Aderic deals combat damage to a player, you may return a land you control to its owner's hand.
+
+UU02 Shifting Spectre
+rules_text: Vigilance
+{2C}: This creature gets +1/-1 until end of turn. [i]({2C} can be paid with any two mana or with {C}.)[/i] => Vigilance
+{2C}: This creature gets +1/-1 until end of turn. [i]({2C} can be paid with any two mana or with {C}.)[/i]
+When this creature dies, draw a card.
+
+UU04 Wakewatcher Wizard
+pt: 2/4 => 2/3
+
+UU05 Leyline Tracker
+
+UU07 Stormwake Draconid
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+RB02 Grim Opportunist
+rules_text: When this creature enters, put a decayed counter on target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a creature, you gain 1 life. => When this creature enters, put a decayed counter on target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a permanent, you gain 1 life.
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Live or Die
+
+RR01 Barrescape Tyrant
+
+RR02 Earthquake Elemental
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Barrescape Crawler
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+RG04 The Core Awakened
+
+UM09 Oasis Sumpter
+
+UG04 Earthweaver Druid
+rules_text: Vigilance
+At the beginning of your end step, if a land card was put into your graveyard from anywhere this turn, draw a card. => Reach
+At the beginning of your end step, if a land card was put into your graveyard from anywhere this turn, draw a card.
+pt: 2/3 => 3/3
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG09 Brush Stomper
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM05 Ration Supplier
+
+RM06 Dusk's Chosen
+rules_text: At the beginning of your end step, if a permanent card was put into your graveyard from anywhere this turn, put a +1/+1 counter on this creature.
+When this creature dies, return another target non-Cleric creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield. => At the beginning of your end step, if a permanent was put into your graveyard from anywhere this turn, put a +1/+1 counter on this creature.
+When this creature dies, return another target non-Cleric creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.
+
+RM07 Sparkwork Sorcerer
+
+RM08 Cycleborn Mycolid
+
+RM09 Righteous Rebellion
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+
+VERSION 7 CHANGELOG
+====================
+
+CW07 Aeronaut Modelist added.
+MW01 added.
+MW02 added.
+RW04 added.
+RW05 added.
+RW06 added.
+RW07 added.
+UW09 Pioneering Aristocrat added.
+UW10 added.
+UW13 added.
+UW14 added.
+MU01 added.
+MU02 added.
+RU02 Aderic, Savvy Surveyor added.
+RU04 added.
+RU05 added.
+RU06 added.
+RU07 added.
+UU12 added.
+UU13 added.
+UU14 added.
+MB01 added.
+MB02 added.
+RB04 added.
+RB05 added.
+RB06 added.
+RB07 added.
+UB07 Blood-Mad Ogre added.
+UB12 added.
+UB13 added.
+UB14 added.
+MR01 added.
+MR02 added.
+RR04 added.
+RR05 added.
+RR06 added.
+RR07 added.
+UR12 added.
+UR13 added.
+UR14 added.
+MG01 added.
+MG02 added.
+RG04 The Core Awakened added.
+RG05 added.
+RG06 added.
+RG07 added.
+UG08 added.
+UG13 added.
+UG14 added.
+RX01 added.
+MX02 added.
+MX03 added.
+MX04 added.
+MX05 added.
+MX06 added.
+MX07 added.
+MX08 added.
+MX09 added.
+MX10 added.
+RM08 Cycleborn Mycolid added.
+RX02 added.
+RX03 added.
+RX04 added.
+RX05 added.
+RX06 added.
+RX07 added.
+RX08 added.
+RX09 added.
+RX10 added.
+RX11 added.
+RX12 added.
+RX13 added.
+RX14 added.
+RX15 added.
+
+CW07 Model Aeronaut removed.
+UW09 Pioneering General removed.
+RU02 Barrescape Stalker removed.
+UB07 Bloodsniffer Ogre removed.
+RM08 Mycolid Rejuvinator removed.
+Servo removed.
+
+CW06 Skyport Sanctifier
+
+CW11 Shimmering Stalker
+
+CW15 Heartpact Rebirth
+
+CU01 Highspire Sentry
+
+CU02 Wild Whelp
+
+CU03 Lumina Technician
+
+CU04 Voidcraft Scholar
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Ravaged Lands Avenger
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR10 Magma Lash
+
+CR11 Beckoning Void
+
+CR12 Storm the Terralance
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Mycolid Renewer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM19 Dreamroot Mass
+type: Creature — Voidling Plant => Creature — Voidling Plant Skeleton
+
+UM08 Leyline Defender
+
+UG02 Settler's Day Parade
+
+UM10 Rebellion Rookie
+
+UM11 Fractal Form
+
+UM12 Vision Sublime
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA04 Shadow Self
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Voidling
+
+Treasure
+
+Soldier
+
+Thopter
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+Prism
+
+Elephant
+
+RW01 Aethelia Mentor
+
+RW02 Empire's Wing
+
+UW01 Munitions Supplier
+
+UW02 Coordinated Captain
+
+UW03 Inspiring Veteran
+
+UW04 Dawncaller
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+RU01 Pfiel, Expansion Architect
+
+RU03 Chimeric Terror
+rules_text: Flying
+When this creature enters, draw a card.
+{2}, Discard a card: Return this creature to its owner's hand.
+Evoke {U}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying
+When this creature enters, draw a card.
+{1}, Discard a card: Return this creature to its owner's hand.
+Evoke {U}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+UU02 Shifting Spectre
+
+UU03 Thopter Engineer
+
+UU04 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+
+UU06 Imperial Mistweaver
+
+UU07 Stormwake Draconid
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+RB02 Grim Opportunist
+
+RB03 Pact Eternal
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+type: Creature — Horror => Creature — Gnoll
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB08 Grotesque Gestalt
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Live or Die
+
+RR01 Barrescape Tyrant
+
+RR02 Earthquake Elemental
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Barrescape Crawler
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+UG01 Veiled Asp
+
+UM09 Oasis Sumpter
+
+UG03 Koma's Chosen
+
+UG04 Earthweaver Druid
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG09 Brush Stomper
+
+UG10 Budding Mycospawn
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM05 Ration Supplier
+
+RM06 Dusk's Chosen
+
+RM07 Sparkwork Sorcerer
+
+RM09 Righteous Rebellion
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+Voidling Beast
+
+UA02 Imperfect Vessel
+cost: {3} => {4}
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+Saproling
+
+Rock
+
+
+VERSION 6 CHANGELOG
 ====================
 
 CW03 Wingblade Duelist added.
