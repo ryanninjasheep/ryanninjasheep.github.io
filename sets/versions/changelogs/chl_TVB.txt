@@ -1,4 +1,404 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+CW03 Twin-Blade Duelist added.
+CW06 Wingblade Recruit added.
+CR12 Let Go Lightly added.
+RW05 Tectonic Shift added.
+UW13 Bonded in Battle added.
+RU05 Voidcraft Adept added.
+UU13 Skyjack added.
+RB05 Malaak, Corrupted Prince added.
+UB13 Drag Below added.
+RR05 Flintlock Scavenger added.
+UR13 Storm the Terralance added.
+RG05 Mammoth Caller added.
+UG13 Invigorating Surge added.
+RM07 Prism Dancer added.
+
+CW03 Wingblade Duelist removed.
+CW06 Skyport Sanctifier removed.
+CR12 Storm the Terralance removed.
+RM07 Sparkwork Sorcerer removed.
+
+CU01 Highspire Sentry
+
+CU02 Wild Whelp
+
+CU03 Lumina Technician
+
+CU04 Voidcraft Scholar
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Ravaged Lands Avenger
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+rules_text: Trample
+Whenever you cast a colorless or noncreature spell, this creature gets +1/+0 until end of turn. => Trample
+Whenever a colorless nonland permanent you control enters, this creature gets +1/+0 until end of turn.
+
+CR09 Barrescape Behemoth
+
+CR10 Magma Lash
+
+CR11 Beckoning Void
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Mycolid Renewer
+rules_text: This creature enters with two +1/+1 counters on it.
+When this creature dies, put its counters on target creature you control. => This creature enters with a +1/+1 counter on it.
+When this creature dies, put its counters on target creature you control.
+pt: 0/0 => 2/2
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM08 Leyline Defender
+
+UG02 Settler's Day Parade
+
+UM10 Rebellion Rookie
+
+UM11 Fractal Form
+
+UM12 Vision Sublime
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Treasure
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+Elephant
+
+UW01 Munitions Supplier
+
+UW02 Coordinated Captain
+
+UW03 Inspiring Veteran
+
+UW04 Dawncaller
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering Aristocrat
+
+UW10 Silvershield Martyr
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Aderic, Savvy Surveyor
+
+UU04 Voidseeker Sneak
+
+UU02 Shifting Spectre
+rules_text: Vigilance
+{2C}: This creature gets +1/-1 until end of turn. [i]({2C} can be paid with any two mana or with {C}.)[/i]
+When this creature dies, draw a card. => Flying, vigilance
+{C}: This creature gets +1/-1 until end of turn.
+
+UU06 Thopter Engineer
+
+UU04 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+
+RU04 Imperial Mistweaver
+
+UU07 Stormwake Draconid
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+UU12 Flickerlight Form
+rules_text: Until end of turn, target permanent becomes a colorless Illusion creature with base power and toughness 4/1 in addition to its other types. => Until end of turn, target permanent becomes a colorless Illusion creature with base power and toughness 4/1 in addition to its other types. [i](It loses all other colors and creature types, but retains its other types.)[/i]
+
+RB02 Grim Opportunist
+type: Creature — Vampire Noble => Creature — Vampire Warlock
+
+RB04 Bitter Grudge
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Live or Die
+
+UB12 Wreckage Extractor
+
+RR01 Barrescape Tyrant
+
+RR02 Earthquake Elemental
+cost: {1}{R}{R} => {2}{R}
+pt: 5/2 => 4/2
+
+RR04 Leila, Reckless Pyromancer
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Voidcraft Champion
+type: Creature — Human Artificer => Creature — Human Rebel
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+cost: {1}{R} => {R}
+
+UM17 Barrescape Crawler
+
+UR12 Dizzying Resummoning
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+RG04 The Core Awakened
+
+UG01 Manaseeker Serpent
+rules_text: Deathtouch
+When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Whenever you cast a spell with mana value 5 or more, you may return this card from your graveyard to your hand. => Deathtouch
+When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Whenever you cast a spell with mana value 5 or greater, you may return this card from your graveyard to your hand.
+
+UM09 Oasis Sumpter
+
+UG03 Underfall Harmonist
+
+UG04 Earthweaver Druid
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG08 Koma's Chosen
+
+UG09 Brush Stomper
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+RX01 Void Engine
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM05 Ration Supplier
+
+RM06 Dusk's Chosen
+
+RM08 Cycleborn Mycolid
+
+RM09 Righteous Rebellion
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+
+VERSION 8 CHANGELOG
 ====================
 
 RW02 Bastion of Destiny added.
