@@ -1,4 +1,14 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+RU03 Shattered Reflection added.
+UA01 Fractured Phantom added.
+
+RU03 Chimeric Terror removed.
+UA01 Fading Voyager removed.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 CW03 Twin-Blade Duelist added.

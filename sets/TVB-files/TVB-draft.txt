@@ -1511,13 +1511,13 @@
 			}
 		},
 		{
-			"name": "RU03 Chimeric Terror",
+			"name": "RU03 Shattered Reflection",
 			"rarity": "rare",
 			"mana_cost": "{7}",
-			"type": "Creature — Voidling Illusion",
+			"type": "Creature — Voidling Shapeshifter",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/12_RU03 Chimeric Terror.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/12_RU03 Shattered Reflection.png"
 			}
 		},
 		{
@@ -2361,13 +2361,13 @@
 			}
 		},
 		{
-			"name": "UA01 Fading Voyager",
+			"name": "UA01 Fractured Phantom",
 			"rarity": "uncommon",
-			"mana_cost": "{2}",
+			"mana_cost": "{5}",
 			"type": "Creature — Voidling",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/14_UA01 Fading Voyager.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/14_UA01 Fractured Phantom.png"
 			}
 		},
 		{
@@ -2470,7 +2470,7 @@
 	2 RW05 Tectonic Shift
 	2 RU01 Pfiel, Expansion Architect
 	2 RU02 Aderic, Savvy Surveyor
-	2 RU03 Chimeric Terror
+	2 RU03 Shattered Reflection
 	2 RU05 Voidcraft Adept
 	2 RU04 Imperial Mistweaver
 	2 RB02 Grim Opportunist
@@ -2588,7 +2588,7 @@
 	4 UG13 Invigorating Surge
 	4 UA04 Endless Hollow
 	4 UA06 Adventuring Gear
-	4 UA01 Fading Voyager
+	4 UA01 Fractured Phantom
 	4 UA02 Imperfect Vessel
 	4 UA03 Meteor Golem
 	4 UA07 Voidcraft Blade
@@ -2808,7 +2808,7 @@
 	6 UW13 Bonded in Battle
 	2 RU01 Pfiel, Expansion Architect
 	2 RU02 Aderic, Savvy Surveyor
-	2 RU03 Chimeric Terror
+	2 RU03 Shattered Reflection
 	6 UU04 Voidseeker Sneak
 	2 RU05 Voidcraft Adept
 	6 UU02 Shifting Spectre
@@ -2892,7 +2892,7 @@
 	6 UA06 Adventuring Gear
 	6 UL01 Deepwell Quarry
 	6 UL02 Neglected Digsite
-	6 UA01 Fading Voyager
+	6 UA01 Fractured Phantom
 	6 UA02 Imperfect Vessel
 	6 UA03 Meteor Golem
 	6 UA07 Voidcraft Blade
@@ -3032,7 +3032,7 @@
 	15 UW13 Bonded in Battle
 	7 RU01 Pfiel, Expansion Architect
 	7 RU02 Aderic, Savvy Surveyor
-	7 RU03 Chimeric Terror
+	7 RU03 Shattered Reflection
 	15 UU04 Voidseeker Sneak
 	7 RU05 Voidcraft Adept
 	15 UU02 Shifting Spectre
@@ -3116,7 +3116,7 @@
 	15 UA06 Adventuring Gear
 	15 UL01 Deepwell Quarry
 	15 UL02 Neglected Digsite
-	15 UA01 Fading Voyager
+	15 UA01 Fractured Phantom
 	15 UA02 Imperfect Vessel
 	15 UA03 Meteor Golem
 	15 UA07 Voidcraft Blade
