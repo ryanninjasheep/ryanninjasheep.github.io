@@ -1,4 +1,437 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+CR03 Barrescape Brawler added.
+MW01 Hu, Vestige of Faith added.
+UW02 Inspiring Veteran added.
+UW03 Fraternal Baker added.
+UW14 Shifting Stance added.
+MU01 Ba, Vestige of Knowledge added.
+UU07 Voidsea Leviathan added.
+UU14 Hunt for the Awakened Core added.
+MB01 Li, Vestige of Life added.
+UB14 Pull Apart added.
+MR01 Ko, Vestige of Fervor added.
+UR14 Luciclasm added.
+MG01 Te, Vestige of Strength added.
+UG14 Well-Rounded Meal added.
+RX02 Fallen Lotus added.
+
+CR03 Ravaged Lands Avenger removed.
+UW02 Coordinated Captain removed.
+UW03 Inspiring Veteran removed.
+UU07 Stormwake Draconid removed.
+
+CW01 Ascendant Guide
+
+CW02 Heartpact Acolyte
+
+CU01 Highspire Sentry
+
+CU02 Wild Whelp
+
+CU03 Lumina Technician
+
+CU04 Voidcraft Scholar
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB10 Madness Incarnate
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR11 Beckoning Void
+
+CR12 Let Go Lightly
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG05 Mycolid Renewer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM08 Leyline Defender
+
+UG02 Settler's Day Parade
+
+UM10 Rebellion Rookie
+
+UM11 Fractal Form
+
+UM12 Vision Sublime
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Thopter
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+UR11 The Blind Army
+
+RW01 Aethelia Mentor
+
+RW02 Bastion of Destiny
+
+RW04 Empire's Wing
+
+RW05 Tectonic Shift
+rules_text: Choose one —
+• Destroy nonland permanents that are one or more colors.
+• Destroy all colorless nonland permanents. => Choose one —
+• Destroy all nonland permanents that are one or more colors.
+• Destroy all colorless nonland permanents.
+
+UW01 Munitions Supplier
+
+UW04 Dawncaller
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering Aristocrat
+
+UW10 Silvershield Martyr
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+UW13 Bonded in Battle
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Aderic, Savvy Surveyor
+
+UU04 Voidseeker Sneak
+
+RU05 Voidcraft Adept
+
+UU02 Shifting Spectre
+
+UU06 Thopter Engineer
+
+UU04 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+type: Creature — Elf Advisor => Creature — Elf Scout
+rules_text: When this creature enters, you may search your library for a card with mana value 5 or greater, reveal it, then shuffle and put that card on top. => Flying
+When this creature enters, you may search your library for a card with mana value 5 or greater, reveal it, then shuffle and put that card on top.
+pt: 2/4 => 2/3
+
+RU04 Imperial Mistweaver
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+UU12 Flickerlight Form
+
+UU13 Skyjack
+rules_text: Enchant creature
+You control enchanted creature
+Enchanted creature has flying => Enchant creature
+You control enchanted creature.
+Enchanted creature has flying.
+
+RB02 Grim Opportunist
+
+RB03 Pact Eternal
+
+RB04 Bitter Grudge
+
+RB05 Malaak, Corrupted Prince
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Live or Die
+
+UB12 Wreckage Extractor
+
+UB13 Drag Below
+
+RR01 Barrescape Tyrant
+
+RR02 Earthquake Elemental
+
+RR04 Leila, Reckless Pyromancer
+
+RR05 Flintlock Scavenger
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Barrescape Crawler
+
+UR12 Dizzying Resummoning
+
+UR13 Storm the Terralance
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+rules_text: When this creature enters, target land you control becomes a 3/3 Elemental creature with haste. It's still a land.
+Colorless creatures you control have trample. => When this creature enters, put four +1/+1 counters on target land you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+Colorless creatures you control have trample.
+pt: 2/3 => 2/2
+
+RG04 The Core Awakened
+
+RG05 Mammoth Caller
+
+UG01 Manaseeker Serpent
+
+UM09 Oasis Sumpter
+
+UG03 Underfall Harmonist
+
+UG04 Earthweaver Druid
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+rules_text: Mill three cards, then put X +1/+1 counters on target land you control, where X is the number of permanent cards in your graveyard. That land becomes an Elemental creature with haste. It's still a land. => Mill three cards, then put X +1/+1 counters on target land you control, where X is the number of permanent cards in your graveyard. That land becomes a 0/0 Elemental creature with haste. It's still a land.
+
+UG07 Clawfoot Elder
+
+UG08 Koma's Chosen
+
+UG09 Brush Stomper
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+UG13 Invigorating Surge
+
+RX01 Void Engine
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM05 Ration Supplier
+
+RM06 Dusk's Chosen
+
+RM07 Prism Dancer
+
+RM08 Cycleborn Mycolid
+
+RM09 Righteous Rebellion
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Voidcraft Blade
+
+UA08 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+MX01 Empty Heart
+rules_text: Flying, vigilance, indestructible
+Other colorless creatures you control have flying, vigilance, and indestructible.
+Whenever you sacrifice a colorless creature, draw a card. => Flying, vigilance, indestructible
+Other colorless creatures you control have flying, vigilance, and indestructible.
+{C}{C}{C}: Exile target creature. Create a token that's a copy of it except it's colorless.
+
+CR10 Magma Lash
+
+
+VERSION 10 CHANGELOG
 ====================
 
 RU03 Shattered Reflection added.
