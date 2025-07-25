@@ -1,4 +1,535 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+CW06 Skyport Watchman added.
+CW03 Aethelia Aerialist added.
+CU02 Voidcraft Scholar added.
+CU04 Wild Whelp added.
+UM10 Call to Battle added.
+CW04 Wingblade Recruit added.
+RR06 The Blind Army added.
+RW01 Shen, Noble Heiress added.
+RW06 Soul Siphoner added.
+UW04 Inspiring Veteran added.
+UW03 Twinblade Duelist added.
+UW02 Dawncaller added.
+RU06 Sculpt in Light added.
+RB06 Frenzied Gravechurner added.
+UR11 Voidcraft Blade added.
+UR13 Uncaged Fury added.
+RG04 Canopy Dancer added.
+RG06 Rampaging Clawfoot added.
+UG13 Overcome added.
+RM05 Rally Supplier added.
+RM06 Vampiric Awakening added.
+UA08 Fallen Lotus added.
+RX02 Scintillating Echoes added.
+UA07 Scouting Ship added.
+CG05 Rebellion Rookie added.
+
+CW03 Twin-Blade Duelist removed.
+CW06 Wingblade Recruit removed.
+CU02 Wild Whelp removed.
+CU04 Voidcraft Scholar removed.
+CG05 Mycolid Renewer removed.
+UM10 Rebellion Rookie removed.
+CW04 Frontline Vassal removed.
+UR11 The Blind Army removed.
+RW01 Aethelia Mentor removed.
+UW02 Inspiring Veteran removed.
+UW03 Fraternal Baker removed.
+UW04 Dawncaller removed.
+UR13 Storm the Terralance removed.
+RG04 The Core Awakened removed.
+UG13 Invigorating Surge removed.
+RM05 Ration Supplier removed.
+RM06 Dusk's Chosen removed.
+RX02 Fallen Lotus removed.
+UA07 Voidcraft Blade removed.
+UA08 Scouting Ship removed.
+
+CW01 Ascendant Guide
+rules_text: Flying
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Whenever another creature you control enters, you gain 1 life.
+pt: 1/1 => 1/2
+
+CW02 Heartpact Acolyte
+rules_text: Whenever this creature becomes tapped, you gain 1 life. => At the beginning of your end step, if this creature is tapped, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 1/3 => 2/2
+
+CW05 Reckless Raptor
+
+CW07 Aeronaut Modelist
+
+CW08 Eager Settler
+
+CW09 Magnanimous Magistrate
+
+CW10 Barrescape Conquerer
+cost: {4}{W} => {5}{W}
+rules_text: During your turn, this creature has first strike.
+[i]Landfall[/i] — Whenever a land you control enters, this creature gets +1/+0 until end of turn. => During your turn, this creature has first strike.
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn.
+pt: 3/4 => 4/4
+
+CW15 Heartpact Rebirth
+
+CU01 Highspire Sentry
+
+CU03 Lumina Technician
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CU15 Sepia Serpent
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB03 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB08 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB12 Zealous Dissection
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR03 Barrescape Brawler
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Zealous Artillerist
+
+CR08 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+CR11 Beckoning Void
+
+CR12 Let Go Lightly
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG13 Oxhide Veil
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM19 Dreamroot Mass
+
+UM08 Leyline Defender
+
+UG02 Settler's Day Parade
+
+UM11 Fractal Form
+
+UM12 Vision Sublime
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Battlefield Troubador
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+CW12 Ruinating Strike
+
+CW13 Severed Sanctum
+
+CW14 Fleeting Flight
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+Cycles
+rules_text: common_evoke_cycle
+common_waste_cycle
+common_waste_spell_cycle
+uncommon_landfall_cycle
+uncommon_waste_cycle
+rare_voidling_cycle => common_evoke_cycle
+common_waste_cycle
+common_waste_spell_cycle
+uncommon_landfall_cycle
+uncommon_waste_cycle
+rare_voidling_cycle
+rare_repeatable_waste_cycle
+
+CB14 Split the Earth
+
+CR05 Cyclone Caller
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+Prism
+
+Draft Archetypes
+rules_text: Mechanics:
+URW Lay waste
+UBG Evoke
+RGW [i]Landfall[/i]
+
+WU — Flying | Fast
+UB — Colorless costs | Mid
+BR — Aristocrats | Mid
+RG — [i]Landfall[/i] | Fast
+GW — +1/+1 counters | Mid
+WB — Reanimator | Slow
+UR — Colorless permanents | Mid
+BG — [i]Descend 4[/i] | Slow
+RW — Tapped creatures | Fast
+GU — Evoke ramp | Slow => Mechanics:
+URW Lay waste
+UBG Evoke
+RGW [i]Landfall[/i]
+
+WU — Flying | Fast
+UB — Colorless costs | Mid
+BR — Aristocrats | Mid
+RG — [i]Landfall[/i] | Fast
+GW — Go wide | Mid
+WB — Reanimator | Slow
+UR — Colorless permanents | Mid
+BG — [i]Descend 4[/i] | Slow
+RW — Tapped creatures | Fast
+GU — Evoke ramp | Slow
+
+MW01 Hu, Vestige of Faith
+
+RW02 Bastion of Destiny
+cost: {3}{W}{W} => {4}{W}
+rules_text: Flying
+When this creature enters, creatures you control gain lifelink and indestructible until end of turn. => Flying
+{2}{W}{W}, Lay waste: Creatures you control gain lifelink until end of turn. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+pt: 4/3 => 4/4
+
+RW03 Effervescent Enigma
+
+RW04 Empire's Wing
+
+RW05 Tectonic Shift
+
+UW01 Munitions Supplier
+rules_text: {4}{W}: Creatures you control get +1/+1 until end of turn. => {W}, {T}: Target creature gets +1/+1 until end of turn. If it had flying, put a +1/+1 counter on it instead. Activate only as a sorcery.
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering Aristocrat
+
+UW10 Silvershield Martyr
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+UW13 Bonded in Battle
+cost: {1}{W} => {2}{W}
+rules_text: Put a +1/+1 counter on each of up to two target creatures. Creatures you control with counters on them gain first strike and vigilance until end of turn. => Put a +1/+1 counter on each of up to two target creatures. They gain first strike and vigilance until end of turn.
+You gain 3 life.
+
+UW14 Shifting Stance
+
+MU01 Ba, Vestige of Knowledge
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Aderic, Savvy Surveyor
+
+RU03 Shattered Reflection
+
+UU04 Voidseeker Sneak
+
+RU05 Voidcraft Adept
+
+UU02 Shifting Spectre
+
+UU06 Thopter Engineer
+
+UU04 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+
+RU04 Imperial Mistweaver
+
+UU07 Voidsea Leviathan
+
+UU08 Scalefeather Twister
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+UU12 Flickerlight Form
+
+UU13 Skyjack
+
+UU14 Hunt for the Awakened Core
+
+MB01 Li, Vestige of Life
+
+RB02 Grim Opportunist
+
+RB03 Pact Eternal
+
+RB04 Bitter Grudge
+
+RB05 Malaak, Corrupted Prince
+
+UB01 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB03 Pitiless Plunderer
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB08 Grotesque Gestalt
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Live or Die
+
+UB12 Wreckage Extractor
+
+UB13 Drag Below
+
+UB14 Pull Apart
+
+MR01 Ko, Vestige of Fervor
+
+RR01 Barrescape Tyrant
+
+RR03 Lucient Amalgam
+
+RR02 Earthquake Elemental
+
+RR04 Leila, Reckless Pyromancer
+
+RR05 Flintlock Scavenger
+
+UR01 Scarred Brute
+
+UR02 Mask Dancer
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Barrescape Crawler
+
+UR12 Dizzying Resummoning
+
+UR14 Luciclasm
+
+MG01 Te, Vestige of Strength
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+RG05 Mammoth Caller
+
+UG01 Manaseeker Serpent
+
+UM09 Oasis Sumpter
+
+UG03 Underfall Harmonist
+
+UG04 Earthweaver Druid
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG08 Koma's Chosen
+
+UG09 Brush Stomper
+
+UG10 Budding Mycospawn
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+UG14 Well-Rounded Meal
+
+RX01 Void Engine
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM07 Prism Dancer
+
+RM08 Cycleborn Mycolid
+
+RM09 Righteous Rebellion
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA04 Endless Hollow
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+Voidling Beast
+
+UA01 Fractured Phantom
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+CR10 Magma Lash
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CR03 Barrescape Brawler added.
