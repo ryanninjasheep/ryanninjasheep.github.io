@@ -1,4 +1,383 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+CW15 Emerge from the Cocoon added.
+CB08 Duram Nightstalker added.
+CB03 Graverazer added.
+CR03 Zealous Artillerist added.
+CR07 Cindertusk Boar added.
+CR08 Echoing Roar added.
+CG10 Flourishing Stomper added.
+CG05 Koma's Chosen added.
+UG02 Underfall Harmonist added.
+UM10 Harvester of the Way added.
+UM11 Barrescape Crawler added.
+UM12 Ceaseless Minstrel added.
+UM18 Flamekin Piper added.
+CR05 Barrescape Brawler added.
+RB06 Sculptor of Memories added.
+MB02 Malaak, Corrupted Prince added.
+RB05 Yan, Dealer of Destinies added.
+UB03 Thornmarrow Mass added.
+UB01 Barrescape Reaper added.
+UB11 Field Dissection Kit added.
+UB13 Concealed Weapon added.
+UR01 Pitiless Plunderer added.
+UR02 Magmatic Marauder added.
+UM17 Call to Battle added.
+RG07 Koma's Hearth added.
+UM09 Heartpact Rebirth added.
+UG03 Greenleaf Treefolk added.
+UG08 Deepwell Repurposer added.
+UG13 Rite of Renewal added.
+UG14 Heaped Harvest added.
+RM06 Toil Unending added.
+RM05 Heartpact Awakening added.
+RM09 Kira, Greyheart Evangelist added.
+
+CW15 Heartpact Rebirth removed.
+CB03 Duram Nightstalker removed.
+CB08 Graverazer removed.
+CR03 Barrescape Brawler removed.
+CR07 Zealous Artillerist removed.
+CR08 Cindertusk Boar removed.
+CG10 Burgeoning Stampede removed.
+UG02 Settler's Day Parade removed.
+UM10 Call to Battle removed.
+UM11 Fractal Form removed.
+UM12 Vision Sublime removed.
+UM18 Battlefield Troubador removed.
+CR05 Cyclone Caller removed.
+RB05 Malaak, Corrupted Prince removed.
+RB06 Frenzied Gravechurner removed.
+UB01 Thornmarrow Mass removed.
+UB03 Pitiless Plunderer removed.
+UB11 Live or Die removed.
+UB13 Drag Below removed.
+UR01 Scarred Brute removed.
+UR02 Mask Dancer removed.
+UM17 Barrescape Crawler removed.
+RG04 Canopy Dancer removed.
+UM09 Oasis Sumpter removed.
+UG03 Underfall Harmonist removed.
+UG08 Koma's Chosen removed.
+UG13 Overcome removed.
+UG14 Well-Rounded Meal removed.
+RM05 Rally Supplier removed.
+RM06 Vampiric Awakening removed.
+RM09 Righteous Rebellion removed.
+CG05 Rebellion Rookie removed.
+
+CW09 Magnanimous Magistrate
+rules_text: Vigilance
+When this creature enters, you may return another permanent you control to its owner's hand. If you do, create a 2/2 white Soldier creature token. => Vigilance
+When this creature enters, you may return another permanent you control to its owner's hand. If you do, create a 1/1 white Soldier creature token.
+pt: 2/2 => 2/3
+
+CW11 Shimmering Stalker
+pt: 3/5 => 3/6
+
+CB07 Sickleblade Rallier
+rules_text: When this creature enters, each player discards a card. If you discarded a card this way, draw a card. => Whenever this creature becomes tapped, you may discard a card. If you do, draw a card.
+pt: 2/2 => 4/3
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+rules_text: When this creature enters, you may lay waste. If you do, put a +1/+1 counter on it. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i] => When this creature enters, you may lay waste. If you do, put a +1/+1 counter on this creature. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR09 Barrescape Behemoth
+
+CR11 Beckoning Void
+
+CR12 Let Go Lightly
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+When this creature dies, you may return another permanent you control to its owner's hand. => [i]Landfall[/i] — Whenever a land you control enters, you gain 1 life.
+{G}, Exile this card from your graveyard: Return target land card from your graveyard to your hand.
+
+CG02 Ichortongue Lizard
+rules_text: Deathtouch
+[i]Descend 4[/i] — As long as there are four or more permanent cards in your graveyard, this creature gets +2/+1. => Deathtouch
+Whenever this creature attacks, mill three cards.
+
+CG03 Barrescape Nurturer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+rules_text: Reach
+[i]Descend 4[/i] — When this creature enters, if there are four or more permanent cards in your graveyard, put two +1/+1 counters on this creature. => Reach
+When this creature enters, if there are four or more permanent cards in your graveyard, put two +1/+1 counters on this creature.
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+cost: {2}{G} => {1}{G}
+rules_text: [i]Descend 4[/i] — This spell costs {1} less to cast if there are four or more permanent cards in your graveyard.
+Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control. => As an additional cost to cast this spell, pay {1} or exile two permanent cards from your graveyard.
+Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+
+CG11 Nature's Wrath
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+cost: {1}{W}{U} => {W}{U}
+rules_text: When this Equipment enters, create a 2/2 white Soldier creature token, then attach this Equipment to that creature.
+Equipped creature gets +1/+1 and has flying.
+Equip {2} => When this Equipment enters, create a 1/1 white Soldier creature token, then attach this Equipment to that creature.
+Equipped creature gets +1/+1 and has flying.
+Equip {2}
+
+UM02 Wingblade General
+cost: {2}{W}{U} => {1}{W}{U}
+rules_text: Flash
+Flying
+Other creatures you control with flying get +1/+1. => Flying
+Other creatures you control with flying get +1/+1.
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM08 Leyline Defender
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+rules_text: Deathtouch
+Whenever this creature attacks, you mill three cards and gain 1 life. => Deathtouch
+When this creature enters, mill three cards.
+{2}, Exile a permanent card from your graveyard: This creature gains indestructible until end of turn. Tap it.
+
+UM16 Underdark Avenger
+rules_text: [i]Descend 4[/i] — As long as there are four or more permanent cards in your graveyard, this creature gets +2/+2 and gains deathtouch.
+[i]Descend 8[/i] — As long as there are eight or more permanent cards in your graveyard, this creature gets an additional +4/+4 and gains trample. => This creature's power is equal to the number of permanent cards in your graveyard.
+pt: 2/2 => */2
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Soldier
+pt: 2/2 => 1/1
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+RR06 The Blind Army
+
+Draft Archetypes
+rules_text: Mechanics:
+URW Lay waste
+UBG Evoke
+RGW [i]Landfall[/i]
+
+WU — Flying | Fast
+UB — Colorless costs | Mid
+BR — Aristocrats | Mid
+RG — [i]Landfall[/i] | Fast
+GW — Go wide | Mid
+WB — Reanimator | Slow
+UR — Colorless permanents | Mid
+BG — [i]Descend 4[/i] | Slow
+RW — Tapped creatures | Fast
+GU — Evoke ramp | Slow => WU — Flying Elves
+UB — Colorless cost control
+BR — Aristocrats
+RG — [i]Landfall[/i]
+GW — Reanimator
+WB — +1/+1 counters
+UR — Prisms/colorless permanents
+BG — Graveyard as cost
+RW — Tapped creatures
+GU — Evoke ramp
+
+RW06 Soul Siphoner
+rules_text: Whenever another creature you control dies, create a 2/2 colorless Voidling creature token for each counter that creature had on it. => Whenever a nontoken creature you control dies, create a 2/2 colorless Voidling creature token for each counter that creature had on it.
+
+RB02 Grim Opportunist
+
+RB04 Bitter Grudge
+
+UB02 Voidseeker Fanatic
+rules_text: Menace
+{5}{C}: Put two +1/+1 counters on this creature. It becomes colorless. => Menace
+{4}{C}: Put two +1/+1 counters on this creature. It becomes colorless.
+pt: 1/3 => 2/2
+
+UB04 Mindshrieker
+rules_text: [i]Descend 4[/i] — Whenever this creature deals damage to a player, if there are four or more permanent cards in your graveyard, that player discards a card. => Whenever this creature deals damage to a player, you may exile a permanent card from your graveyard. If you do, that player discards a card.
+
+UB05 Void Summoner
+rules_text: Whenever this creature attacks, you may exile a permanent card from your graveyard. If you do, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever this creature becomes tapped, you may exile a permanent card from your graveyard. If you do, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB09 Encroaching Void
+rules_text: When this enchantment enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever you sacrifice a creature, each opponent loses 1 life and you gain 1 life. => When this enchantment enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 life.
+
+UB10 Shadows Around Us
+
+UB12 Wreckage Extractor
+
+UB14 Pull Apart
+
+MR01 Ko, Vestige of Fervor
+
+RR01 Barrescape Tyrant
+
+RR02 Earthquake Elemental
+
+RR04 Leila, Reckless Pyromancer
+
+RR05 Flintlock Scavenger
+
+UR11 Voidcraft Blade
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+rules_text: This creature gets +1/+0 for each other tapped creature you control. => When this creature enters or dies, creatures you control get +1/+0 until end of turn.
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UR12 Dizzying Resummoning
+
+UR13 Uncaged Fury
+
+UR14 Luciclasm
+
+MG01 Te, Vestige of Strength
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+UG01 Manaseeker Serpent
+
+UG04 Earthweaver Druid
+rules_text: Reach
+At the beginning of your end step, if a land card was put into your graveyard from anywhere this turn, draw a card. => At the beginning of your end step, if a land you controlled left the battlefield this turn, draw a card.
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG09 Brush Stomper
+
+UG10 Budding Mycospawn
+rules_text: Whenever this creature enters or attacks, put a +1/+1 counter on target creature.
+Evoke {G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Whenever this creature enters or attacks, target creature gets +2/+2 and gains trample until end of turn.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+RX01 Void Engine
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM07 Prism Dancer
+
+RM08 Cycleborn Mycolid
+
+RM10 Shattered Earth
+
+UA08 Fallen Lotus
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UL01 Deepwell Quarry
+
+UL02 Neglected Digsite
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Scouting Ship
+
+RB01 Fetid Maw
+
+CR10 Magma Lash
+
+CG13 Oxhide Veil
+
+
+VERSION 12 CHANGELOG
 ====================
 
 CW06 Skyport Watchman added.
