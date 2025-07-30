@@ -1,4 +1,567 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+CB12 Corrupted Conviction added.
+CR03 Blazing Artillerist added.
+RW01 Shen, Heir of Anox added.
+RW02 Destiny Manifest added.
+RW07 Zealous Pilgrim added.
+UW03 Dawncaller added.
+UW02 Twin-Blade Duelist added.
+RU07 Sparkwork Armorer added.
+RB07 Malaak, Corrupted Prince added.
+RR07 Haal, Dissident Illusionist added.
+RG04 Reveal the Underdark added.
+UL02 Fallen Lotus added.
+UA08 Waning Thought added.
+MX02 Core of Anox added.
+UL01 Resonant Quarry added.
+Illusion added.
+
+CB12 Zealous Dissection removed.
+CR03 Zealous Artillerist removed.
+RW01 Shen, Noble Heiress removed.
+RW02 Bastion of Destiny removed.
+UW03 Twinblade Duelist removed.
+UW02 Dawncaller removed.
+MB02 Malaak, Corrupted Prince removed.
+UA08 Fallen Lotus removed.
+UL01 Deepwell Quarry removed.
+UL02 Neglected Digsite removed.
+
+CW01 Ascendant Guide
+
+CW02 Heartpact Acolyte
+
+CW06 Skyport Watchman
+
+CW05 Reckless Raptor
+
+CW03 Aethelia Aerialist
+
+CW07 Aeronaut Modelist
+
+CW08 Eager Settler
+
+CW09 Magnanimous Magistrate
+
+CW10 Barrescape Conquerer
+
+CW15 Emerge from the Cocoon
+
+CU01 Highspire Sentry
+
+CU02 Voidcraft Scholar
+
+CU03 Lumina Technician
+
+CU04 Wild Whelp
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB08 Duram Nightstalker
+
+CB04 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+
+CB09 Blood-Rage Minotaur
+
+CB03 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB15 Mindless Culling
+
+CR01 Sparking Charger
+
+CR02 Careless Cartographer
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Cindertusk Boar
+
+CR08 Echoing Roar
+
+CR09 Barrescape Behemoth
+rules_text: When this creature enters, you may sacrifice another creature. If you do, this creature deals 2 damage to any target. => When this creature enters, you may sacrifice a colorless permanent. If you do, this creature deals 2 damage to any target.
+
+CR11 Beckoning Void
+
+CR12 Let Go Lightly
+
+CR13 Grind the Gears
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG05 Koma's Chosen
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM06 Underfall Flamer
+
+UM19 Dreamroot Mass
+
+UM08 Leyline Defender
+
+UG02 Underfall Harmonist
+rules_text: When this creature enters, mill three cards.
+Whenever one or more cards leave your graveyard, this creature gets +2/+2 until end of turn. => When this creature enters, you may search your library for a creature or land card, put it into your graveyard, then shuffle.
+Whenever one or more cards leave your graveyard, this creature gets +2/+2 until end of turn.
+
+UM10 Harvester of the Way
+rules_text: Lifelink, vigilance, reach
+Whenever this creature attacks, draw a card, then discard a card. => Lifelink, vigilance, reach
+Whenever this creature enters or attacks, draw a card, then discard a card.
+
+UM11 Barrescape Crawler
+
+UM12 Ceaseless Minstrel
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Flamekin Piper
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Voidling
+
+Treasure
+
+Soldier
+
+Thopter
+
+CW12 Ruinating Strike
+
+CW13 Severed Sanctum
+
+CW14 Fleeting Flight
+
+CW04 Wingblade Recruit
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Barrescape Brawler
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {G} or {U}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {G} or {U}.
+
+Magmafell Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {B} or {R}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {B} or {R}.
+
+Rootbound Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {R} or {G}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {R} or {G}.
+
+Runespark Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {U} or {R}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {U} or {R}.
+
+Sandswept Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {W} or {U}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {W} or {U}.
+
+Scorchwheat Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {R} or {W}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {R} or {W}.
+
+Shadowcrest Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {U} or {B}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {U} or {B}.
+
+Cryptveil Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {W} or {B}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {W} or {B}.
+
+Umberdark Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {B} or {G}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {B} or {G}.
+
+Wickfield Quarry
+rules_text: When this land enters, tap target untapped land you control.
+{T}: Add {G} or {W}. => This land enters tapped unless you tap another untapped land you control.
+{T}: Add {G} or {W}.
+
+RR06 The Blind Army
+
+Prism
+
+Elephant
+
+MW01 Hu, Vestige of Faith
+
+RW04 Empire's Wing
+rules_text: Flying, vigilance, lifelink
+Whenever this Vehicle deals combat damage to a player, if that player controls more face-up lands than you, that player lays waste. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Crew 2 => Flying, lifelink
+Whenever this Vehicle deals combat damage to a player, if that player controls more face-up lands than you, that player lays waste. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Crew 2
+
+RW05 Tectonic Shift
+
+RW06 Soul Siphoner
+
+UW01 Munitions Supplier
+
+UW04 Inspiring Veteran
+
+UW05 Leyline Patrol
+
+UW06 Battlebond Pikeman
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering Aristocrat
+
+UW10 Silvershield Martyr
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+UW13 Bonded in Battle
+
+UW14 Shifting Stance
+
+MU01 Ba, Vestige of Knowledge
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Aderic, Savvy Surveyor
+
+UU04 Voidseeker Sneak
+
+RU05 Voidcraft Adept
+rules_text: Flying
+You may look at the top card of your library at any time.
+You may cast colorless spells from the top of your library.
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature. => You may look at the top card of your library at any time.
+You may cast colorless spells from the top of your library.
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature.
+pt: 2/4 => 3/4
+
+RU06 Sculpt in Light
+
+UU02 Shifting Spectre
+
+UU06 Thopter Engineer
+
+UU04 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+
+RU04 Imperial Mistweaver
+rules_text: Other Elves you control have ward {2}. [i](Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more Elves you control deal combat damage to a player, draw a card. => Flying
+Other Elves you control have ward {2}. [i](Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more Elves you control deal combat damage to a player, draw a card.
+
+UU07 Voidsea Leviathan
+
+UU08 Scalefeather Twister
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+UU12 Flickerlight Form
+
+UU13 Skyjack
+
+UU14 Hunt for the Awakened Core
+
+MB01 Li, Vestige of Life
+
+RB06 Sculptor of Memories
+
+RB02 Grim Opportunist
+
+RB04 Bitter Grudge
+
+RB05 Yan, Dealer of Destinies
+
+UB03 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB01 Barrescape Reaper
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB08 Grotesque Gestalt
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Field Dissection Kit
+
+UB12 Wreckage Extractor
+
+UB13 Concealed Weapon
+
+UB14 Pull Apart
+
+MR01 Ko, Vestige of Fervor
+
+RR01 Barrescape Tyrant
+
+RR02 Earthquake Elemental
+
+RR04 Leila, Reckless Pyromancer
+rules_text: Whenever Leila becomes tapped, choose one that hasn't been chosen this turn —
+• Leila deals 1 damage to each creature.
+• Leila deals 1 damage to each opponent. => Whenever Leila attacks, choose one —
+• Leila deals 1 damage to each creature.
+• Leila deals 1 damage to each opponent.
+
+RR05 Flintlock Scavenger
+
+UR11 Voidcraft Blade
+
+UR01 Pitiless Plunderer
+
+UR02 Magmatic Marauder
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Call to Battle
+
+UR12 Dizzying Resummoning
+
+UR13 Uncaged Fury
+
+UR14 Luciclasm
+
+MG01 Te, Vestige of Strength
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+RG05 Mammoth Caller
+
+RG06 Rampaging Clawfoot
+
+RG07 Koma's Hearth
+
+UG01 Manaseeker Serpent
+
+UM09 Heartpact Rebirth
+
+UG03 Greenleaf Treefolk
+
+UG04 Earthweaver Druid
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG08 Deepwell Repurposer
+
+UG09 Brush Stomper
+
+UG10 Budding Mycospawn
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+UG13 Rite of Renewal
+
+UG14 Heaped Harvest
+
+RX01 Void Engine
+rules_text: {T}: Add one mana of any color.
+{C}{C}, {T}: Copy target colorless spell. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => {T}: Add {C}.
+{T}: Add one mana of any color.
+{C}{C}, {T}: Copy target colorless spell you control. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+
+RM01 Dzaan, Wingblade Veteran
+
+RM02 Vel, Grand Illusionist
+
+RM03 Dance of Undeath
+
+RM04 Greyheart Awakener
+
+RM06 Toil Unending
+
+RM05 Heartpact Awakening
+rules_text: 
+I, II — Mill three cards. You gain 3 life.
+III — You may pay X life. If you do, return target permanent card with mana value X or less from a graveyard to the battlefield.
+​ => 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard to the battlefield under your control.
+​
+special_text: 
+I, II — Mill three cards. You gain 3 life.
+III — You may pay X life. If you do, return target permanent card with mana value X or less from a graveyard to the battlefield.
+​ => 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard to the battlefield under your control.
+​
+
+RM07 Prism Dancer
+rules_text: At the beginning of combat on your turn, up to one target colorless permanent you control becomes a 4/4 Illusion creature with haste in addition to its other types. => Whenever you cast a colorless spell, create a 4/1 colorless Illusion creature token with haste.
+{3}{U}{R}: Choose a token you control. Each other token you control becomes a copy of that token until end of turn. Activate only as a sorcery.
+
+RM08 Cycleborn Mycolid
+
+RM09 Kira, Greyheart Evangelist
+
+RM10 Shattered Earth
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+Voidling Beast
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+Saproling
+
+MX01 Empty Heart
+rules_text: Flying, vigilance, indestructible
+Other colorless creatures you control have flying, vigilance, and indestructible.
+{C}{C}{C}: Exile target creature. Create a token that's a copy of it except it's colorless. => Flying, indestructible.
+Whenever a colorless source you control deals damage to a creature, exile that creature.
+{C}{C}{C}: Target player lays waste.
+
+Rock
+
+CR10 Magma Lash
+
+CG13 Oxhide Veil
+
+
+VERSION 13 CHANGELOG
 ====================
 
 CW15 Emerge from the Cocoon added.
