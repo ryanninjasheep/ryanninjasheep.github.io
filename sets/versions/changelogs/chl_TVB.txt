@@ -1,4 +1,241 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+CW10 Magnanimous Magistrate added.
+CW09 Barrescape Conquerer added.
+UM11 Sinister Administrator added.
+RM03a Underfall Flamer added.
+CB04 Dessicated Diner added.
+UU03 Voidseeker Sneak added.
+UU04 Shifting Spectre added.
+UU02 Wakewatcher Wizard added.
+UB13 Death Claims Another added.
+RM10a Mammoth Caller added.
+RG07 Fenfield Nourisher added.
+RM01a Dzaan, Wingblade Veteran added.
+RM02a Vel, Grand Illusionist added.
+RM03b Dance of Undeath added.
+RM04b Greyheart Awakener added.
+RM06a Toil Unending added.
+RM05a Heartpact Awakening added.
+RM07b Prism Dancer added.
+RM08b Cycleborn Mycolid added.
+RM09a Greyheart Evangelist added.
+RM04a Shattered Earth added.
+RM01b Dizzying Heights added.
+RM02b Dreameater added.
+UM06 Rancorous Rebel added.
+RM10b Echo of Adventure added.
+RM05b Settler's Day Parade added.
+RM06b Synchrum Puppeteer added.
+RM07a Voidcraft Refiner added.
+RM08a Dregwalker added.
+RG05 Koma's Hearth added.
+Vampire added.
+RM09b Riftwake Phoenix added.
+
+CW09 Magnanimous Magistrate removed.
+CW10 Barrescape Conquerer removed.
+CB04 Sinister Administrator removed.
+UM06 Underfall Flamer removed.
+UM11 Barrescape Crawler removed.
+Treasure removed.
+UU04 Voidseeker Sneak removed.
+UU02 Shifting Spectre removed.
+UU04 Wakewatcher Wizard removed.
+UB13 Concealed Weapon removed.
+RG05 Mammoth Caller removed.
+RG07 Koma's Hearth removed.
+RM01 Dzaan, Wingblade Veteran removed.
+RM02 Vel, Grand Illusionist removed.
+RM03 Dance of Undeath removed.
+RM04 Greyheart Awakener removed.
+RM06 Toil Unending removed.
+RM05 Heartpact Awakening removed.
+RM07 Prism Dancer removed.
+RM08 Cycleborn Mycolid removed.
+RM09 Kira, Greyheart Evangelist removed.
+RM10 Shattered Earth removed.
+
+CW11 Shimmering Stalker
+rules_text: Flying
+When this creature enters, destroy up to one target artifact or enchantment.
+Evoke {2}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying
+When this creature enters, destroy up to one target artifact, enchantment, or colorless creature. If you do, you gain 2 life.
+Evoke {2}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 3/6 => 3/5
+
+CB07 Sickleblade Rallier
+rules_text: Whenever this creature becomes tapped, you may discard a card. If you do, draw a card. => Whenever this creature becomes tapped, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+UM08 Leyline Defender
+
+UG02 Underfall Harmonist
+rules_text: When this creature enters, you may search your library for a creature or land card, put it into your graveyard, then shuffle.
+Whenever one or more cards leave your graveyard, this creature gets +2/+2 until end of turn. => When this creature enters, you may search your library for a creature or land card, put it into your graveyard, then shuffle.
+Whenever one or more cards leave your graveyard during your turn, this creature gets +2/+2 until end of turn.
+
+UM10 Harvester of the Way
+
+UM12 Ceaseless Minstrel
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+rules_text: Deathtouch
+When this creature enters, mill three cards.
+{2}, Exile a permanent card from your graveyard: This creature gains indestructible until end of turn. Tap it. => Deathtouch
+When this creature enters, mill three cards.
+{2}, Exile a permanent card from your graveyard: Put a +1/+1 counter on this creature.
+
+UM16 Underdark Avenger
+
+UM18 Flamekin Piper
+
+UM07 Bullish Adventurer
+
+UM20 Aurora Watcher
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+Soldier
+
+Thopter
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+Prism
+
+Elephant
+
+MW01 Hu, Vestige of Faith
+rules_text: [i](This card has no color.)[/i]
+Flying
+Whenever Hu attacks, you may pay {C}{W}. If you do, exile target nonland permanent defending player controls.
+When Hu dies, return all cards exiled with it to the battlefield under their owners' control. => [i](This card has no color.)[/i]
+Flying
+Whenever Hu attacks, exile target nonland permanent defending player controls.
+When Hu dies, return all cards exiled with it to the battlefield under their owners' control.
+pt: 4/4 => 4/3
+
+UW05 Leyline Patrol
+rules_text: As an additional cost to cast this spell, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Create two 2/2 white Soldier creature tokens. => As an additional cost to cast this spell, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Create three 1/1 white Soldier creature tokens.
+
+UW08 Raptor Trainer
+cost: {3}{W} => {4}{W}
+pt: 3/3 => 3/4
+
+UU05 Leyline Tracker
+rules_text: Flying
+When this creature enters, you may search your library for a card with mana value 5 or greater, reveal it, then shuffle and put that card on top. => When this creature enters, you may search your library for a card with mana value 5 or greater, reveal it, then shuffle and put that card on top.
+pt: 2/3 => 3/2
+
+UB06 Lifeblood Lurker
+rules_text: Lifelink
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature. => Lifelink
+Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature.
+
+UB14 Pull Apart
+cost: {B} => {1}{B}
+rules_text: Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield with a decayed counter on it.” [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it.”
+
+RR02 Earthquake Elemental
+rules_text: Haste
+{2}, Sacrifice a land: This creature gains indestructible until end of turn. Tap it. => Haste
+Whenever this creature attacks, you may sacrifice a land. If you do, it gets +2/+0 and gains menace until end of turn.
+pt: 4/2 => 3/2
+
+RR05 Flintlock Scavenger
+rules_text: {1}, {T}, Lay waste: Create a Treasure token. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Whenever you sacrifice a colorless permanent, this creature deals 1 damage to target opponent. => {1}, {T}, Lay waste: Create a Prism token. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.” A Prism token is an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Whenever you sacrifice a permanent, this creature deals 1 damage to each opponent.
+
+UR06 Boulder Breaker
+rules_text: Menace
+{2}{R}, {T}, Sacrifice a land: Draw a card and create a Treasure token. => Menace
+{2}{R}, {T}, Sacrifice a land: Draw a card.
+
+UM17 Call to Battle
+
+UM09 Heartpact Rebirth
+
+UG04 Earthweaver Druid
+pt: 3/3 => 3/2
+
+UG06 Reckless Roots
+cost: {1}{G}{G} => {2}{G}{G}
+
+RX01 Void Engine
+
+MX05 Yegh, Twisted Spawn
+type: Legendary Creature — Human Druid => Legendary Creature — Elemental Fungus
+rules_text: Menace
+You may play lands from your graveyard.
+Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on MX05 Yegh. => Trample
+Whenever you sacrifice a permanent, put a +1/+1 counter on MX05 Yegh.
+{3}, Sacrifice a land: Draw a card.
+
+MX10 Biel, the Storyteller
+type: Legendary Creature — Human Rebel => Legendary Creature — Human Bard
+
+UL02 Fallen Lotus
+
+CA06 Leyline Surveyor
+
+UA06 Adventuring Gear
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Scouting Ship
+
+Saproling
+
+Rock
+
+UL01 Resonant Quarry
+
+
+VERSION 15 CHANGELOG
 ====================
 
 RU02 Warbling Loon added.

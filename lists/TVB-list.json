@@ -144,7 +144,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "RG05 Mammoth Caller",
+        "card_name": "RG05 Koma's Hearth",
         "number": 178,
         "shape": "normal",
         "set": "TVB"
@@ -204,7 +204,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "RG07 Koma's Hearth",
+        "card_name": "RG07 Fenfield Nourisher",
         "number": 180,
         "shape": "normal",
         "set": "TVB"
@@ -246,7 +246,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "UU02 Shifting Spectre",
+        "card_name": "UU02 Wakewatcher Wizard",
         "number": 79,
         "shape": "normal",
         "set": "TVB"
@@ -276,7 +276,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "UU04 Voidseeker Sneak",
+        "card_name": "UU03 Voidseeker Sneak",
         "number": 80,
         "shape": "normal",
         "set": "TVB"
@@ -306,7 +306,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "UU04 Wakewatcher Wizard",
+        "card_name": "UU04 Shifting Spectre",
         "number": 81,
         "shape": "normal",
         "set": "TVB"
@@ -552,7 +552,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "UB13 Concealed Weapon",
+        "card_name": "UB13 Death Claims Another",
         "number": 123,
         "shape": "normal",
         "set": "TVB"
@@ -702,7 +702,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CB04 Sinister Administrator",
+        "card_name": "CB04 Dessicated Diner",
         "number": 94,
         "shape": "normal",
         "set": "TVB"
@@ -870,7 +870,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CW09 Magnanimous Magistrate",
+        "card_name": "CW09 Barrescape Conquerer",
         "number": 30,
         "shape": "normal",
         "set": "TVB"
@@ -900,7 +900,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CW10 Barrescape Conquerer",
+        "card_name": "CW10 Magnanimous Magistrate",
         "number": 31,
         "shape": "normal",
         "set": "TVB"
@@ -1054,191 +1054,251 @@
     },
     "a->gold",
     {
-        "card_name": "RM01 Dzaan, Wingblade Veteran",
+        "card_name": "RM01a Dzaan, Wingblade Veteran",
         "number": 205,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "RM02 Vel, Grand Illusionist",
-        "number": 206,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "RM03 Dance of Undeath",
+        "card_name": "RM02a Vel, Grand Illusionist",
         "number": 207,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "RM04 Greyheart Awakener",
-        "number": 208,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "RM05 Heartpact Awakening",
+        "card_name": "RM03a Underfall Flamer",
         "number": 209,
-        "shape": "saga",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM01 Thopter Suit",
-        "number": 215,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM03 Blightwing Locust",
-        "number": 217,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM05 Voidheart Rallier",
-        "number": 219,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM07 Bullish Adventurer",
-        "number": 221,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM09 Heartpact Rebirth",
-        "number": 223,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM02 Wingblade General",
-        "number": 216,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM04 Cunning Projectionist",
-        "number": 218,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM06 Underfall Flamer",
-        "number": 220,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM08 Leyline Defender",
-        "number": 222,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UM10 Harvester of the Way",
-        "number": 224,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "RM06 Toil Unending",
-        "number": 210,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "RM07 Prism Dancer",
+        "card_name": "RM04a Shattered Earth",
         "number": 211,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "RM08 Cycleborn Mycolid",
+        "card_name": "RM05a Heartpact Awakening",
+        "number": 213,
+        "shape": "saga",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM01b Dizzying Heights",
+        "number": 206,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM02b Dreameater",
+        "number": 208,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM03b Dance of Undeath",
+        "number": 210,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM04b Greyheart Awakener",
         "number": 212,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "RM09 Kira, Greyheart Evangelist",
-        "number": 213,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "RM10 Shattered Earth",
+        "card_name": "RM05b Settler's Day Parade",
         "number": 214,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM11 Barrescape Crawler",
+        "card_name": "UM01 Thopter Suit",
         "number": 225,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM13 Ephemera Vendor",
+        "card_name": "UM03 Blightwing Locust",
         "number": 227,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM15 Darkeater",
+        "card_name": "UM05 Voidheart Rallier",
         "number": 229,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM17 Call to Battle",
+        "card_name": "UM07 Bullish Adventurer",
         "number": 231,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM20 Aurora Watcher",
+        "card_name": "UM09 Heartpact Rebirth",
         "number": 233,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM12 Ceaseless Minstrel",
+        "card_name": "UM02 Wingblade General",
         "number": 226,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM14 Cobbled Contraption",
+        "card_name": "UM04 Cunning Projectionist",
         "number": 228,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM16 Underdark Avenger",
+        "card_name": "UM06 Rancorous Rebel",
         "number": 230,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UM18 Flamekin Piper",
+        "card_name": "UM08 Leyline Defender",
         "number": 232,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM10 Harvester of the Way",
+        "number": 234,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RM06a Toil Unending",
+        "number": 215,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM07a Voidcraft Refiner",
+        "number": 217,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM08a Dregwalker",
+        "number": 219,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM09a Greyheart Evangelist",
+        "number": 221,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM10a Mammoth Caller",
+        "number": 223,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM06b Synchrum Puppeteer",
+        "number": 216,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM07b Prism Dancer",
+        "number": 218,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM08b Cycleborn Mycolid",
+        "number": 220,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM09b Riftwake Phoenix",
+        "number": 222,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RM10b Echo of Adventure",
+        "number": 224,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM11 Sinister Administrator",
+        "number": 235,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM13 Ephemera Vendor",
+        "number": 237,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM15 Darkeater",
+        "number": 239,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM17 Call to Battle",
+        "number": 241,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM20 Aurora Watcher",
+        "number": 243,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM12 Ceaseless Minstrel",
+        "number": 236,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM14 Cobbled Contraption",
+        "number": 238,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM16 Underdark Avenger",
+        "number": 240,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UM18 Flamekin Piper",
+        "number": 242,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1425,7 +1485,7 @@
     },
     {
         "card_name": "RX01 Void Engine",
-        "number": 238,
+        "number": 248,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1473,31 +1533,31 @@
     },
     {
         "card_name": "UA02 Imperfect Vessel",
-        "number": 239,
+        "number": 249,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA03 Meteor Golem",
-        "number": 240,
+        "number": 250,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA05 Aderic's Sextant",
-        "number": 241,
+        "number": 251,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA06 Adventuring Gear",
-        "number": 242,
+        "number": 252,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA07 Scouting Ship",
-        "number": 243,
+        "number": 253,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1545,25 +1605,25 @@
     },
     {
         "card_name": "CA02 Skyport Custodian",
-        "number": 234,
+        "number": 244,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "CA03 Periscope Sentinel",
-        "number": 235,
+        "number": 245,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "CA05 Prismatic Lens",
-        "number": 236,
+        "number": 246,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "CA06 Leyline Surveyor",
-        "number": 237,
+        "number": 247,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1596,31 +1656,31 @@
     },
     {
         "card_name": "Sandswept Quarry",
-        "number": 249,
+        "number": 259,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Shadowcrest Quarry",
-        "number": 251,
+        "number": 261,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Magmafell Quarry",
-        "number": 246,
+        "number": 256,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Rootbound Quarry",
-        "number": 247,
+        "number": 257,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Wickfield Quarry",
-        "number": 255,
+        "number": 265,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1641,31 +1701,31 @@
     },
     {
         "card_name": "Cryptveil Quarry",
-        "number": 244,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Runespark Quarry",
-        "number": 248,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Umberdark Quarry",
         "number": 254,
         "shape": "normal",
         "set": "TVB"
     },
     {
+        "card_name": "Runespark Quarry",
+        "number": 258,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Umberdark Quarry",
+        "number": 264,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
         "card_name": "Scorchwheat Quarry",
-        "number": 250,
+        "number": 260,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Ivyflow Quarry",
-        "number": 245,
+        "number": 255,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1686,97 +1746,97 @@
     },
     {
         "card_name": "UL01 Resonant Quarry",
-        "number": 252,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UL02 Fallen Lotus",
-        "number": 253,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Plains",
-        "number": 256,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Plains",
-        "number": 257,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Island",
-        "number": 258,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Island",
-        "number": 259,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 260,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Swamp",
-        "number": 261,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Mountain",
         "number": 262,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "Mountain",
+        "card_name": "UL02 Fallen Lotus",
         "number": 263,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "Forest",
-        "number": 265,
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 267,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Plains",
+        "number": 266,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Island",
+        "number": 268,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Island",
+        "number": 269,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 271,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 270,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 273,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 272,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Forest",
-        "number": 264,
+        "number": 274,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Forest",
+        "number": 275,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1831,24 +1891,18 @@
     },
     {
         "card_name": "Prism",
-        "number": 10,
-        "shape": "token",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Rock",
         "number": 11,
         "shape": "token",
         "set": "TVB"
     },
     {
-        "card_name": "Thopter",
+        "card_name": "Rock",
         "number": 12,
         "shape": "token",
         "set": "TVB"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Thopter",
         "number": 13,
         "shape": "token",
         "set": "TVB"
@@ -1866,14 +1920,20 @@
         "set": "TVB"
     },
     {
-        "card_name": "Elephant",
+        "card_name": "Vampire",
         "number": 8,
         "shape": "token",
         "set": "TVB"
     },
     {
-        "card_name": "Saproling",
+        "card_name": "Elephant",
         "number": 9,
+        "shape": "token",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Saproling",
+        "number": 10,
         "shape": "token",
         "set": "TVB"
     },

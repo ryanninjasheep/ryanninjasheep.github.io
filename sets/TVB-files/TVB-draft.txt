@@ -71,23 +71,23 @@
 			}
 		},
 		{
-			"name": "CW09 Magnanimous Magistrate",
+			"name": "CW10 Magnanimous Magistrate",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Elf Advisor",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/30_CW09 Magnanimous Magistrate.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/31_CW10 Magnanimous Magistrate.png"
 			}
 		},
 		{
-			"name": "CW10 Barrescape Conquerer",
+			"name": "CW09 Barrescape Conquerer",
 			"rarity": "common",
-			"mana_cost": "{5}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/31_CW10 Barrescape Conquerer.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/30_CW09 Barrescape Conquerer.png"
 			}
 		},
 		{
@@ -221,13 +221,13 @@
 			}
 		},
 		{
-			"name": "CB04 Sinister Administrator",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Elf Advisor",
-			"collector_number": "94",
+			"name": "UM11 Sinister Administrator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Vampire Advisor",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/94_CB04 Sinister Administrator.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/235_UM11 Sinister Administrator.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "215",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/215_UM01 Thopter Suit.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/225_UM01 Thopter Suit.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "216",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/216_UM02 Wingblade General.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/226_UM02 Wingblade General.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "217",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/217_UM03 Blightwing Locust.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227_UM03 Blightwing Locust.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "218",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/218_UM04 Cunning Projectionist.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/228_UM04 Cunning Projectionist.png"
 			}
 		},
 		{
@@ -635,19 +635,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "219",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/219_UM05 Voidheart Rallier.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/229_UM05 Voidheart Rallier.png"
 			}
 		},
 		{
-			"name": "UM06 Underfall Flamer",
-			"rarity": "uncommon",
+			"name": "RM03a Underfall Flamer",
+			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Imp Rebel",
-			"collector_number": "220",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/220_UM06 Underfall Flamer.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/209_RM03a Underfall Flamer.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "222",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/222_UM08 Leyline Defender.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/232_UM08 Leyline Defender.png"
 			}
 		},
 		{
@@ -685,19 +685,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}{W}{W}",
 			"type": "Creature — Avatar",
-			"collector_number": "224",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/224_UM10 Harvester of the Way.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/234_UM10 Harvester of the Way.png"
 			}
 		},
 		{
-			"name": "UM11 Barrescape Crawler",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Artifact — Vehicle",
-			"collector_number": "225",
+			"name": "CB04 Dessicated Diner",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Citizen",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/225_UM11 Barrescape Crawler.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/94_CB04 Dessicated Diner.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Elf Bard",
-			"collector_number": "226",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/226_UM12 Ceaseless Minstrel.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/236_UM12 Ceaseless Minstrel.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "228",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/228_UM14 Cobbled Contraption.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/238_UM14 Cobbled Contraption.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "227",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227_UM13 Ephemera Vendor.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/237_UM13 Ephemera Vendor.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Basilisk",
-			"collector_number": "229",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/229_UM15 Darkeater.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/239_UM15 Darkeater.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "230",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/230_UM16 Underdark Avenger.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/240_UM16 Underdark Avenger.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Elemental Bard",
-			"collector_number": "232",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/232_UM18 Flamekin Piper.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/242_UM18 Flamekin Piper.png"
 			}
 		},
 		{
@@ -765,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "221",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/221_UM07 Bullish Adventurer.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/231_UM07 Bullish Adventurer.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Druid",
-			"collector_number": "233",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/233_UM20 Aurora Watcher.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/243_UM20 Aurora Watcher.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "234",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/234_CA02 Skyport Custodian.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/244_CA02 Skyport Custodian.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "235",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/235_CA03 Periscope Sentinel.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/245_CA03 Periscope Sentinel.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "236",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/236_CA05 Prismatic Lens.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/246_CA05 Prismatic Lens.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "241",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/241_UA05 Aderic's Sextant.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/251_UA05 Aderic's Sextant.png"
 			}
 		},
 		{
@@ -861,16 +861,6 @@
 			}
 		},
 		{
-			"name": "Treasure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/13_Treasure.png"
-			}
-		},
-		{
 			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
@@ -885,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/12_Thopter.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/13_Thopter.png"
 			}
 		},
 		{
@@ -1045,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/245_Ivyflow Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/255_Ivyflow Quarry.png"
 			}
 		},
 		{
@@ -1055,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/246_Magmafell Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/256_Magmafell Quarry.png"
 			}
 		},
 		{
@@ -1065,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/247_Rootbound Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/257_Rootbound Quarry.png"
 			}
 		},
 		{
@@ -1075,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/248_Runespark Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/258_Runespark Quarry.png"
 			}
 		},
 		{
@@ -1085,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/249_Sandswept Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/259_Sandswept Quarry.png"
 			}
 		},
 		{
@@ -1095,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/250_Scorchwheat Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/260_Scorchwheat Quarry.png"
 			}
 		},
 		{
@@ -1105,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/251_Shadowcrest Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/261_Shadowcrest Quarry.png"
 			}
 		},
 		{
@@ -1115,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/244_Cryptveil Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/254_Cryptveil Quarry.png"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/254_Umberdark Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/264_Umberdark Quarry.png"
 			}
 		},
 		{
@@ -1135,99 +1125,89 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/255_Wickfield Quarry.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "256",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/256_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "257",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/257_Plains.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "258",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/258_Island.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/259_Island.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "260",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/260_Swamp.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "261",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/261_Swamp.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "262",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/262_Mountain.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/263_Mountain.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/265_Forest.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/265_Wickfield Quarry.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/267_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/266_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/268_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/269_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/271_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/270_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/273_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/272_Mountain.png"
 			}
 		},
 		{
@@ -1235,9 +1215,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "264",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/264_Forest.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/274_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/275_Forest.png"
 			}
 		},
 		{
@@ -1265,9 +1255,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Prism",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/10_Prism.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/11_Prism.png"
 			}
 		},
 		{
@@ -1285,9 +1275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elephant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/8_Elephant.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/9_Elephant.png"
 			}
 		},
 		{
@@ -1443,7 +1433,7 @@
 		{
 			"name": "UW08 Raptor Trainer",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Elf Citizen",
 			"collector_number": "50",
 			"image_uris": {
@@ -1551,13 +1541,13 @@
 			}
 		},
 		{
-			"name": "UU04 Voidseeker Sneak",
+			"name": "UU03 Voidseeker Sneak",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elf Rogue",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/80_UU04 Voidseeker Sneak.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/80_UU03 Voidseeker Sneak.png"
 			}
 		},
 		{
@@ -1591,13 +1581,13 @@
 			}
 		},
 		{
-			"name": "UU02 Shifting Spectre",
+			"name": "UU04 Shifting Spectre",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "79",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/79_UU02 Shifting Spectre.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/81_UU04 Shifting Spectre.png"
 			}
 		},
 		{
@@ -1611,13 +1601,13 @@
 			}
 		},
 		{
-			"name": "UU04 Wakewatcher Wizard",
+			"name": "UU02 Wakewatcher Wizard",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/81_UU04 Wakewatcher Wizard.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/79_UU02 Wakewatcher Wizard.png"
 			}
 		},
 		{
@@ -1911,19 +1901,19 @@
 			}
 		},
 		{
-			"name": "UB13 Concealed Weapon",
+			"name": "UB13 Death Claims Another",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/123_UB13 Concealed Weapon.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/123_UB13 Death Claims Another.png"
 			}
 		},
 		{
 			"name": "UB14 Pull Apart",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "124",
 			"image_uris": {
@@ -2115,9 +2105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Instant",
-			"collector_number": "231",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/231_UM17 Call to Battle.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/241_UM17 Call to Battle.png"
 			}
 		},
 		{
@@ -2201,13 +2191,13 @@
 			}
 		},
 		{
-			"name": "RG05 Mammoth Caller",
+			"name": "RM10a Mammoth Caller",
 			"rarity": "rare",
-			"mana_cost": "{5}{G}",
+			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Human Druid",
-			"collector_number": "178",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/178_RG05 Mammoth Caller.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/223_RM10a Mammoth Caller.png"
 			}
 		},
 		{
@@ -2221,13 +2211,13 @@
 			}
 		},
 		{
-			"name": "RG07 Koma's Hearth",
+			"name": "RG07 Fenfield Nourisher",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Artifact",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Druid",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/180_RG07 Koma's Hearth.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/180_RG07 Fenfield Nourisher.png"
 			}
 		},
 		{
@@ -2245,9 +2235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/223_UM09 Heartpact Rebirth.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/233_UM09 Heartpact Rebirth.png"
 			}
 		},
 		{
@@ -2283,7 +2273,7 @@
 		{
 			"name": "UG06 Reckless Roots",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
@@ -2375,9 +2365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "238",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/238_RX01 Void Engine.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/248_RX01 Void Engine.png"
 			}
 		},
 		{
@@ -2404,7 +2394,7 @@
 			"name": "MX05 Yegh, Twisted Spawn",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{R}{G}",
-			"type": "Legendary Creature — Human Druid",
+			"type": "Legendary Creature — Elemental Fungus",
 			"collector_number": "197",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/197_MX05 Yegh, Twisted Spawn.png"
@@ -2454,110 +2444,110 @@
 			"name": "MX10 Biel, the Storyteller",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{B}{G}",
-			"type": "Legendary Creature — Human Rebel",
+			"type": "Legendary Creature — Human Bard",
 			"collector_number": "202",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/202_MX10 Biel, the Storyteller.png"
 			}
 		},
 		{
-			"name": "RM01 Dzaan, Wingblade Veteran",
+			"name": "RM01a Dzaan, Wingblade Veteran",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Elf Soldier",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/205_RM01 Dzaan, Wingblade Veteran.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/205_RM01a Dzaan, Wingblade Veteran.png"
 			}
 		},
 		{
-			"name": "RM02 Vel, Grand Illusionist",
+			"name": "RM02a Vel, Grand Illusionist",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Creature — Elf Wizard",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/206_RM02 Vel, Grand Illusionist.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207_RM02a Vel, Grand Illusionist.png"
 			}
 		},
 		{
-			"name": "RM03 Dance of Undeath",
+			"name": "RM03b Dance of Undeath",
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "207",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207_RM03 Dance of Undeath.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/210_RM03b Dance of Undeath.png"
 			}
 		},
 		{
-			"name": "RM04 Greyheart Awakener",
+			"name": "RM04b Greyheart Awakener",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "208",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/208_RM04 Greyheart Awakener.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/212_RM04b Greyheart Awakener.png"
 			}
 		},
 		{
-			"name": "RM06 Toil Unending",
+			"name": "RM06a Toil Unending",
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "210",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/210_RM06 Toil Unending.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/215_RM06a Toil Unending.png"
 			}
 		},
 		{
-			"name": "RM05 Heartpact Awakening",
+			"name": "RM05a Heartpact Awakening",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "209",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/209_RM05 Heartpact Awakening.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/213_RM05a Heartpact Awakening.png"
 			}
 		},
 		{
-			"name": "RM07 Prism Dancer",
+			"name": "RM07b Prism Dancer",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Elf Performer",
-			"collector_number": "211",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/211_RM07 Prism Dancer.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/218_RM07b Prism Dancer.png"
 			}
 		},
 		{
-			"name": "RM08 Cycleborn Mycolid",
+			"name": "RM08b Cycleborn Mycolid",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "212",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/212_RM08 Cycleborn Mycolid.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/220_RM08b Cycleborn Mycolid.png"
 			}
 		},
 		{
-			"name": "RM09 Kira, Greyheart Evangelist",
+			"name": "RM09a Greyheart Evangelist",
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
-			"type": "Legendary Creature — Human Rebel",
-			"collector_number": "213",
+			"type": "Creature — Human Rebel",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/213_RM09 Kira, Greyheart Evangelist.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/221_RM09a Greyheart Evangelist.png"
 			}
 		},
 		{
-			"name": "RM10 Shattered Earth",
+			"name": "RM04a Shattered Earth",
 			"rarity": "rare",
-			"mana_cost": "{X}{G}{U}",
+			"mana_cost": "{X}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "214",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/214_RM10 Shattered Earth.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/211_RM04a Shattered Earth.png"
 			}
 		},
 		{
@@ -2565,9 +2555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253_UL02 Fallen Lotus.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/263_UL02 Fallen Lotus.png"
 			}
 		},
 		{
@@ -2581,13 +2571,103 @@
 			}
 		},
 		{
+			"name": "RM01b Dizzying Heights",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/206_RM01b Dizzying Heights.png"
+			}
+		},
+		{
+			"name": "RM02b Dreameater",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/208_RM02b Dreameater.png"
+			}
+		},
+		{
+			"name": "UM06 Rancorous Rebel",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Goblin Rebel",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/230_UM06 Rancorous Rebel.png"
+			}
+		},
+		{
+			"name": "RM10b Echo of Adventure",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/224_RM10b Echo of Adventure.png"
+			}
+		},
+		{
+			"name": "RM05b Settler's Day Parade",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/214_RM05b Settler's Day Parade.png"
+			}
+		},
+		{
+			"name": "RM06b Synchrum Puppeteer",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/216_RM06b Synchrum Puppeteer.png"
+			}
+		},
+		{
+			"name": "RM07a Voidcraft Refiner",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/217_RM07a Voidcraft Refiner.png"
+			}
+		},
+		{
+			"name": "RM08a Dregwalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Mutant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/219_RM08a Dregwalker.png"
+			}
+		},
+		{
+			"name": "RG05 Koma's Hearth",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/178_RG05 Koma's Hearth.png"
+			}
+		},
+		{
 			"name": "CA06 Leyline Surveyor",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "237",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/237_CA06 Leyline Surveyor.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/247_CA06 Leyline Surveyor.png"
 			}
 		},
 		{
@@ -2605,9 +2685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "242",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/242_UA06 Adventuring Gear.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/252_UA06 Adventuring Gear.png"
 			}
 		},
 		{
@@ -2645,9 +2725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "239",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/239_UA02 Imperfect Vessel.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/249_UA02 Imperfect Vessel.png"
 			}
 		},
 		{
@@ -2655,9 +2735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "240",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/240_UA03 Meteor Golem.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/250_UA03 Meteor Golem.png"
 			}
 		},
 		{
@@ -2675,9 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "243",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/243_UA07 Scouting Ship.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253_UA07 Scouting Ship.png"
 			}
 		},
 		{
@@ -2705,9 +2785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/9_Saproling.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/10_Saproling.png"
 			}
 		},
 		{
@@ -2725,9 +2805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/11_Rock.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/12_Rock.png"
 			}
 		},
 		{
@@ -2755,9 +2835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/252_UL01 Resonant Quarry.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/262_UL01 Resonant Quarry.png"
 			}
 		},
 		{
@@ -2789,10 +2869,31 @@
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/203_MX11 Nebson, Tireless Tinkerer.png"
 			}
+		},
+		{
+			"name": "Vampire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/8_Vampire.png"
+			}
+		},
+		{
+			"name": "RM09b Riftwake Phoenix",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Phoenix",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/222_RM09b Riftwake Phoenix.png"
+			}
 		}
 	]
 
 [rare(1)]
+	2 RM03a Underfall Flamer
 	2 RR06 The Blind Army
 	1 MW01 Hu, Vestige of Faith
 	2 RW01 Shen, Heir of Anox
@@ -2829,9 +2930,9 @@
 	2 RG02 Venerant Earthspeaker
 	2 RG03 Sporespawn Drift
 	2 RG04 Reveal the Underdark
-	2 RG05 Mammoth Caller
+	2 RM10a Mammoth Caller
 	2 RG06 Rampaging Clawfoot
-	2 RG07 Koma's Hearth
+	2 RG07 Fenfield Nourisher
 	2 RX01 Void Engine
 	1 MX03 Kul, the Left Hand
 	1 MX04 Nox, Flickerlight Mind
@@ -2841,34 +2942,42 @@
 	1 MX08 Gaar, 9th Front General
 	1 MX09 Llem, Greyheart Elder
 	1 MX10 Biel, the Storyteller
-	2 RM01 Dzaan, Wingblade Veteran
-	2 RM02 Vel, Grand Illusionist
-	2 RM03 Dance of Undeath
-	2 RM04 Greyheart Awakener
-	2 RM06 Toil Unending
-	2 RM05 Heartpact Awakening
-	2 RM07 Prism Dancer
-	2 RM08 Cycleborn Mycolid
-	2 RM09 Kira, Greyheart Evangelist
-	2 RM10 Shattered Earth
+	2 RM01a Dzaan, Wingblade Veteran
+	2 RM02a Vel, Grand Illusionist
+	2 RM03b Dance of Undeath
+	2 RM04b Greyheart Awakener
+	2 RM06a Toil Unending
+	2 RM05a Heartpact Awakening
+	2 RM07b Prism Dancer
+	2 RM08b Cycleborn Mycolid
+	2 RM09a Greyheart Evangelist
+	2 RM04a Shattered Earth
 	2 RX02 Scintillating Echoes
+	2 RM01b Dizzying Heights
+	2 RM02b Dreameater
+	2 RM10b Echo of Adventure
+	2 RM05b Settler's Day Parade
+	2 RM06b Synchrum Puppeteer
+	2 RM07a Voidcraft Refiner
+	2 RM08a Dregwalker
+	2 RG05 Koma's Hearth
 	1 MX02 Core of Anox
 	2 RB01 Fetid Maw
 	1 MX01 Empty Heart
 	1 MX12 Vesz, Echoing Whisperer
 	1 MX11 Nebson, Tireless Tinkerer
+	2 RM09b Riftwake Phoenix
 [uncommon(3)]
+	4 UM11 Sinister Administrator
 	4 UM01 Thopter Suit
 	4 UM02 Wingblade General
 	4 UM03 Blightwing Locust
 	4 UM04 Cunning Projectionist
 	4 UM05 Voidheart Rallier
-	4 UM06 Underfall Flamer
 	4 UM19 Dreamroot Mass
 	4 UM08 Leyline Defender
 	4 UG02 Underfall Harmonist
 	4 UM10 Harvester of the Way
-	4 UM11 Barrescape Crawler
 	4 UM12 Ceaseless Minstrel
 	4 UM14 Cobbled Contraption
 	4 UM13 Ephemera Vendor
@@ -2893,10 +3002,10 @@
 	4 UW12 Rewarding Retreat
 	4 UW13 Bonded in Battle
 	4 UW14 Shifting Stance
-	4 UU04 Voidseeker Sneak
-	4 UU02 Shifting Spectre
+	4 UU03 Voidseeker Sneak
+	4 UU04 Shifting Spectre
 	4 UU06 Thopter Engineer
-	4 UU04 Wakewatcher Wizard
+	4 UU02 Wakewatcher Wizard
 	4 UU05 Leyline Tracker
 	4 UU07 Voidsea Leviathan
 	4 UU08 Scalefeather Twister
@@ -2917,7 +3026,7 @@
 	4 UB10 Shadows Around Us
 	4 UB11 Field Dissection Kit
 	4 UB12 Wreckage Extractor
-	4 UB13 Concealed Weapon
+	4 UB13 Death Claims Another
 	4 UB14 Pull Apart
 	4 UR11 Voidcraft Blade
 	4 UR01 Pitiless Plunderer
@@ -2949,6 +3058,7 @@
 	4 UG13 Rite of Renewal
 	4 UG14 Heaped Harvest
 	4 UL02 Fallen Lotus
+	4 UM06 Rancorous Rebel
 	4 UA04 Endless Hollow
 	4 UA06 Adventuring Gear
 	4 UA08 Waning Thought
@@ -2966,8 +3076,8 @@
 	8 CW03 Aethelia Aerialist
 	8 CW07 Aeronaut Modelist
 	8 CW08 Eager Settler
-	8 CW09 Magnanimous Magistrate
-	8 CW10 Barrescape Conquerer
+	8 CW10 Magnanimous Magistrate
+	8 CW09 Barrescape Conquerer
 	8 CW11 Shimmering Stalker
 	8 CW15 Emerge from the Cocoon
 	8 CU01 Highspire Sentry
@@ -2981,7 +3091,6 @@
 	8 CB01 Lifeleeched Vermin
 	8 CB02 Deathrattle Scorpion
 	8 CB08 Duram Nightstalker
-	8 CB04 Sinister Administrator
 	8 CB05 Voidheart Mystic
 	8 CB06 Desperate Howler
 	8 CB07 Sickleblade Rallier
@@ -3018,6 +3127,7 @@
 	8 CG05 Koma's Chosen
 	8 CG14 Leyline Navigation
 	8 CG15 Harvest Cycle
+	8 CB04 Dessicated Diner
 	8 CA01 Wasteland Wanderer
 	8 CA02 Skyport Custodian
 	8 CA03 Periscope Sentinel
@@ -3048,8 +3158,8 @@
 	12 CW03 Aethelia Aerialist
 	12 CW07 Aeronaut Modelist
 	12 CW08 Eager Settler
-	12 CW09 Magnanimous Magistrate
-	12 CW10 Barrescape Conquerer
+	12 CW10 Magnanimous Magistrate
+	12 CW09 Barrescape Conquerer
 	12 CW11 Shimmering Stalker
 	12 CW15 Emerge from the Cocoon
 	12 CU01 Highspire Sentry
@@ -3063,7 +3173,7 @@
 	12 CB01 Lifeleeched Vermin
 	12 CB02 Deathrattle Scorpion
 	12 CB08 Duram Nightstalker
-	12 CB04 Sinister Administrator
+	6 UM11 Sinister Administrator
 	12 CB05 Voidheart Mystic
 	12 CB06 Desperate Howler
 	12 CB07 Sickleblade Rallier
@@ -3105,12 +3215,12 @@
 	6 UM03 Blightwing Locust
 	6 UM04 Cunning Projectionist
 	6 UM05 Voidheart Rallier
-	6 UM06 Underfall Flamer
+	2 RM03a Underfall Flamer
 	6 UM19 Dreamroot Mass
 	6 UM08 Leyline Defender
 	6 UG02 Underfall Harmonist
 	6 UM10 Harvester of the Way
-	6 UM11 Barrescape Crawler
+	12 CB04 Dessicated Diner
 	6 UM12 Ceaseless Minstrel
 	6 UM14 Cobbled Contraption
 	6 UM13 Ephemera Vendor
@@ -3176,13 +3286,13 @@
 	2 RU01 Pfiel, Expansion Architect
 	2 RU02 Warbling Loon
 	2 RU03 Shattered Reflection
-	6 UU04 Voidseeker Sneak
+	6 UU03 Voidseeker Sneak
 	2 RU05 Voidcraft Adept
 	2 RU06 Sculpt in Light
 	2 RU07 Sparkwork Armorer
-	6 UU02 Shifting Spectre
+	6 UU04 Shifting Spectre
 	6 UU06 Thopter Engineer
-	6 UU04 Wakewatcher Wizard
+	6 UU02 Wakewatcher Wizard
 	6 UU05 Leyline Tracker
 	2 RU04 Imperial Mistweaver
 	6 UU07 Voidsea Leviathan
@@ -3212,7 +3322,7 @@
 	6 UB10 Shadows Around Us
 	6 UB11 Field Dissection Kit
 	6 UB12 Wreckage Extractor
-	6 UB13 Concealed Weapon
+	6 UB13 Death Claims Another
 	6 UB14 Pull Apart
 	1 MR01 Ko, Vestige of Fervor
 	2 RR01 Barrescape Tyrant
@@ -3241,9 +3351,9 @@
 	2 RG02 Venerant Earthspeaker
 	2 RG03 Sporespawn Drift
 	2 RG04 Reveal the Underdark
-	2 RG05 Mammoth Caller
+	2 RM10a Mammoth Caller
 	2 RG06 Rampaging Clawfoot
-	2 RG07 Koma's Hearth
+	2 RG07 Fenfield Nourisher
 	6 UG01 Manaseeker Serpent
 	6 UM09 Heartpact Rebirth
 	6 UG03 Greenleaf Treefolk
@@ -3267,18 +3377,27 @@
 	1 MX08 Gaar, 9th Front General
 	1 MX09 Llem, Greyheart Elder
 	1 MX10 Biel, the Storyteller
-	2 RM01 Dzaan, Wingblade Veteran
-	2 RM02 Vel, Grand Illusionist
-	2 RM03 Dance of Undeath
-	2 RM04 Greyheart Awakener
-	2 RM06 Toil Unending
-	2 RM05 Heartpact Awakening
-	2 RM07 Prism Dancer
-	2 RM08 Cycleborn Mycolid
-	2 RM09 Kira, Greyheart Evangelist
-	2 RM10 Shattered Earth
+	2 RM01a Dzaan, Wingblade Veteran
+	2 RM02a Vel, Grand Illusionist
+	2 RM03b Dance of Undeath
+	2 RM04b Greyheart Awakener
+	2 RM06a Toil Unending
+	2 RM05a Heartpact Awakening
+	2 RM07b Prism Dancer
+	2 RM08b Cycleborn Mycolid
+	2 RM09a Greyheart Evangelist
+	2 RM04a Shattered Earth
 	6 UL02 Fallen Lotus
 	2 RX02 Scintillating Echoes
+	2 RM01b Dizzying Heights
+	2 RM02b Dreameater
+	6 UM06 Rancorous Rebel
+	2 RM10b Echo of Adventure
+	2 RM05b Settler's Day Parade
+	2 RM06b Synchrum Puppeteer
+	2 RM07a Voidcraft Refiner
+	2 RM08a Dregwalker
+	2 RG05 Koma's Hearth
 	12 CA06 Leyline Surveyor
 	6 UA04 Endless Hollow
 	6 UA06 Adventuring Gear
@@ -3296,6 +3415,7 @@
 	6 UL01 Resonant Quarry
 	1 MX12 Vesz, Echoing Whisperer
 	1 MX11 Nebson, Tireless Tinkerer
+	2 RM09b Riftwake Phoenix
 [wildcard(1)]
 	6 CW01 Ascendant Guide
 	6 CW02 Heartpact Acolyte
@@ -3304,8 +3424,8 @@
 	6 CW03 Aethelia Aerialist
 	6 CW07 Aeronaut Modelist
 	6 CW08 Eager Settler
-	6 CW09 Magnanimous Magistrate
-	6 CW10 Barrescape Conquerer
+	6 CW10 Magnanimous Magistrate
+	6 CW09 Barrescape Conquerer
 	6 CW11 Shimmering Stalker
 	6 CW15 Emerge from the Cocoon
 	6 CU01 Highspire Sentry
@@ -3319,7 +3439,7 @@
 	6 CB01 Lifeleeched Vermin
 	6 CB02 Deathrattle Scorpion
 	6 CB08 Duram Nightstalker
-	6 CB04 Sinister Administrator
+	15 UM11 Sinister Administrator
 	6 CB05 Voidheart Mystic
 	6 CB06 Desperate Howler
 	6 CB07 Sickleblade Rallier
@@ -3361,12 +3481,12 @@
 	15 UM03 Blightwing Locust
 	15 UM04 Cunning Projectionist
 	15 UM05 Voidheart Rallier
-	15 UM06 Underfall Flamer
+	7 RM03a Underfall Flamer
 	15 UM19 Dreamroot Mass
 	15 UM08 Leyline Defender
 	15 UG02 Underfall Harmonist
 	15 UM10 Harvester of the Way
-	15 UM11 Barrescape Crawler
+	6 CB04 Dessicated Diner
 	15 UM12 Ceaseless Minstrel
 	15 UM14 Cobbled Contraption
 	15 UM13 Ephemera Vendor
@@ -3432,13 +3552,13 @@
 	7 RU01 Pfiel, Expansion Architect
 	7 RU02 Warbling Loon
 	7 RU03 Shattered Reflection
-	15 UU04 Voidseeker Sneak
+	15 UU03 Voidseeker Sneak
 	7 RU05 Voidcraft Adept
 	7 RU06 Sculpt in Light
 	7 RU07 Sparkwork Armorer
-	15 UU02 Shifting Spectre
+	15 UU04 Shifting Spectre
 	15 UU06 Thopter Engineer
-	15 UU04 Wakewatcher Wizard
+	15 UU02 Wakewatcher Wizard
 	15 UU05 Leyline Tracker
 	7 RU04 Imperial Mistweaver
 	15 UU07 Voidsea Leviathan
@@ -3468,7 +3588,7 @@
 	15 UB10 Shadows Around Us
 	15 UB11 Field Dissection Kit
 	15 UB12 Wreckage Extractor
-	15 UB13 Concealed Weapon
+	15 UB13 Death Claims Another
 	15 UB14 Pull Apart
 	4 MR01 Ko, Vestige of Fervor
 	7 RR01 Barrescape Tyrant
@@ -3497,9 +3617,9 @@
 	7 RG02 Venerant Earthspeaker
 	7 RG03 Sporespawn Drift
 	7 RG04 Reveal the Underdark
-	7 RG05 Mammoth Caller
+	7 RM10a Mammoth Caller
 	7 RG06 Rampaging Clawfoot
-	7 RG07 Koma's Hearth
+	7 RG07 Fenfield Nourisher
 	15 UG01 Manaseeker Serpent
 	15 UM09 Heartpact Rebirth
 	15 UG03 Greenleaf Treefolk
@@ -3523,18 +3643,27 @@
 	4 MX08 Gaar, 9th Front General
 	4 MX09 Llem, Greyheart Elder
 	4 MX10 Biel, the Storyteller
-	7 RM01 Dzaan, Wingblade Veteran
-	7 RM02 Vel, Grand Illusionist
-	7 RM03 Dance of Undeath
-	7 RM04 Greyheart Awakener
-	7 RM06 Toil Unending
-	7 RM05 Heartpact Awakening
-	7 RM07 Prism Dancer
-	7 RM08 Cycleborn Mycolid
-	7 RM09 Kira, Greyheart Evangelist
-	7 RM10 Shattered Earth
+	7 RM01a Dzaan, Wingblade Veteran
+	7 RM02a Vel, Grand Illusionist
+	7 RM03b Dance of Undeath
+	7 RM04b Greyheart Awakener
+	7 RM06a Toil Unending
+	7 RM05a Heartpact Awakening
+	7 RM07b Prism Dancer
+	7 RM08b Cycleborn Mycolid
+	7 RM09a Greyheart Evangelist
+	7 RM04a Shattered Earth
 	15 UL02 Fallen Lotus
 	7 RX02 Scintillating Echoes
+	7 RM01b Dizzying Heights
+	7 RM02b Dreameater
+	15 UM06 Rancorous Rebel
+	7 RM10b Echo of Adventure
+	7 RM05b Settler's Day Parade
+	7 RM06b Synchrum Puppeteer
+	7 RM07a Voidcraft Refiner
+	7 RM08a Dregwalker
+	7 RG05 Koma's Hearth
 	6 CA06 Leyline Surveyor
 	15 UA04 Endless Hollow
 	15 UA06 Adventuring Gear
@@ -3552,6 +3681,7 @@
 	15 UL01 Resonant Quarry
 	4 MX12 Vesz, Echoing Whisperer
 	4 MX11 Nebson, Tireless Tinkerer
+	7 RM09b Riftwake Phoenix
 [land(1)]
 	4 Ivyflow Quarry
 	4 Magmafell Quarry
