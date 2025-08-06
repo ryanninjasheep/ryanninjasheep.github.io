@@ -1,4 +1,574 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+CW05 Heartpact Acolyte added.
+CW02 Reckless Raptor added.
+CR01 Battlefield Troubador added.
+UM20 Seeker of Muses added.
+UW06 Battlebond Infantry added.
+UW14 Zealous Display added.
+RX01 Crystal Mine added.
+RX03 Gathering Horde added.
+MX01 Kul, the Left Hand added.
+MX02 Nox, Flickerlight Mind added.
+MX03 Yegh, Twisted Spawn added.
+MX04 Oho, Who Endures added.
+MX05 Aderic, Savvy Surveyor added.
+MX06 Gaar, 9th Front General added.
+MX07 Llem, Greyheart Elder added.
+MX08 Biel, the Storyteller added.
+RX02 Lay Waste added.
+RX04 Void Engine added.
+RX05 Conflux Core added.
+RM10b Warped Echoes added.
+MX12 Herald of Anox added.
+MX11 Empty Heart added.
+MX10 Vesz, Endless Whisper added.
+MX09 Nebson, Tireless Tinkerer added.
+MX13 Syzygy, Whole One added.
+MX14 A World Asunder added.
+MX15 The Terralance added.
+
+CW02 Heartpact Acolyte removed.
+CW05 Reckless Raptor removed.
+CR01 Sparking Charger removed.
+UM20 Aurora Watcher removed.
+UW06 Battlebond Pikeman removed.
+UW14 Shifting Stance removed.
+RX01 Void Engine removed.
+MX03 Kul, the Left Hand removed.
+MX04 Nox, Flickerlight Mind removed.
+MX05 Yegh, Twisted Spawn removed.
+MX06 Oho, Who Endures removed.
+MX07 Aderic, Savvy Surveyor removed.
+MX08 Gaar, 9th Front General removed.
+MX09 Llem, Greyheart Elder removed.
+MX10 Biel, the Storyteller removed.
+RX02 Scintillating Echoes removed.
+RM10b Echo of Adventure removed.
+MX02 Core of Anox removed.
+MX01 Empty Heart removed.
+MX12 Vesz, Echoing Whisperer removed.
+MX11 Nebson, Tireless Tinkerer removed.
+
+CW01 Ascendant Guide
+
+CW06 Skyport Watchman
+
+CW03 Aethelia Aerialist
+
+CW07 Aeronaut Modelist
+
+CW08 Eager Settler
+
+CW10 Magnanimous Magistrate
+
+CW09 Barrescape Conquerer
+
+CW15 Emerge from the Cocoon
+
+CU01 Highspire Sentry
+
+CU02 Voidcraft Scholar
+
+CU03 Lumina Technician
+
+CU04 Wild Whelp
+
+CU05 Curio Collector
+
+CU06 Luxara Doorman
+
+CU07 Wingblade Surveyor
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB08 Duram Nightstalker
+rules_text: Flying
+When this creature enters, each player discards a card. If you discarded a card this way, draw a card. => Flying
+When this creature enters, if a creature died this turn, you draw a card and lose 1 life.
+
+UM11 Sinister Administrator
+
+CB05 Voidheart Mystic
+
+CB06 Desperate Howler
+
+CB07 Sickleblade Rallier
+rules_text: Whenever this creature becomes tapped, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => At the beginning of your end step, if you control two or more tapped creatures, you draw a card and lose 1 life.
+
+CB09 Blood-Rage Minotaur
+
+CB03 Graverazer
+
+CB13 Out of Focus
+
+CB11 Blackened Blade
+
+CB12 Corrupted Conviction
+
+CB15 Mindless Culling
+
+CR02 Careless Cartographer
+
+CR03 Blazing Artillerist
+type: Creature — Human Rebel => Creature — Human Archer
+
+CR04 Caustic Peakcrawler
+
+CR06 Voidcaller Druid
+
+CR07 Cindertusk Boar
+
+CR08 Echoing Roar
+
+CR09 Barrescape Behemoth
+
+CR11 Beckoning Void
+
+CR12 Let Go Lightly
+
+CR13 Grind the Gears
+rules_text: Choose one — 
+• Exile the top two cards of your library. You may play those cards this turn.
+• Destroy target artifact. => Choose one — 
+• Destroy target artifact.
+• Create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+CR15 Scorching Abrasion
+
+CG01 Cycle Tender
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG06 Soil Stirrer
+
+CG07 Thunderous Terrapin
+
+CG08 Deeproot Treefolk
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG05 Koma's Chosen
+
+CG14 Leyline Navigation
+
+CG15 Harvest Cycle
+
+UM01 Thopter Suit
+
+UM02 Wingblade General
+
+UM03 Blightwing Locust
+
+UM04 Cunning Projectionist
+
+UM05 Voidheart Rallier
+
+RM03a Underfall Flamer
+type: Creature — Imp Rebel => Creature — Human Warlock
+
+UM19 Dreamroot Mass
+
+UM08 Leyline Defender
+
+UG02 Underfall Harmonist
+
+UM10 Harvester of the Way
+
+CB04 Dessicated Diner
+
+UM12 Ceaseless Minstrel
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM15 Darkeater
+
+UM16 Underdark Avenger
+
+UM18 Flamekin Piper
+
+UM07 Bullish Adventurer
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+UA05 Aderic's Sextant
+
+CW12 Ruinating Strike
+
+CW13 Severed Sanctum
+
+CW14 Fleeting Flight
+
+CW04 Wingblade Recruit
+
+CU09 Rescue
+
+UU09 Rasping Currents
+
+CU11 Dazzling Maneuver
+
+CU12 Abrasive Ideation
+
+CU13 Utter Insignificance
+
+CU14 Chonofraction
+
+CU08 Flickerlight Projection
+
+CB14 Split the Earth
+
+CR05 Barrescape Brawler
+
+CG04 Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+RR06 The Blind Army
+
+Prism
+
+MW01 Hu, Vestige of Faith
+
+RW01 Shen, Heir of Anox
+
+RW02 Destiny Manifest
+
+RW03 Effervescent Enigma
+cost: {6} => {7}
+rules_text: Flash
+Flying
+When this creature enters exile target non-Pegasus creature, then return it to the battlefield under its owner's control.
+Evoke {W}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flash
+Flying
+When this creature enters exile target non-Pegasus creature until this creature leaves the battlefield.
+Evoke {W}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+RW04 Empire's Wing
+
+RW05 Tectonic Shift
+
+RW06 Soul Siphoner
+
+RW07 Zealous Pilgrim
+
+UW01 Munitions Supplier
+
+UW04 Inspiring Veteran
+
+UW03 Dawncaller
+
+UW02 Twin-Blade Duelist
+
+UW05 Leyline Patrol
+
+UW07 Wakecatcher
+
+UW08 Raptor Trainer
+
+UW09 Pioneering Aristocrat
+
+UW10 Silvershield Martyr
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+UW13 Bonded in Battle
+
+MU01 Ba, Vestige of Knowledge
+
+RU01 Pfiel, Expansion Architect
+
+RU02 Warbling Loon
+
+RU03 Shattered Reflection
+
+UU03 Voidseeker Sneak
+
+RU05 Voidcraft Adept
+
+RU06 Sculpt in Light
+
+RU07 Sparkwork Armorer
+
+UU04 Shifting Spectre
+
+UU06 Thopter Engineer
+
+UU02 Wakewatcher Wizard
+
+UU05 Leyline Tracker
+
+RU04 Imperial Mistweaver
+
+UU07 Voidsea Leviathan
+
+UU08 Scalefeather Twister
+
+CU10 Dissonant Dream
+
+UU10 Obsessive Search
+
+UU11 Sparkwork Kaleidoscope
+
+UU12 Flickerlight Form
+
+UU13 Skyjack
+
+UU14 Hunt for the Awakened Core
+
+MB01 Li, Vestige of Life
+
+RB06 Sculptor of Memories
+
+RB02 Grim Opportunist
+
+RB03 Pact Eternal
+
+RB04 Bitter Grudge
+
+RB07 Malaak, Corrupted Prince
+
+RB05 Yan, Dealer of Destinies
+
+UB03 Thornmarrow Mass
+
+UB02 Voidseeker Fanatic
+
+UB01 Barrescape Reaper
+
+UB04 Mindshrieker
+
+UB05 Void Summoner
+
+UB06 Lifeblood Lurker
+
+UB07 Blood-Mad Ogre
+
+UB08 Grotesque Gestalt
+
+UB09 Encroaching Void
+
+UB10 Shadows Around Us
+
+UB11 Field Dissection Kit
+
+UB12 Wreckage Extractor
+
+UB13 Death Claims Another
+
+UB14 Pull Apart
+
+MR01 Ko, Vestige of Fervor
+
+RR01 Barrescape Tyrant
+
+RR03 Lucient Amalgam
+
+RR02 Earthquake Elemental
+
+RR04 Leila, Reckless Pyromancer
+
+RR05 Flintlock Scavenger
+
+UR11 Voidcraft Blade
+
+RR07 Haal, Dissident Illusionist
+
+UR01 Pitiless Plunderer
+
+UR02 Magmatic Marauder
+type: Creature — Goblin Rebel => Creature — Human Rebel
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR05 Greyheart Avenger
+
+UR06 Boulder Breaker
+
+UR07 Strikesoul Rallier
+
+UR08 Barrescape Pioneer
+
+UR09 Warpwalk
+
+UR10 Terrabomb
+
+UM17 Call to Battle
+
+UR12 Dizzying Resummoning
+
+UR13 Uncaged Fury
+
+UR14 Luciclasm
+
+MG01 Te, Vestige of Strength
+
+RG01 Sundering Hydra
+
+RG02 Venerant Earthspeaker
+
+RG03 Sporespawn Drift
+
+RG04 Reveal the Underdark
+
+RM10a Mammoth Caller
+
+RG06 Rampaging Clawfoot
+
+RG07 Fenfield Nourisher
+
+UG01 Manaseeker Serpent
+
+UM09 Heartpact Rebirth
+
+UG03 Greenleaf Treefolk
+
+UG04 Earthweaver Druid
+
+UG05 Scruptions Tiller
+
+UG06 Reckless Roots
+
+UG07 Clawfoot Elder
+
+UG08 Deepwell Repurposer
+
+UG09 Brush Stomper
+
+UG10 Budding Mycospawn
+
+UG11 Spirited Growth
+
+UG12 Blessing of Selas
+
+UG13 Rite of Renewal
+
+UG14 Heaped Harvest
+
+RM01a Dzaan, Wingblade Veteran
+
+RM02a Vel, Grand Illusionist
+
+RM03b Dance of Undeath
+
+RM04b Greyheart Awakener
+
+RM06a Toil Unending
+
+RM05a Heartpact Awakening
+rules_text: 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​
+special_text: 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​
+
+RM07b Prism Dancer
+
+RM08b Cycleborn Mycolid
+
+RM09a Greyheart Evangelist
+
+RM04a Shattered Earth
+
+UL02 Fallen Lotus
+
+RM01b Dizzying Heights
+
+RM02b Dreameater
+
+UM06 Rancorous Rebel
+
+RM05b Settler's Day Parade
+
+RM06b Synchrum Puppeteer
+
+RM07a Voidcraft Refiner
+
+RM08a Dregwalker
+
+RG05 Koma's Hearth
+
+CA06 Leyline Surveyor
+
+UA04 Endless Hollow
+
+UA06 Adventuring Gear
+
+UA08 Waning Thought
+
+UA01 Fractured Phantom
+cost: {5} => {8}
+rules_text: When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Evoke {2} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Reach, trample
+When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Evoke {2} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 3/3 => 7/7
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+UA07 Scouting Ship
+
+UU01 Radiant Crab
+
+RB01 Fetid Maw
+
+CR10 Magma Lash
+
+CG13 Oxhide Veil
+
+UL01 Resonant Quarry
+
+RM09b Riftwake Phoenix
+
+
+VERSION 16 CHANGELOG
 ====================
 
 CW10 Magnanimous Magistrate added.
