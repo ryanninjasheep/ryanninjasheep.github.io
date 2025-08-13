@@ -431,13 +431,13 @@
 			}
 		},
 		{
-			"name": "CR13 Grind the Gears",
+			"name": "CR13 Spark of Insight",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/139_CR13 Grind the Gears.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/139_CR13 Spark of Insight.png"
 			}
 		},
 		{
@@ -494,7 +494,7 @@
 			"name": "CG06 Soil Stirrer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Citizen",
+			"type": "Creature — Elf Scout",
 			"collector_number": "167",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/167_CG06 Soil Stirrer.png"
@@ -835,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/256_UA05 Aderic's Sextant.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/255_UA05 Aderic's Sextant.png"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/272_Plains.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/273_Plains.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/273_Plains.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/272_Plains.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/281_Forest.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/280_Forest.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/280_Forest.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/281_Forest.png"
 			}
 		},
 		{
@@ -2361,23 +2361,23 @@
 			}
 		},
 		{
-			"name": "RX01 Crystal Mine",
+			"name": "RX01 Crystal Dunes",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/264_RX01 Crystal Mine.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/264_RX01 Crystal Dunes.png"
 			}
 		},
 		{
-			"name": "RX03 Gathering Horde",
+			"name": "RX03 Fibrose Sympath",
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Creature — Voidling Homunculus",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/16_RX03 Gathering Horde.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/16_RX03 Fibrose Sympath.png"
 			}
 		},
 		{
@@ -2591,13 +2591,13 @@
 			}
 		},
 		{
-			"name": "RX05 Conflux Core",
+			"name": "RX05 Warped Echoes",
 			"rarity": "rare",
-			"mana_cost": "{5}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "253",
+			"mana_cost": "{2}",
+			"type": "Enchantment",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253_RX05 Conflux Core.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/17_RX05 Warped Echoes.png"
 			}
 		},
 		{
@@ -2631,13 +2631,13 @@
 			}
 		},
 		{
-			"name": "RM10b Warped Echoes",
+			"name": "RM10b Scintillating Shardborn",
 			"rarity": "rare",
-			"mana_cost": "{G}{U}",
-			"type": "Enchantment",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227_RM10b Warped Echoes.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227_RM10b Scintillating Shardborn.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{C}{C}{C}",
 			"type": "Creature — Voidling",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/18_UA04 Endless Hollow.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/19_UA04 Endless Hollow.png"
 			}
 		},
 		{
@@ -2715,19 +2715,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/257_UA06 Adventuring Gear.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/256_UA06 Adventuring Gear.png"
 			}
 		},
 		{
-			"name": "UA08 Waning Thought",
+			"name": "UA08 Essence Extractor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Creature — Voidling",
-			"collector_number": "19",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/19_UA08 Waning Thought.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/258_UA08 Essence Extractor.png"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
 			"type": "Creature — Voidling",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/17_UA01 Fractured Phantom.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/18_UA01 Fractured Phantom.png"
 			}
 		},
 		{
@@ -2755,9 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/254_UA02 Imperfect Vessel.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253_UA02 Imperfect Vessel.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/255_UA03 Meteor Golem.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/254_UA03 Meteor Golem.png"
 			}
 		},
 		{
@@ -2785,9 +2785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/258_UA07 Scouting Ship.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/257_UA07 Scouting Ship.png"
 			}
 		},
 		{
@@ -2993,8 +2993,8 @@
 	2 RM10a Mammoth Caller
 	2 RG06 Rampaging Clawfoot
 	2 RG07 Fenfield Nourisher
-	2 RX01 Crystal Mine
-	2 RX03 Gathering Horde
+	2 RX01 Crystal Dunes
+	2 RX03 Fibrose Sympath
 	1 MX01 Kul, the Left Hand
 	1 MX02 Nox, Flickerlight Mind
 	1 MX03 Yegh, Twisted Spawn
@@ -3015,10 +3015,10 @@
 	2 RM04a Shattered Earth
 	2 RX02 Lay Waste
 	2 RX04 Void Engine
-	2 RX05 Conflux Core
+	2 RX05 Warped Echoes
 	2 RM01b Dizzying Heights
 	2 RM02b Dreameater
-	2 RM10b Warped Echoes
+	2 RM10b Scintillating Shardborn
 	2 RM05b Settler's Day Parade
 	2 RM06b Synchrum Puppeteer
 	2 RM07a Voidcraft Refiner
@@ -3127,7 +3127,7 @@
 	4 UM06 Rancorous Rebel
 	4 UA04 Endless Hollow
 	4 UA06 Adventuring Gear
-	4 UA08 Waning Thought
+	4 UA08 Essence Extractor
 	4 UA01 Fractured Phantom
 	4 UA02 Imperfect Vessel
 	4 UA03 Meteor Golem
@@ -3177,7 +3177,7 @@
 	8 CR09 Barrescape Behemoth
 	8 CR11 Beckoning Void
 	8 CR12 Let Go Lightly
-	8 CR13 Grind the Gears
+	8 CR13 Spark of Insight
 	8 CR14 Lightning Flare
 	8 CR15 Scorching Abrasion
 	8 CG01 Cycle Tender
@@ -3260,7 +3260,7 @@
 	12 CR09 Barrescape Behemoth
 	12 CR11 Beckoning Void
 	12 CR12 Let Go Lightly
-	12 CR13 Grind the Gears
+	12 CR13 Spark of Insight
 	12 CR14 Lightning Flare
 	12 CR15 Scorching Abrasion
 	12 CG01 Cycle Tender
@@ -3434,8 +3434,8 @@
 	6 UG12 Blessing of Selas
 	6 UG13 Rite of Renewal
 	6 UG14 Heaped Harvest
-	2 RX01 Crystal Mine
-	2 RX03 Gathering Horde
+	2 RX01 Crystal Dunes
+	2 RX03 Fibrose Sympath
 	1 MX01 Kul, the Left Hand
 	1 MX02 Nox, Flickerlight Mind
 	1 MX03 Yegh, Twisted Spawn
@@ -3457,11 +3457,11 @@
 	6 UL02 Fallen Lotus
 	2 RX02 Lay Waste
 	2 RX04 Void Engine
-	2 RX05 Conflux Core
+	2 RX05 Warped Echoes
 	2 RM01b Dizzying Heights
 	2 RM02b Dreameater
 	6 UM06 Rancorous Rebel
-	2 RM10b Warped Echoes
+	2 RM10b Scintillating Shardborn
 	2 RM05b Settler's Day Parade
 	2 RM06b Synchrum Puppeteer
 	2 RM07a Voidcraft Refiner
@@ -3470,7 +3470,7 @@
 	12 CA06 Leyline Surveyor
 	6 UA04 Endless Hollow
 	6 UA06 Adventuring Gear
-	6 UA08 Waning Thought
+	6 UA08 Essence Extractor
 	6 UA01 Fractured Phantom
 	6 UA02 Imperfect Vessel
 	6 UA03 Meteor Golem
@@ -3532,7 +3532,7 @@
 	6 CR09 Barrescape Behemoth
 	6 CR11 Beckoning Void
 	6 CR12 Let Go Lightly
-	6 CR13 Grind the Gears
+	6 CR13 Spark of Insight
 	6 CR14 Lightning Flare
 	6 CR15 Scorching Abrasion
 	6 CG01 Cycle Tender
@@ -3706,8 +3706,8 @@
 	15 UG12 Blessing of Selas
 	15 UG13 Rite of Renewal
 	15 UG14 Heaped Harvest
-	7 RX01 Crystal Mine
-	7 RX03 Gathering Horde
+	7 RX01 Crystal Dunes
+	7 RX03 Fibrose Sympath
 	4 MX01 Kul, the Left Hand
 	4 MX02 Nox, Flickerlight Mind
 	4 MX03 Yegh, Twisted Spawn
@@ -3729,11 +3729,11 @@
 	15 UL02 Fallen Lotus
 	7 RX02 Lay Waste
 	7 RX04 Void Engine
-	7 RX05 Conflux Core
+	7 RX05 Warped Echoes
 	7 RM01b Dizzying Heights
 	7 RM02b Dreameater
 	15 UM06 Rancorous Rebel
-	7 RM10b Warped Echoes
+	7 RM10b Scintillating Shardborn
 	7 RM05b Settler's Day Parade
 	7 RM06b Synchrum Puppeteer
 	7 RM07a Voidcraft Refiner
@@ -3742,7 +3742,7 @@
 	6 CA06 Leyline Surveyor
 	15 UA04 Endless Hollow
 	15 UA06 Adventuring Gear
-	15 UA08 Waning Thought
+	15 UA08 Essence Extractor
 	15 UA01 Fractured Phantom
 	15 UA02 Imperfect Vessel
 	15 UA03 Meteor Golem

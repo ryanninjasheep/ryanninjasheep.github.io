@@ -1,4 +1,230 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+CR13 Spark of Insight added.
+RX01 Crystal Dunes added.
+RX03 Fibrose Sympath added.
+RX05 Warped Echoes added.
+RM10b Scintillating Shardborn added.
+UA08 Essence Extractor added.
+
+CR13 Grind the Gears removed.
+RX01 Crystal Mine removed.
+RX03 Gathering Horde removed.
+RX05 Conflux Core removed.
+RM10b Warped Echoes removed.
+UA08 Waning Thought removed.
+
+CB01 Lifeleeched Vermin
+
+CB02 Deathrattle Scorpion
+
+CB09 Blood-Rage Minotaur
+
+CB13 Out of Focus
+
+CB12 Corrupted Conviction
+
+CR02 Careless Cartographer
+
+CR04 Caustic Peakcrawler
+
+CR08 Echoing Roar
+
+CR09 Barrescape Behemoth
+
+CR11 Beckoning Void
+
+CR12 Let Go Lightly
+
+CR15 Scorching Abrasion
+
+CG02 Ichortongue Lizard
+
+CG03 Barrescape Nurturer
+
+CG06 Soil Stirrer
+type: Creature — Human Citizen => Creature — Elf Scout
+
+CG09 Disciple of Koma
+
+CG12 Peatfield Ambush
+
+CG11 Nature's Wrath
+
+CG10 Flourishing Stomper
+
+CG05 Koma's Chosen
+
+CG14 Leyline Navigation
+
+UM01 Thopter Suit
+
+UM03 Blightwing Locust
+
+UM05 Voidheart Rallier
+
+UG02 Underfall Harmonist
+
+UM10 Harvester of the Way
+
+CB04 Dessicated Diner
+
+UM15 Darkeater
+
+CA01 Wasteland Wanderer
+
+CA02 Skyport Custodian
+
+CA03 Periscope Sentinel
+
+UA05 Aderic's Sextant
+
+CW13 Severed Sanctum
+
+CW14 Fleeting Flight
+
+CU11 Dazzling Maneuver
+
+CR05 Barrescape Brawler
+
+CG04 Clawfoot Herd
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, this creature gets +2/+2 and gains trample until end of turn. => [i]Landfall[/i] — Whenever a land you control enters, this creature gets +2/+2 until end of turn.
+
+UW08 Raptor Trainer
+
+UW11 Empathic Mesh
+
+UW12 Rewarding Retreat
+
+UU07 Voidsea Leviathan
+
+UU11 Sparkwork Kaleidoscope
+
+UU13 Skyjack
+
+RB05 Yan, Dealer of Destinies
+
+UB03 Thornmarrow Mass
+
+UB09 Encroaching Void
+
+RR02 Earthquake Elemental
+
+UR01 Pitiless Plunderer
+
+UR06 Boulder Breaker
+
+UR09 Warpwalk
+
+RG04 Reveal the Underdark
+
+RG06 Rampaging Clawfoot
+
+UG05 Scruptions Tiller
+
+UG08 Deepwell Repurposer
+
+UG11 Spirited Growth
+
+UG13 Rite of Renewal
+
+MX01 Kul, the Left Hand
+
+MX03 Yegh, Twisted Spawn
+
+MX05 Aderic, Savvy Surveyor
+
+MX06 Gaar, 9th Front General
+rules_text: Whenever MX06 Gaar attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.
+Attacking tokens you control get +1/+0. => Menace
+Whenever MX06 Gaar attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.
+Attacking tokens you control get +1/+0.
+
+MX07 Llem, Greyheart Elder
+
+RM04b Greyheart Awakener
+
+RM06a Toil Unending
+
+RM05a Heartpact Awakening
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​ => 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​ => 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target permanent card from a graveyard onto the battlefield under your control.
+​
+
+RM04a Shattered Earth
+
+RX04 Void Engine
+rules_text: {T}: Add {C}.
+{4}{C}, {T}, Sacrifice this artifact: Return target colorless creature card from your graveyard to the battlefield tapped. => {T}: Add {C}.
+{2}{C}, {T}: Copy the next colorless spell you cast this turn. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]
+
+RM08a Dregwalker
+
+RG05 Koma's Hearth
+
+UA04 Endless Hollow
+
+UA06 Adventuring Gear
+
+UA01 Fractured Phantom
+
+UA02 Imperfect Vessel
+
+UA03 Meteor Golem
+
+MX12 Herald of Anox
+
+UA07 Scouting Ship
+
+MX10 Vesz, Endless Whisper
+
+Vampire
+
+MX13 Syzygy, Whole One
+rules_text: {1}, Lay waste: Choose one —
+• Put a +1/+1 counter on target creature.
+• Draw a card, then discard a card.
+• Target creature gets -1/-1 until end of turn.
+• MX13 Syzygy deals 2 damage to any target.
+• Add one mana of any color.
+Evoke {5} => {1}, Lay waste: Choose one —
+• You gain 3 life.
+• Draw a card, then discard a card.
+• Target creature gets -1/-1 until end of turn.
+• MX13 Syzygy deals 2 damage to any target.
+• Put a +1/+1 counter on target creature.
+Evoke {5}
+
+MX14 A World Asunder
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 CW05 Heartpact Acolyte added.

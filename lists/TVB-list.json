@@ -1008,7 +1008,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "CR13 Grind the Gears",
+        "card_name": "CR13 Spark of Insight",
         "number": 139,
         "shape": "normal",
         "set": "TVB"
@@ -1243,7 +1243,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "RM10b Warped Echoes",
+        "card_name": "RM10b Scintillating Shardborn",
         "number": 227,
         "shape": "normal",
         "set": "TVB"
@@ -1499,8 +1499,14 @@
         "set": "TVB"
     },
     {
-        "card_name": "RX03 Gathering Horde",
+        "card_name": "RX03 Fibrose Sympath",
         "number": 16,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "RX05 Warped Echoes",
+        "number": 17,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1511,25 +1517,13 @@
         "set": "TVB"
     },
     {
-        "card_name": "RX05 Conflux Core",
-        "number": 253,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
         "card_name": "UA01 Fractured Phantom",
-        "number": 17,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "UA04 Endless Hollow",
         "number": 18,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "UA08 Waning Thought",
+        "card_name": "UA04 Endless Hollow",
         "number": 19,
         "shape": "normal",
         "set": "TVB"
@@ -1560,30 +1554,36 @@
     },
     {
         "card_name": "UA02 Imperfect Vessel",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA03 Meteor Golem",
-        "number": 255,
+        "number": 254,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA05 Aderic's Sextant",
-        "number": 256,
+        "number": 255,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA06 Adventuring Gear",
-        "number": 257,
+        "number": 256,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "UA07 Scouting Ship",
+        "number": 257,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "UA08 Essence Extractor",
         "number": 258,
         "shape": "normal",
         "set": "TVB"
@@ -1760,7 +1760,7 @@
         "card_name": "er"
     },
     {
-        "card_name": "RX01 Crystal Mine",
+        "card_name": "RX01 Crystal Dunes",
         "number": 264,
         "shape": "normal",
         "set": "TVB"
@@ -1800,13 +1800,13 @@
     },
     {
         "card_name": "Plains",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Plains",
-        "number": 273,
+        "number": 272,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1848,13 +1848,13 @@
     },
     {
         "card_name": "Forest",
-        "number": 281,
+        "number": 280,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Forest",
-        "number": 280,
+        "number": 281,
         "shape": "normal",
         "set": "TVB"
     },

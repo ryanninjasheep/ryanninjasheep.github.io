@@ -395,9 +395,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Markus Neidel",
             "alias": "",
-            "notes": "CB01: One- or two-mana creature",
+            "notes": "CB01: One- or two-mana creature\nhttps://www.artstation.com/artwork/w8BAw",
             "image_type": "png"
         },
         {
@@ -415,9 +415,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Guillem H. Pongiluppi",
             "alias": "",
-            "notes": "CB02: Two-mana creature\ncommon_waste_cycle",
+            "notes": "CB02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/yXqOR",
             "image_type": "png"
         },
         {
@@ -535,9 +535,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Markus Neidel",
             "alias": "",
-            "notes": "CB09: Six- or seven-mana creature",
+            "notes": "CB09: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/VdYYP",
             "image_type": "png"
         },
         {
@@ -575,9 +575,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "CB13: Coercion +",
+            "notes": "CB13: Coercion +\nhttps://www.artstation.com/artwork/3qGlxB",
             "image_type": "png"
         },
         {
@@ -615,9 +615,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "BLAKE",
             "alias": "",
-            "notes": "CB12: Card draw (added cost)\n[canon reprint]",
+            "notes": "CB12: Card draw (added cost)\n[canon reprint]\nhttps://www.artstation.com/artwork/gJLqyK",
             "image_type": "png"
         },
         {
@@ -695,9 +695,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard Lay",
             "alias": "",
-            "notes": "CR02: Two-mana creature",
+            "notes": "CR02: Two-mana creature\nhttps://www.artstation.com/artwork/YGbn13",
             "image_type": "png"
         },
         {
@@ -735,9 +735,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nino Is.",
             "alias": "",
-            "notes": "CR04: Three-mana creature\ncommon_waste_cycle",
+            "notes": "CR04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/YKglwb",
             "image_type": "png"
         },
         {
@@ -795,9 +795,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR08: Five-mana creature",
+            "notes": "CR08: Five-mana creature\nhttps://www.artstation.com/artwork/JlBglz",
             "image_type": "png"
         },
         {
@@ -815,9 +815,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR09: Six-mana creature",
+            "notes": "CR09: Six-mana creature\nhttps://www.artstation.com/artwork/ovvvm",
             "image_type": "png"
         },
         {
@@ -835,9 +835,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard Lay",
             "alias": "",
-            "notes": "CR11: Combat trick",
+            "notes": "CR11: Combat trick\nhttps://www.artstation.com/artwork/y4NkoQ",
             "image_type": "png"
         },
         {
@@ -855,13 +855,13 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR12: Rummaging/impulsive draw",
+            "notes": "CR12: Rummaging/impulsive draw\nhttps://www.artstation.com/artwork/9eV3WR",
             "image_type": "png"
         },
         {
-            "card_name": "CR13 Grind the Gears",
+            "card_name": "CR13 Spark of Insight",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
@@ -875,9 +875,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "CR13: Modal Shatter",
+            "notes": "CR13: Modal Shatter\nhttps://www.artstation.com/artwork/YBa16",
             "image_type": "png"
         },
         {
@@ -915,9 +915,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR15: Direct damage (five mana, 6 damage)",
+            "notes": "CR15: Direct damage (five mana, 6 damage)\nhttps://www.artstation.com/artwork/EVXmgK",
             "image_type": "png"
         },
         {
@@ -955,9 +955,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Agustin Vergara Koller",
             "alias": "",
-            "notes": "CG02: Two-mana creature",
+            "notes": "CG02: Two-mana creature\nhttps://www.artstation.com/artwork/6LR9oW",
             "image_type": "png"
         },
         {
@@ -975,16 +975,16 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]",
+            "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]\nhttps://www.artstation.com/artwork/XB2zga",
             "image_type": "png"
         },
         {
             "card_name": "CG06 Soil Stirrer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2013 Elf Scout",
             "number": 167,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -995,9 +995,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Rafael Assis",
             "alias": "",
-            "notes": "CG06: Three- or four-mana creature",
+            "notes": "CG06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/04zyYV",
             "image_type": "png"
         },
         {
@@ -1055,9 +1055,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CG09: Six-mana creature",
+            "notes": "CG09: Six-mana creature\nhttps://www.artstation.com/artwork/w846Jg",
             "image_type": "png"
         },
         {
@@ -1075,9 +1075,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CG12: Bite spell",
+            "notes": "CG12: Bite spell\nhttps://www.artstation.com/artwork/31E4E",
             "image_type": "png"
         },
         {
@@ -1095,9 +1095,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard Lay",
             "alias": "",
-            "notes": "CG11: Fight spell",
+            "notes": "CG11: Fight spell\nhttps://www.artstation.com/artwork/RKa3GO",
             "image_type": "png"
         },
         {
@@ -1115,9 +1115,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle",
+            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/9Nv4JR",
             "image_type": "png"
         },
         {
@@ -1135,9 +1135,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CG05: Three-mana creature",
+            "notes": "CG05: Three-mana creature\nhttps://www.artstation.com/artwork/VdPavR",
             "image_type": "png"
         },
         {
@@ -1155,9 +1155,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CG14: Mana acceleration",
+            "notes": "CG14: Mana acceleration\nhttps://www.artstation.com/artwork/1BnZ",
             "image_type": "png"
         },
         {
@@ -1195,9 +1195,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "Archetype enabler",
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/VdEnAn",
             "image_type": "png"
         },
         {
@@ -1235,9 +1235,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard Lay",
             "alias": "",
-            "notes": "Archetype enabler",
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/V2DPOR",
             "image_type": "png"
         },
         {
@@ -1275,9 +1275,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "Archetype enabler",
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/k4KWXz",
             "image_type": "png"
         },
         {
@@ -1355,9 +1355,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/0XGrVe",
             "image_type": "png"
         },
         {
@@ -1375,9 +1375,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "Archetype payoff",
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/2xOXza",
             "image_type": "png"
         },
         {
@@ -1395,9 +1395,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "CB04: Three-mana creature",
+            "notes": "CB04: Three-mana creature\nhttps://www.artstation.com/artwork/dKqLEW",
             "image_type": "png"
         },
         {
@@ -1475,9 +1475,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Markus Neidel",
             "alias": "",
-            "notes": "Archetype enabler",
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/L2J8l",
             "image_type": "png"
         },
         {
@@ -1575,9 +1575,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Marcus Whinney",
             "alias": "",
-            "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)",
+            "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)\nhttps://www.artstation.com/artwork/el8213",
             "image_type": "png"
         },
         {
@@ -1595,9 +1595,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Aleksandar Ignatov",
             "alias": "",
-            "notes": "CA02: Three-mana creature",
+            "notes": "CA02: Three-mana creature\nhttps://www.artstation.com/artwork/G8ALa",
             "image_type": "png"
         },
         {
@@ -1615,9 +1615,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Kamil Tondera",
             "alias": "",
-            "notes": "CA03: Four-mana creature\ncommon_waste_cycle",
+            "notes": "CA03: Four-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/lnBNG",
             "image_type": "png"
         },
         {
@@ -1665,7 +1665,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 256,
+            "number": 255,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n{5}, {T}, Sacrifice this artifact: Create two basic land tokens named Wastes with \u201c{T}: Add {C}.\u201d",
@@ -1795,9 +1795,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "CW13: Banishing light",
+            "notes": "CW13: Banishing light\nhttps://www.artstation.com/artwork/oAe01k",
             "image_type": "png"
         },
         {
@@ -1815,9 +1815,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Feng Wei",
+            "artist": "Thomas Elliott",
             "alias": "",
-            "notes": "CW14: Combat trick\n[canon reprint]\nhttps://www.artstation.com/artwork/xz24KR",
+            "notes": "CW14: Combat trick\n[canon reprint]\nhttps://www.artstation.com/artwork/d8dg4W",
             "image_type": "png"
         },
         {
@@ -1895,9 +1895,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Anthony Catillaz",
+            "artist": "Blake",
             "alias": "",
-            "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/VJKVLR",
+            "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/0X8EAe",
             "image_type": "png"
         },
         {
@@ -2035,9 +2035,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Luka Brico",
+            "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CR05: Three-mana creature",
+            "notes": "CR05: Three-mana creature\nhttps://www.artstation.com/artwork/bnRvG",
             "image_type": "png"
         },
         {
@@ -2048,7 +2048,7 @@
             "number": 165,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +2/+2 and gains trample until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
             "flavor_text": "[i]It is said that the clawfoots of Anoxi store their memories in their stomachs.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2265,7 +2265,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Plains",
-            "number": 272,
+            "number": 273,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2285,7 +2285,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Plains",
-            "number": 273,
+            "number": 272,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -2425,7 +2425,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Forest",
-            "number": 281,
+            "number": 280,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2445,7 +2445,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Forest",
-            "number": 280,
+            "number": 281,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -2875,9 +2875,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/evanb",
             "image_type": "png"
         },
         {
@@ -2935,9 +2935,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "BLAKE",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/GakkY4",
             "image_type": "png"
         },
         {
@@ -2955,9 +2955,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Rafael Assis",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/4NggRY",
             "image_type": "png"
         },
         {
@@ -3275,9 +3275,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Markus Neidel",
             "alias": "",
-            "notes": "May be non-creature",
+            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/YaxRP",
             "image_type": "png"
         },
         {
@@ -3355,9 +3355,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard Lay",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/V2DPOR",
             "image_type": "png"
         },
         {
@@ -3395,9 +3395,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Alan Gomes",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/Xn5mr0",
             "image_type": "png"
         },
         {
@@ -3555,9 +3555,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Alan Gomes",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle",
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/9mAkeo",
             "image_type": "png"
         },
         {
@@ -3575,9 +3575,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Joao Sergio",
             "alias": "",
-            "notes": "uncommon_landfall_cycle",
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/wJ34Aw",
             "image_type": "png"
         },
         {
@@ -3735,9 +3735,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/XBdVgl",
             "image_type": "png"
         },
         {
@@ -3915,9 +3915,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Maria Trepalina",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/NGbzz",
             "image_type": "png"
         },
         {
@@ -4015,9 +4015,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "uncommon_waste_cycle",
+            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/0XyWky",
             "image_type": "png"
         },
         {
@@ -4115,9 +4115,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Markus Neidel",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/badqr",
             "image_type": "png"
         },
         {
@@ -4175,9 +4175,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/qAYzVN",
             "image_type": "png"
         },
         {
@@ -4375,9 +4375,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "BLAKE",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/Ga48Xa",
             "image_type": "png"
         },
         {
@@ -4415,9 +4415,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle",
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/EVXmgK",
             "image_type": "png"
         },
         {
@@ -4535,9 +4535,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/XB2zga",
             "image_type": "png"
         },
         {
@@ -4595,9 +4595,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "BLAKE",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/x6Z6Y",
             "image_type": "png"
         },
         {
@@ -4655,9 +4655,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sergio Chaves",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/nYWWJ1",
             "image_type": "png"
         },
         {
@@ -4695,9 +4695,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard Lay",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/AlrxEX",
             "image_type": "png"
         },
         {
@@ -4721,27 +4721,27 @@
             "image_type": "png"
         },
         {
-            "card_name": "RX01 Crystal Mine",
+            "card_name": "RX01 Crystal Dunes",
             "color": "",
             "rarity": "rare",
             "type": "Land",
             "number": 264,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "{T}: Add {C}.\n{2}, {T}: Create Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "{T}: Add {C}.\n{1}, {T}: Create Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/xzbqZX",
             "image_type": "png"
         },
         {
-            "card_name": "RX03 Gathering Horde",
+            "card_name": "RX03 Fibrose Sympath",
             "color": "",
             "rarity": "rare",
             "type": "Creature \u2013 Voidling Homunculus",
@@ -4755,9 +4755,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Biagio D'Alessandro",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/GXW1QV",
             "image_type": "png"
         },
         {
@@ -4775,9 +4775,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Christian Ramirez",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/GeBwNV",
             "image_type": "png"
         },
         {
@@ -4815,9 +4815,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Sung Choi",
+            "artist": "Nino Is.",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Jr5k6a",
+            "notes": "https://www.artstation.com/artwork/XnwVAL",
             "image_type": "png"
         },
         {
@@ -4855,9 +4855,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/8RlO",
             "image_type": "png"
         },
         {
@@ -4868,16 +4868,16 @@
             "number": 201,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
-            "rules_text": "Whenever MX06 Gaar attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.\nAttacking tokens you control get +1/+0.",
+            "rules_text": "Menace\nWhenever MX06 Gaar attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.\nAttacking tokens you control get +1/+0.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Wenjun Lin",
+            "artist": "Thomas Elliott",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/E9130",
+            "notes": "https://www.artstation.com/artwork/mDerYv",
             "image_type": "png"
         },
         {
@@ -4895,9 +4895,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/XB2zga",
             "image_type": "png"
         },
         {
@@ -4995,9 +4995,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/k4KWXz",
             "image_type": "png"
         },
         {
@@ -5015,9 +5015,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nino Is.",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/W2ql0v",
             "image_type": "png"
         },
         {
@@ -5028,16 +5028,16 @@
             "number": 216,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2013 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "rules_text": "\nI, II \u2013 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2013 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2013 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2013 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "special_text": "\nI, II \u2013 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2013 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Richard lay",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/XJa3kD",
             "image_type": "png"
         },
         {
@@ -5115,9 +5115,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/L2gQ4k",
             "image_type": "png"
         },
         {
@@ -5168,7 +5168,7 @@
             "number": 252,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{T}: Add {C}.\n{4}{C}, {T}, Sacrifice this artifact: Return target colorless creature card from your graveyard to the battlefield tapped.",
+            "rules_text": "{T}: Add {C}.\n{2}{C}, {T}: Copy the next colorless spell you cast this turn. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5181,23 +5181,23 @@
             "image_type": "png"
         },
         {
-            "card_name": "RX05 Conflux Core",
+            "card_name": "RX05 Warped Echoes",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Construct",
-            "number": 253,
-            "color_identity": "WUBRG",
-            "cost": "{5}",
-            "rules_text": "This creature is all colors.\nProtection from colorless. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless..)[/i]",
+            "type": "Enchantment",
+            "number": 17,
+            "color_identity": "C",
+            "cost": "{2}",
+            "rules_text": "If a creature you evoked this turn would die, exile it instead. You may cast it for its mana cost for as long as it remains exiled. [i](You may not cast it for its evoke cost.)[/i]\n{3}, Sacrifice this enchantment: Target player shuffles their graveyard into their library.",
             "flavor_text": "[i][/i]",
-            "pt": "3/6",
+            "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/EL5V3A",
             "image_type": "png"
         },
         {
@@ -5261,16 +5261,16 @@
             "image_type": "png"
         },
         {
-            "card_name": "RM10b Warped Echoes",
+            "card_name": "RM10b Scintillating Shardborn",
             "color": "UG",
             "rarity": "rare",
-            "type": "Enchantment",
+            "type": "Artifact Creature \u2013 Golem",
             "number": 227,
             "color_identity": "UG",
-            "cost": "{G}{U}",
-            "rules_text": "If a creature you evoked this turn would die, exile it instead. You may cast it for its mana cost for as long as it remains exiled. [i](You may not cast it for its evoke cost.)[/i]",
+            "cost": "{1}{G}{U}",
+            "rules_text": "When this creature enters, create two Prism tokens. [i](They're artifacts with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nSacrifice a Prism: Put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -5355,9 +5355,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/Z56V80",
             "image_type": "png"
         },
         {
@@ -5375,9 +5375,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adam Burn",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/X1oJ3a",
             "image_type": "png"
         },
         {
@@ -5405,7 +5405,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2013 Voidling",
-            "number": 18,
+            "number": 19,
             "color_identity": "C",
             "cost": "{2C}{2C}{2C}",
             "rules_text": "[i]({2C} can be paid with any two mana or with {C}. This card's mana value is 6.)[/i]\nWhen this creature enters, target player lays waste. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with \u201c{T}: Add {C}.\u201d)[/i]",
@@ -5425,7 +5425,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2013 Equipment",
-            "number": 257,
+            "number": 256,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1}",
@@ -5441,23 +5441,23 @@
             "image_type": "png"
         },
         {
-            "card_name": "UA08 Waning Thought",
+            "card_name": "UA08 Essence Extractor",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling",
-            "number": 19,
+            "type": "Artifact Creature \u2013 Construct",
+            "number": 258,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "This creature can't block.\nWhenever this creature attacks, sacrifice it at end of combat unless you exile a permanent card from your graveyard.",
+            "rules_text": "Whenever you lay waste, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "4/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Cristi Balanescu",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/zOAvE4",
             "image_type": "png"
         },
         {
@@ -5485,7 +5485,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Creature \u2013 Voidling",
-            "number": 17,
+            "number": 18,
             "color_identity": "C",
             "cost": "{8}",
             "rules_text": "Reach, trample\nWhen this creature enters, create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nEvoke {2} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
@@ -5505,7 +5505,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2013 Construct",
-            "number": 254,
+            "number": 253,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "When this creature dies, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
@@ -5525,7 +5525,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2013 Golem",
-            "number": 255,
+            "number": 254,
             "color_identity": "C",
             "cost": "{7}",
             "rules_text": "When this creature enters, destroy target nonland permanent an opponent controls.",
@@ -5555,9 +5555,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Joao Sergio",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/9eZAqW",
             "image_type": "png"
         },
         {
@@ -5565,7 +5565,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact \u2013 Vehicle",
-            "number": 258,
+            "number": 257,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "Flying\nWhenever this Vehicle attacks, surveil 1.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -5775,9 +5775,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nino Is.",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/rA2wQL",
             "image_type": "png"
         },
         {
@@ -5815,9 +5815,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": "!related CB04 Dessicated Diner;UB13 Death Claims Another;UM11 Sinister Administrator",
+            "notes": "https://www.artstation.com/artwork/6QevW\n!related CB04 Dessicated Diner;UB13 Death Claims Another;UM11 Sinister Administrator",
             "image_type": "png"
         },
         {
@@ -5848,7 +5848,7 @@
             "number": 207,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "{1}, Lay waste: Choose one \u2013\n\u2022 Put a +1/+1 counter on target creature.\n\u2022 Draw a card, then discard a card.\n\u2022 Target creature gets -1/-1 until end of turn.\n\u2022 MX13 Syzygy deals 2 damage to any target.\n\u2022 Add one mana of any color.\nEvoke {5}",
+            "rules_text": "{1}, Lay waste: Choose one \u2013\n\u2022 You gain 3 life.\n\u2022 Draw a card, then discard a card.\n\u2022 Target creature gets -1/-1 until end of turn.\n\u2022 MX13 Syzygy deals 2 damage to any target.\n\u2022 Put a +1/+1 counter on target creature.\nEvoke {5}",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -5868,16 +5868,16 @@
             "number": 9,
             "color_identity": "C",
             "cost": "{4}{C}{C}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
+            "rules_text": "\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
+            "special_text": "\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/w846Jg",
             "image_type": "png"
         },
         {
