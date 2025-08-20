@@ -1,4 +1,139 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+CB09 Cruel Enforcer added.
+
+CB09 Blood-Rage Minotaur removed.
+
+CW07 Aeronaut Modelist
+
+CW08 Eager Settler
+
+CU01 Highspire Sentry
+
+CU02 Voidcraft Scholar
+
+CU03 Lumina Technician
+
+CU04 Wild Whelp
+
+CU06 Luxara Doorman
+
+CB01 Lifeleeched Vermin
+
+CB06 Desperate Howler
+rules_text: Menace
+When this creature enters, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature. => Menace
+When this creature enters, if a creature died this turn, put a +1/+1 counter on this creature.
+
+CB07 Sickleblade Rallier
+rules_text: At the beginning of your end step, if you control two or more tapped creatures, you draw a card and lose 1 life. => At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.
+
+CR07 Cindertusk Boar
+
+CR09 Barrescape Behemoth
+
+UM02 Wingblade General
+
+UM12 Ceaseless Minstrel
+
+UM14 Cobbled Contraption
+
+UM13 Ephemera Vendor
+
+UM20 Seeker of Muses
+
+CA03 Periscope Sentinel
+
+CA05 Prismatic Lens
+
+Soldier
+
+CW04 Wingblade Recruit
+
+CU09 Rescue
+
+RW05 Tectonic Shift
+
+RW07 Zealous Pilgrim
+
+UW02 Twin-Blade Duelist
+
+UW08 Raptor Trainer
+
+UW14 Zealous Display
+
+RU07 Sparkwork Armorer
+
+MR01 Ko, Vestige of Fervor
+rules_text: [i](This card has no color.)[/i]
+Flying, haste
+Whenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking.
+Whenever another colorless creature you control dies, Ko deals damage equal to that creature's power to each opponent. => [i](This card has no color.)[/i]
+Flying, haste
+Whenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking. Sacrifice it at the beginning of the next end step.
+Whenever another colorless creature you control dies, Ko deals damage equal to that creature's power to each opponent.
+pt: 3/4 => 2/4
+
+RR02 Earthquake Elemental
+rules_text: Haste
+Whenever this creature attacks, you may sacrifice a land. If you do, it gets +2/+0 and gains menace until end of turn. => Haste
+Whenever this creature attacks, you may sacrifice a land. If you do, this creature gets +2/+0 and gains menace until end of turn.
+
+RR05 Flintlock Scavenger
+type: Creature — Human Pirate => Creature — Goblin Pirate
+
+UR03 Voidcraft Champion
+
+UR04 Potshot Goblin
+
+UR14 Luciclasm
+
+UG01 Manaseeker Serpent
+
+UG13 Rite of Renewal
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, mill a card. Then if there are eight or more permanent cards in your graveyard, you may sacrifice this enchantment. When you do, exile target nonland permanent card from your graveyard. You may cast it this turn without paying its mana cost. => [i]Landfall[/i] — Whenever a land you control enters, mill a card. Then if there are eight or more permanent cards in your graveyard, you may exile this enchantment. When you do, exile target nonland permanent card from your graveyard. You may cast that card this turn without paying its mana cost.
+
+MX08 Biel, the Storyteller
+
+RM01a Dzaan, Wingblade Veteran
+rules_text: Flying, vigilance
+Whenever a Dzaan attacks, put a +1/+1 counter on each other attacking creature you control with flying. => Flying, vigilance
+Whenever a Dzaan attacks, put a +1/+1 counter on each other creature you control with flying.
+
+RX02 Lay Waste
+
+RM10b Scintillating Shardborn
+
+RM06b Synchrum Puppeteer
+
+RM07a Voidcraft Refiner
+
+MX10 Vesz, Endless Whisper
+rules_text: Deathtouch
+Whenever MX10 Vesz deals combat damage to a player, exile target nonland card from your graveyard. Copy it. You may cast the copy. Colorless spells you cast this way cost {1} less to cast. => Deathtouch
+Whenever MX10 Vesz attacks, exile target nonland card from your graveyard. Copy it. You may cast the copy. Colorless spells you cast this way cost {2} less to cast.
+
+MX14 A World Asunder
+rules_text: 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+special_text: 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+
+MX15 The Terralance
+
+
+VERSION 18 CHANGELOG
 ====================
 
 CR13 Spark of Insight added.

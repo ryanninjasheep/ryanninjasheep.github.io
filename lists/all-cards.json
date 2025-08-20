@@ -115,9 +115,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]",
+            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\nhttps://www.artstation.com/artwork/blKxRa",
             "image_type": "png"
         },
         {
@@ -135,9 +135,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Matt Rhodes",
             "alias": "",
-            "notes": "CW08: Four-mana creature",
+            "notes": "CW08: Four-mana creature\nhttps://www.artstation.com/artwork/R39dJX",
             "image_type": "png"
         },
         {
@@ -235,9 +235,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Alex Chow",
             "alias": "",
-            "notes": "CU01: Two-mana creature",
+            "notes": "CU01: Two-mana creature\nhttps://www.artstation.com/artwork/z63k2",
             "image_type": "png"
         },
         {
@@ -257,7 +257,7 @@
             "loyalty": "",
             "artist": "IdeaXu",
             "alias": "",
-            "notes": "CU02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/vb8YlY",
+            "notes": "CU02: Two-mana creature\nhttps://www.artstation.com/artwork/vb8YlY",
             "image_type": "png"
         },
         {
@@ -275,9 +275,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Samantha B. Lucas",
             "alias": "",
-            "notes": "CU03: Three-mana creature",
+            "notes": "CU03: Three-mana creature\nhttps://www.artstation.com/artwork/aRKQgX",
             "image_type": "png"
         },
         {
@@ -297,7 +297,7 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "CU04: Three-mana creature\nhttps://www.artstation.com/artwork/y4QZKQ",
+            "notes": "CU04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/y4QZKQ",
             "image_type": "png"
         },
         {
@@ -335,9 +335,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Drew Cichy",
             "alias": "",
-            "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]",
+            "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]\nhttps://www.artstation.com/artwork/5vdey8",
             "image_type": "png"
         },
         {
@@ -389,7 +389,7 @@
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "{1}, Exile this card from your graveyard: Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Something wicked festers within.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -488,7 +488,7 @@
             "number": 98,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Menace\nWhen this creature enters, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature.",
+            "rules_text": "Menace\nWhen this creature enters, if a creature died this turn, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -508,7 +508,7 @@
             "number": 99,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "At the beginning of your end step, if you control two or more tapped creatures, you draw a card and lose 1 life.",
+            "rules_text": "At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -521,14 +521,14 @@
             "image_type": "png"
         },
         {
-            "card_name": "CB09 Blood-Rage Minotaur",
+            "card_name": "CB09 Cruel Enforcer",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2013 Minotaur Mercenary",
             "number": 101,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "Menace\n{2}, Sacrifice another creature: Put a +1/+1 counter on this creature. It gains indestructible until end of turn. Tap it.",
+            "rules_text": "Menace\nWhenever this creature attacks, you may sacrifice another artifact or creature. If you do, you draw a card and lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -775,9 +775,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Aica Cortez",
             "alias": "",
-            "notes": "CR07: Four- or five-mana creature",
+            "notes": "CR07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/gJVvzL",
             "image_type": "png"
         },
         {
@@ -815,9 +815,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Piotr Foksowicz",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "CR09: Six-mana creature\nhttps://www.artstation.com/artwork/ovvvm",
+            "notes": "CR09: Six-mana creature\nhttps://www.artstation.com/artwork/J8gOm",
             "image_type": "png"
         },
         {
@@ -1215,9 +1215,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Alex Chow",
             "alias": "",
-            "notes": "Archetype payoff\n[canon reprint \u2014 empyrean eagle]",
+            "notes": "Archetype payoff\n[canon reprint \u2014 empyrean eagle]\nhttps://www.artstation.com/artwork/5gWWO",
             "image_type": "png"
         },
         {
@@ -1415,9 +1415,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Vera Rehaag",
             "alias": "",
-            "notes": "Archetype payoff",
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/rJzN8a",
             "image_type": "png"
         },
         {
@@ -1435,9 +1435,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Stijn Beerts",
             "alias": "",
-            "notes": "Archetype payoff",
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/aoDGZR",
             "image_type": "png"
         },
         {
@@ -1455,9 +1455,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Graey Erb",
             "alias": "",
-            "notes": "Archetype enabler",
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/kKY0x",
             "image_type": "png"
         },
         {
@@ -1549,7 +1549,7 @@
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Whenever you cast a spell with mana value 5 or greater, put a +1/+1 counter on this creature. Then if this creature has three or more +1/+1 counters on it, draw a card.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cMy, my. Aren't you a precious little pocket of joy?\u201d[/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
@@ -1609,7 +1609,7 @@
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "When this creature enters, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with \u201c{T}: Add {C}.\u201d)[/i]\nVigilance, reach",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]It watches over the ruins, ready to strike down scavengers.[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -1649,7 +1649,7 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]Even the prism, Aethelia's greatest innovation, is nothing compared to an untapped leyline.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1735,9 +1735,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ming Ming John",
             "alias": "",
-            "notes": "!related CW09 Magnanimous Magistrate;MX08 Gaar, 9th Front General<2>;RM09 Kira, Greyheart Evangelist;UM01 Thopter Suit;UM17 Call to Battle<2>;UW05 Leyline Patrol<3>;UW09 Pioneering Aristocrat",
+            "notes": "!related CW09 Magnanimous Magistrate;MX08 Gaar, 9th Front General<2>;RM09 Kira, Greyheart Evangelist;UM01 Thopter Suit;UM17 Call to Battle<2>;UW05 Leyline Patrol<3>;UW09 Pioneering Aristocrat\nhttps://www.artstation.com/artwork/g0G1ae",
             "image_type": "png"
         },
         {
@@ -1835,9 +1835,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "CW04: Three-mana creature",
+            "notes": "CW04: Three-mana creature\nhttps://www.artstation.com/artwork/n2Y3K",
             "image_type": "png"
         },
         {
@@ -1855,9 +1855,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Grafit Studio",
             "alias": "",
-            "notes": "CU09: Protective instant\n[canon reprint]",
+            "notes": "CU09: Protective instant\n[canon reprint]\nhttps://www.artstation.com/artwork/yzZwQ",
             "image_type": "png"
         },
         {
@@ -2675,9 +2675,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "kirinkarwai",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/el4ZDZ",
             "image_type": "png"
         },
         {
@@ -2715,9 +2715,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle",
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/evanb",
             "image_type": "png"
         },
         {
@@ -2795,9 +2795,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Joseph Qiu",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/1QkxX",
             "image_type": "png"
         },
         {
@@ -2875,9 +2875,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Piotr Foksowicz",
+            "artist": "Atomhawk",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/evanb",
+            "notes": "https://www.artstation.com/artwork/ZenQL0",
             "image_type": "png"
         },
         {
@@ -2995,9 +2995,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "[canon reprint]",
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/VGyv4",
             "image_type": "png"
         },
         {
@@ -3155,9 +3155,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Chris Dien",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/NGYB5",
             "image_type": "png"
         },
         {
@@ -3848,9 +3848,9 @@
             "number": 141,
             "color_identity": "R",
             "cost": "{C}{C}{R}{R}",
-            "rules_text": "[i](This card has no color.)[/i]\nFlying, haste\nWhenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking.\nWhenever another colorless creature you control dies, Ko deals damage equal to that creature's power to each opponent.",
+            "rules_text": "[i](This card has no color.)[/i]\nFlying, haste\nWhenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking. Sacrifice it at the beginning of the next end step.\nWhenever another colorless creature you control dies, Ko deals damage equal to that creature's power to each opponent.",
             "flavor_text": "[i][/i]",
-            "pt": "3/4",
+            "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -3908,7 +3908,7 @@
             "number": 143,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Haste\nWhenever this creature attacks, you may sacrifice a land. If you do, it gets +2/+0 and gains menace until end of turn.",
+            "rules_text": "Haste\nWhenever this creature attacks, you may sacrifice a land. If you do, this creature gets +2/+0 and gains menace until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3944,7 +3944,7 @@
             "card_name": "RR05 Flintlock Scavenger",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Pirate",
+            "type": "Creature \u2013 Goblin Pirate",
             "number": 145,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3955,9 +3955,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle",
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/PkDw1",
             "image_type": "png"
         },
         {
@@ -4055,9 +4055,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/nOnv4",
             "image_type": "png"
         },
         {
@@ -4075,9 +4075,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Matteo Spirito",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/B1BEz6",
             "image_type": "png"
         },
         {
@@ -4275,9 +4275,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/VJDZaN",
             "image_type": "png"
         },
         {
@@ -4455,9 +4455,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Bachzim",
             "alias": "",
-            "notes": "uncommon_waste_cycle",
+            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/48aw21",
             "image_type": "png"
         },
         {
@@ -4688,7 +4688,7 @@
             "number": 194,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, mill a card. Then if there are eight or more permanent cards in your graveyard, you may sacrifice this enchantment. When you do, exile target nonland permanent card from your graveyard. You may cast it this turn without paying its mana cost.",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, mill a card. Then if there are eight or more permanent cards in your graveyard, you may exile this enchantment. When you do, exile target nonland permanent card from your graveyard. You may cast that card this turn without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4915,9 +4915,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Blake Byun",
+            "artist": "Kan Liu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/r9VA86",
+            "notes": "https://www.artstation.com/artwork/9nLq",
             "image_type": "png"
         },
         {
@@ -4928,16 +4928,16 @@
             "number": 208,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "Flying, vigilance\nWhenever a Dzaan attacks, put a +1/+1 counter on each other attacking creature you control with flying.",
+            "rules_text": "Flying, vigilance\nWhenever a Dzaan attacks, put a +1/+1 counter on each other creature you control with flying.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/gOWGQ",
             "image_type": "png"
         },
         {
@@ -5155,9 +5155,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/XY090",
             "image_type": "png"
         },
         {
@@ -5275,9 +5275,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/QLNGL",
             "image_type": "png"
         },
         {
@@ -5315,9 +5315,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Matteo Spirito",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/8eAnan",
             "image_type": "png"
         },
         {
@@ -5335,9 +5335,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/nOnv4",
             "image_type": "png"
         },
         {
@@ -5768,7 +5768,7 @@
             "number": 205,
             "color_identity": "UBG",
             "cost": "{1}{B}{G}{U}",
-            "rules_text": "Deathtouch\nWhenever MX10 Vesz deals combat damage to a player, exile target nonland card from your graveyard. Copy it. You may cast the copy. Colorless spells you cast this way cost {1} less to cast.",
+            "rules_text": "Deathtouch\nWhenever MX10 Vesz attacks, exile target nonland card from your graveyard. Copy it. You may cast the copy. Colorless spells you cast this way cost {2} less to cast.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -5868,10 +5868,10 @@
             "number": 9,
             "color_identity": "C",
             "cost": "{4}{C}{C}",
-            "rules_text": "\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast spells exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
@@ -5895,9 +5895,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Atomhawk",
             "alias": "",
-            "notes": "",
+            "notes": "https://www.artstation.com/artwork/WXKBJX",
             "image_type": "png"
         }
     ]

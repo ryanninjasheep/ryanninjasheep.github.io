@@ -261,13 +261,13 @@
 			}
 		},
 		{
-			"name": "CB09 Blood-Rage Minotaur",
+			"name": "CB09 Cruel Enforcer",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Minotaur Mercenary",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/101_CB09 Blood-Rage Minotaur.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/101_CB09 Cruel Enforcer.png"
 			}
 		},
 		{
@@ -1974,7 +1974,7 @@
 			"name": "RR05 Flintlock Scavenger",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Pirate",
+			"type": "Creature — Goblin Pirate",
 			"collector_number": "145",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145_RR05 Flintlock Scavenger.png"
@@ -3160,7 +3160,7 @@
 	8 CB05 Voidheart Mystic
 	8 CB06 Desperate Howler
 	8 CB07 Sickleblade Rallier
-	8 CB09 Blood-Rage Minotaur
+	8 CB09 Cruel Enforcer
 	8 CB03 Graverazer
 	8 CB13 Out of Focus
 	8 CB11 Blackened Blade
@@ -3243,7 +3243,7 @@
 	12 CB05 Voidheart Mystic
 	12 CB06 Desperate Howler
 	12 CB07 Sickleblade Rallier
-	12 CB09 Blood-Rage Minotaur
+	12 CB09 Cruel Enforcer
 	12 CB03 Graverazer
 	12 CB13 Out of Focus
 	12 CB11 Blackened Blade
@@ -3515,7 +3515,7 @@
 	6 CB05 Voidheart Mystic
 	6 CB06 Desperate Howler
 	6 CB07 Sickleblade Rallier
-	6 CB09 Blood-Rage Minotaur
+	6 CB09 Cruel Enforcer
 	6 CB03 Graverazer
 	6 CB13 Out of Focus
 	6 CB11 Blackened Blade
