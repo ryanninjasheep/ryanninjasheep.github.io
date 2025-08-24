@@ -572,9 +572,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Anato Finnstark",
+            "artist": "Nolan Lu",
             "alias": "",
-            "notes": "CB11: Combat trick\nhttps://www.artstation.com/artwork/eRV063"
+            "notes": "CB11: Combat trick\nhttps://www.artstation.com/artwork/29qBnK"
         },
         {
             "card_name": "CB12 Corrupted Conviction",
@@ -736,7 +736,7 @@
             "number": 133,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Trample\nWhenever a colorless nonland permanent you control enters, this creature gets +1/+0 until end of turn.",
+            "rules_text": "When this creature enters, you may sacrifice a colorless permanent. When you do, destroy target artifact an opponent controls.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -774,7 +774,7 @@
             "number": 135,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "When this creature enters, you may sacrifice a colorless permanent. If you do, this creature deals 2 damage to any target.",
+            "rules_text": "Trample\nAt the beginning of your end step, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -824,14 +824,14 @@
             "notes": "CR12: Rummaging/impulsive draw\nhttps://www.artstation.com/artwork/9eV3WR"
         },
         {
-            "card_name": "CR13 Spark of Insight",
+            "card_name": "CR13 Light Fantastic",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
             "number": 139,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Choose one \u2014 \n\u2022 Destroy target artifact.\n\u2022 Create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "cost": "{2}{R}",
+            "rules_text": "Creatures you control get +2/+0 until end of turn. Create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -840,7 +840,7 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "CR13: Modal Shatter\nhttps://www.artstation.com/artwork/YBa16"
+            "notes": "CR13: Modal Shatter [ignored]\nhttps://www.artstation.com/artwork/YBa16"
         },
         {
             "card_name": "CR14 Lightning Flare",
@@ -1249,7 +1249,7 @@
             "number": 22,
             "color_identity": "UG",
             "cost": "{7}",
-            "rules_text": "Vigilance\nWhen this creature enters, draw a card, then you may put a land card from your hand onto the battlefield.\nEvoke {1}{G}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
+            "rules_text": "Vigilance\nWhen this creature enters, draw a card, then you may put a land card from your hand onto the battlefield.\nEvoke {G}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1345,7 +1345,7 @@
             "color_identity": "WB",
             "cost": "{W}{B}",
             "rules_text": "When this creature enters, put a +1/+1 counter on each tapped creature you control. Untap them.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]To wage war is an honor,\nTo idle is sin,\nFor the cycle demands\nThat which ends shall begin.[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -1421,7 +1421,7 @@
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "This creature's power is equal to the number of permanent cards in your graveyard.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cBy the heart of Selas and the soul of Koma, I condemn thee!\u201d[/i]",
             "pt": "*/2",
             "special_text": "",
             "shape": "normal",
@@ -1573,7 +1573,7 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
-            "flavor_text": "[i]Even the prism, Aethelia's greatest innovation, is nothing compared to an untapped leyline.[/i]",
+            "flavor_text": "[i]Even the prism, Aethelia's greatest innovation, cannot compare to the resonance of an untapped leyline.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1674,9 +1674,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jo\u00e3o Queiroz",
             "alias": "",
-            "notes": "!related CW07 Aeronaut Modelist;MX11* Nebson, Tireless Tinkerer;UU06 Thopter Engineer;UU14 Hunt for the Awakened Core"
+            "notes": "https://www.artstation.com/artwork/w8lKe5\n!related CW07 Aeronaut Modelist;MX11* Nebson, Tireless Tinkerer;UU06 Thopter Engineer;UU14 Hunt for the Awakened Core"
         },
         {
             "card_name": "CW12 Ruinating Strike",
@@ -2434,9 +2434,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Matiyas Cabezas Montoya",
             "alias": "",
-            "notes": "!related RG05 Mammoth Caller"
+            "notes": "https://www.artstation.com/artwork/qnl0a\n!related RG05 Mammoth Caller"
         },
         {
             "card_name": "MW01 Hu, Vestige of Faith",
@@ -2567,9 +2567,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/nEzQoe"
         },
         {
             "card_name": "RW07 Zealous Pilgrim",
@@ -2605,9 +2605,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Stephen Stark",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/AD225"
         },
         {
             "card_name": "UW04 Inspiring Veteran",
@@ -2643,9 +2643,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/k484EK"
         },
         {
             "card_name": "UW02 Twin-Blade Duelist",
@@ -2909,9 +2909,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sam Santala",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/3dl0dE"
         },
         {
             "card_name": "RU03 Shattered Reflection",
@@ -2966,9 +2966,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/rlX185"
         },
         {
             "card_name": "RU06 Sculpt in Light",
@@ -3042,9 +3042,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Mark Hretskyi",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/a035O9"
         },
         {
             "card_name": "UU02 Wakewatcher Wizard",
@@ -3080,9 +3080,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Aleksandra Alekseeva",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/PXL4EL"
         },
         {
             "card_name": "RU04 Imperial Mistweaver",
@@ -3579,7 +3579,7 @@
             "notes": "https://www.artstation.com/artwork/X10lE0"
         },
         {
-            "card_name": "UB11 Field Dissection Kit",
+            "card_name": "UB11 Stitcher's Supplies",
             "color": "B",
             "rarity": "uncommon",
             "type": "Artifact",
@@ -3593,9 +3593,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nolan Lu",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/Vd6AwN"
         },
         {
             "card_name": "UB12 Wreckage Extractor",
@@ -3612,9 +3612,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Louis STILLACE",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/WBqGRy"
         },
         {
             "card_name": "UB13 Death Claims Another",
@@ -3783,9 +3783,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/VJoO0g"
         },
         {
             "card_name": "RR07 Haal, Dissident Illusionist",
@@ -3852,9 +3852,9 @@
             "number": 150,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "First strike\nWhenever a colorless nonland permanent you control enters, double this creature's power until end of turn.",
+            "rules_text": "First strike\nWhenever a colorless permanent you control enters, double this creature's power until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "1/3",
+            "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -3890,7 +3890,7 @@
             "number": 152,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Whenever you sacrifice a colorless permanent during your turn, put a +1/+1 counter on this creature.",
+            "rules_text": "Whenever you sacrifice a permanent during your turn, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3992,9 +3992,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Envar Studio",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/b5RdeG"
         },
         {
             "card_name": "UM17 Call to Battle",
@@ -4004,7 +4004,7 @@
             "number": 244,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Create two 1/1 white Soldier creature tokens.\n\u2022 Creatures you control get +1/+0 until end of turn.",
+            "rules_text": "Choose one \u2014\n\u2022 Creatures you control get +1/+1 until end of turn.\n\u2022 Create two 1/1 white Soldier creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4220,9 +4220,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "lei min",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/3qE6GE"
         },
         {
             "card_name": "UG01 Manaseeker Serpent",
@@ -4277,9 +4277,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/eJX6P3"
         },
         {
             "card_name": "UG04 Earthweaver Druid",
@@ -4353,9 +4353,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Calder Moore",
             "alias": "",
-            "notes": "uncommon_landfall_cycle"
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/GLdBa"
         },
         {
             "card_name": "UG08 Deepwell Repurposer",
@@ -4486,9 +4486,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Archana",
             "alias": "",
-            "notes": "[canon reprint]"
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/RKqPlA"
         },
         {
             "card_name": "RX01 Crystal Dunes",
@@ -4600,9 +4600,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Betty Jiang",
+            "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/2x5ZwY"
+            "notes": "https://www.artstation.com/artwork/6LxL5W"
         },
         {
             "card_name": "MX05 Aderic, Savvy Surveyor",
@@ -4783,10 +4783,10 @@
             "number": 216,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
@@ -4896,7 +4896,7 @@
             "type": "Instant",
             "number": 15,
             "color_identity": "C",
-            "cost": "{3}{C}",
+            "cost": "{2}{C}",
             "rules_text": "Exile target permanent, then return it to the battlefield face down and tapped under its owner's control. It's a land with \u201c{T}: Add {C}.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4904,9 +4904,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "Veli Nystrom",
+            "artist": "Sin jong hun",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XY090"
+            "notes": "https://www.artstation.com/artwork/YBEAWP"
         },
         {
             "card_name": "RX04 Void Engine",
@@ -4916,16 +4916,16 @@
             "number": 252,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "{T}: Add {C}.\n{2}{C}, {T}: Copy the next colorless spell you cast this turn. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]",
+            "rules_text": "{T}: Add {C}.\n{1}{C}, {T}, Sacrifice this artifact: Copy the next colorless spell you cast this turn. You may choose new targets for the copies. [i](A copy of a permanent spell becomes a token.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nolan Lu",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/RYg9Jv"
         },
         {
             "card_name": "RX05 Warped Echoes",
@@ -4961,9 +4961,9 @@
             "shape": "normal",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Steve Firchow",
             "alias": "",
-            "notes": ""
+            "notes": "https://www.artstation.com/artwork/OlY1k"
         },
         {
             "card_name": "RM02b Dreameater",
@@ -5029,7 +5029,7 @@
             "type": "Sorcery",
             "number": 217,
             "color_identity": "WG",
-            "cost": "{2}{G}{W}",
+            "cost": "{1}{G}{W}",
             "rules_text": "Choose one \u2014\n\u2022 Create a 4/4 green Elephant creature token.\n\u2022 Return up to two target permanents with total mana value 4 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -5183,7 +5183,7 @@
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Whenever you lay waste, put a +1/+1 counter on this creature.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]When a leyline is depleted, latent energy yet remains. The Aethelians have ensured that every trace of mana is theirs to control.[/i]",
             "pt": "2/1",
             "special_text": "",
             "shape": "normal",
@@ -5220,9 +5220,9 @@
             "number": 18,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "Reach, trample\nWhen this creature enters, create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nEvoke {2} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
+            "rules_text": "Reach, trample\nWhen this creature enters, draw a card and create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nEvoke {3} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "7/7",
+            "pt": "6/6",
             "special_text": "",
             "shape": "normal",
             "set": "TVB",
@@ -5240,7 +5240,7 @@
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "When this creature dies, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cSome attempt to harness the void. Such attempts are futile.\u201d\n\u2014Rougeau's Field Guide[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -5360,9 +5360,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Andrew McIntosh",
             "alias": "",
-            "notes": "!related RM08 Cycleborn Mycolid<x>"
+            "notes": "https://www.artstation.com/artwork/4avK2\n!related RM08 Cycleborn Mycolid<x>"
         },
         {
             "card_name": "MX11 Empty Heart",
@@ -5398,9 +5398,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jason Scheier",
             "alias": "",
-            "notes": "!related UR04 Potshot Goblin"
+            "notes": "!related UR04 Potshot Goblin\nhttps://www.artstation.com/artwork/nQwNbX"
         },
         {
             "card_name": "CR10 Magma Lash",
@@ -5474,9 +5474,9 @@
             "shape": "token",
             "set": "TVB",
             "loyalty": "",
-            "artist": "",
+            "artist": "Ryan Davenport",
             "alias": "",
-            "notes": "!related RM07 Prism Dancer;RR07 Haal, Dissident Illusionist"
+            "notes": "https://www.artstation.com/artwork/Je0RXd\n!related RM07 Prism Dancer;RR07 Haal, Dissident Illusionist"
         },
         {
             "card_name": "MX10 Vesz, Endless Whisper",
@@ -5543,7 +5543,7 @@
             "number": 225,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
-            "rules_text": "Flying, lifelink\nWhenever you lay waste, you may return this creature from your graveyard to the battlefield.",
+            "rules_text": "Flying, lifelink\nWhenever you lay waste, you may return this creature from your graveyard to the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5612,5 +5612,5 @@
             "notes": "https://www.artstation.com/artwork/WXKBJX"
         }
     ],
-    "version": 19
+    "version": 20
 }
