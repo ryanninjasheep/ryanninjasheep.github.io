@@ -1,4 +1,566 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Ascendant Guide added.
+Heartpact Acolyte added.
+Skyport Watchman added.
+Reckless Raptor added.
+Aethelia Aerialist added.
+Aeronaut Modelist added.
+Eager Settler added.
+Magnanimous Architect added.
+Barrescape Conquerer added.
+Shimmering Stalker added.
+Emerge from the Cocoon added.
+Highspire Sentry added.
+Voidcraft Scholar added.
+Lumina Technician added.
+Wild Whelp added.
+Curio Collector added.
+Luxara Doorman added.
+Wingblade Surveyor added.
+Sepia Serpent added.
+Lifeleeched Vermin added.
+Deathrattle Scorpion added.
+Duram Nightstalker added.
+Sinister Administrator added.
+Voidheart Mystic added.
+Desperate Howler added.
+Sickleblade Rallier added.
+Cruel Enforcer added.
+Graverazer added.
+Out of Focus added.
+Blackened Blade added.
+Corrupted Conviction added.
+Madness Incarnate added.
+Mindless Culling added.
+Battlefield Troubador added.
+Careless Cartographer added.
+Blazing Artillerist added.
+Caustic Peakcrawler added.
+Voidcaller Druid added.
+Cindertusk Boar added.
+Echoing Roar added.
+Barrescape Behemoth added.
+Beckoning Void added.
+Let Go Lightly added.
+Light Fantastic added.
+Lightning Flare added.
+Scorching Abrasion added.
+Cycle Tender added.
+Ichortongue Lizard added.
+Barrescape Nurturer added.
+Soil Stirrer added.
+Thunderous Terrapin added.
+Deeproot Treefolk added.
+Disciple of Koma added.
+Peatfield Ambush added.
+Nature's Wrath added.
+Flourishing Stomper added.
+Koma's Chosen added.
+Leyline Navigation added.
+Harvest Cycle added.
+Thopter Suit added.
+Wingblade General added.
+Blightwing Locust added.
+Cunning Projectionist added.
+Voidheart Rallier added.
+Underfall Flamer added.
+Dreamroot Mass added.
+Leyline Defender added.
+Underfall Harmonist added.
+Harvester of the Way added.
+Dessicated Diner added.
+Ceaseless Minstrel added.
+Cobbled Contraption added.
+Ephemera Vendor added.
+Darkeater added.
+Underdark Avenger added.
+Flamekin Piper added.
+Bullish Adventurer added.
+Seeker of Muses added.
+Wasteland Wanderer added.
+Skyport Custodian added.
+Periscope Sentinel added.
+Shadow Self added.
+Prismatic Lens added.
+Aderic's Sextant added.
+Ruinating Strike added.
+Severed Sanctum added.
+Fleeting Flight added.
+Wingblade Recruit added.
+Rescue added.
+Rasping Currents added.
+Dazzling Maneuver added.
+Abrasive Ideation added.
+Utter Insignificance added.
+Chonofraction added.
+Flickerlight Projection added.
+Split the Earth added.
+Barrescape Brawler added.
+Clawfoot Herd added.
+The Blind Army added.
+Hu, Vestige of Faith added.
+Shen, Heir of Anox added.
+Destiny Manifest added.
+Effervescent Enigma added.
+Empire's Wing added.
+Tectonic Shift added.
+Soul Siphoner added.
+Zealous Pilgrim added.
+Munitions Supplier added.
+Inspiring General added.
+Dawncaller added.
+Twin-Blade Duelist added.
+Leyline Patrol added.
+Battlebond Infantry added.
+Wakecatcher added.
+Raptor Trainer added.
+Pioneering Aristocrat added.
+Silvershield Martyr added.
+Empathic Mesh added.
+Rewarding Retreat added.
+Bonded in Battle added.
+Zealous Display added.
+Ba, Vestige of Knowledge added.
+Pfiel, Expansion Architect added.
+Warbling Loon added.
+Shattered Reflection added.
+Voidseeker Sneak added.
+Voidcraft Adept added.
+Sculpt in Light added.
+Sparkwork Armorer added.
+Shifting Spectre added.
+Thopter Tinkerer added.
+Wakewatcher Wizard added.
+Leyline Tracker added.
+Imperial Mistweaver added.
+Voidsea Leviathan added.
+Scalefeather Twister added.
+Dissonant Dream added.
+Obsessive Pursuit added.
+Sparkwork Kaleidoscope added.
+Flickerlight Form added.
+Skyjack added.
+Hunt for the Awakened Core added.
+Li, Vestige of Life added.
+Sculptor of Memories added.
+Grim Opportunist added.
+Pact Eternal added.
+Bitter Grudge added.
+Malaak, Corrupted Prince added.
+Yan, Dealer of Destinies added.
+Thornmarrow Mass added.
+Voidseeker Fanatic added.
+Barrescape Reaper added.
+Mindskewer added.
+Void Summoner added.
+Lifeblood Lurker added.
+Blood-Mad Ogre added.
+Grotesque Gestalt added.
+Encroaching Void added.
+Shadows Around Us added.
+Stitcher's Supplies added.
+Wreckage Extractor added.
+Death Claims Another added.
+Pull Apart added.
+Ko, Vestige of Fervor added.
+Barrescape Tyrant added.
+Lucient Amalgam added.
+Earthquake Elemental added.
+Leila, Reckless Pyromancer added.
+Flintlock Scavenger added.
+Voidcraft Blade added.
+Haal, Dissident Illusionist added.
+Dispassionate Plunderer added.
+Magmatic Marauder added.
+Voidcraft Champion added.
+Potshot Goblin added.
+Greyheart Avenger added.
+Boulder Breaker added.
+Strikesoul Rallier added.
+Barrescape Pioneer added.
+Warpwalk added.
+Terrabomb added.
+Call to Battle added.
+Dizzying Resummoning added.
+Uncaged Fury added.
+Luciclasm added.
+Te, Vestige of Strength added.
+Sundering Hydra added.
+Venerant Earthspeaker added.
+Sporespawn Drift added.
+Reveal the Underdark added.
+Mammoth Caller added.
+Rampaging Clawfoot added.
+Fenfield Nourisher added.
+Manaseeker Serpent added.
+Heartpact Rebirth added.
+Greenleaf Treefolk added.
+Earthweaver Druid added.
+Scruptions Tiller added.
+Reckless Roots added.
+Clawfoot Elder added.
+Deepwell Repurposer added.
+Brush Stomper added.
+Budding Mycospawn added.
+Spirited Growth added.
+Blessing of Selas added.
+Rite of Renewal added.
+Heaped Harvest added.
+Crystal Dunes added.
+Fibrose Sympath added.
+Kul, the Left Hand added.
+Nox, Flickerlight Mind added.
+Yegh, Twisted Spawn added.
+Oho, Who Endures added.
+Aderic, Savvy Surveyor added.
+Gaar, 9th Front General added.
+Llem, Greyheart Elder added.
+Biel, the Storyteller added.
+Dzaan, Wingblade Veteran added.
+Vel, Grand Illusionist added.
+Dance of Undeath added.
+Greyheart Awakener added.
+Toil Unending added.
+Heartpact Awakening added.
+Prism Dancer added.
+Cycleborn Mycolid added.
+Greyheart Evangelist added.
+Shattered Earth added.
+Fallen Lotus added.
+To Waste added.
+Void Engine added.
+Warped Echoes added.
+Dizzying Heights added.
+Dreameater added.
+Rancorous Rebel added.
+Scintillating Shardborn added.
+Settler's Day Parade added.
+Synchrum Puppeteer added.
+Voidcraft Refiner added.
+Dregwalker added.
+Koma's Hearth added.
+Leyline Surveyor added.
+Endless Hollow added.
+Adventuring Gear added.
+Essence Extractor added.
+Fractured Phantom added.
+Broken Vessel added.
+Meteor Golem added.
+Herald of Anox added.
+Scouting Ship added.
+Radiant Crab added.
+Fetid Maw added.
+Empty Heart added.
+Magma Lash added.
+Oxhide Veil added.
+Resonant Quarry added.
+Vesz, Endless Whisper added.
+Nebson, Tireless Tinkerer added.
+Riftwake Phoenix added.
+Syzygy, Whole One added.
+A World Asunder added.
+The Terralance added.
+
+CW01 Ascendant Guide removed.
+CW05 Heartpact Acolyte removed.
+CW06 Skyport Watchman removed.
+CW02 Reckless Raptor removed.
+CW03 Aethelia Aerialist removed.
+CW07 Aeronaut Modelist removed.
+CW08 Eager Settler removed.
+CW10 Magnanimous Magistrate removed.
+CW09 Barrescape Conquerer removed.
+CW11 Shimmering Stalker removed.
+CW15 Emerge from the Cocoon removed.
+CU01 Highspire Sentry removed.
+CU02 Voidcraft Scholar removed.
+CU03 Lumina Technician removed.
+CU04 Wild Whelp removed.
+CU05 Curio Collector removed.
+CU06 Luxara Doorman removed.
+CU07 Wingblade Surveyor removed.
+CU15 Sepia Serpent removed.
+CB01 Lifeleeched Vermin removed.
+CB02 Deathrattle Scorpion removed.
+CB08 Duram Nightstalker removed.
+UM11 Sinister Administrator removed.
+CB05 Voidheart Mystic removed.
+CB06 Desperate Howler removed.
+CB07 Sickleblade Rallier removed.
+CB09 Cruel Enforcer removed.
+CB03 Graverazer removed.
+CB13 Out of Focus removed.
+CB11 Blackened Blade removed.
+CB12 Corrupted Conviction removed.
+CB10 Madness Incarnate removed.
+CB15 Mindless Culling removed.
+CR01 Battlefield Troubador removed.
+CR02 Careless Cartographer removed.
+CR03 Blazing Artillerist removed.
+CR04 Caustic Peakcrawler removed.
+CR06 Voidcaller Druid removed.
+CR07 Cindertusk Boar removed.
+CR08 Echoing Roar removed.
+CR09 Barrescape Behemoth removed.
+CR11 Beckoning Void removed.
+CR12 Let Go Lightly removed.
+CR13 Light Fantastic removed.
+CR14 Lightning Flare removed.
+CR15 Scorching Abrasion removed.
+CG01 Cycle Tender removed.
+CG02 Ichortongue Lizard removed.
+CG03 Barrescape Nurturer removed.
+CG06 Soil Stirrer removed.
+CG07 Thunderous Terrapin removed.
+CG08 Deeproot Treefolk removed.
+CG09 Disciple of Koma removed.
+CG12 Peatfield Ambush removed.
+CG11 Nature's Wrath removed.
+CG10 Flourishing Stomper removed.
+CG05 Koma's Chosen removed.
+CG14 Leyline Navigation removed.
+CG15 Harvest Cycle removed.
+UM01 Thopter Suit removed.
+UM02 Wingblade General removed.
+UM03 Blightwing Locust removed.
+UM04 Cunning Projectionist removed.
+UM05 Voidheart Rallier removed.
+RM03a Underfall Flamer removed.
+UM19 Dreamroot Mass removed.
+UM08 Leyline Defender removed.
+UG02 Underfall Harmonist removed.
+UM10 Harvester of the Way removed.
+CB04 Dessicated Diner removed.
+UM12 Ceaseless Minstrel removed.
+UM14 Cobbled Contraption removed.
+UM13 Ephemera Vendor removed.
+UM15 Darkeater removed.
+UM16 Underdark Avenger removed.
+UM18 Flamekin Piper removed.
+UM07 Bullish Adventurer removed.
+UM20 Seeker of Muses removed.
+CA01 Wasteland Wanderer removed.
+CA02 Skyport Custodian removed.
+CA03 Periscope Sentinel removed.
+CA04 Shadow Self removed.
+CA05 Prismatic Lens removed.
+UA05 Aderic's Sextant removed.
+CW12 Ruinating Strike removed.
+CW13 Severed Sanctum removed.
+CW14 Fleeting Flight removed.
+CW04 Wingblade Recruit removed.
+CU09 Rescue removed.
+UU09 Rasping Currents removed.
+CU11 Dazzling Maneuver removed.
+CU12 Abrasive Ideation removed.
+CU13 Utter Insignificance removed.
+CU14 Chonofraction removed.
+CU08 Flickerlight Projection removed.
+CB14 Split the Earth removed.
+CR05 Barrescape Brawler removed.
+CG04 Clawfoot Herd removed.
+RR06 The Blind Army removed.
+MW01 Hu, Vestige of Faith removed.
+RW01 Shen, Heir of Anox removed.
+RW02 Destiny Manifest removed.
+RW03 Effervescent Enigma removed.
+RW04 Empire's Wing removed.
+RW05 Tectonic Shift removed.
+RW06 Soul Siphoner removed.
+RW07 Zealous Pilgrim removed.
+UW01 Munitions Supplier removed.
+UW04 Inspiring Veteran removed.
+UW03 Dawncaller removed.
+UW02 Twin-Blade Duelist removed.
+UW05 Leyline Patrol removed.
+UW06 Battlebond Infantry removed.
+UW07 Wakecatcher removed.
+UW08 Raptor Trainer removed.
+UW09 Pioneering Aristocrat removed.
+UW10 Silvershield Martyr removed.
+UW11 Empathic Mesh removed.
+UW12 Rewarding Retreat removed.
+UW13 Bonded in Battle removed.
+UW14 Zealous Display removed.
+MU01 Ba, Vestige of Knowledge removed.
+RU01 Pfiel, Expansion Architect removed.
+RU02 Warbling Loon removed.
+RU03 Shattered Reflection removed.
+UU03 Voidseeker Sneak removed.
+RU05 Voidcraft Adept removed.
+RU06 Sculpt in Light removed.
+RU07 Sparkwork Armorer removed.
+UU04 Shifting Spectre removed.
+UU06 Thopter Engineer removed.
+UU02 Wakewatcher Wizard removed.
+UU05 Leyline Tracker removed.
+RU04 Imperial Mistweaver removed.
+UU07 Voidsea Leviathan removed.
+UU08 Scalefeather Twister removed.
+CU10 Dissonant Dream removed.
+UU10 Obsessive Search removed.
+UU11 Sparkwork Kaleidoscope removed.
+UU12 Flickerlight Form removed.
+UU13 Skyjack removed.
+UU14 Hunt for the Awakened Core removed.
+MB01 Li, Vestige of Life removed.
+RB06 Sculptor of Memories removed.
+RB02 Grim Opportunist removed.
+RB03 Pact Eternal removed.
+RB04 Bitter Grudge removed.
+RB07 Malaak, Corrupted Prince removed.
+RB05 Yan, Dealer of Destinies removed.
+UB03 Thornmarrow Mass removed.
+UB02 Voidseeker Fanatic removed.
+UB01 Barrescape Reaper removed.
+UB04 Mindshrieker removed.
+UB05 Void Summoner removed.
+UB06 Lifeblood Lurker removed.
+UB07 Blood-Mad Ogre removed.
+UB08 Grotesque Gestalt removed.
+UB09 Encroaching Void removed.
+UB10 Shadows Around Us removed.
+UB11 Stitcher's Supplies removed.
+UB12 Wreckage Extractor removed.
+UB13 Death Claims Another removed.
+UB14 Pull Apart removed.
+MR01 Ko, Vestige of Fervor removed.
+RR01 Barrescape Tyrant removed.
+RR03 Lucient Amalgam removed.
+RR02 Earthquake Elemental removed.
+RR04 Leila, Reckless Pyromancer removed.
+RR05 Flintlock Scavenger removed.
+UR11 Voidcraft Blade removed.
+RR07 Haal, Dissident Illusionist removed.
+UR01 Pitiless Plunderer removed.
+UR02 Magmatic Marauder removed.
+UR03 Voidcraft Champion removed.
+UR04 Potshot Goblin removed.
+UR05 Greyheart Avenger removed.
+UR06 Boulder Breaker removed.
+UR07 Strikesoul Rallier removed.
+UR08 Barrescape Pioneer removed.
+UR09 Warpwalk removed.
+UR10 Terrabomb removed.
+UM17 Call to Battle removed.
+UR12 Dizzying Resummoning removed.
+UR13 Uncaged Fury removed.
+UR14 Luciclasm removed.
+MG01 Te, Vestige of Strength removed.
+RG01 Sundering Hydra removed.
+RG02 Venerant Earthspeaker removed.
+RG03 Sporespawn Drift removed.
+RG04 Reveal the Underdark removed.
+RM10a Mammoth Caller removed.
+RG06 Rampaging Clawfoot removed.
+RG07 Fenfield Nourisher removed.
+UG01 Manaseeker Serpent removed.
+UM09 Heartpact Rebirth removed.
+UG03 Greenleaf Treefolk removed.
+UG04 Earthweaver Druid removed.
+UG05 Scruptions Tiller removed.
+UG06 Reckless Roots removed.
+UG07 Clawfoot Elder removed.
+UG08 Deepwell Repurposer removed.
+UG09 Brush Stomper removed.
+UG10 Budding Mycospawn removed.
+UG11 Spirited Growth removed.
+UG12 Blessing of Selas removed.
+UG13 Rite of Renewal removed.
+UG14 Heaped Harvest removed.
+RX01 Crystal Dunes removed.
+RX03 Fibrose Sympath removed.
+MX01 Kul, the Left Hand removed.
+MX02 Nox, Flickerlight Mind removed.
+MX03 Yegh, Twisted Spawn removed.
+MX04 Oho, Who Endures removed.
+MX05 Aderic, Savvy Surveyor removed.
+MX06 Gaar, 9th Front General removed.
+MX07 Llem, Greyheart Elder removed.
+MX08 Biel, the Storyteller removed.
+RM01a Dzaan, Wingblade Veteran removed.
+RM02a Vel, Grand Illusionist removed.
+RM03b Dance of Undeath removed.
+RM04b Greyheart Awakener removed.
+RM06a Toil Unending removed.
+RM05a Heartpact Awakening removed.
+RM07b Prism Dancer removed.
+RM08b Cycleborn Mycolid removed.
+RM09a Greyheart Evangelist removed.
+RM04a Shattered Earth removed.
+UL02 Fallen Lotus removed.
+RX02 Lay Waste removed.
+RX04 Void Engine removed.
+RX05 Warped Echoes removed.
+RM01b Dizzying Heights removed.
+RM02b Dreameater removed.
+UM06 Rancorous Rebel removed.
+RM10b Scintillating Shardborn removed.
+RM05b Settler's Day Parade removed.
+RM06b Synchrum Puppeteer removed.
+RM07a Voidcraft Refiner removed.
+RM08a Dregwalker removed.
+RG05 Koma's Hearth removed.
+CA06 Leyline Surveyor removed.
+UA04 Endless Hollow removed.
+UA06 Adventuring Gear removed.
+UA08 Essence Extractor removed.
+UA01 Fractured Phantom removed.
+UA02 Imperfect Vessel removed.
+UA03 Meteor Golem removed.
+MX12 Herald of Anox removed.
+UA07 Scouting Ship removed.
+UU01 Radiant Crab removed.
+RB01 Fetid Maw removed.
+MX11 Empty Heart removed.
+CR10 Magma Lash removed.
+CG13 Oxhide Veil removed.
+UL01 Resonant Quarry removed.
+MX10 Vesz, Endless Whisper removed.
+MX09 Nebson, Tireless Tinkerer removed.
+RM09b Riftwake Phoenix removed.
+MX13 Syzygy, Whole One removed.
+MX14 A World Asunder removed.
+MX15 The Terralance removed.
+
+Voidling
+
+Soldier
+
+Thopter
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Prism
+
+Elephant
+
+Voidling Beast
+
+Saproling
+
+Rock
+
+Illusion
+
+Vampire
+
+
+VERSION 20 CHANGELOG
 ====================
 
 CR13 Light Fantastic added.
