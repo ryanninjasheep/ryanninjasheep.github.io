@@ -2324,7 +2324,7 @@
 			"name": "Spirited Growth",
 			"rarity": "uncommon",
 			"mana_cost": "{X}{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "190",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/190_Spirited Growth.png"
