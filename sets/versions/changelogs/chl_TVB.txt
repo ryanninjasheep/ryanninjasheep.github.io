@@ -1,4 +1,181 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Stormfront Gate added.
+Forgetful Forager added.
+Rite of Rebirth added.
+
+Empathic Mesh removed.
+Potshot Goblin removed.
+Rite of Renewal removed.
+
+Heartpact Acolyte
+
+Skyport Watchman
+
+Reckless Raptor
+
+Magnanimous Architect
+
+Blackened Blade
+type: Instant => Enchantment — Aura
+rules_text: Target creature gains deathtouch and lifelink until end of turn. => Flash
+When this enchantment enters, enchanted creature gains lifelink until end of turn.
+Enchanted creature gets +2/+0.
+
+Cindertusk Boar
+rules_text: When this creature enters, you may sacrifice a colorless permanent. When you do, destroy target artifact an opponent controls. => Trample
+When this creature enters, you may sacrifice a colorless permanent. When you do, destroy target artifact an opponent controls.
+
+Let Go Lightly
+
+Light Fantastic
+
+Thopter Suit
+cost: {W}{U} => {1}{W}
+
+Ruinating Strike
+
+Severed Sanctum
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{1}{W}, Sacrifice this enchantment: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+{1}, Sacrifice this enchantment: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Fleeting Flight
+
+The Blind Army
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{3}{R}, Sacrifice this enchantment: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => [i]Landfall[/i] — Whenever a land you control enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{3}{R}, Sacrifice this enchantment: Creatures you control get +2/+0 and gain haste until end of turn. Activate only as a sorcery.
+
+Hu, Vestige of Faith
+
+Shen, Heir of Anox
+
+Empire's Wing
+
+Tectonic Shift
+
+Soul Siphoner
+
+Munitions Supplier
+
+Inspiring General
+
+Leyline Patrol
+
+Raptor Trainer
+
+Pioneering Aristocrat
+
+Silvershield Martyr
+
+Rewarding Retreat
+
+Wakewatcher Wizard
+rules_text: Flying
+[i]Landfall[/i] — Whenever a land you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+[i]Landfall[/i] — Whenever a land you control enters, surveil 1.
+
+Scalefeather Twister
+rules_text: Flying
+Whenever this creature enters or attacks, draw a card, then discard a card.
+Evoke {1}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Flying
+Whenever this creature enters or attacks, surveil 1.
+When this creature dies, draw a card.
+Evoke {1}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Sparkwork Kaleidoscope
+type: Artifact — Prism => Artifact
+rules_text: {1}, {T}: Add one mana of any color. Put a charge counter on this artifact.
+{T}, Sacrifice this artifact: Add {C} for each charge counter on this artifact. => {T}: Add {C}. Spend this mana only to cast a colorless spell or activate an ability.
+{2}{C}: Exile the top card of your library, then surveil 1.
+
+Flickerlight Form
+rules_text: Until end of turn, target permanent becomes a colorless Illusion creature with base power and toughness 4/1 in addition to its other types. [i](It loses all other colors and creature types, but retains its other types.)[/i] => Until end of turn, target artifact or creature becomes a colorless Illusion creature with base power and toughness 4/1 in addition to its other types. [i](It loses all other colors and creature types, but retains its other types.)[/i]
+
+Voidseeker Fanatic
+rules_text: Menace
+{4}{C}: Put two +1/+1 counters on this creature. It becomes colorless. => Menace
+{3}{C}: Put two +1/+1 counters on this creature. It becomes colorless.
+
+Grotesque Gestalt
+rules_text: Whenever this creature enters or attacks, target creature gets +1/+0 and gains menace until end of turn.
+Evoke {B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Whenever this creature enters or attacks, target creature gains deathtouch and lifelink until end of turn.
+When this creature dies, draw a card.
+Evoke {1}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 4/5 => 4/4
+
+Wreckage Extractor
+rules_text: {T}, Sacrifice an artifact or creature: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}, Exile a permanent card from your graveyard: Create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => {T}, Sacrifice an artifact or creature: Surveil 1.
+{T}, Exile a permanent card from your graveyard: Create a tapped Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Ko, Vestige of Fervor
+
+Leila, Reckless Pyromancer
+
+Haal, Dissident Illusionist
+
+Magmatic Marauder
+
+Voidcraft Champion
+cost: {1}{R} => {2}{R}
+rules_text: First strike
+Whenever a colorless permanent you control enters, double this creature's power until end of turn. => First strike
+Whenever a colorless permanent you control enters, this creature gets +2/+0 until end of turn.
+pt: 1/1 => 1/2
+
+Greyheart Avenger
+
+Luciclasm
+
+Sporespawn Drift
+rules_text: When this creature enters, return up to one target creature card from your graveyard to your hand.
+{T}: The next creature spell you cast this turn can be cast without paying its mana cost.
+Evoke {G}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When this creature enters, return up to one target creature card from your graveyard to your hand.
+{T}: Add {C}{C}{C}{C}.
+Evoke {G}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 3/6 => 3/5
+
+Budding Mycospawn
+rules_text: Whenever this creature enters or attacks, target creature gets +2/+2 and gains trample until end of turn.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Whenever this creature enters or attacks, target creature gets +2/+2 and gains trample until end of turn.
+When this creature dies, draw a card.
+Evoke {1}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Void Engine
+
+Synchrum Puppeteer
+
+Koma's Hearth
+cost: {1}{G}{G} => {2}{G}
+rules_text: When this artifact enters, mill three cards.
+{T}, Exile a permanent card from your graveyard: Return target permanent card from your graveyard to your hand. => You may cast spells for their evoke costs as though they had flash.
+At the beginning of your end step, exile a permanent card from your graveyard at random, then you may return a permanent card from your graveyard to your hand.
+
+Magma Lash
+
+Syzygy, Whole One
+
+A World Asunder
+rules_text: 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+special_text: 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

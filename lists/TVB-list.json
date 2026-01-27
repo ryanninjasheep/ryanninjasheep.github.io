@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Hu, Vestige of Faith",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "TVB"
     },
@@ -19,7 +19,7 @@
     },
     {
         "card_name": "Ko, Vestige of Fervor",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "TVB"
     },
@@ -61,7 +61,7 @@
     },
     {
         "card_name": "Empire's Wing",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "TVB"
     },
@@ -91,7 +91,7 @@
     },
     {
         "card_name": "Shen, Heir of Anox",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "TVB"
     },
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Soul Siphoner",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "TVB"
     },
@@ -151,7 +151,7 @@
     },
     {
         "card_name": "Tectonic Shift",
-        "number": 53,
+        "number": 52,
         "shape": "normal",
         "set": "TVB"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Haal, Dissident Illusionist",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "TVB"
     },
@@ -199,7 +199,7 @@
     },
     {
         "card_name": "Leila, Reckless Pyromancer",
-        "number": 147,
+        "number": 148,
         "shape": "normal",
         "set": "TVB"
     },
@@ -300,8 +300,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Empathic Mesh",
-        "number": 34,
+        "card_name": "Inspiring General",
+        "number": 38,
         "shape": "normal",
         "set": "TVB"
     },
@@ -330,7 +330,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "Inspiring General",
+        "card_name": "Leyline Patrol",
         "number": 39,
         "shape": "normal",
         "set": "TVB"
@@ -348,7 +348,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "Greyheart Avenger",
+        "card_name": "Forgetful Forager",
         "number": 144,
         "shape": "normal",
         "set": "TVB"
@@ -360,8 +360,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Leyline Patrol",
-        "number": 40,
+        "card_name": "Munitions Supplier",
+        "number": 41,
         "shape": "normal",
         "set": "TVB"
     },
@@ -378,8 +378,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Luciclasm",
-        "number": 150,
+        "card_name": "Greyheart Avenger",
+        "number": 145,
         "shape": "normal",
         "set": "TVB"
     },
@@ -390,7 +390,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "Munitions Supplier",
+        "card_name": "Pioneering Aristocrat",
         "number": 42,
         "shape": "normal",
         "set": "TVB"
@@ -408,8 +408,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Magmatic Marauder",
-        "number": 152,
+        "card_name": "Luciclasm",
+        "number": 151,
         "shape": "normal",
         "set": "TVB"
     },
@@ -420,7 +420,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "Pioneering Aristocrat",
+        "card_name": "Raptor Trainer",
         "number": 43,
         "shape": "normal",
         "set": "TVB"
@@ -438,7 +438,7 @@
         "set": "TVB"
     },
     {
-        "card_name": "Potshot Goblin",
+        "card_name": "Magmatic Marauder",
         "number": 153,
         "shape": "normal",
         "set": "TVB"
@@ -450,8 +450,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Raptor Trainer",
-        "number": 44,
+        "card_name": "Rewarding Retreat",
+        "number": 45,
         "shape": "normal",
         "set": "TVB"
     },
@@ -480,8 +480,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Rewarding Retreat",
-        "number": 46,
+        "card_name": "Silvershield Martyr",
+        "number": 49,
         "shape": "normal",
         "set": "TVB"
     },
@@ -504,14 +504,14 @@
         "set": "TVB"
     },
     {
-        "card_name": "Rite of Renewal",
+        "card_name": "Rite of Rebirth",
         "number": 187,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "Silvershield Martyr",
-        "number": 50,
+        "card_name": "Thopter Suit",
+        "number": 53,
         "shape": "normal",
         "set": "TVB"
     },
@@ -811,7 +811,7 @@
     },
     {
         "card_name": "Fleeting Flight",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "TVB"
     },
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Heartpact Acolyte",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "TVB"
     },
@@ -871,7 +871,7 @@
     },
     {
         "card_name": "Magnanimous Architect",
-        "number": 41,
+        "number": 40,
         "shape": "normal",
         "set": "TVB"
     },
@@ -901,7 +901,7 @@
     },
     {
         "card_name": "Reckless Raptor",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "TVB"
     },
@@ -919,7 +919,7 @@
     },
     {
         "card_name": "Let Go Lightly",
-        "number": 148,
+        "number": 149,
         "shape": "normal",
         "set": "TVB"
     },
@@ -931,7 +931,7 @@
     },
     {
         "card_name": "Ruinating Strike",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "TVB"
     },
@@ -949,7 +949,7 @@
     },
     {
         "card_name": "Light Fantastic",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "TVB"
     },
@@ -961,7 +961,7 @@
     },
     {
         "card_name": "Severed Sanctum",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "TVB"
     },
@@ -979,7 +979,7 @@
     },
     {
         "card_name": "Magma Lash",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "TVB"
     },
@@ -991,7 +991,7 @@
     },
     {
         "card_name": "Skyport Watchman",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1114,8 +1114,8 @@
         "set": "TVB"
     },
     {
-        "card_name": "Thopter Suit",
-        "number": 237,
+        "card_name": "Stormfront Gate",
+        "number": 235,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1190,7 +1190,7 @@
     },
     {
         "card_name": "Synchrum Puppeteer",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1418,7 +1418,7 @@
     },
     {
         "card_name": "Syzygy, Whole One",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1800,13 +1800,13 @@
     },
     {
         "card_name": "Plains",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Plains",
-        "number": 273,
+        "number": 272,
         "shape": "normal",
         "set": "TVB"
     },
@@ -1836,25 +1836,25 @@
     },
     {
         "card_name": "Mountain",
-        "number": 278,
-        "shape": "normal",
-        "set": "TVB"
-    },
-    {
-        "card_name": "Mountain",
         "number": 279,
         "shape": "normal",
         "set": "TVB"
     },
     {
-        "card_name": "Forest",
-        "number": 280,
+        "card_name": "Mountain",
+        "number": 278,
         "shape": "normal",
         "set": "TVB"
     },
     {
         "card_name": "Forest",
         "number": 281,
+        "shape": "normal",
+        "set": "TVB"
+    },
+    {
+        "card_name": "Forest",
+        "number": 280,
         "shape": "normal",
         "set": "TVB"
     },

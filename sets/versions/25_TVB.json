@@ -1,10 +1,16 @@
 ﻿{
+    "name": "The Void Beneath",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Ascendant Guide",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 26,
             "color_identity": "W",
             "cost": "{W}",
@@ -17,14 +23,13 @@
             "loyalty": "",
             "artist": "Katerina Ladon",
             "alias": "",
-            "notes": "CW01: One-mana creature\nhttps://www.artstation.com/artwork/xDnYnY",
-            "image_type": "png"
+            "notes": "CW01: One-mana creature\nhttps://www.artstation.com/artwork/xDnYnY"
         },
         {
             "card_name": "Heartpact Acolyte",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Cleric",
+            "type": "Creature \u2014 Elf Cleric",
             "number": 36,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "artist": "Dimitar Bochukov",
             "alias": "",
-            "notes": "CW05: Three-mana creature\nhttps://www.artstation.com/artwork/NrLq",
-            "image_type": "png"
+            "notes": "CW05: Three-mana creature\nhttps://www.artstation.com/artwork/NrLq"
         },
         {
             "card_name": "Skyport Watchman",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 50,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -57,14 +61,13 @@
             "loyalty": "",
             "artist": "Daniela Ivanova",
             "alias": "",
-            "notes": "CW06: Three-mana creature\nhttps://www.artstation.com/artwork/n019K4",
-            "image_type": "png"
+            "notes": "CW06: Three-mana creature\nhttps://www.artstation.com/artwork/n019K4"
         },
         {
             "card_name": "Reckless Raptor",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 44,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -77,14 +80,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "CW02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/x2GwW",
-            "image_type": "png"
+            "notes": "CW02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/x2GwW"
         },
         {
             "card_name": "Aethelia Aerialist",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -97,14 +99,13 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "CW03: Two-mana creature\nhttps://www.artstation.com/artwork/y4QZKQ\nall attackers are declared and tapped, then attack triggers occur",
-            "image_type": "png"
+            "notes": "CW03: Two-mana creature\nhttps://www.artstation.com/artwork/y4QZKQ\nall attackers are declared and tapped, then attack triggers occur"
         },
         {
             "card_name": "Aeronaut Modelist",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 24,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -117,14 +118,13 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\nhttps://www.artstation.com/artwork/blKxRa",
-            "image_type": "png"
+            "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\nhttps://www.artstation.com/artwork/blKxRa"
         },
         {
             "card_name": "Eager Settler",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 32,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "artist": "Matt Rhodes",
             "alias": "",
-            "notes": "CW08: Four-mana creature\nhttps://www.artstation.com/artwork/R39dJX",
-            "image_type": "png"
+            "notes": "CW08: Four-mana creature\nhttps://www.artstation.com/artwork/R39dJX"
         },
         {
             "card_name": "Magnanimous Architect",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Advisor",
+            "type": "Creature \u2014 Elf Advisor",
             "number": 40,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "notes": "CW10: Five- or six-mana creature\nhttps://www.artstation.com/artwork/r8662",
-            "image_type": "png"
+            "notes": "CW10: Five- or six-mana creature\nhttps://www.artstation.com/artwork/r8662"
         },
         {
             "card_name": "Barrescape Conquerer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 27,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -177,14 +175,13 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
-            "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/zx5aQ",
-            "image_type": "png"
+            "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/zx5aQ"
         },
         {
             "card_name": "Shimmering Stalker",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Cockatrice",
+            "type": "Creature \u2014 Voidling Cockatrice",
             "number": 18,
             "color_identity": "W",
             "cost": "{7}",
@@ -197,8 +194,7 @@
             "loyalty": "",
             "artist": "Margarita Mishanina",
             "alias": "",
-            "notes": "CW11: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/280PEy",
-            "image_type": "png"
+            "notes": "CW11: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/280PEy"
         },
         {
             "card_name": "Emerge from the Cocoon",
@@ -217,14 +213,13 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "CW15: Disenchant/removal spell\n[ignored bc i have creature that does it]\n[canon reprint]\nhttps://www.artstation.com/artwork/NG21Qg",
-            "image_type": "png"
+            "notes": "CW15: Disenchant/removal spell\n[ignored bc i have creature that does it]\n[canon reprint]\nhttps://www.artstation.com/artwork/NG21Qg"
         },
         {
             "card_name": "Highspire Sentry",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 67,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -237,14 +232,13 @@
             "loyalty": "",
             "artist": "Alex Chow",
             "alias": "",
-            "notes": "CU01: Two-mana creature\nhttps://www.artstation.com/artwork/z63k2",
-            "image_type": "png"
+            "notes": "CU01: Two-mana creature\nhttps://www.artstation.com/artwork/z63k2"
         },
         {
             "card_name": "Voidcraft Scholar",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 86,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -257,14 +251,13 @@
             "loyalty": "",
             "artist": "IdeaXu",
             "alias": "",
-            "notes": "CU02: Two-mana creature\nhttps://www.artstation.com/artwork/vb8YlY",
-            "image_type": "png"
+            "notes": "CU02: Two-mana creature\nhttps://www.artstation.com/artwork/vb8YlY"
         },
         {
             "card_name": "Lumina Technician",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Artificer",
+            "type": "Creature \u2014 Elf Artificer",
             "number": 71,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -277,14 +270,13 @@
             "loyalty": "",
             "artist": "Samantha B. Lucas",
             "alias": "",
-            "notes": "CU03: Three-mana creature\nhttps://www.artstation.com/artwork/aRKQgX",
-            "image_type": "png"
+            "notes": "CU03: Three-mana creature\nhttps://www.artstation.com/artwork/aRKQgX"
         },
         {
             "card_name": "Wild Whelp",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Drake",
+            "type": "Creature \u2014 Drake",
             "number": 91,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -297,14 +289,13 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "CU04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/y4QZKQ",
-            "image_type": "png"
+            "notes": "CU04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/y4QZKQ"
         },
         {
             "card_name": "Curio Collector",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 62,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -317,14 +308,13 @@
             "loyalty": "",
             "artist": "Magical Kaleidoscope",
             "alias": "",
-            "notes": "CU05: Three-mana creature\nhttps://www.artstation.com/artwork/lRma5k",
-            "image_type": "png"
+            "notes": "CU05: Three-mana creature\nhttps://www.artstation.com/artwork/lRma5k"
         },
         {
             "card_name": "Luxara Doorman",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Mercenary",
+            "type": "Creature \u2014 Elf Mercenary",
             "number": 72,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -337,14 +327,13 @@
             "loyalty": "",
             "artist": "Drew Cichy",
             "alias": "",
-            "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]\nhttps://www.artstation.com/artwork/5vdey8",
-            "image_type": "png"
+            "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]\nhttps://www.artstation.com/artwork/5vdey8"
         },
         {
             "card_name": "Wingblade Surveyor",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 92,
             "color_identity": "U",
             "cost": "{4}{U}",
@@ -357,14 +346,13 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "CU07: Five- or six-mana creature\n[canon reprint \u2014 icewind elemental]\nhttps://www.artstation.com/artwork/ELgoVA",
-            "image_type": "png"
+            "notes": "CU07: Five- or six-mana creature\n[canon reprint \u2014 icewind elemental]\nhttps://www.artstation.com/artwork/ELgoVA"
         },
         {
             "card_name": "Sepia Serpent",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Serpent",
+            "type": "Creature \u2014 Voidling Serpent",
             "number": 15,
             "color_identity": "U",
             "cost": "{7}",
@@ -377,14 +365,13 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
-            "notes": "CU15: Modal spell\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/qQV89e",
-            "image_type": "png"
+            "notes": "CU15: Modal spell\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/qQV89e"
         },
         {
             "card_name": "Lifeleeched Vermin",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat",
+            "type": "Creature \u2014 Rat",
             "number": 110,
             "color_identity": "B",
             "cost": "{B}",
@@ -397,14 +384,13 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
-            "notes": "CB01: One- or two-mana creature\nhttps://www.artstation.com/artwork/w8BAw",
-            "image_type": "png"
+            "notes": "CB01: One- or two-mana creature\nhttps://www.artstation.com/artwork/w8BAw"
         },
         {
             "card_name": "Deathrattle Scorpion",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Scorpion",
+            "type": "Creature \u2014 Scorpion",
             "number": 100,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -417,14 +403,13 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
-            "notes": "CB02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/yXqOR",
-            "image_type": "png"
+            "notes": "CB02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/yXqOR"
         },
         {
             "card_name": "Duram Nightstalker",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Vampire",
+            "type": "Creature \u2014 Vampire",
             "number": 103,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -437,14 +422,13 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
-            "notes": "CB08: Five- or six-mana creature\nhttps://www.artstation.com/artwork/dbL6w",
-            "image_type": "png"
+            "notes": "CB08: Five- or six-mana creature\nhttps://www.artstation.com/artwork/dbL6w"
         },
         {
             "card_name": "Sinister Administrator",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vampire Advisor",
+            "type": "Creature \u2014 Vampire Advisor",
             "number": 234,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
@@ -457,14 +441,13 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/WBJNlG",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/WBJNlG"
         },
         {
             "card_name": "Voidheart Mystic",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 123,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -477,14 +460,13 @@
             "loyalty": "",
             "artist": "Helder ALMEIDA",
             "alias": "",
-            "notes": "CB05: Three-mana creature\nhttps://www.artstation.com/artwork/mqbAJE",
-            "image_type": "png"
+            "notes": "CB05: Three-mana creature\nhttps://www.artstation.com/artwork/mqbAJE"
         },
         {
             "card_name": "Desperate Howler",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Wolf",
+            "type": "Creature \u2014 Wolf",
             "number": 101,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -497,14 +479,13 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
-            "notes": "CB06: Four-mana creature\nhttps://www.artstation.com/artwork/zAq45m",
-            "image_type": "png"
+            "notes": "CB06: Four-mana creature\nhttps://www.artstation.com/artwork/zAq45m"
         },
         {
             "card_name": "Sickleblade Rallier",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 118,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -517,14 +498,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "CB07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/6LA8W",
-            "image_type": "png"
+            "notes": "CB07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/6LA8W"
         },
         {
             "card_name": "Cruel Enforcer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Minotaur Mercenary",
+            "type": "Creature \u2014 Minotaur Mercenary",
             "number": 98,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -537,14 +517,13 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
-            "notes": "CB09: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/VdYYP",
-            "image_type": "png"
+            "notes": "CB09: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/VdYYP"
         },
         {
             "card_name": "Graverazer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Bat",
+            "type": "Creature \u2014 Bat",
             "number": 106,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -557,8 +536,7 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "CB03: Two-mana creature\nhttps://www.artstation.com/artwork/GY8gQ",
-            "image_type": "png"
+            "notes": "CB03: Two-mana creature\nhttps://www.artstation.com/artwork/GY8gQ"
         },
         {
             "card_name": "Out of Focus",
@@ -577,14 +555,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "CB13: Coercion +\nhttps://www.artstation.com/artwork/3qGlxB",
-            "image_type": "png"
+            "notes": "CB13: Coercion +\nhttps://www.artstation.com/artwork/3qGlxB"
         },
         {
             "card_name": "Blackened Blade",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 95,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -597,8 +574,7 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
-            "notes": "CB11: Combat trick\nhttps://www.artstation.com/artwork/29qBnK",
-            "image_type": "png"
+            "notes": "CB11: Combat trick\nhttps://www.artstation.com/artwork/29qBnK"
         },
         {
             "card_name": "Corrupted Conviction",
@@ -617,14 +593,13 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
-            "notes": "CB12: Card draw (added cost)\n[canon reprint]\nhttps://www.artstation.com/artwork/gJLqyK",
-            "image_type": "png"
+            "notes": "CB12: Card draw (added cost)\n[canon reprint]\nhttps://www.artstation.com/artwork/gJLqyK"
         },
         {
             "card_name": "Madness Incarnate",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Horror",
+            "type": "Creature \u2014 Voidling Horror",
             "number": 12,
             "color_identity": "B",
             "cost": "{7}",
@@ -637,8 +612,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "CB10: Small conditional removal\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/G1mz4",
-            "image_type": "png"
+            "notes": "CB10: Small conditional removal\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/G1mz4"
         },
         {
             "card_name": "Mindless Culling",
@@ -657,14 +631,13 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "CB15: Slightly overcosted removal\nhttps://www.artstation.com/artwork/m38Wy",
-            "image_type": "png"
+            "notes": "CB15: Slightly overcosted removal\nhttps://www.artstation.com/artwork/m38Wy"
         },
         {
             "card_name": "Battlefield Troubador",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Bard",
+            "type": "Creature \u2014 Goblin Bard",
             "number": 131,
             "color_identity": "R",
             "cost": "{R}",
@@ -677,14 +650,13 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
-            "notes": "CR01: One- or two-mana creature\n[canon reprint \u2014 clockwork percussionist]\nhttps://www.artstation.com/artwork/5WKEqA",
-            "image_type": "png"
+            "notes": "CR01: One- or two-mana creature\n[canon reprint \u2014 clockwork percussionist]\nhttps://www.artstation.com/artwork/5WKEqA"
         },
         {
             "card_name": "Careless Cartographer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 136,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -697,18 +669,17 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "CR02: Two-mana creature\nhttps://www.artstation.com/artwork/YGbn13",
-            "image_type": "png"
+            "notes": "CR02: Two-mana creature\nhttps://www.artstation.com/artwork/YGbn13"
         },
         {
             "card_name": "Blazing Artillerist",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Archer",
+            "type": "Creature \u2014 Human Archer",
             "number": 133,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Reach\n[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
+            "rules_text": "Reach\n[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature deals 1 damage to each opponent.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -717,14 +688,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "CR03: Two-mana creature\n[canon reprint \u2014 sabotender]\nhttps://www.artstation.com/artwork/rOVv5",
-            "image_type": "png"
+            "notes": "CR03: Two-mana creature\n[canon reprint \u2014 sabotender]\nhttps://www.artstation.com/artwork/rOVv5"
         },
         {
             "card_name": "Caustic Peakcrawler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Salamander",
+            "type": "Creature \u2014 Salamander",
             "number": 137,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -737,14 +707,13 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": "CR04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/YKglwb",
-            "image_type": "png"
+            "notes": "CR04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/YKglwb"
         },
         {
             "card_name": "Voidcaller Druid",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Druid",
+            "type": "Creature \u2014 Goblin Druid",
             "number": 158,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -757,14 +726,13 @@
             "loyalty": "",
             "artist": "Joseph Montano",
             "alias": "",
-            "notes": "CR06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/zDnGKQ",
-            "image_type": "png"
+            "notes": "CR06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/zDnGKQ"
         },
         {
             "card_name": "Cindertusk Boar",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Boar",
+            "type": "Creature \u2014 Boar",
             "number": 138,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -777,8 +745,7 @@
             "loyalty": "",
             "artist": "Aica Cortez",
             "alias": "",
-            "notes": "CR07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/gJVvzL",
-            "image_type": "png"
+            "notes": "CR07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/gJVvzL"
         },
         {
             "card_name": "Echoing Roar",
@@ -797,14 +764,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR08: Five-mana creature\nhttps://www.artstation.com/artwork/JlBglz",
-            "image_type": "png"
+            "notes": "CR08: Five-mana creature\nhttps://www.artstation.com/artwork/JlBglz"
         },
         {
             "card_name": "Barrescape Behemoth",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Giant",
+            "type": "Creature \u2014 Giant",
             "number": 127,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -817,8 +783,7 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "CR09: Six-mana creature\nhttps://www.artstation.com/artwork/J8gOm",
-            "image_type": "png"
+            "notes": "CR09: Six-mana creature\nhttps://www.artstation.com/artwork/J8gOm"
         },
         {
             "card_name": "Beckoning Void",
@@ -837,8 +802,7 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "CR11: Combat trick\nhttps://www.artstation.com/artwork/y4NkoQ",
-            "image_type": "png"
+            "notes": "CR11: Combat trick\nhttps://www.artstation.com/artwork/y4NkoQ"
         },
         {
             "card_name": "Let Go Lightly",
@@ -857,8 +821,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR12: Rummaging/impulsive draw\nhttps://www.artstation.com/artwork/9eV3WR",
-            "image_type": "png"
+            "notes": "CR12: Rummaging/impulsive draw\nhttps://www.artstation.com/artwork/9eV3WR"
         },
         {
             "card_name": "Light Fantastic",
@@ -877,14 +840,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "CR13: Modal Shatter [ignored]\nhttps://www.artstation.com/artwork/YBa16",
-            "image_type": "png"
+            "notes": "CR13: Modal Shatter [ignored]\nhttps://www.artstation.com/artwork/YBa16"
         },
         {
             "card_name": "Lightning Flare",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Elemental",
+            "type": "Creature \u2014 Voidling Elemental",
             "number": 10,
             "color_identity": "R",
             "cost": "{7}",
@@ -897,8 +859,7 @@
             "loyalty": "",
             "artist": "Jean Collard",
             "alias": "",
-            "notes": "CR14: Direct damage (efficient, usually deals 4)\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/d0qo3Q",
-            "image_type": "png"
+            "notes": "CR14: Direct damage (efficient, usually deals 4)\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/d0qo3Q"
         },
         {
             "card_name": "Scorching Abrasion",
@@ -917,18 +878,17 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CR15: Direct damage (five mana, 6 damage)\nhttps://www.artstation.com/artwork/EVXmgK",
-            "image_type": "png"
+            "notes": "CR15: Direct damage (five mana, 6 damage)\nhttps://www.artstation.com/artwork/EVXmgK"
         },
         {
             "card_name": "Cycle Tender",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 167,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, you gain 1 life.\n{G}, Exile this card from your graveyard: Return target land card from your graveyard to your hand.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, you gain 1 life.\n{G}, Exile this card from your graveyard: Return target land card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -937,14 +897,13 @@
             "loyalty": "",
             "artist": "Anastasia Serova",
             "alias": "",
-            "notes": "CG01: One- or two-mana creature\nhttps://www.artstation.com/artwork/yJvODJ",
-            "image_type": "png"
+            "notes": "CG01: One- or two-mana creature\nhttps://www.artstation.com/artwork/yJvODJ"
         },
         {
             "card_name": "Ichortongue Lizard",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Lizard",
+            "type": "Creature \u2014 Lizard",
             "number": 176,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -957,14 +916,13 @@
             "loyalty": "",
             "artist": "Agustin Vergara Koller",
             "alias": "",
-            "notes": "CG02: Two-mana creature\nhttps://www.artstation.com/artwork/6LR9oW",
-            "image_type": "png"
+            "notes": "CG02: Two-mana creature\nhttps://www.artstation.com/artwork/6LR9oW"
         },
         {
             "card_name": "Barrescape Nurturer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 162,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -977,14 +935,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]\nhttps://www.artstation.com/artwork/XB2zga",
-            "image_type": "png"
+            "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]\nhttps://www.artstation.com/artwork/XB2zga"
         },
         {
             "card_name": "Soil Stirrer",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 189,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -997,14 +954,13 @@
             "loyalty": "",
             "artist": "Rafael Assis",
             "alias": "",
-            "notes": "CG06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/04zyYV",
-            "image_type": "png"
+            "notes": "CG06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/04zyYV"
         },
         {
             "card_name": "Thunderous Terrapin",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Turtle",
+            "type": "Creature \u2014 Turtle",
             "number": 193,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -1017,14 +973,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "CG07: Four- or five-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/Nqw5Ob",
-            "image_type": "png"
+            "notes": "CG07: Four- or five-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/Nqw5Ob"
         },
         {
             "card_name": "Deeproot Treefolk",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Treefolk",
+            "type": "Creature \u2014 Treefolk",
             "number": 168,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -1037,14 +992,13 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss (Kimagu)",
             "alias": "",
-            "notes": "CG08: Five-mana creature\nhttps://www.artstation.com/artwork/lDO2Bo",
-            "image_type": "png"
+            "notes": "CG08: Five-mana creature\nhttps://www.artstation.com/artwork/lDO2Bo"
         },
         {
             "card_name": "Disciple of Koma",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 170,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1057,8 +1011,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CG09: Six-mana creature\nhttps://www.artstation.com/artwork/w846Jg",
-            "image_type": "png"
+            "notes": "CG09: Six-mana creature\nhttps://www.artstation.com/artwork/w846Jg"
         },
         {
             "card_name": "Peatfield Ambush",
@@ -1077,8 +1030,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CG12: Bite spell\nhttps://www.artstation.com/artwork/31E4E",
-            "image_type": "png"
+            "notes": "CG12: Bite spell\nhttps://www.artstation.com/artwork/31E4E"
         },
         {
             "card_name": "Nature's Wrath",
@@ -1088,7 +1040,7 @@
             "number": 181,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Choose one \u2013 \n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Destroy target noncreature artifact.",
+            "rules_text": "Choose one \u2014 \n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Destroy target noncreature artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1097,14 +1049,13 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "CG11: Fight spell\nhttps://www.artstation.com/artwork/RKa3GO",
-            "image_type": "png"
+            "notes": "CG11: Fight spell\nhttps://www.artstation.com/artwork/RKa3GO"
         },
         {
             "card_name": "Flourishing Stomper",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling Beast",
+            "type": "Creature \u2014 Voidling Beast",
             "number": 7,
             "color_identity": "G",
             "cost": "{7}",
@@ -1117,14 +1068,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/9Nv4JR",
-            "image_type": "png"
+            "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/9Nv4JR"
         },
         {
             "card_name": "Koma's Chosen",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 177,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1137,8 +1087,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CG05: Three-mana creature\nhttps://www.artstation.com/artwork/VdPavR",
-            "image_type": "png"
+            "notes": "CG05: Three-mana creature\nhttps://www.artstation.com/artwork/VdPavR"
         },
         {
             "card_name": "Leyline Navigation",
@@ -1157,8 +1106,7 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CG14: Mana acceleration\nhttps://www.artstation.com/artwork/1BnZ",
-            "image_type": "png"
+            "notes": "CG14: Mana acceleration\nhttps://www.artstation.com/artwork/1BnZ"
         },
         {
             "card_name": "Harvest Cycle",
@@ -1177,14 +1125,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "CG15: Dig for lands and/or creatures\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/vxvxO",
-            "image_type": "png"
+            "notes": "CG15: Dig for lands and/or creatures\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/vxvxO"
         },
         {
             "card_name": "Thopter Suit",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 53,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1197,14 +1144,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "\nhttps://www.artstation.com/artwork/VdEnAn",
-            "image_type": "png"
+            "notes": "\nhttps://www.artstation.com/artwork/VdEnAn"
         },
         {
             "card_name": "Wingblade General",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 245,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
@@ -1217,14 +1163,13 @@
             "loyalty": "",
             "artist": "Alex Chow",
             "alias": "",
-            "notes": "Archetype payoff\n[canon reprint \u2014 empyrean eagle]\nhttps://www.artstation.com/artwork/5gWWO",
-            "image_type": "png"
+            "notes": "Archetype payoff\n[canon reprint \u2014 empyrean eagle]\nhttps://www.artstation.com/artwork/5gWWO"
         },
         {
             "card_name": "Blightwing Locust",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 198,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -1237,14 +1182,13 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/V2DPOR",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/V2DPOR"
         },
         {
             "card_name": "Cunning Projectionist",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 203,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
@@ -1257,14 +1201,13 @@
             "loyalty": "",
             "artist": "Beto Lima",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/481wRq",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/481wRq"
         },
         {
             "card_name": "Voidheart Rallier",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 244,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
@@ -1277,14 +1220,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/k4KWXz",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/k4KWXz"
         },
         {
             "card_name": "Underfall Flamer",
             "color": "BR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Warlock",
+            "type": "Creature \u2014 Human Warlock",
             "number": 240,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
@@ -1297,14 +1239,13 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/kQWG9y",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/kQWG9y"
         },
         {
             "card_name": "Dreamroot Mass",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Plant",
+            "type": "Creature \u2014 Voidling Plant",
             "number": 2,
             "color_identity": "UG",
             "cost": "{7}",
@@ -1317,18 +1258,17 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/RnWbrX",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/RnWbrX"
         },
         {
             "card_name": "Leyline Defender",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 221,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, target creature gets +1/+1 and gains first strike until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, target creature gets +1/+1 and gains first strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1337,14 +1277,13 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/q9dW2a",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/q9dW2a"
         },
         {
             "card_name": "Underfall Harmonist",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 194,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1357,14 +1296,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/0XGrVe",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/0XGrVe"
         },
         {
             "card_name": "Harvester of the Way",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Avatar",
+            "type": "Creature \u2014 Avatar",
             "number": 216,
             "color_identity": "WG",
             "cost": "{3}{G}{G}{W}{W}",
@@ -1377,14 +1315,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/2xOXza",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/2xOXza"
         },
         {
             "card_name": "Dessicated Diner",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Vampire Citizen",
+            "type": "Creature \u2014 Vampire Citizen",
             "number": 102,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1397,14 +1334,13 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "CB04: Three-mana creature\nhttps://www.artstation.com/artwork/dKqLEW",
-            "image_type": "png"
+            "notes": "CB04: Three-mana creature\nhttps://www.artstation.com/artwork/dKqLEW"
         },
         {
             "card_name": "Ceaseless Minstrel",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Bard",
+            "type": "Creature \u2014 Elf Bard",
             "number": 201,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -1417,14 +1353,13 @@
             "loyalty": "",
             "artist": "Vera Rehaag",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/rJzN8a",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/rJzN8a"
         },
         {
             "card_name": "Cobbled Contraption",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 202,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -1437,18 +1372,17 @@
             "loyalty": "",
             "artist": "Stijn Beerts",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/aoDGZR",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/aoDGZR"
         },
         {
             "card_name": "Ephemera Vendor",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Artificer",
+            "type": "Creature \u2014 Elf Artificer",
             "number": 211,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "When this creature enters, choose one \u2013 \n\u2022 Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n\u2022 Create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
+            "rules_text": "When this creature enters, choose one \u2014 \n\u2022 Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n\u2022 Create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1457,14 +1391,13 @@
             "loyalty": "",
             "artist": "Graey Erb",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/kKY0x",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/kKY0x"
         },
         {
             "card_name": "Darkeater",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Basilisk",
+            "type": "Creature \u2014 Basilisk",
             "number": 206,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
@@ -1477,14 +1410,13 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/L2J8l",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/L2J8l"
         },
         {
             "card_name": "Underdark Avenger",
             "color": "BG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 239,
             "color_identity": "BG",
             "cost": "{B}{G}",
@@ -1497,14 +1429,13 @@
             "loyalty": "",
             "artist": "Daniel Batista",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/x3ooAY",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/x3ooAY"
         },
         {
             "card_name": "Flamekin Piper",
             "color": "WR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Bard",
+            "type": "Creature \u2014 Elemental Bard",
             "number": 212,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -1517,14 +1448,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/XgebW3",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/XgebW3"
         },
         {
             "card_name": "Bullish Adventurer",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 199,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -1537,14 +1467,13 @@
             "loyalty": "",
             "artist": "Margarita Mishanina",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/wJw81L",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/wJw81L"
         },
         {
             "card_name": "Seeker of Muses",
             "color": "UG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Bard",
+            "type": "Creature \u2014 Human Bard",
             "number": 231,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
@@ -1557,14 +1486,13 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/BkJ0mr",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/BkJ0mr"
         },
         {
             "card_name": "Wasteland Wanderer",
             "color": "",
             "rarity": "common",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 22,
             "color_identity": "C",
             "cost": "{2C}",
@@ -1577,14 +1505,13 @@
             "loyalty": "",
             "artist": "Marcus Whinney",
             "alias": "",
-            "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)\nhttps://www.artstation.com/artwork/el8213",
-            "image_type": "png"
+            "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)\nhttps://www.artstation.com/artwork/el8213"
         },
         {
             "card_name": "Skyport Custodian",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 256,
             "color_identity": "C",
             "cost": "{3}",
@@ -1597,14 +1524,13 @@
             "loyalty": "",
             "artist": "Aleksandar Ignatov",
             "alias": "",
-            "notes": "CA02: Three-mana creature\nhttps://www.artstation.com/artwork/G8ALa",
-            "image_type": "png"
+            "notes": "CA02: Three-mana creature\nhttps://www.artstation.com/artwork/G8ALa"
         },
         {
             "card_name": "Periscope Sentinel",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 253,
             "color_identity": "C",
             "cost": "{4}",
@@ -1617,14 +1543,13 @@
             "loyalty": "",
             "artist": "Kamil Tondera",
             "alias": "",
-            "notes": "CA03: Four-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/lnBNG",
-            "image_type": "png"
+            "notes": "CA03: Four-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/lnBNG"
         },
         {
             "card_name": "Shadow Self",
             "color": "",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 16,
             "color_identity": "C",
             "cost": "{1}{2C}",
@@ -1637,8 +1562,7 @@
             "loyalty": "",
             "artist": "Vladislav Orlowski",
             "alias": "",
-            "notes": "CA04: Removal\nhttps://www.artstation.com/artwork/OyPgXe",
-            "image_type": "png"
+            "notes": "CA04: Removal\nhttps://www.artstation.com/artwork/OyPgXe"
         },
         {
             "card_name": "Prismatic Lens",
@@ -1657,8 +1581,7 @@
             "loyalty": "",
             "artist": "Pascal Blanche",
             "alias": "",
-            "notes": "CA05: Manalith+ ability\n[canon reprint]\nhttps://www.artstation.com/artwork/NGrRRg",
-            "image_type": "png"
+            "notes": "CA05: Manalith+ ability\n[canon reprint]\nhttps://www.artstation.com/artwork/NGrRRg"
         },
         {
             "card_name": "Aderic's Sextant",
@@ -1677,8 +1600,7 @@
             "loyalty": "",
             "artist": "Magical Kaleidoscope",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/oJmrrO",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/oJmrrO"
         },
         {
             "card_name": "Common Keyword Distribution",
@@ -1697,14 +1619,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Voidling",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Voidling",
+            "type": "Token Creature \u2014 Voidling",
             "number": 5,
             "color_identity": "C",
             "cost": "",
@@ -1717,14 +1638,13 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/RYKW4e\n!related Lucient Amalgam<2>;Soul Siphoner;Encroaching Void;Lifeleeched Vermin;Mindless Culling;Void Summoner;Yan, Dealer of Destinies;Barrescape Pioneer;Beckoning Void;The Blind Army;Scorching Abrasion;Voidcaller Druid;Voidcraft Blade;Warpwalk;Ephemera Vendor;Flamekin Piper;Greyheart Evangelist;Broken Vessel",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/RYKW4e\n!related Lucient Amalgam<2>;Soul Siphoner;Encroaching Void;Lifeleeched Vermin;Mindless Culling;Void Summoner;Yan, Dealer of Destinies;Barrescape Pioneer;Beckoning Void;The Blind Army;Scorching Abrasion;Voidcaller Druid;Voidcraft Blade;Warpwalk;Ephemera Vendor;Flamekin Piper;Greyheart Evangelist;Broken Vessel"
         },
         {
             "card_name": "Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Soldier",
+            "type": "Token Creature \u2014 Soldier",
             "number": 7,
             "color_identity": "W",
             "cost": "",
@@ -1737,14 +1657,13 @@
             "loyalty": "",
             "artist": "Ming Ming John",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/g0G1ae\n!related Leyline Patrol<3>;Pioneering Aristocrat;Call to Battle<2>;Gaar, 9th Front General<2>;Greyheart Evangelist;Thopter Suit",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/g0G1ae\n!related Leyline Patrol<3>;Pioneering Aristocrat;Call to Battle<2>;Gaar, 9th Front General<2>;Greyheart Evangelist;Thopter Suit"
         },
         {
             "card_name": "Thopter",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Thopter",
+            "type": "Token Artifact Creature \u2014 Thopter",
             "number": 13,
             "color_identity": "C",
             "cost": "",
@@ -1757,8 +1676,7 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Queiroz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/w8lKe5\n!related Aeronaut Modelist;Hunt for the Awakened Core;Thopter Tinkerer;Nebson, Tireless Tinkerer",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/w8lKe5\n!related Aeronaut Modelist;Hunt for the Awakened Core;Thopter Tinkerer;Nebson, Tireless Tinkerer"
         },
         {
             "card_name": "Ruinating Strike",
@@ -1777,14 +1695,13 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
-            "notes": "CW12: Combat-related removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/Qr45Q8",
-            "image_type": "png"
+            "notes": "CW12: Combat-related removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/Qr45Q8"
         },
         {
             "card_name": "Severed Sanctum",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 47,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1797,8 +1714,7 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "CW13: Banishing light\nhttps://www.artstation.com/artwork/oAe01k",
-            "image_type": "png"
+            "notes": "CW13: Banishing light\nhttps://www.artstation.com/artwork/oAe01k"
         },
         {
             "card_name": "Fleeting Flight",
@@ -1817,14 +1733,13 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
-            "notes": "CW14: Combat trick\n[canon reprint]\nhttps://www.artstation.com/artwork/d8dg4W",
-            "image_type": "png"
+            "notes": "CW14: Combat trick\n[canon reprint]\nhttps://www.artstation.com/artwork/d8dg4W"
         },
         {
             "card_name": "Wingblade Recruit",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 56,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1837,8 +1752,7 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "CW04: Three-mana creature\nhttps://www.artstation.com/artwork/n2Y3K",
-            "image_type": "png"
+            "notes": "CW04: Three-mana creature\nhttps://www.artstation.com/artwork/n2Y3K"
         },
         {
             "card_name": "Rescue",
@@ -1857,8 +1771,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "notes": "CU09: Protective instant\n[canon reprint]\nhttps://www.artstation.com/artwork/yzZwQ",
-            "image_type": "png"
+            "notes": "CU09: Protective instant\n[canon reprint]\nhttps://www.artstation.com/artwork/yzZwQ"
         },
         {
             "card_name": "Rasping Currents",
@@ -1877,8 +1790,7 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/w6EZNZ\nuncommon_waste_cycle",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/w6EZNZ\nuncommon_waste_cycle"
         },
         {
             "card_name": "Dazzling Maneuver",
@@ -1897,8 +1809,7 @@
             "loyalty": "",
             "artist": "Blake",
             "alias": "",
-            "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/0X8EAe",
-            "image_type": "png"
+            "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/0X8EAe"
         },
         {
             "card_name": "Abrasive Ideation",
@@ -1917,14 +1828,13 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "notes": "CU12: Draw spell (two to three cards)\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/8lrOVx",
-            "image_type": "png"
+            "notes": "CU12: Draw spell (two to three cards)\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/8lrOVx"
         },
         {
             "card_name": "Utter Insignificance",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 84,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -1937,8 +1847,7 @@
             "loyalty": "",
             "artist": "ands",
             "alias": "",
-            "notes": "CU13: Witness Protection Aura\n[canon reprint]\nhttps://unsplash.com/illustrations/a-girl-falls-through-the-starry-sky-TksnTKTPZgE",
-            "image_type": "png"
+            "notes": "CU13: Witness Protection Aura\n[canon reprint]\nhttps://unsplash.com/illustrations/a-girl-falls-through-the-starry-sky-TksnTKTPZgE"
         },
         {
             "card_name": "Chonofraction",
@@ -1957,14 +1866,13 @@
             "loyalty": "",
             "artist": "Daniela Ivanova",
             "alias": "",
-            "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)\nhttps://www.artstation.com/artwork/PXr9PZ",
-            "image_type": "png"
+            "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)\nhttps://www.artstation.com/artwork/PXr9PZ"
         },
         {
             "card_name": "Flickerlight Projection",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Illusion",
+            "type": "Creature \u2014 Illusion",
             "number": 66,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -1977,8 +1885,7 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "notes": "CU08: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/nY6qV4",
-            "image_type": "png"
+            "notes": "CU08: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/nY6qV4"
         },
         {
             "card_name": "Cycles",
@@ -1997,8 +1904,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Split the Earth",
@@ -2017,18 +1923,17 @@
             "loyalty": "",
             "artist": "Aleksi Briclot",
             "alias": "",
-            "notes": "CB14: Unconditional removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/QrRn3",
-            "image_type": "png"
+            "notes": "CB14: Unconditional removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/QrRn3"
         },
         {
             "card_name": "Barrescape Brawler",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 128,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Haste\n[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
+            "rules_text": "Haste\n[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature gets +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2037,18 +1942,17 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "CR05: Three-mana creature\nhttps://www.artstation.com/artwork/bnRvG",
-            "image_type": "png"
+            "notes": "CR05: Three-mana creature\nhttps://www.artstation.com/artwork/bnRvG"
         },
         {
             "card_name": "Clawfoot Herd",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 166,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature gets +2/+2 until end of turn.",
             "flavor_text": "[i]It is said that the clawfoots of Anoxi store their memories in their stomachs.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2057,8 +1961,7 @@
             "loyalty": "",
             "artist": "Luca Testi",
             "alias": "",
-            "notes": "CG04: Three-mana creature\nhttps://www.artstation.com/artwork/2B9Ove",
-            "image_type": "png"
+            "notes": "CG04: Three-mana creature\nhttps://www.artstation.com/artwork/2B9Ove"
         },
         {
             "card_name": "Ivyflow Quarry",
@@ -2077,8 +1980,7 @@
             "loyalty": "",
             "artist": "Voyager",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/lvPbO",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/lvPbO"
         },
         {
             "card_name": "Magmafell Quarry",
@@ -2097,8 +1999,7 @@
             "loyalty": "",
             "artist": "Stas Yurev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/LxBX0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/LxBX0"
         },
         {
             "card_name": "Rootbound Quarry",
@@ -2117,8 +2018,7 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss (Kimagu)",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/zAvbX4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/zAvbX4"
         },
         {
             "card_name": "Runespark Quarry",
@@ -2137,8 +2037,7 @@
             "loyalty": "",
             "artist": "Collette Curran",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/rbKzG",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/rbKzG"
         },
         {
             "card_name": "Sandswept Quarry",
@@ -2157,8 +2056,7 @@
             "loyalty": "",
             "artist": "Sergei Sarichev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/obqE3q",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/obqE3q"
         },
         {
             "card_name": "Scorchwheat Quarry",
@@ -2177,8 +2075,7 @@
             "loyalty": "",
             "artist": "Aaron Limonick",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/3vowo",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/3vowo"
         },
         {
             "card_name": "Shadowcrest Quarry",
@@ -2197,8 +2094,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/qe1AOn",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/qe1AOn"
         },
         {
             "card_name": "Cryptveil Quarry",
@@ -2217,8 +2113,7 @@
             "loyalty": "",
             "artist": "Dorje Bellbrook",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/2xOqg",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/2xOqg"
         },
         {
             "card_name": "Umberdark Quarry",
@@ -2237,8 +2132,7 @@
             "loyalty": "",
             "artist": "Jorge Jacinto",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/8lLZGR",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/8lLZGR"
         },
         {
             "card_name": "Wickfield Quarry",
@@ -2257,14 +2151,13 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/OyX0Y6",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/OyX0Y6"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 273,
             "color_identity": "W",
             "cost": "",
@@ -2277,14 +2170,13 @@
             "loyalty": "",
             "artist": "Ryan Groskamp",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/elKAY",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/elKAY"
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 272,
             "color_identity": "W",
             "cost": "",
@@ -2297,14 +2189,13 @@
             "loyalty": "",
             "artist": "Chen Chaoteng",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/mqKAXd",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/mqKAXd"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 274,
             "color_identity": "U",
             "cost": "",
@@ -2317,14 +2208,13 @@
             "loyalty": "",
             "artist": "Mark Kolobaev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/48Vyq",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/48Vyq"
         },
         {
             "card_name": "Island",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 275,
             "color_identity": "U",
             "cost": "",
@@ -2337,14 +2227,13 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/EzL6zA",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/EzL6zA"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 276,
             "color_identity": "B",
             "cost": "",
@@ -2357,14 +2246,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/EzO2Aq",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/EzO2Aq"
         },
         {
             "card_name": "Swamp",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 277,
             "color_identity": "B",
             "cost": "",
@@ -2377,14 +2265,13 @@
             "loyalty": "",
             "artist": "Magda Wo\u017aniak",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/B1BJe8",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/B1BJe8"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 279,
             "color_identity": "R",
             "cost": "",
@@ -2397,14 +2284,13 @@
             "loyalty": "",
             "artist": "Dimitrije Miljus",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/zPNB6Z",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/zPNB6Z"
         },
         {
             "card_name": "Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 278,
             "color_identity": "R",
             "cost": "",
@@ -2417,14 +2303,13 @@
             "loyalty": "",
             "artist": "Kalen Art",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/434g2",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/434g2"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 281,
             "color_identity": "G",
             "cost": "",
@@ -2437,14 +2322,13 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/yDz1wR",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/yDz1wR"
         },
         {
             "card_name": "Forest",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 280,
             "color_identity": "G",
             "cost": "",
@@ -2457,8 +2341,7 @@
             "loyalty": "",
             "artist": "Benjamin Rzp",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/lxKDge",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/lxKDge"
         },
         {
             "card_name": "Wastes Token",
@@ -2477,8 +2360,7 @@
             "loyalty": "",
             "artist": "Sylvea M. Bobekova",
             "alias": "",
-            "notes": "!exportname Wastes Token\n!related Aderic's Sextant<2>\nhttps://www.artstation.com/artwork/B1QWO6",
-            "image_type": "png"
+            "notes": "!exportname Wastes Token\n!related Aderic's Sextant<2>\nhttps://www.artstation.com/artwork/B1QWO6"
         },
         {
             "card_name": "The Blind Army",
@@ -2488,7 +2370,7 @@
             "number": 134,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n{3}{R}, Sacrifice this enchantment: Creatures you control get +2/+0 and gain haste until end of turn. Activate only as a sorcery.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]\n{3}{R}, Sacrifice this enchantment: Creatures you control get +2/+0 and gain haste until end of turn. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2497,14 +2379,13 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/LVGbr",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/LVGbr"
         },
         {
             "card_name": "Prism",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Prism",
+            "type": "Token Artifact \u2014 Prism",
             "number": 11,
             "color_identity": "C",
             "cost": "",
@@ -2517,8 +2398,7 @@
             "loyalty": "",
             "artist": "Hayley Bell",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/K2WdX\n!related Fractured Phantom;Chonofraction;Lumina Technician;Thopter Tinkerer;Out of Focus;Wreckage Extractor;Dispassionate Plunderer;Flintlock Scavenger;Haal, Dissident Illusionist;Light Fantastic;Blessing of Selas;Ephemera Vendor;Nox, Flickerlight Mind;Scintillating Shardborn;Shattered Earth<x>;Skyport Custodian;Crystal Dunes",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/K2WdX\n!related Fractured Phantom;Chonofraction;Lumina Technician;Thopter Tinkerer;Out of Focus;Wreckage Extractor;Dispassionate Plunderer;Flintlock Scavenger;Haal, Dissident Illusionist;Light Fantastic;Blessing of Selas;Ephemera Vendor;Nox, Flickerlight Mind;Scintillating Shardborn;Shattered Earth<x>;Skyport Custodian;Crystal Dunes"
         },
         {
             "card_name": "Draft Archetypes",
@@ -2528,7 +2408,7 @@
             "number": 3,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "WU \u2013 Flying Elves\nUB \u2013 Colorless cost control\nBR \u2013 Aristocrats\nRG \u2013 [i]Landfall[/i]\nGW \u2013 Reanimator\nWB \u2013 +1/+1 counters\nUR \u2013 Prisms/colorless permanents\nBG \u2013 Graveyard as cost\nRW \u2013 Tapped creatures\nGU \u2013 Evoke ramp",
+            "rules_text": "WU \u2014 Flying Elves\nUB \u2014 Colorless cost control\nBR \u2014 Aristocrats\nRG \u2014 [i]Landfall[/i]\nGW \u2014 Reanimator\nWB \u2014 +1/+1 counters\nUR \u2014 Prisms/colorless permanents\nBG \u2014 Graveyard as cost\nRW \u2014 Tapped creatures\nGU \u2014 Evoke ramp",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2537,14 +2417,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Elephant",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Elephant",
+            "type": "Token Creature \u2014 Elephant",
             "number": 9,
             "color_identity": "G",
             "cost": "",
@@ -2557,14 +2436,13 @@
             "loyalty": "",
             "artist": "Matiyas Cabezas Montoya",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/qnl0a\n!related Mammoth Caller;Settler's Day Parade",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/qnl0a\n!related Mammoth Caller;Settler's Day Parade"
         },
         {
             "card_name": "Hu, Vestige of Faith",
             "color": "W",
             "rarity": "mythic",
-            "type": "Legendary Devoid Creature \u2013 Angel",
+            "type": "Legendary Devoid Creature \u2014 Angel",
             "number": 37,
             "color_identity": "W",
             "cost": "{C}{C}{W}{W}",
@@ -2577,14 +2455,13 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Ev6EK4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Ev6EK4"
         },
         {
             "card_name": "Shen, Heir of Anox",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Noble",
+            "type": "Legendary Creature \u2014 Elf Noble",
             "number": 48,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -2597,18 +2474,17 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/KezYao",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/KezYao"
         },
         {
             "card_name": "Destiny Manifest",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel",
+            "type": "Creature \u2014 Angel",
             "number": 31,
             "color_identity": "W",
             "cost": "{3}{W}{W}{W}",
-            "rules_text": "Flying, vigilance\n[i]Landfall[/i] \u2013 Whenever a land you control enters, put a +1/+1 counter on each creature you control.",
+            "rules_text": "Flying, vigilance\n[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2617,14 +2493,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/3o0Z0D",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/3o0Z0D"
         },
         {
             "card_name": "Effervescent Enigma",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Pegasus",
+            "type": "Creature \u2014 Voidling Pegasus",
             "number": 3,
             "color_identity": "W",
             "cost": "{7}",
@@ -2637,14 +2512,13 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
-            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/qAZl92",
-            "image_type": "png"
+            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/qAZl92"
         },
         {
             "card_name": "Empire's Wing",
             "color": "W",
             "rarity": "rare",
-            "type": "Legendary Artifact \u2013 Vehicle",
+            "type": "Legendary Artifact \u2014 Vehicle",
             "number": 34,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2657,8 +2531,7 @@
             "loyalty": "",
             "artist": "Kelly Potter",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/GdzQ4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/GdzQ4"
         },
         {
             "card_name": "Tectonic Shift",
@@ -2668,7 +2541,7 @@
             "number": 52,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy all nonland permanents that are one or more colors.\n\u2022 Destroy all colorless nonland permanents.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy all nonland permanents that are one or more colors.\n\u2022 Destroy all colorless nonland permanents.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2677,14 +2550,13 @@
             "loyalty": "",
             "artist": "kirinkarwai",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/el4ZDZ",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/el4ZDZ"
         },
         {
             "card_name": "Soul Siphoner",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Cleric",
+            "type": "Creature \u2014 Elf Cleric",
             "number": 51,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -2697,14 +2569,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/nEzQoe",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/nEzQoe"
         },
         {
             "card_name": "Zealous Pilgrim",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Cleric",
+            "type": "Creature \u2014 Elf Cleric",
             "number": 58,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2717,14 +2588,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/evanb",
-            "image_type": "png"
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/evanb"
         },
         {
             "card_name": "Munitions Supplier",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 41,
             "color_identity": "W",
             "cost": "{W}",
@@ -2737,14 +2607,13 @@
             "loyalty": "",
             "artist": "Stephen Stark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/AD225",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/AD225"
         },
         {
             "card_name": "Inspiring General",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 38,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2757,14 +2626,13 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/y4Je4J",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/y4Je4J"
         },
         {
             "card_name": "Dawncaller",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 30,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2777,14 +2645,13 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/k484EK",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/k484EK"
         },
         {
             "card_name": "Twin-Blade Duelist",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 54,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2797,8 +2664,7 @@
             "loyalty": "",
             "artist": "Joseph Qiu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/1QkxX\n[canon reprtint \u2014 dual-sun adepts]",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/1QkxX\n[canon reprtint \u2014 dual-sun adepts]"
         },
         {
             "card_name": "Leyline Patrol",
@@ -2817,14 +2683,13 @@
             "loyalty": "",
             "artist": "NEMO Art",
             "alias": "",
-            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/Zl2voZ",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/Zl2voZ"
         },
         {
             "card_name": "Battlebond Infantry",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 28,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2837,14 +2702,13 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/vbzmvE",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/vbzmvE"
         },
         {
             "card_name": "Wakecatcher",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 55,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2857,14 +2721,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/JvevbD",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/JvevbD"
         },
         {
             "card_name": "Raptor Trainer",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Citizen",
+            "type": "Creature \u2014 Elf Citizen",
             "number": 43,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -2877,18 +2740,17 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/ZenQL0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/ZenQL0"
         },
         {
             "card_name": "Pioneering Aristocrat",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Noble",
+            "type": "Creature \u2014 Elf Noble",
             "number": 42,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, create a 1/1 white Soldier creature token.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a 1/1 white Soldier creature token.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2897,14 +2759,13 @@
             "loyalty": "",
             "artist": "Tanya Podolskaia",
             "alias": "",
-            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/kQAvq6",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/kQAvq6"
         },
         {
             "card_name": "Silvershield Martyr",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Soldier",
+            "type": "Creature \u2014 Elf Soldier",
             "number": 49,
             "color_identity": "W",
             "cost": "{5}{W}",
@@ -2917,14 +2778,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "[canon reprint \u2014 bellowing aegisaur]\nhttps://www.artstation.com/artwork/wW55",
-            "image_type": "png"
+            "notes": "[canon reprint \u2014 bellowing aegisaur]\nhttps://www.artstation.com/artwork/wW55"
         },
         {
             "card_name": "Stormfront Gate",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Wall",
+            "type": "Artifact Creature \u2014 Wall",
             "number": 235,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -2937,8 +2797,7 @@
             "loyalty": "",
             "artist": "Tuomas Korpi",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/O1Yy",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/O1Yy"
         },
         {
             "card_name": "Rewarding Retreat",
@@ -2957,8 +2816,7 @@
             "loyalty": "",
             "artist": "Rafael Assis",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/4NggRY",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/4NggRY"
         },
         {
             "card_name": "Bonded in Battle",
@@ -2977,8 +2835,7 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/bvygm",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/bvygm"
         },
         {
             "card_name": "Zealous Display",
@@ -2997,14 +2854,13 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/VGyv4",
-            "image_type": "png"
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/VGyv4"
         },
         {
             "card_name": "Ba, Vestige of Knowledge",
             "color": "U",
             "rarity": "mythic",
-            "type": "Legendary Devoid Creature \u2013 Sphinx",
+            "type": "Legendary Devoid Creature \u2014 Sphinx",
             "number": 60,
             "color_identity": "U",
             "cost": "{C}{C}{U}{U}",
@@ -3017,14 +2873,13 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/OGYKny",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/OGYKny"
         },
         {
             "card_name": "Pfiel, Expansion Architect",
             "color": "U",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Advisor",
+            "type": "Legendary Creature \u2014 Elf Advisor",
             "number": 73,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -3037,14 +2892,13 @@
             "loyalty": "",
             "artist": "lejia chan",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/6baA16",
-            "image_type": "png"
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/6baA16"
         },
         {
             "card_name": "Warbling Loon",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 90,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3057,14 +2911,13 @@
             "loyalty": "",
             "artist": "Sam Santala",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/3dl0dE",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/3dl0dE"
         },
         {
             "card_name": "Shattered Reflection",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Shapeshifter",
+            "type": "Creature \u2014 Voidling Shapeshifter",
             "number": 17,
             "color_identity": "U",
             "cost": "{7}",
@@ -3077,14 +2930,13 @@
             "loyalty": "",
             "artist": "technochroma",
             "alias": "",
-            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/L3m4W5",
-            "image_type": "png"
+            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/L3m4W5"
         },
         {
             "card_name": "Voidseeker Sneak",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Rogue",
+            "type": "Creature \u2014 Elf Rogue",
             "number": 88,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3097,14 +2949,13 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/xz9wzY",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/xz9wzY"
         },
         {
             "card_name": "Voidcraft Adept",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 85,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -3117,8 +2968,7 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/rlX185",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/rlX185"
         },
         {
             "card_name": "Sculpt in Light",
@@ -3137,14 +2987,13 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/8wZK2q",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/8wZK2q"
         },
         {
             "card_name": "Sparkwork Armorer",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Artificer",
+            "type": "Creature \u2014 Elf Artificer",
             "number": 81,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -3157,14 +3006,13 @@
             "loyalty": "",
             "artist": "Chris Dien",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/NGYB5",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/NGYB5"
         },
         {
             "card_name": "Shifting Spectre",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Illusion",
+            "type": "Creature \u2014 Illusion",
             "number": 79,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -3177,14 +3025,13 @@
             "loyalty": "",
             "artist": "Simon Dominic Brewer",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/NynZ9N",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/NynZ9N"
         },
         {
             "card_name": "Thopter Tinkerer",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Artificer",
+            "type": "Creature \u2014 Elf Artificer",
             "number": 83,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -3197,18 +3044,17 @@
             "loyalty": "",
             "artist": "Mark Hretskyi",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/a035O9",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/a035O9"
         },
         {
             "card_name": "Wakewatcher Wizard",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 89,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\n[i]Landfall[/i] \u2013 Whenever a land you control enters, surveil 1.",
+            "rules_text": "Flying\n[i]Landfall[/i] \u2014 Whenever a land you control enters, surveil 1.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3217,14 +3063,13 @@
             "loyalty": "",
             "artist": "Salin S",
             "alias": "",
-            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/nLJeE",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/nLJeE"
         },
         {
             "card_name": "Leyline Tracker",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 70,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -3237,14 +3082,13 @@
             "loyalty": "",
             "artist": "Aleksandra Alekseeva",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/PXL4EL",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/PXL4EL"
         },
         {
             "card_name": "Imperial Mistweaver",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 69,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -3257,14 +3101,13 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/nYa2Do",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/nYa2Do"
         },
         {
             "card_name": "Voidsea Leviathan",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Whale",
+            "type": "Creature \u2014 Whale",
             "number": 87,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
@@ -3277,14 +3120,13 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
-            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/YaxRP",
-            "image_type": "png"
+            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/YaxRP"
         },
         {
             "card_name": "Scalefeather Twister",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Bird",
+            "type": "Creature \u2014 Voidling Bird",
             "number": 14,
             "color_identity": "U",
             "cost": "{6}",
@@ -3297,8 +3139,7 @@
             "loyalty": "",
             "artist": "Andy Alsamov",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/4bBvJ4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/4bBvJ4"
         },
         {
             "card_name": "Dissonant Dream",
@@ -3317,8 +3158,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "CU10: Counterspell\nhttps://www.artstation.com/artwork/rzOZ2",
-            "image_type": "png"
+            "notes": "CU10: Counterspell\nhttps://www.artstation.com/artwork/rzOZ2"
         },
         {
             "card_name": "Search the Depths",
@@ -3337,8 +3177,7 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/P66zZ8",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/P66zZ8"
         },
         {
             "card_name": "Sparkwork Kaleidoscope",
@@ -3357,8 +3196,7 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/V2DPOR",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/V2DPOR"
         },
         {
             "card_name": "Flickerlight Form",
@@ -3377,14 +3215,13 @@
             "loyalty": "",
             "artist": "Carlo Wardhana",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/baGKAG",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/baGKAG"
         },
         {
             "card_name": "Skyjack",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 80,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -3397,8 +3234,7 @@
             "loyalty": "",
             "artist": "Alan Gomes",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Xn5mr0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Xn5mr0"
         },
         {
             "card_name": "Hunt for the Awakened Core",
@@ -3417,14 +3253,13 @@
             "loyalty": "",
             "artist": "Emilio Grasso",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XoXxl",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XoXxl"
         },
         {
             "card_name": "Li, Vestige of Life",
             "color": "B",
             "rarity": "mythic",
-            "type": "Legendary Devoid Creature \u2013 Demon",
+            "type": "Legendary Devoid Creature \u2014 Demon",
             "number": 108,
             "color_identity": "B",
             "cost": "{C}{C}{B}{B}",
@@ -3437,14 +3272,13 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/EzQvv0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/EzQvv0"
         },
         {
             "card_name": "Sculptor of Memories",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 116,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3457,14 +3291,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/a01DBq",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/a01DBq"
         },
         {
             "card_name": "Grim Opportunist",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Vampire Warlock",
+            "type": "Creature \u2014 Vampire Warlock",
             "number": 107,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -3477,14 +3310,13 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/OGqPN8",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/OGqPN8"
         },
         {
             "card_name": "Pact Eternal",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Demon",
+            "type": "Creature \u2014 Voidling Demon",
             "number": 13,
             "color_identity": "B",
             "cost": "{7}",
@@ -3497,8 +3329,7 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/QnnQnE",
-            "image_type": "png"
+            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/QnnQnE"
         },
         {
             "card_name": "Bitter Grudge",
@@ -3517,14 +3348,13 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/y4QZKQ",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/y4QZKQ"
         },
         {
             "card_name": "Malaak, Corrupted Prince",
             "color": "B",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Vampire Noble",
+            "type": "Legendary Creature \u2014 Vampire Noble",
             "number": 111,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -3537,14 +3367,13 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/lDRknG\n[should be mythic probably]",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/lDRknG\n[should be mythic probably]"
         },
         {
             "card_name": "Yan, Dealer of Destinies",
             "color": "B",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Warlock",
+            "type": "Legendary Creature \u2014 Elf Warlock",
             "number": 126,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3557,18 +3386,17 @@
             "loyalty": "",
             "artist": "Alan Gomes",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/9mAkeo",
-            "image_type": "png"
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/9mAkeo"
         },
         {
             "card_name": "Thornmarrow Mass",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Plant Zombie",
+            "type": "Creature \u2014 Plant Zombie",
             "number": 121,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]\n[i]Landfall[/i] \u2013 Whenever a land you control enters, you may return this card from your graveyard to your hand.",
+            "rules_text": "Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]\n[i]Landfall[/i] \u2014 Whenever a land you control enters, you may return this card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -3577,14 +3405,13 @@
             "loyalty": "",
             "artist": "Joao Sergio",
             "alias": "",
-            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/wJ34Aw",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/wJ34Aw"
         },
         {
             "card_name": "Voidseeker Fanatic",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Wizard",
+            "type": "Creature \u2014 Elf Wizard",
             "number": 124,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3597,14 +3424,13 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/YBKJ2P",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/YBKJ2P"
         },
         {
             "card_name": "Barrescape Reaper",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Pirate",
+            "type": "Creature \u2014 Elf Pirate",
             "number": 93,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3617,14 +3443,13 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/NggeN",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/NggeN"
         },
         {
             "card_name": "Mindskewer",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Gnoll",
+            "type": "Creature \u2014 Gnoll",
             "number": 113,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -3637,14 +3462,13 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/lVmB9a",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/lVmB9a"
         },
         {
             "card_name": "Void Summoner",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 122,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3657,14 +3481,13 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/n006v4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/n006v4"
         },
         {
             "card_name": "Lifeblood Lurker",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vampire",
+            "type": "Creature \u2014 Vampire",
             "number": 109,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -3677,14 +3500,13 @@
             "loyalty": "",
             "artist": "Chrisnazgul",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/DvbV39",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/DvbV39"
         },
         {
             "card_name": "Blood-Mad Ogre",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre",
+            "type": "Creature \u2014 Ogre",
             "number": 96,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -3697,14 +3519,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/OG6nb",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/OG6nb"
         },
         {
             "card_name": "Grotesque Gestalt",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Manticore",
+            "type": "Creature \u2014 Voidling Manticore",
             "number": 9,
             "color_identity": "B",
             "cost": "{7}",
@@ -3717,8 +3538,7 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/48kalW",
-            "image_type": "png"
+            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/48kalW"
         },
         {
             "card_name": "Encroaching Void",
@@ -3737,8 +3557,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XBdVgl",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XBdVgl"
         },
         {
             "card_name": "Shadows Around Us",
@@ -3748,7 +3567,7 @@
             "number": 117,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Choose one \u2013\n\u2022 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u2022 Exile target creature card from a graveyard. Create a 3/2 colorless Voidling Beast creature token.",
+            "rules_text": "Choose one \u2014\n\u2022 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u2022 Exile target creature card from a graveyard. Create a 3/2 colorless Voidling Beast creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3757,8 +3576,7 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/X10lE0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/X10lE0"
         },
         {
             "card_name": "Stitcher's Supplies",
@@ -3777,8 +3595,7 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Vd6AwN",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Vd6AwN"
         },
         {
             "card_name": "Wreckage Extractor",
@@ -3797,8 +3614,7 @@
             "loyalty": "",
             "artist": "Louis STILLACE",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/WBqGRy",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/WBqGRy"
         },
         {
             "card_name": "Death Claims Another",
@@ -3817,8 +3633,7 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/6N9z0",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/6N9z0"
         },
         {
             "card_name": "Pull Apart",
@@ -3837,14 +3652,13 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/V2Yo8N",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/V2Yo8N"
         },
         {
             "card_name": "Ko, Vestige of Fervor",
             "color": "R",
             "rarity": "mythic",
-            "type": "Legendary Devoid Creature \u2013 Dragon",
+            "type": "Legendary Devoid Creature \u2014 Dragon",
             "number": 147,
             "color_identity": "R",
             "cost": "{C}{C}{R}{R}",
@@ -3857,18 +3671,17 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/JrnVyA",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/JrnVyA"
         },
         {
             "card_name": "Barrescape Tyrant",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 130,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "Flying\nWhen this creature enters, target player lays waste. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with \u201c{T}: Add {C}.\u201d)[/i]\nWard\u2013Sacrifice a land.",
+            "rules_text": "Flying\nWhen this creature enters, target player lays waste. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with \u201c{T}: Add {C}.\u201d)[/i]\nWard\u2014Sacrifice a land.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -3877,14 +3690,13 @@
             "loyalty": "",
             "artist": "Mintoucan _",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/nQDQEe",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/nQDQEe"
         },
         {
             "card_name": "Lucient Amalgam",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Mutant",
+            "type": "Creature \u2014 Voidling Mutant",
             "number": 11,
             "color_identity": "R",
             "cost": "{6}",
@@ -3897,14 +3709,13 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
-            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/g8KErL",
-            "image_type": "png"
+            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/g8KErL"
         },
         {
             "card_name": "Earthquake Elemental",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 141,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3917,18 +3728,17 @@
             "loyalty": "",
             "artist": "Maria Trepalina",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/NGbzz",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/NGbzz"
         },
         {
             "card_name": "Leila, Reckless Pyromancer",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Wizard",
+            "type": "Legendary Creature \u2014 Human Wizard",
             "number": 148,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Whenever Leila attacks, choose one \u2013\n\u2022 Leila deals 1 damage to each creature.\n\u2022 Leila deals 1 damage to each opponent.",
+            "rules_text": "Whenever Leila attacks, choose one \u2014\n\u2022 Leila deals 1 damage to each creature.\n\u2022 Leila deals 1 damage to each opponent.",
             "flavor_text": "[i]\u201cWhoops! Oh, sorry! Oops!\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3937,14 +3747,13 @@
             "loyalty": "",
             "artist": "Igor Sid",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/WBGW4y",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/WBGW4y"
         },
         {
             "card_name": "Flintlock Scavenger",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Goblin Pirate",
+            "type": "Creature \u2014 Goblin Pirate",
             "number": 143,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3957,14 +3766,13 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/PkDw1",
-            "image_type": "png"
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/PkDw1"
         },
         {
             "card_name": "Voidcraft Blade",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 159,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3977,14 +3785,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/VJoO0g",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/VJoO0g"
         },
         {
             "card_name": "Haal, Dissident Illusionist",
             "color": "R",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Wizard Rebel",
+            "type": "Legendary Creature \u2014 Elf Wizard Rebel",
             "number": 146,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -3997,14 +3804,13 @@
             "loyalty": "",
             "artist": "Blake Byun",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/29gnge",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/29gnge"
         },
         {
             "card_name": "Dispassionate Plunderer",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Pirate",
+            "type": "Creature \u2014 Goblin Pirate",
             "number": 139,
             "color_identity": "R",
             "cost": "{R}",
@@ -4017,18 +3823,17 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/0XyWky",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/0XyWky"
         },
         {
             "card_name": "Magmatic Marauder",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 153,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, this creature gets +1/+0 until end of turn.\n{R}, Sacrifice this creature: It deals damage equal to its power to target creature.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, this creature gets +1/+0 until end of turn.\n{R}, Sacrifice this creature: It deals damage equal to its power to target creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4037,14 +3842,13 @@
             "loyalty": "",
             "artist": "Horace Hsu",
             "alias": "",
-            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/8x3G6",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/8x3G6"
         },
         {
             "card_name": "Voidcraft Champion",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 160,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4057,14 +3861,13 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/nOnv4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/nOnv4"
         },
         {
             "card_name": "Forgetful Forager",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Scout",
+            "type": "Creature \u2014 Goblin Scout",
             "number": 144,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -4077,14 +3880,13 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/B1BEz6",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/B1BEz6"
         },
         {
             "card_name": "Greyheart Avenger",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 145,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4097,14 +3899,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/ENvBq",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/ENvBq"
         },
         {
             "card_name": "Boulder Breaker",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Ogre Mercenary",
+            "type": "Creature \u2014 Ogre Mercenary",
             "number": 135,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -4117,14 +3918,13 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/badqr",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/badqr"
         },
         {
             "card_name": "Strikesoul Rallier",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 155,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -4137,14 +3937,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/vEaAx",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/vEaAx"
         },
         {
             "card_name": "Barrescape Pioneer",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 129,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -4157,8 +3956,7 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
-            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/9e6R",
-            "image_type": "png"
+            "notes": "May be non-creature\nhttps://www.artstation.com/artwork/9e6R"
         },
         {
             "card_name": "Warpwalk",
@@ -4177,8 +3975,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/qAYzVN",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/qAYzVN"
         },
         {
             "card_name": "Terrabomb",
@@ -4188,7 +3985,7 @@
             "number": 156,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a charge counter on this artifact.\n{3}, {T}, Sacrifice this artifact: It deals damage equal to the number of charge counters on it to any target.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a charge counter on this artifact.\n{3}, {T}, Sacrifice this artifact: It deals damage equal to the number of charge counters on it to any target.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4197,8 +3994,7 @@
             "loyalty": "",
             "artist": "Envar Studio",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/b5RdeG",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/b5RdeG"
         },
         {
             "card_name": "Call to Battle",
@@ -4208,7 +4004,7 @@
             "number": 200,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Creatures you control get +1/+1 until end of turn.\n\u2022 Create two 1/1 white Soldier creature tokens.",
+            "rules_text": "Choose one \u2014\n\u2022 Creatures you control get +1/+1 until end of turn.\n\u2022 Create two 1/1 white Soldier creature tokens.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4217,8 +4013,7 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/5dawP",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/5dawP"
         },
         {
             "card_name": "Dizzying Resummoning",
@@ -4237,8 +4032,7 @@
             "loyalty": "",
             "artist": "lejia chan",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/0360Vy",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/0360Vy"
         },
         {
             "card_name": "Uncaged Fury",
@@ -4257,8 +4051,7 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/5DoO",
-            "image_type": "png"
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/5DoO"
         },
         {
             "card_name": "Luciclasm",
@@ -4277,14 +4070,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/VJDZaN",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/VJDZaN"
         },
         {
             "card_name": "Te, Vestige of Strength",
             "color": "G",
             "rarity": "mythic",
-            "type": "Legendary Devoid Creature \u2013 Hydra",
+            "type": "Legendary Devoid Creature \u2014 Hydra",
             "number": 192,
             "color_identity": "G",
             "cost": "{C}{C}{G}{G}",
@@ -4297,14 +4089,13 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/y4KJn9",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/y4KJn9"
         },
         {
             "card_name": "Sundering Hydra",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Hydra",
+            "type": "Creature \u2014 Hydra",
             "number": 191,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
@@ -4317,14 +4108,13 @@
             "loyalty": "",
             "artist": "Nino Is",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/d05NLX",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/d05NLX"
         },
         {
             "card_name": "Venerant Earthspeaker",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 195,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -4337,14 +4127,13 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/A93QXy",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/A93QXy"
         },
         {
             "card_name": "Sporespawn Drift",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Fungus",
+            "type": "Creature \u2014 Voidling Fungus",
             "number": 19,
             "color_identity": "G",
             "cost": "{8}",
@@ -4357,8 +4146,7 @@
             "loyalty": "",
             "artist": "Pascal Blanche",
             "alias": "",
-            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/Krngn4",
-            "image_type": "png"
+            "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/Krngn4"
         },
         {
             "card_name": "Reveal the Underdark",
@@ -4377,14 +4165,13 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Ga48Xa",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Ga48Xa"
         },
         {
             "card_name": "Mammoth Caller",
             "color": "UG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 223,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
@@ -4397,14 +4184,13 @@
             "loyalty": "",
             "artist": "Dimitar Bochukov",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/wOY6",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/wOY6"
         },
         {
             "card_name": "Rampaging Clawfoot",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 184,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -4417,14 +4203,13 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/EVXmgK",
-            "image_type": "png"
+            "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/EVXmgK"
         },
         {
             "card_name": "Fenfield Nourisher",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 172,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4437,14 +4222,13 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/3qE6GE",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/3qE6GE"
         },
         {
             "card_name": "Manaseeker Serpent",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Snake",
+            "type": "Creature \u2014 Snake",
             "number": 180,
             "color_identity": "G",
             "cost": "{G}",
@@ -4457,8 +4241,7 @@
             "loyalty": "",
             "artist": "Bachzim",
             "alias": "",
-            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/48aw21",
-            "image_type": "png"
+            "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/48aw21"
         },
         {
             "card_name": "Heartpact Rebirth",
@@ -4477,14 +4260,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/nEENG9",
-            "image_type": "png"
+            "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/nEENG9"
         },
         {
             "card_name": "Greenleaf Treefolk",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Treefolk",
+            "type": "Creature \u2014 Treefolk",
             "number": 173,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4497,14 +4279,13 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/eJX6P3",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/eJX6P3"
         },
         {
             "card_name": "Earthweaver Druid",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 171,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4517,14 +4298,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/6LXVEx",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/6LXVEx"
         },
         {
             "card_name": "Scruptions Tiller",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 188,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4537,8 +4317,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XB2zga",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XB2zga"
         },
         {
             "card_name": "Reckless Roots",
@@ -4557,18 +4336,17 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/L336R",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/L336R"
         },
         {
             "card_name": "Clawfoot Elder",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 165,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, put a +1/+1 counter on this creature.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, put a +1/+1 counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -4577,14 +4355,13 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
-            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/GLdBa",
-            "image_type": "png"
+            "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/GLdBa"
         },
         {
             "card_name": "Deepwell Repurposer",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 169,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -4597,14 +4374,13 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/x6Z6Y",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/x6Z6Y"
         },
         {
             "card_name": "Brush Stomper",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 164,
             "color_identity": "G",
             "cost": "{7}{G}",
@@ -4617,14 +4393,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/9EwK8L",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/9EwK8L"
         },
         {
             "card_name": "Budding Mycospawn",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling Fungus",
+            "type": "Creature \u2014 Voidling Fungus",
             "number": 1,
             "color_identity": "G",
             "cost": "{7}",
@@ -4637,8 +4412,7 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/rAZ9VG",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/rAZ9VG"
         },
         {
             "card_name": "Spirited Growth",
@@ -4657,8 +4431,7 @@
             "loyalty": "",
             "artist": "Sergio Chaves",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/nYWWJ1",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/nYWWJ1"
         },
         {
             "card_name": "Blessing of Selas",
@@ -4677,8 +4450,7 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Ga1XZV",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Ga1XZV"
         },
         {
             "card_name": "Rite of Rebirth",
@@ -4688,7 +4460,7 @@
             "number": 187,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, mill a card.\nExile this enchantment: You may play target permanent card from your graveyard without paying its mana cost. Activate only as a sorcery and only if there are eight or more permanent cards in your graveyard.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, mill a card.\nExile this enchantment: You may play target permanent card from your graveyard without paying its mana cost. Activate only as a sorcery and only if there are eight or more permanent cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4697,14 +4469,13 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/AlrxEX",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/AlrxEX"
         },
         {
             "card_name": "Heaped Harvest",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Food",
+            "type": "Artifact \u2014 Food",
             "number": 175,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4717,8 +4488,7 @@
             "loyalty": "",
             "artist": "Archana",
             "alias": "",
-            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/RKqPlA",
-            "image_type": "png"
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/RKqPlA"
         },
         {
             "card_name": "Crystal Dunes",
@@ -4737,14 +4507,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/xzbqZX",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/xzbqZX"
         },
         {
             "card_name": "Fibrose Sympath",
             "color": "",
             "rarity": "rare",
-            "type": "Creature \u2013 Voidling Homunculus",
+            "type": "Creature \u2014 Voidling Homunculus",
             "number": 6,
             "color_identity": "C",
             "cost": "{7}",
@@ -4757,14 +4526,13 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/GXW1QV",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/GXW1QV"
         },
         {
             "card_name": "Kul, the Left Hand",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Advisor",
+            "type": "Legendary Creature \u2014 Elf Advisor",
             "number": 220,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
@@ -4777,14 +4545,13 @@
             "loyalty": "",
             "artist": "Christian Ramirez",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/GeBwNV",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/GeBwNV"
         },
         {
             "card_name": "Nox, Flickerlight Mind",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Wizard",
+            "type": "Legendary Creature \u2014 Elf Wizard",
             "number": 225,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
@@ -4797,14 +4564,13 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/vJXklO",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/vJXklO"
         },
         {
             "card_name": "Yegh, Twisted Spawn",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elemental Fungus",
+            "type": "Legendary Creature \u2014 Elemental Fungus",
             "number": 246,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
@@ -4817,14 +4583,13 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XnwVAL",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XnwVAL"
         },
         {
             "card_name": "Oho, Who Endures",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Treefolk",
+            "type": "Legendary Creature \u2014 Treefolk",
             "number": 226,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
@@ -4837,18 +4602,17 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/6LxL5W",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/6LxL5W"
         },
         {
             "card_name": "Aderic, Savvy Surveyor",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Scout",
+            "type": "Legendary Creature \u2014 Elf Scout",
             "number": 196,
             "color_identity": "WUG",
             "cost": "{1}{G}{W}{U}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, choose one that hasn't been chosen this turn \u2013\n\u2022 Put a +1/+1 counter on Aderic.\n\u2022 Aderic gains lifelink until end of turn.\n\u2022 Aderic can't be blocked this turn.",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, choose one that hasn't been chosen this turn \u2014\n\u2022 Put a +1/+1 counter on Aderic.\n\u2022 Aderic gains lifelink until end of turn.\n\u2022 Aderic can't be blocked this turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4857,14 +4621,13 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/8RlO",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/8RlO"
         },
         {
             "card_name": "Gaar, 9th Front General",
             "color": "WBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Soldier",
+            "type": "Legendary Creature \u2014 Elf Soldier",
             "number": 213,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
@@ -4877,14 +4640,13 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/mDerYv",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/mDerYv"
         },
         {
             "card_name": "Llem, Greyheart Elder",
             "color": "URG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Druid",
+            "type": "Legendary Creature \u2014 Human Druid",
             "number": 222,
             "color_identity": "URG",
             "cost": "{1}{G}{U}{R}",
@@ -4897,18 +4659,17 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XB2zga",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XB2zga"
         },
         {
             "card_name": "Biel, the Storyteller",
             "color": "WBG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Bard",
+            "type": "Legendary Creature \u2014 Human Bard",
             "number": 197,
             "color_identity": "WBG",
             "cost": "{2}{W}{B}{G}",
-            "rules_text": "Whenever one or more cards leave your graveyard, choose one \u2013\n\u2022 Create a 3/2 colorless Voidling Beast creature token.\n\u2022 Put a +1/+1 counter on each creature you control.\n\u2022 Draw a card. You lose 1 life.",
+            "rules_text": "Whenever one or more cards leave your graveyard, choose one \u2014\n\u2022 Create a 3/2 colorless Voidling Beast creature token.\n\u2022 Put a +1/+1 counter on each creature you control.\n\u2022 Draw a card. You lose 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4917,14 +4678,13 @@
             "loyalty": "",
             "artist": "Kan Liu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/9nLq",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/9nLq"
         },
         {
             "card_name": "Dzaan, Wingblade Veteran",
             "color": "WU",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Soldier",
+            "type": "Legendary Creature \u2014 Elf Soldier",
             "number": 210,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
@@ -4937,14 +4697,13 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/gOWGQ",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/gOWGQ"
         },
         {
             "card_name": "Vel, Grand Illusionist",
             "color": "UB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Wizard",
+            "type": "Legendary Creature \u2014 Elf Wizard",
             "number": 241,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -4957,8 +4716,7 @@
             "loyalty": "",
             "artist": "Tanya Podolskaia",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Zld2oR",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Zld2oR"
         },
         {
             "card_name": "Dance of Undeath",
@@ -4977,14 +4735,13 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/vbX863",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/vbX863"
         },
         {
             "card_name": "Greyheart Awakener",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 214,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
@@ -4997,8 +4754,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/k4KWXz",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/k4KWXz"
         },
         {
             "card_name": "Toil Unending",
@@ -5017,34 +4773,32 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/W2ql0v",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/W2ql0v"
         },
         {
             "card_name": "Heartpact Awakening",
             "color": "WG",
             "rarity": "rare",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 217,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "\nI, II \u2013 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2013 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "rules_text": "\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2013 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2013 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "special_text": "\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
             "artist": "Richard lay",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XJa3kD",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XJa3kD"
         },
         {
             "card_name": "Prism Dancer",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Performer",
+            "type": "Creature \u2014 Elf Performer",
             "number": 227,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -5057,14 +4811,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/5WP8Yg",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/5WP8Yg"
         },
         {
             "card_name": "Cycleborn Mycolid",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2013 Fungus",
+            "type": "Creature \u2014 Fungus",
             "number": 204,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
@@ -5077,14 +4830,13 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/m8AkL8",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/m8AkL8"
         },
         {
             "card_name": "Greyheart Evangelist",
             "color": "WR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Rebel",
+            "type": "Creature \u2014 Human Rebel",
             "number": 215,
             "color_identity": "WR",
             "cost": "{R}{W}",
@@ -5097,8 +4849,7 @@
             "loyalty": "",
             "artist": "Igor Sid",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/68a8QW",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/68a8QW"
         },
         {
             "card_name": "Shattered Earth",
@@ -5117,8 +4868,7 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/L2gQ4k",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/L2gQ4k"
         },
         {
             "card_name": "Fallen Lotus",
@@ -5137,8 +4887,7 @@
             "loyalty": "",
             "artist": "Ruska J. J. Bergh\u00e4ll",
             "alias": "",
-            "notes": "UL02\n[canon reprint \u2014 crystal vein]\nhttps://www.artstation.com/artwork/e0bbJw",
-            "image_type": "png"
+            "notes": "UL02\n[canon reprint \u2014 crystal vein]\nhttps://www.artstation.com/artwork/e0bbJw"
         },
         {
             "card_name": "To Waste",
@@ -5157,8 +4906,7 @@
             "loyalty": "",
             "artist": "Sin jong hun",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/YBEAWP",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/YBEAWP"
         },
         {
             "card_name": "Void Engine",
@@ -5177,8 +4925,7 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/RYg9Jv",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/RYg9Jv"
         },
         {
             "card_name": "Warped Echoes",
@@ -5197,8 +4944,7 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/EL5V3A",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/EL5V3A"
         },
         {
             "card_name": "Dizzying Heights",
@@ -5208,7 +4954,7 @@
             "number": 207,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "Choose one \u2013\n\u2022 Counter target noncreature spell.\n\u2022 Tap target creature and put a stun counter on it.\n\u2022 Destroy target tapped creature.",
+            "rules_text": "Choose one \u2014\n\u2022 Counter target noncreature spell.\n\u2022 Tap target creature and put a stun counter on it.\n\u2022 Destroy target tapped creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5217,14 +4963,13 @@
             "loyalty": "",
             "artist": "Steve Firchow",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/OlY1k",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/OlY1k"
         },
         {
             "card_name": "Dreameater",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 208,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
@@ -5237,14 +4982,13 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/qbl5z",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/qbl5z"
         },
         {
             "card_name": "Rancorous Rebel",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Rebel",
+            "type": "Creature \u2014 Goblin Rebel",
             "number": 228,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -5257,14 +5001,13 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
-            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/9eB38Q",
-            "image_type": "png"
+            "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/9eB38Q"
         },
         {
             "card_name": "Scintillating Shardborn",
             "color": "UG",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 230,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
@@ -5277,8 +5020,7 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/QLNGL",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/QLNGL"
         },
         {
             "card_name": "Settler's Day Parade",
@@ -5288,7 +5030,7 @@
             "number": 232,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Create a 4/4 green Elephant creature token.\n\u2022 Return up to two target permanent cards with total mana value 4 or less from your graveyard to the battlefield.",
+            "rules_text": "Choose one \u2014\n\u2022 Create a 4/4 green Elephant creature token.\n\u2022 Return up to two target permanent cards with total mana value 4 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5297,14 +5039,13 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/0dPQG",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/0dPQG"
         },
         {
             "card_name": "Synchrum Puppeteer",
             "color": "WB",
             "rarity": "rare",
-            "type": "Creature \u2013 Elf Cleric",
+            "type": "Creature \u2014 Elf Cleric",
             "number": 236,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -5317,14 +5058,13 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/8eAnan",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/8eAnan"
         },
         {
             "card_name": "Voidcraft Refiner",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Artificer",
+            "type": "Creature \u2014 Human Artificer",
             "number": 243,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -5337,14 +5077,13 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/nOnv4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/nOnv4"
         },
         {
             "card_name": "Dregwalker",
             "color": "BG",
             "rarity": "rare",
-            "type": "Creature \u2013 Mutant",
+            "type": "Creature \u2014 Mutant",
             "number": 209,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
@@ -5357,8 +5096,7 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Z56V80",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Z56V80"
         },
         {
             "card_name": "Koma's Hearth",
@@ -5377,14 +5115,13 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/X1oJ3a",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/X1oJ3a"
         },
         {
             "card_name": "Leyline Surveyor",
             "color": "",
             "rarity": "common",
-            "type": "Artifact Creature \u2013 Thopter",
+            "type": "Artifact Creature \u2014 Thopter",
             "number": 251,
             "color_identity": "C",
             "cost": "{2}",
@@ -5397,14 +5134,13 @@
             "loyalty": "",
             "artist": "Andr\u00e9 Martuscelli",
             "alias": "",
-            "notes": "CA06: Land fixing\nhttps://www.artstation.com/artwork/XBEvXn",
-            "image_type": "png"
+            "notes": "CA06: Land fixing\nhttps://www.artstation.com/artwork/XBEvXn"
         },
         {
             "card_name": "Endless Hollow",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 5,
             "color_identity": "C",
             "cost": "{2C}{2C}{2C}",
@@ -5417,18 +5153,17 @@
             "loyalty": "",
             "artist": "John Howard",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/KJl9x",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/KJl9x"
         },
         {
             "card_name": "Adventuring Gear",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 248,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1}",
+            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, equipped creature gets +2/+2 until end of turn.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5437,14 +5172,13 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/o2RGNL",
-            "image_type": "png"
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/o2RGNL"
         },
         {
             "card_name": "Essence Extractor",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 250,
             "color_identity": "C",
             "cost": "{2}",
@@ -5457,14 +5191,13 @@
             "loyalty": "",
             "artist": "Cristi Balanescu",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/zOAvE4",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/zOAvE4"
         },
         {
             "card_name": "Voidling Beast",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Voidling Beast",
+            "type": "Token Creature \u2014 Voidling Beast",
             "number": 6,
             "color_identity": "C",
             "cost": "",
@@ -5477,14 +5210,13 @@
             "loyalty": "",
             "artist": "Katina Thorondor",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Ev46Kq\n!related Shadows Around Us;Echoing Roar<2>;Ko, Vestige of Fervor;Biel, the Storyteller;Voidcraft Refiner;Voidheart Rallier",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Ev46Kq\n!related Shadows Around Us;Echoing Roar<2>;Ko, Vestige of Fervor;Biel, the Storyteller;Voidcraft Refiner;Voidheart Rallier"
         },
         {
             "card_name": "Fractured Phantom",
             "color": "",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 8,
             "color_identity": "C",
             "cost": "{8}",
@@ -5497,14 +5229,13 @@
             "loyalty": "",
             "artist": "Darren Myners",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/XkonL",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/XkonL"
         },
         {
             "card_name": "Broken Vessel",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 249,
             "color_identity": "C",
             "cost": "{4}",
@@ -5517,14 +5248,13 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/oyQ3q",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/oyQ3q"
         },
         {
             "card_name": "Meteor Golem",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 252,
             "color_identity": "C",
             "cost": "{7}",
@@ -5537,14 +5267,13 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/OvmENb",
-            "image_type": "png"
+            "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/OvmENb"
         },
         {
             "card_name": "Herald of Anox",
             "color": "WUBRG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 219,
             "color_identity": "WUBRG",
             "cost": "{CW}{CU}{CB}{CR}{CG}",
@@ -5557,14 +5286,13 @@
             "loyalty": "",
             "artist": "Joao Sergio",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/9eZAqW",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/9eZAqW"
         },
         {
             "card_name": "Scouting Ship",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 255,
             "color_identity": "C",
             "cost": "{3}",
@@ -5577,14 +5305,13 @@
             "loyalty": "",
             "artist": "Collette Curran",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/zAmORw",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/zAmORw"
         },
         {
             "card_name": "Radiant Crab",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Crab",
+            "type": "Creature \u2014 Crab",
             "number": 74,
             "color_identity": "U",
             "cost": "{U}",
@@ -5597,14 +5324,13 @@
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/YeQOgd",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/YeQOgd"
         },
         {
             "card_name": "Fetid Maw",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Elemental Mutant",
+            "type": "Creature \u2014 Elemental Mutant",
             "number": 105,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -5617,14 +5343,13 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/qJbK0e",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/qJbK0e"
         },
         {
             "card_name": "Saproling",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Saproling",
+            "type": "Token Creature \u2014 Saproling",
             "number": 10,
             "color_identity": "G",
             "cost": "",
@@ -5637,14 +5362,13 @@
             "loyalty": "",
             "artist": "Andrew McIntosh",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/4avK2\n!related Cycleborn Mycolid<x>;Darkeater",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/4avK2\n!related Cycleborn Mycolid<x>;Darkeater"
         },
         {
             "card_name": "Empty Heart",
             "color": "",
             "rarity": "mythic",
-            "type": "Creature \u2013 Voidling",
+            "type": "Creature \u2014 Voidling",
             "number": 4,
             "color_identity": "C",
             "cost": "{3}{C}{C}{C}",
@@ -5657,14 +5381,13 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/X1bOoy",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/X1bOoy"
         },
         {
             "card_name": "Rock",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Equipment",
+            "type": "Token Artifact \u2014 Equipment",
             "number": 12,
             "color_identity": "C",
             "cost": "",
@@ -5677,8 +5400,7 @@
             "loyalty": "",
             "artist": "Jason Scheier",
             "alias": "",
-            "notes": "!related Potshot Goblin\nhttps://www.artstation.com/artwork/nQwNbX",
-            "image_type": "png"
+            "notes": "!related Potshot Goblin\nhttps://www.artstation.com/artwork/nQwNbX"
         },
         {
             "card_name": "Magma Lash",
@@ -5697,8 +5419,7 @@
             "loyalty": "",
             "artist": "Bekah Chew",
             "alias": "",
-            "notes": "CR10: Direct damage (deals 2)\ncommon_waste_spell_cycle",
-            "image_type": "png"
+            "notes": "CR10: Direct damage (deals 2)\ncommon_waste_spell_cycle"
         },
         {
             "card_name": "Oxhide Veil",
@@ -5717,8 +5438,7 @@
             "loyalty": "",
             "artist": "Halder ALMEIDA",
             "alias": "",
-            "notes": "CG13: Combat trick (power pump)",
-            "image_type": "png"
+            "notes": "CG13: Combat trick (power pump)"
         },
         {
             "card_name": "Resonant Quarry",
@@ -5737,14 +5457,13 @@
             "loyalty": "",
             "artist": "Lukas Juchnelis",
             "alias": "",
-            "notes": "UL01",
-            "image_type": "png"
+            "notes": "UL01"
         },
         {
             "card_name": "Illusion",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Illusion",
+            "type": "Token Creature \u2014 Illusion",
             "number": 4,
             "color_identity": "C",
             "cost": "",
@@ -5757,14 +5476,13 @@
             "loyalty": "",
             "artist": "Ryan Davenport",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/Je0RXd\n!related Haal, Dissident Illusionist;Prism Dancer",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/Je0RXd\n!related Haal, Dissident Illusionist;Prism Dancer"
         },
         {
             "card_name": "Vesz, Endless Whisper",
             "color": "UBG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Snake",
+            "type": "Legendary Creature \u2014 Snake",
             "number": 242,
             "color_identity": "UBG",
             "cost": "{1}{B}{G}{U}",
@@ -5777,14 +5495,13 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/rA2wQL",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/rA2wQL"
         },
         {
             "card_name": "Nebson, Tireless Tinkerer",
             "color": "WUR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Elf Artificer",
+            "type": "Legendary Creature \u2014 Elf Artificer",
             "number": 224,
             "color_identity": "WUR",
             "cost": "{U}{R}{W}",
@@ -5797,14 +5514,13 @@
             "loyalty": "",
             "artist": "Simon Dominic Brewer",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/PX53BB",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/PX53BB"
         },
         {
             "card_name": "Vampire",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Vampire",
+            "type": "Token Creature \u2014 Vampire",
             "number": 8,
             "color_identity": "B",
             "cost": "",
@@ -5817,14 +5533,13 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/6QevW\n!related Death Claims Another;Dessicated Diner;Sinister Administrator",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/6QevW\n!related Death Claims Another;Dessicated Diner;Sinister Administrator"
         },
         {
             "card_name": "Riftwake Phoenix",
             "color": "WR",
             "rarity": "rare",
-            "type": "Creature \u2013 Phoenix",
+            "type": "Creature \u2014 Phoenix",
             "number": 229,
             "color_identity": "WR",
             "cost": "{1}{R}{W}",
@@ -5837,18 +5552,17 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/lGZYnJ",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/lGZYnJ"
         },
         {
             "card_name": "Syzygy, Whole One",
             "color": "WUBRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Voidling",
+            "type": "Legendary Creature \u2014 Voidling",
             "number": 237,
             "color_identity": "WUBRG",
             "cost": "{W}{U}{B}{R}{G}",
-            "rules_text": "{1}, Lay waste: Choose one \u2013\n\u2022 You gain 3 life.\n\u2022 Draw a card, then discard a card.\n\u2022 Target creature gets -1/-1 until end of turn.\n\u2022 Syzygy deals 2 damage to any target.\n\u2022 Put a +1/+1 counter on target creature.\nEvoke {5}",
+            "rules_text": "{1}, Lay waste: Choose one \u2014\n\u2022 You gain 3 life.\n\u2022 Draw a card, then discard a card.\n\u2022 Target creature gets -1/-1 until end of turn.\n\u2022 Syzygy deals 2 damage to any target.\n\u2022 Put a +1/+1 counter on target creature.\nEvoke {5}",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -5857,28 +5571,26 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/L4kYow",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/L4kYow"
         },
         {
             "card_name": "A World Asunder",
             "color": "",
             "rarity": "mythic",
-            "type": "Enchantment \u2013 Saga",
+            "type": "Enchantment \u2014 Saga",
             "number": 23,
             "color_identity": "C",
             "cost": "{4}{C}{C}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Exile all other nonland permanents.\nII \u2014 Lay waste.\nIII \u2014 Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2013 Exile all other nonland permanents.\nII \u2013 Lay waste.\nIII \u2013 Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Exile all other nonland permanents.\nII \u2014 Lay waste.\nIII \u2014 Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/w846Jg",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/w846Jg"
         },
         {
             "card_name": "The Terralance",
@@ -5897,8 +5609,7 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
-            "notes": "https://www.artstation.com/artwork/WXKBJX",
-            "image_type": "png"
+            "notes": "https://www.artstation.com/artwork/WXKBJX"
         }
     ]
 }
