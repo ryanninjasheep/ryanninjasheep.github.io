@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/TVB-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/TVB-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>TVB visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -126,12 +133,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -173,400 +181,416 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/TVB-files/logo.png" />
-	<img class="preload-hidden" src="/sets/TVB-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/TVB-files/logo.png" />
+	<img class="preload-hidden" src="../sets/TVB-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="TVB"><img src="/sets/TVB-files/icon.png">The Void Beneath</a>
+		<a class="set-bar" href="../previews/TVB"><img src="../sets/TVB-files/icon.png">The Void Beneath</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/TVB-files/logo.png">
+		<img class="logo" src="../sets/TVB-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\TVB-files\img\37_Hu, Vestige of Faith.png" id="37_Hu, Vestige of Faith" data-flag="@X" onclick="openSidebar('37_Hu, Vestige of Faith',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\60_Ba, Vestige of Knowledge.png" id="60_Ba, Vestige of Knowledge" data-flag="@X" onclick="openSidebar('60_Ba, Vestige of Knowledge',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\108_Li, Vestige of Life.png" id="108_Li, Vestige of Life" data-flag="@X" onclick="openSidebar('108_Li, Vestige of Life',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\147_Ko, Vestige of Fervor.png" id="147_Ko, Vestige of Fervor" data-flag="@X" onclick="openSidebar('147_Ko, Vestige of Fervor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\192_Te, Vestige of Strength.png" id="192_Te, Vestige of Strength" data-flag="@X" onclick="openSidebar('192_Te, Vestige of Strength',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\31_Destiny Manifest.png" id="31_Destiny Manifest" data-flag="@X" onclick="openSidebar('31_Destiny Manifest',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\69_Imperial Mistweaver.png" id="69_Imperial Mistweaver" data-flag="@X" onclick="openSidebar('69_Imperial Mistweaver',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\94_Bitter Grudge.png" id="94_Bitter Grudge" data-flag="@X" onclick="openSidebar('94_Bitter Grudge',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\130_Barrescape Tyrant.png" id="130_Barrescape Tyrant" data-flag="@X" onclick="openSidebar('130_Barrescape Tyrant',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\172_Fenfield Nourisher.png" id="172_Fenfield Nourisher" data-flag="@X" onclick="openSidebar('172_Fenfield Nourisher',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\34_Empire's Wing.png" id="34_Empires Wing" data-flag="@X" onclick="openSidebar('34_Empires Wing',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\73_Pfiel, Expansion Architect.png" id="73_Pfiel, Expansion Architect" data-flag="@X" onclick="openSidebar('73_Pfiel, Expansion Architect',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\105_Fetid Maw.png" id="105_Fetid Maw" data-flag="@X" onclick="openSidebar('105_Fetid Maw',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\134_The Blind Army.png" id="134_The Blind Army" data-flag="@X" onclick="openSidebar('134_The Blind Army',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\178_Koma's Hearth.png" id="178_Komas Hearth" data-flag="@X" onclick="openSidebar('178_Komas Hearth',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\48_Shen, Heir of Anox.png" id="48_Shen, Heir of Anox" data-flag="@X" onclick="openSidebar('48_Shen, Heir of Anox',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\77_Sculpt in Light.png" id="77_Sculpt in Light" data-flag="@X" onclick="openSidebar('77_Sculpt in Light',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\107_Grim Opportunist.png" id="107_Grim Opportunist" data-flag="@X" onclick="openSidebar('107_Grim Opportunist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\141_Earthquake Elemental.png" id="141_Earthquake Elemental" data-flag="@X" onclick="openSidebar('141_Earthquake Elemental',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\184_Rampaging Clawfoot.png" id="184_Rampaging Clawfoot" data-flag="@X" onclick="openSidebar('184_Rampaging Clawfoot',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\51_Soul Siphoner.png" id="51_Soul Siphoner" data-flag="@X" onclick="openSidebar('51_Soul Siphoner',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\81_Sparkwork Armorer.png" id="81_Sparkwork Armorer" data-flag="@X" onclick="openSidebar('81_Sparkwork Armorer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\111_Malaak, Corrupted Prince.png" id="111_Malaak, Corrupted Prince" data-flag="@X" onclick="openSidebar('111_Malaak, Corrupted Prince',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\143_Flintlock Scavenger.png" id="143_Flintlock Scavenger" data-flag="@X" onclick="openSidebar('143_Flintlock Scavenger',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\186_Reveal the Underdark.png" id="186_Reveal the Underdark" data-flag="@X" onclick="openSidebar('186_Reveal the Underdark',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\52_Tectonic Shift.png" id="52_Tectonic Shift" data-flag="@X" onclick="openSidebar('52_Tectonic Shift',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\85_Voidcraft Adept.png" id="85_Voidcraft Adept" data-flag="@X" onclick="openSidebar('85_Voidcraft Adept',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\116_Sculptor of Memories.png" id="116_Sculptor of Memories" data-flag="@X" onclick="openSidebar('116_Sculptor of Memories',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\146_Haal, Dissident Illusionist.png" id="146_Haal, Dissident Illusionist" data-flag="@X" onclick="openSidebar('146_Haal, Dissident Illusionist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\191_Sundering Hydra.png" id="191_Sundering Hydra" data-flag="@X" onclick="openSidebar('191_Sundering Hydra',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\58_Zealous Pilgrim.png" id="58_Zealous Pilgrim" data-flag="@X" onclick="openSidebar('58_Zealous Pilgrim',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\90_Warbling Loon.png" id="90_Warbling Loon" data-flag="@X" onclick="openSidebar('90_Warbling Loon',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\126_Yan, Dealer of Destinies.png" id="126_Yan, Dealer of Destinies" data-flag="@X" onclick="openSidebar('126_Yan, Dealer of Destinies',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\148_Leila, Reckless Pyromancer.png" id="148_Leila, Reckless Pyromancer" data-flag="@X" onclick="openSidebar('148_Leila, Reckless Pyromancer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\195_Venerant Earthspeaker.png" id="195_Venerant Earthspeaker" data-flag="@X" onclick="openSidebar('195_Venerant Earthspeaker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\28_Battlebond Infantry.png" id="28_Battlebond Infantry" data-flag="@X" onclick="openSidebar('28_Battlebond Infantry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\65_Flickerlight Form.png" id="65_Flickerlight Form" data-flag="@X" onclick="openSidebar('65_Flickerlight Form',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\93_Barrescape Reaper.png" id="93_Barrescape Reaper" data-flag="@X" onclick="openSidebar('93_Barrescape Reaper',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\129_Barrescape Pioneer.png" id="129_Barrescape Pioneer" data-flag="@X" onclick="openSidebar('129_Barrescape Pioneer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\163_Blessing of Selas.png" id="163_Blessing of Selas" data-flag="@X" onclick="openSidebar('163_Blessing of Selas',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\29_Bonded in Battle.png" id="29_Bonded in Battle" data-flag="@X" onclick="openSidebar('29_Bonded in Battle',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\68_Hunt for the Awakened Core.png" id="68_Hunt for the Awakened Core" data-flag="@X" onclick="openSidebar('68_Hunt for the Awakened Core',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\96_Blood-Mad Ogre.png" id="96_Blood-Mad Ogre" data-flag="@X" onclick="openSidebar('96_Blood-Mad Ogre',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\135_Boulder Breaker.png" id="135_Boulder Breaker" data-flag="@X" onclick="openSidebar('135_Boulder Breaker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\164_Brush Stomper.png" id="164_Brush Stomper" data-flag="@X" onclick="openSidebar('164_Brush Stomper',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\30_Dawncaller.png" id="30_Dawncaller" data-flag="@X" onclick="openSidebar('30_Dawncaller',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\70_Leyline Tracker.png" id="70_Leyline Tracker" data-flag="@X" onclick="openSidebar('70_Leyline Tracker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\99_Death Claims Another.png" id="99_Death Claims Another" data-flag="@X" onclick="openSidebar('99_Death Claims Another',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\139_Dispassionate Plunderer.png" id="139_Dispassionate Plunderer" data-flag="@X" onclick="openSidebar('139_Dispassionate Plunderer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\165_Clawfoot Elder.png" id="165_Clawfoot Elder" data-flag="@X" onclick="openSidebar('165_Clawfoot Elder',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\38_Inspiring General.png" id="38_Inspiring General" data-flag="@X" onclick="openSidebar('38_Inspiring General',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\74_Radiant Crab.png" id="74_Radiant Crab" data-flag="@X" onclick="openSidebar('74_Radiant Crab',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\104_Encroaching Void.png" id="104_Encroaching Void" data-flag="@X" onclick="openSidebar('104_Encroaching Void',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\140_Dizzying Resummoning.png" id="140_Dizzying Resummoning" data-flag="@X" onclick="openSidebar('140_Dizzying Resummoning',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\169_Deepwell Repurposer.png" id="169_Deepwell Repurposer" data-flag="@X" onclick="openSidebar('169_Deepwell Repurposer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\39_Leyline Patrol.png" id="39_Leyline Patrol" data-flag="@X" onclick="openSidebar('39_Leyline Patrol',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\75_Rasping Currents.png" id="75_Rasping Currents" data-flag="@X" onclick="openSidebar('75_Rasping Currents',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\109_Lifeblood Lurker.png" id="109_Lifeblood Lurker" data-flag="@X" onclick="openSidebar('109_Lifeblood Lurker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\144_Forgetful Forager.png" id="144_Forgetful Forager" data-flag="@X" onclick="openSidebar('144_Forgetful Forager',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\171_Earthweaver Druid.png" id="171_Earthweaver Druid" data-flag="@X" onclick="openSidebar('171_Earthweaver Druid',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\41_Munitions Supplier.png" id="41_Munitions Supplier" data-flag="@X" onclick="openSidebar('41_Munitions Supplier',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\78_Search the Depths.png" id="78_Search the Depths" data-flag="@X" onclick="openSidebar('78_Search the Depths',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\113_Mindskewer.png" id="113_Mindskewer" data-flag="@X" onclick="openSidebar('113_Mindskewer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\145_Greyheart Avenger.png" id="145_Greyheart Avenger" data-flag="@X" onclick="openSidebar('145_Greyheart Avenger',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\173_Greenleaf Treefolk.png" id="173_Greenleaf Treefolk" data-flag="@X" onclick="openSidebar('173_Greenleaf Treefolk',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\42_Pioneering Aristocrat.png" id="42_Pioneering Aristocrat" data-flag="@X" onclick="openSidebar('42_Pioneering Aristocrat',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\79_Shifting Spectre.png" id="79_Shifting Spectre" data-flag="@X" onclick="openSidebar('79_Shifting Spectre',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\115_Pull Apart.png" id="115_Pull Apart" data-flag="@X" onclick="openSidebar('115_Pull Apart',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\151_Luciclasm.png" id="151_Luciclasm" data-flag="@X" onclick="openSidebar('151_Luciclasm',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\175_Heaped Harvest.png" id="175_Heaped Harvest" data-flag="@X" onclick="openSidebar('175_Heaped Harvest',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\43_Raptor Trainer.png" id="43_Raptor Trainer" data-flag="@X" onclick="openSidebar('43_Raptor Trainer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\80_Skyjack.png" id="80_Skyjack" data-flag="@X" onclick="openSidebar('80_Skyjack',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\117_Shadows Around Us.png" id="117_Shadows Around Us" data-flag="@X" onclick="openSidebar('117_Shadows Around Us',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\153_Magmatic Marauder.png" id="153_Magmatic Marauder" data-flag="@X" onclick="openSidebar('153_Magmatic Marauder',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\180_Manaseeker Serpent.png" id="180_Manaseeker Serpent" data-flag="@X" onclick="openSidebar('180_Manaseeker Serpent',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\45_Rewarding Retreat.png" id="45_Rewarding Retreat" data-flag="@X" onclick="openSidebar('45_Rewarding Retreat',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\82_Sparkwork Kaleidoscope.png" id="82_Sparkwork Kaleidoscope" data-flag="@X" onclick="openSidebar('82_Sparkwork Kaleidoscope',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\120_Stitcher's Supplies.png" id="120_Stitchers Supplies" data-flag="@X" onclick="openSidebar('120_Stitchers Supplies',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\155_Strikesoul Rallier.png" id="155_Strikesoul Rallier" data-flag="@X" onclick="openSidebar('155_Strikesoul Rallier',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\185_Reckless Roots.png" id="185_Reckless Roots" data-flag="@X" onclick="openSidebar('185_Reckless Roots',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\49_Silvershield Martyr.png" id="49_Silvershield Martyr" data-flag="@X" onclick="openSidebar('49_Silvershield Martyr',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\83_Thopter Tinkerer.png" id="83_Thopter Tinkerer" data-flag="@X" onclick="openSidebar('83_Thopter Tinkerer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\121_Thornmarrow Mass.png" id="121_Thornmarrow Mass" data-flag="@X" onclick="openSidebar('121_Thornmarrow Mass',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\156_Terrabomb.png" id="156_Terrabomb" data-flag="@X" onclick="openSidebar('156_Terrabomb',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\187_Rite of Rebirth.png" id="187_Rite of Rebirth" data-flag="@X" onclick="openSidebar('187_Rite of Rebirth',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\53_Thopter Suit.png" id="53_Thopter Suit" data-flag="@X" onclick="openSidebar('53_Thopter Suit',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\87_Voidsea Leviathan.png" id="87_Voidsea Leviathan" data-flag="@X" onclick="openSidebar('87_Voidsea Leviathan',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\122_Void Summoner.png" id="122_Void Summoner" data-flag="@X" onclick="openSidebar('122_Void Summoner',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\157_Uncaged Fury.png" id="157_Uncaged Fury" data-flag="@X" onclick="openSidebar('157_Uncaged Fury',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\188_Scruptions Tiller.png" id="188_Scruptions Tiller" data-flag="@X" onclick="openSidebar('188_Scruptions Tiller',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\54_Twin-Blade Duelist.png" id="54_Twin-Blade Duelist" data-flag="@X" onclick="openSidebar('54_Twin-Blade Duelist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\88_Voidseeker Sneak.png" id="88_Voidseeker Sneak" data-flag="@X" onclick="openSidebar('88_Voidseeker Sneak',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\124_Voidseeker Fanatic.png" id="124_Voidseeker Fanatic" data-flag="@X" onclick="openSidebar('124_Voidseeker Fanatic',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\159_Voidcraft Blade.png" id="159_Voidcraft Blade" data-flag="@X" onclick="openSidebar('159_Voidcraft Blade',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\190_Spirited Growth.png" id="190_Spirited Growth" data-flag="@X" onclick="openSidebar('190_Spirited Growth',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\55_Wakecatcher.png" id="55_Wakecatcher" data-flag="@X" onclick="openSidebar('55_Wakecatcher',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\89_Wakewatcher Wizard.png" id="89_Wakewatcher Wizard" data-flag="@X" onclick="openSidebar('89_Wakewatcher Wizard',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\125_Wreckage Extractor.png" id="125_Wreckage Extractor" data-flag="@X" onclick="openSidebar('125_Wreckage Extractor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\160_Voidcraft Champion.png" id="160_Voidcraft Champion" data-flag="@X" onclick="openSidebar('160_Voidcraft Champion',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\194_Underfall Harmonist.png" id="194_Underfall Harmonist" data-flag="@X" onclick="openSidebar('194_Underfall Harmonist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\57_Zealous Display.png" id="57_Zealous Display" data-flag="@X" onclick="openSidebar('57_Zealous Display',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\59_Abrasive Ideation.png" id="59_Abrasive Ideation" data-flag="@X" onclick="openSidebar('59_Abrasive Ideation',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\95_Blackened Blade.png" id="95_Blackened Blade" data-flag="@X" onclick="openSidebar('95_Blackened Blade',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\161_Warpwalk.png" id="161_Warpwalk" data-flag="@X" onclick="openSidebar('161_Warpwalk',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\162_Barrescape Nurturer.png" id="162_Barrescape Nurturer" data-flag="@X" onclick="openSidebar('162_Barrescape Nurturer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\24_Aeronaut Modelist.png" id="24_Aeronaut Modelist" data-flag="@X" onclick="openSidebar('24_Aeronaut Modelist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\61_Chonofraction.png" id="61_Chonofraction" data-flag="@X" onclick="openSidebar('61_Chonofraction',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\97_Corrupted Conviction.png" id="97_Corrupted Conviction" data-flag="@X" onclick="openSidebar('97_Corrupted Conviction',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\127_Barrescape Behemoth.png" id="127_Barrescape Behemoth" data-flag="@X" onclick="openSidebar('127_Barrescape Behemoth',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\166_Clawfoot Herd.png" id="166_Clawfoot Herd" data-flag="@X" onclick="openSidebar('166_Clawfoot Herd',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\25_Aethelia Aerialist.png" id="25_Aethelia Aerialist" data-flag="@X" onclick="openSidebar('25_Aethelia Aerialist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\62_Curio Collector.png" id="62_Curio Collector" data-flag="@X" onclick="openSidebar('62_Curio Collector',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\98_Cruel Enforcer.png" id="98_Cruel Enforcer" data-flag="@X" onclick="openSidebar('98_Cruel Enforcer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\128_Barrescape Brawler.png" id="128_Barrescape Brawler" data-flag="@X" onclick="openSidebar('128_Barrescape Brawler',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\167_Cycle Tender.png" id="167_Cycle Tender" data-flag="@X" onclick="openSidebar('167_Cycle Tender',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\26_Ascendant Guide.png" id="26_Ascendant Guide" data-flag="@X" onclick="openSidebar('26_Ascendant Guide',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\63_Dazzling Maneuver.png" id="63_Dazzling Maneuver" data-flag="@X" onclick="openSidebar('63_Dazzling Maneuver',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\100_Deathrattle Scorpion.png" id="100_Deathrattle Scorpion" data-flag="@X" onclick="openSidebar('100_Deathrattle Scorpion',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\131_Battlefield Troubador.png" id="131_Battlefield Troubador" data-flag="@X" onclick="openSidebar('131_Battlefield Troubador',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\168_Deeproot Treefolk.png" id="168_Deeproot Treefolk" data-flag="@X" onclick="openSidebar('168_Deeproot Treefolk',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\27_Barrescape Conquerer.png" id="27_Barrescape Conquerer" data-flag="@X" onclick="openSidebar('27_Barrescape Conquerer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\64_Dissonant Dream.png" id="64_Dissonant Dream" data-flag="@X" onclick="openSidebar('64_Dissonant Dream',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\101_Desperate Howler.png" id="101_Desperate Howler" data-flag="@X" onclick="openSidebar('101_Desperate Howler',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\132_Beckoning Void.png" id="132_Beckoning Void" data-flag="@X" onclick="openSidebar('132_Beckoning Void',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\170_Disciple of Koma.png" id="170_Disciple of Koma" data-flag="@X" onclick="openSidebar('170_Disciple of Koma',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\32_Eager Settler.png" id="32_Eager Settler" data-flag="@X" onclick="openSidebar('32_Eager Settler',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\66_Flickerlight Projection.png" id="66_Flickerlight Projection" data-flag="@X" onclick="openSidebar('66_Flickerlight Projection',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\102_Dessicated Diner.png" id="102_Dessicated Diner" data-flag="@X" onclick="openSidebar('102_Dessicated Diner',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\133_Blazing Artillerist.png" id="133_Blazing Artillerist" data-flag="@X" onclick="openSidebar('133_Blazing Artillerist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\174_Harvest Cycle.png" id="174_Harvest Cycle" data-flag="@X" onclick="openSidebar('174_Harvest Cycle',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\33_Emerge from the Cocoon.png" id="33_Emerge from the Cocoon" data-flag="@X" onclick="openSidebar('33_Emerge from the Cocoon',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\67_Highspire Sentry.png" id="67_Highspire Sentry" data-flag="@X" onclick="openSidebar('67_Highspire Sentry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\103_Duram Nightstalker.png" id="103_Duram Nightstalker" data-flag="@X" onclick="openSidebar('103_Duram Nightstalker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\136_Careless Cartographer.png" id="136_Careless Cartographer" data-flag="@X" onclick="openSidebar('136_Careless Cartographer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\176_Ichortongue Lizard.png" id="176_Ichortongue Lizard" data-flag="@X" onclick="openSidebar('176_Ichortongue Lizard',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\35_Fleeting Flight.png" id="35_Fleeting Flight" data-flag="@X" onclick="openSidebar('35_Fleeting Flight',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\71_Lumina Technician.png" id="71_Lumina Technician" data-flag="@X" onclick="openSidebar('71_Lumina Technician',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\106_Graverazer.png" id="106_Graverazer" data-flag="@X" onclick="openSidebar('106_Graverazer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\137_Caustic Peakcrawler.png" id="137_Caustic Peakcrawler" data-flag="@X" onclick="openSidebar('137_Caustic Peakcrawler',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\177_Koma's Chosen.png" id="177_Komas Chosen" data-flag="@X" onclick="openSidebar('177_Komas Chosen',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\36_Heartpact Acolyte.png" id="36_Heartpact Acolyte" data-flag="@X" onclick="openSidebar('36_Heartpact Acolyte',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\72_Luxara Doorman.png" id="72_Luxara Doorman" data-flag="@X" onclick="openSidebar('72_Luxara Doorman',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\110_Lifeleeched Vermin.png" id="110_Lifeleeched Vermin" data-flag="@X" onclick="openSidebar('110_Lifeleeched Vermin',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\138_Cindertusk Boar.png" id="138_Cindertusk Boar" data-flag="@X" onclick="openSidebar('138_Cindertusk Boar',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\179_Leyline Navigation.png" id="179_Leyline Navigation" data-flag="@X" onclick="openSidebar('179_Leyline Navigation',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\40_Magnanimous Architect.png" id="40_Magnanimous Architect" data-flag="@X" onclick="openSidebar('40_Magnanimous Architect',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\76_Rescue.png" id="76_Rescue" data-flag="@X" onclick="openSidebar('76_Rescue',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\112_Mindless Culling.png" id="112_Mindless Culling" data-flag="@X" onclick="openSidebar('112_Mindless Culling',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\142_Echoing Roar.png" id="142_Echoing Roar" data-flag="@X" onclick="openSidebar('142_Echoing Roar',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\181_Nature's Wrath.png" id="181_Natures Wrath" data-flag="@X" onclick="openSidebar('181_Natures Wrath',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\44_Reckless Raptor.png" id="44_Reckless Raptor" data-flag="@X" onclick="openSidebar('44_Reckless Raptor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\84_Utter Insignificance.png" id="84_Utter Insignificance" data-flag="@X" onclick="openSidebar('84_Utter Insignificance',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\114_Out of Focus.png" id="114_Out of Focus" data-flag="@X" onclick="openSidebar('114_Out of Focus',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\149_Let Go Lightly.png" id="149_Let Go Lightly" data-flag="@X" onclick="openSidebar('149_Let Go Lightly',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\182_Oxhide Veil.png" id="182_Oxhide Veil" data-flag="@X" onclick="openSidebar('182_Oxhide Veil',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\46_Ruinating Strike.png" id="46_Ruinating Strike" data-flag="@X" onclick="openSidebar('46_Ruinating Strike',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\86_Voidcraft Scholar.png" id="86_Voidcraft Scholar" data-flag="@X" onclick="openSidebar('86_Voidcraft Scholar',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\118_Sickleblade Rallier.png" id="118_Sickleblade Rallier" data-flag="@X" onclick="openSidebar('118_Sickleblade Rallier',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\150_Light Fantastic.png" id="150_Light Fantastic" data-flag="@X" onclick="openSidebar('150_Light Fantastic',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\183_Peatfield Ambush.png" id="183_Peatfield Ambush" data-flag="@X" onclick="openSidebar('183_Peatfield Ambush',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\47_Severed Sanctum.png" id="47_Severed Sanctum" data-flag="@X" onclick="openSidebar('47_Severed Sanctum',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\91_Wild Whelp.png" id="91_Wild Whelp" data-flag="@X" onclick="openSidebar('91_Wild Whelp',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\119_Split the Earth.png" id="119_Split the Earth" data-flag="@X" onclick="openSidebar('119_Split the Earth',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\152_Magma Lash.png" id="152_Magma Lash" data-flag="@X" onclick="openSidebar('152_Magma Lash',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\189_Soil Stirrer.png" id="189_Soil Stirrer" data-flag="@X" onclick="openSidebar('189_Soil Stirrer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\50_Skyport Watchman.png" id="50_Skyport Watchman" data-flag="@X" onclick="openSidebar('50_Skyport Watchman',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\92_Wingblade Surveyor.png" id="92_Wingblade Surveyor" data-flag="@X" onclick="openSidebar('92_Wingblade Surveyor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\123_Voidheart Mystic.png" id="123_Voidheart Mystic" data-flag="@X" onclick="openSidebar('123_Voidheart Mystic',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\154_Scorching Abrasion.png" id="154_Scorching Abrasion" data-flag="@X" onclick="openSidebar('154_Scorching Abrasion',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\193_Thunderous Terrapin.png" id="193_Thunderous Terrapin" data-flag="@X" onclick="openSidebar('193_Thunderous Terrapin',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\56_Wingblade Recruit.png" id="56_Wingblade Recruit" data-flag="@X" onclick="openSidebar('56_Wingblade Recruit',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\158_Voidcaller Druid.png" id="158_Voidcaller Druid" data-flag="@X" onclick="openSidebar('158_Voidcaller Druid',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\TVB-files\img\128.png" id="TVB_128" data-flag="@X" onclick="openSidebar('TVB_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\150.png" id="TVB_150" data-flag="@X" onclick="openSidebar('TVB_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\171.png" id="TVB_171" data-flag="@X" onclick="openSidebar('TVB_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\192.png" id="TVB_192" data-flag="@X" onclick="openSidebar('TVB_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\214.png" id="TVB_214" data-flag="@X" onclick="openSidebar('TVB_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\130.png" id="TVB_130" data-flag="@X" onclick="openSidebar('TVB_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\162.png" id="TVB_162" data-flag="@X" onclick="openSidebar('TVB_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\175.png" id="TVB_175" data-flag="@X" onclick="openSidebar('TVB_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\193.png" id="TVB_193" data-flag="@X" onclick="openSidebar('TVB_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\221.png" id="TVB_221" data-flag="@X" onclick="openSidebar('TVB_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\132.png" id="TVB_132" data-flag="@X" onclick="openSidebar('TVB_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\151.png" id="TVB_151" data-flag="@X" onclick="openSidebar('TVB_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\280.png" id="TVB_280" data-flag="@X" onclick="openSidebar('TVB_280',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\124.png" id="TVB_124" data-flag="@X" onclick="openSidebar('TVB_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\268.png" id="TVB_268" data-flag="@X" onclick="openSidebar('TVB_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\129.png" id="TVB_129" data-flag="@X" onclick="openSidebar('TVB_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\156.png" id="TVB_156" data-flag="@X" onclick="openSidebar('TVB_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\173.png" id="TVB_173" data-flag="@X" onclick="openSidebar('TVB_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\195.png" id="TVB_195" data-flag="@X" onclick="openSidebar('TVB_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\220.png" id="TVB_220" data-flag="@X" onclick="openSidebar('TVB_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\134.png" id="TVB_134" data-flag="@X" onclick="openSidebar('TVB_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\157.png" id="TVB_157" data-flag="@X" onclick="openSidebar('TVB_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\176.png" id="TVB_176" data-flag="@X" onclick="openSidebar('TVB_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\197.png" id="TVB_197" data-flag="@X" onclick="openSidebar('TVB_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\218.png" id="TVB_218" data-flag="@X" onclick="openSidebar('TVB_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\133.png" id="TVB_133" data-flag="@X" onclick="openSidebar('TVB_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\155.png" id="TVB_155" data-flag="@X" onclick="openSidebar('TVB_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\172.png" id="TVB_172" data-flag="@X" onclick="openSidebar('TVB_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\199.png" id="TVB_199" data-flag="@X" onclick="openSidebar('TVB_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\215.png" id="TVB_215" data-flag="@X" onclick="openSidebar('TVB_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\135.png" id="TVB_135" data-flag="@X" onclick="openSidebar('TVB_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\152.png" id="TVB_152" data-flag="@X" onclick="openSidebar('TVB_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\177.png" id="TVB_177" data-flag="@X" onclick="openSidebar('TVB_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\196.png" id="TVB_196" data-flag="@X" onclick="openSidebar('TVB_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\216.png" id="TVB_216" data-flag="@X" onclick="openSidebar('TVB_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\141.png" id="TVB_141" data-flag="@X" onclick="openSidebar('TVB_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\168.png" id="TVB_168" data-flag="@X" onclick="openSidebar('TVB_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\180.png" id="TVB_180" data-flag="@X" onclick="openSidebar('TVB_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\207.png" id="TVB_207" data-flag="@X" onclick="openSidebar('TVB_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\233.png" id="TVB_233" data-flag="@X" onclick="openSidebar('TVB_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\148.png" id="TVB_148" data-flag="@X" onclick="openSidebar('TVB_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\170.png" id="TVB_170" data-flag="@X" onclick="openSidebar('TVB_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\184.png" id="TVB_184" data-flag="@X" onclick="openSidebar('TVB_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\205.png" id="TVB_205" data-flag="@X" onclick="openSidebar('TVB_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\230.png" id="TVB_230" data-flag="@X" onclick="openSidebar('TVB_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\138.png" id="TVB_138" data-flag="@X" onclick="openSidebar('TVB_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\161.png" id="TVB_161" data-flag="@X" onclick="openSidebar('TVB_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\190.png" id="TVB_190" data-flag="@X" onclick="openSidebar('TVB_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\200.png" id="TVB_200" data-flag="@X" onclick="openSidebar('TVB_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\228.png" id="TVB_228" data-flag="@X" onclick="openSidebar('TVB_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\137.png" id="TVB_137" data-flag="@X" onclick="openSidebar('TVB_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\279.png" id="TVB_279" data-flag="@X" onclick="openSidebar('TVB_279',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\186.png" id="TVB_186" data-flag="@X" onclick="openSidebar('TVB_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\211.png" id="TVB_211" data-flag="@X" onclick="openSidebar('TVB_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\229.png" id="TVB_229" data-flag="@X" onclick="openSidebar('TVB_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\140.png" id="TVB_140" data-flag="@X" onclick="openSidebar('TVB_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\93.png" id="TVB_93" data-flag="@X" onclick="openSidebar('TVB_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\183.png" id="TVB_183" data-flag="@X" onclick="openSidebar('TVB_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\203.png" id="TVB_203" data-flag="@X" onclick="openSidebar('TVB_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\225.png" id="TVB_225" data-flag="@X" onclick="openSidebar('TVB_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\136.png" id="TVB_136" data-flag="@X" onclick="openSidebar('TVB_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\166.png" id="TVB_166" data-flag="@X" onclick="openSidebar('TVB_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\181.png" id="TVB_181" data-flag="@X" onclick="openSidebar('TVB_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\204.png" id="TVB_204" data-flag="@X" onclick="openSidebar('TVB_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\224.png" id="TVB_224" data-flag="@X" onclick="openSidebar('TVB_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\144.png" id="TVB_144" data-flag="@X" onclick="openSidebar('TVB_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\158.png" id="TVB_158" data-flag="@X" onclick="openSidebar('TVB_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\191.png" id="TVB_191" data-flag="@X" onclick="openSidebar('TVB_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\213.png" id="TVB_213" data-flag="@X" onclick="openSidebar('TVB_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\235.png" id="TVB_235" data-flag="@X" onclick="openSidebar('TVB_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\143.png" id="TVB_143" data-flag="@X" onclick="openSidebar('TVB_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\169.png" id="TVB_169" data-flag="@X" onclick="openSidebar('TVB_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\187.png" id="TVB_187" data-flag="@X" onclick="openSidebar('TVB_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\201.png" id="TVB_201" data-flag="@X" onclick="openSidebar('TVB_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\222.png" id="TVB_222" data-flag="@X" onclick="openSidebar('TVB_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\147.png" id="TVB_147" data-flag="@X" onclick="openSidebar('TVB_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\167.png" id="TVB_167" data-flag="@X" onclick="openSidebar('TVB_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\188.png" id="TVB_188" data-flag="@X" onclick="openSidebar('TVB_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\206.png" id="TVB_206" data-flag="@X" onclick="openSidebar('TVB_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\227.png" id="TVB_227" data-flag="@X" onclick="openSidebar('TVB_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\145.png" id="TVB_145" data-flag="@X" onclick="openSidebar('TVB_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\159.png" id="TVB_159" data-flag="@X" onclick="openSidebar('TVB_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\178.png" id="TVB_178" data-flag="@X" onclick="openSidebar('TVB_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\209.png" id="TVB_209" data-flag="@X" onclick="openSidebar('TVB_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\234.png" id="TVB_234" data-flag="@X" onclick="openSidebar('TVB_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\59.png" id="TVB_59" data-flag="@X" onclick="openSidebar('TVB_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\163.png" id="TVB_163" data-flag="@X" onclick="openSidebar('TVB_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\182.png" id="TVB_182" data-flag="@X" onclick="openSidebar('TVB_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\212.png" id="TVB_212" data-flag="@X" onclick="openSidebar('TVB_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\226.png" id="TVB_226" data-flag="@X" onclick="openSidebar('TVB_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\139.png" id="TVB_139" data-flag="@X" onclick="openSidebar('TVB_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\154.png" id="TVB_154" data-flag="@X" onclick="openSidebar('TVB_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\179.png" id="TVB_179" data-flag="@X" onclick="openSidebar('TVB_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\198.png" id="TVB_198" data-flag="@X" onclick="openSidebar('TVB_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\232.png" id="TVB_232" data-flag="@X" onclick="openSidebar('TVB_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\142.png" id="TVB_142" data-flag="@X" onclick="openSidebar('TVB_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\160.png" id="TVB_160" data-flag="@X" onclick="openSidebar('TVB_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\189.png" id="TVB_189" data-flag="@X" onclick="openSidebar('TVB_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\202.png" id="TVB_202" data-flag="@X" onclick="openSidebar('TVB_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\67.png" id="TVB_67" data-flag="@X" onclick="openSidebar('TVB_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\149.png" id="TVB_149" data-flag="@X" onclick="openSidebar('TVB_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\95.png" id="TVB_95" data-flag="@X" onclick="openSidebar('TVB_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\29.png" id="TVB_29" data-flag="@X" onclick="openSidebar('TVB_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\208.png" id="TVB_208" data-flag="@X" onclick="openSidebar('TVB_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\48.png" id="TVB_48" data-flag="@X" onclick="openSidebar('TVB_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\5.png" id="TVB_5" data-flag="@X" onclick="openSidebar('TVB_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\97.png" id="TVB_97" data-flag="@X" onclick="openSidebar('TVB_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\30.png" id="TVB_30" data-flag="@X" onclick="openSidebar('TVB_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\40.png" id="TVB_40" data-flag="@X" onclick="openSidebar('TVB_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\102.png" id="TVB_102" data-flag="@X" onclick="openSidebar('TVB_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\4.png" id="TVB_4" data-flag="@X" onclick="openSidebar('TVB_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\15.png" id="TVB_15" data-flag="@X" onclick="openSidebar('TVB_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\26.png" id="TVB_26" data-flag="@X" onclick="openSidebar('TVB_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\101.png" id="TVB_101" data-flag="@X" onclick="openSidebar('TVB_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\46.png" id="TVB_46" data-flag="@X" onclick="openSidebar('TVB_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\0.png" id="TVB_0" data-flag="@X" onclick="openSidebar('TVB_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\94.png" id="TVB_94" data-flag="@X" onclick="openSidebar('TVB_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\20.png" id="TVB_20" data-flag="@X" onclick="openSidebar('TVB_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\33.png" id="TVB_33" data-flag="@X" onclick="openSidebar('TVB_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\51.png" id="TVB_51" data-flag="@X" onclick="openSidebar('TVB_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\8.png" id="TVB_8" data-flag="@X" onclick="openSidebar('TVB_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\165.png" id="TVB_165" data-flag="@X" onclick="openSidebar('TVB_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\24.png" id="TVB_24" data-flag="@X" onclick="openSidebar('TVB_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\41.png" id="TVB_41" data-flag="@X" onclick="openSidebar('TVB_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\52.png" id="TVB_52" data-flag="@X" onclick="openSidebar('TVB_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\6.png" id="TVB_6" data-flag="@X" onclick="openSidebar('TVB_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\98.png" id="TVB_98" data-flag="@X" onclick="openSidebar('TVB_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\69.png" id="TVB_69" data-flag="@X" onclick="openSidebar('TVB_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\35.png" id="TVB_35" data-flag="@X" onclick="openSidebar('TVB_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\58.png" id="TVB_58" data-flag="@X" onclick="openSidebar('TVB_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\10.png" id="TVB_10" data-flag="@X" onclick="openSidebar('TVB_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\11.png" id="TVB_11" data-flag="@X" onclick="openSidebar('TVB_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\21.png" id="TVB_21" data-flag="@X" onclick="openSidebar('TVB_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\34.png" id="TVB_34" data-flag="@X" onclick="openSidebar('TVB_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\47.png" id="TVB_47" data-flag="@X" onclick="openSidebar('TVB_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\90.png" id="TVB_90" data-flag="@X" onclick="openSidebar('TVB_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\13.png" id="TVB_13" data-flag="@X" onclick="openSidebar('TVB_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\27.png" id="TVB_27" data-flag="@X" onclick="openSidebar('TVB_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\36.png" id="TVB_36" data-flag="@X" onclick="openSidebar('TVB_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\56.png" id="TVB_56" data-flag="@X" onclick="openSidebar('TVB_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\1.png" id="TVB_1" data-flag="@X" onclick="openSidebar('TVB_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\16.png" id="TVB_16" data-flag="@X" onclick="openSidebar('TVB_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\19.png" id="TVB_19" data-flag="@X" onclick="openSidebar('TVB_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\38.png" id="TVB_38" data-flag="@X" onclick="openSidebar('TVB_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\57.png" id="TVB_57" data-flag="@X" onclick="openSidebar('TVB_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\7.png" id="TVB_7" data-flag="@X" onclick="openSidebar('TVB_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\92.png" id="TVB_92" data-flag="@X" onclick="openSidebar('TVB_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\32.png" id="TVB_32" data-flag="@X" onclick="openSidebar('TVB_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\39.png" id="TVB_39" data-flag="@X" onclick="openSidebar('TVB_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\54.png" id="TVB_54" data-flag="@X" onclick="openSidebar('TVB_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\3.png" id="TVB_3" data-flag="@X" onclick="openSidebar('TVB_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\96.png" id="TVB_96" data-flag="@X" onclick="openSidebar('TVB_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\28.png" id="TVB_28" data-flag="@X" onclick="openSidebar('TVB_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\42.png" id="TVB_42" data-flag="@X" onclick="openSidebar('TVB_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\285.png" id="TVB_285" data-flag="@X" onclick="openSidebar('TVB_285',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\88.png" id="TVB_88" data-flag="@X" onclick="openSidebar('TVB_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\12.png" id="TVB_12" data-flag="@X" onclick="openSidebar('TVB_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\25.png" id="TVB_25" data-flag="@X" onclick="openSidebar('TVB_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\43.png" id="TVB_43" data-flag="@X" onclick="openSidebar('TVB_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\53.png" id="TVB_53" data-flag="@X" onclick="openSidebar('TVB_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\89.png" id="TVB_89" data-flag="@X" onclick="openSidebar('TVB_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\14.png" id="TVB_14" data-flag="@X" onclick="openSidebar('TVB_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\100.png" id="TVB_100" data-flag="@X" onclick="openSidebar('TVB_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\284.png" id="TVB_284" data-flag="@X" onclick="openSidebar('TVB_284',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\49.png" id="TVB_49" data-flag="@X" onclick="openSidebar('TVB_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\2.png" id="TVB_2" data-flag="@X" onclick="openSidebar('TVB_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\17.png" id="TVB_17" data-flag="@X" onclick="openSidebar('TVB_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\23.png" id="TVB_23" data-flag="@X" onclick="openSidebar('TVB_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\45.png" id="TVB_45" data-flag="@X" onclick="openSidebar('TVB_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\50.png" id="TVB_50" data-flag="@X" onclick="openSidebar('TVB_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\91.png" id="TVB_91" data-flag="@X" onclick="openSidebar('TVB_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\37.png" id="TVB_37" data-flag="@X" onclick="openSidebar('TVB_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\207_Dizzying Heights.png" id="207_Dizzying Heights" data-flag="@X" onclick="openSidebar('207_Dizzying Heights',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\208_Dreameater.png" id="208_Dreameater" data-flag="@X" onclick="openSidebar('208_Dreameater',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\205_Dance of Undeath.png" id="205_Dance of Undeath" data-flag="@X" onclick="openSidebar('205_Dance of Undeath',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\214_Greyheart Awakener.png" id="214_Greyheart Awakener" data-flag="@X" onclick="openSidebar('214_Greyheart Awakener',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\217_Heartpact Awakening.png" id="217_Heartpact Awakening" data-flag="@X" onclick="openSidebar('217_Heartpact Awakening',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\210_Dzaan, Wingblade Veteran.png" id="210_Dzaan, Wingblade Veteran" data-flag="@X" onclick="openSidebar('210_Dzaan, Wingblade Veteran',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\241_Vel, Grand Illusionist.png" id="241_Vel, Grand Illusionist" data-flag="@X" onclick="openSidebar('241_Vel, Grand Illusionist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\240_Underfall Flamer.png" id="240_Underfall Flamer" data-flag="@X" onclick="openSidebar('240_Underfall Flamer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\233_Shattered Earth.png" id="233_Shattered Earth" data-flag="@X" onclick="openSidebar('233_Shattered Earth',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\232_Settler's Day Parade.png" id="232_Settlers Day Parade" data-flag="@X" onclick="openSidebar('232_Settlers Day Parade',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\235_Stormfront Gate.png" id="235_Stormfront Gate" data-flag="@X" onclick="openSidebar('235_Stormfront Gate',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\198_Blightwing Locust.png" id="198_Blightwing Locust" data-flag="@X" onclick="openSidebar('198_Blightwing Locust',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\228_Rancorous Rebel.png" id="228_Rancorous Rebel" data-flag="@X" onclick="openSidebar('228_Rancorous Rebel',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\199_Bullish Adventurer.png" id="199_Bullish Adventurer" data-flag="@X" onclick="openSidebar('199_Bullish Adventurer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\216_Harvester of the Way.png" id="216_Harvester of the Way" data-flag="@X" onclick="openSidebar('216_Harvester of the Way',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\245_Wingblade General.png" id="245_Wingblade General" data-flag="@X" onclick="openSidebar('245_Wingblade General',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\203_Cunning Projectionist.png" id="203_Cunning Projectionist" data-flag="@X" onclick="openSidebar('203_Cunning Projectionist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\244_Voidheart Rallier.png" id="244_Voidheart Rallier" data-flag="@X" onclick="openSidebar('244_Voidheart Rallier',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\221_Leyline Defender.png" id="221_Leyline Defender" data-flag="@X" onclick="openSidebar('221_Leyline Defender',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\218_Heartpact Rebirth.png" id="218_Heartpact Rebirth" data-flag="@X" onclick="openSidebar('218_Heartpact Rebirth',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\236_Synchrum Puppeteer.png" id="236_Synchrum Puppeteer" data-flag="@X" onclick="openSidebar('236_Synchrum Puppeteer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\227_Prism Dancer.png" id="227_Prism Dancer" data-flag="@X" onclick="openSidebar('227_Prism Dancer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\204_Cycleborn Mycolid.png" id="204_Cycleborn Mycolid" data-flag="@X" onclick="openSidebar('204_Cycleborn Mycolid',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\215_Greyheart Evangelist.png" id="215_Greyheart Evangelist" data-flag="@X" onclick="openSidebar('215_Greyheart Evangelist',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\223_Mammoth Caller.png" id="223_Mammoth Caller" data-flag="@X" onclick="openSidebar('223_Mammoth Caller',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\238_Toil Unending.png" id="238_Toil Unending" data-flag="@X" onclick="openSidebar('238_Toil Unending',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\243_Voidcraft Refiner.png" id="243_Voidcraft Refiner" data-flag="@X" onclick="openSidebar('243_Voidcraft Refiner',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\209_Dregwalker.png" id="209_Dregwalker" data-flag="@X" onclick="openSidebar('209_Dregwalker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\229_Riftwake Phoenix.png" id="229_Riftwake Phoenix" data-flag="@X" onclick="openSidebar('229_Riftwake Phoenix',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\230_Scintillating Shardborn.png" id="230_Scintillating Shardborn" data-flag="@X" onclick="openSidebar('230_Scintillating Shardborn',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\201_Ceaseless Minstrel.png" id="201_Ceaseless Minstrel" data-flag="@X" onclick="openSidebar('201_Ceaseless Minstrel',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\202_Cobbled Contraption.png" id="202_Cobbled Contraption" data-flag="@X" onclick="openSidebar('202_Cobbled Contraption',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\206_Darkeater.png" id="206_Darkeater" data-flag="@X" onclick="openSidebar('206_Darkeater',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\200_Call to Battle.png" id="200_Call to Battle" data-flag="@X" onclick="openSidebar('200_Call to Battle',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\231_Seeker of Muses.png" id="231_Seeker of Muses" data-flag="@X" onclick="openSidebar('231_Seeker of Muses',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\234_Sinister Administrator.png" id="234_Sinister Administrator" data-flag="@X" onclick="openSidebar('234_Sinister Administrator',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\211_Ephemera Vendor.png" id="211_Ephemera Vendor" data-flag="@X" onclick="openSidebar('211_Ephemera Vendor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\239_Underdark Avenger.png" id="239_Underdark Avenger" data-flag="@X" onclick="openSidebar('239_Underdark Avenger',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\212_Flamekin Piper.png" id="212_Flamekin Piper" data-flag="@X" onclick="openSidebar('212_Flamekin Piper',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\220_Kul, the Left Hand.png" id="220_Kul, the Left Hand" data-flag="@X" onclick="openSidebar('220_Kul, the Left Hand',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\225_Nox, Flickerlight Mind.png" id="225_Nox, Flickerlight Mind" data-flag="@X" onclick="openSidebar('225_Nox, Flickerlight Mind',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\246_Yegh, Twisted Spawn.png" id="246_Yegh, Twisted Spawn" data-flag="@X" onclick="openSidebar('246_Yegh, Twisted Spawn',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\226_Oho, Who Endures.png" id="226_Oho, Who Endures" data-flag="@X" onclick="openSidebar('226_Oho, Who Endures',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\196_Aderic, Savvy Surveyor.png" id="196_Aderic, Savvy Surveyor" data-flag="@X" onclick="openSidebar('196_Aderic, Savvy Surveyor',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\213_Gaar, 9th Front General.png" id="213_Gaar, 9th Front General" data-flag="@X" onclick="openSidebar('213_Gaar, 9th Front General',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\222_Llem, Greyheart Elder.png" id="222_Llem, Greyheart Elder" data-flag="@X" onclick="openSidebar('222_Llem, Greyheart Elder',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\197_Biel, the Storyteller.png" id="197_Biel, the Storyteller" data-flag="@X" onclick="openSidebar('197_Biel, the Storyteller',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\224_Nebson, Tireless Tinkerer.png" id="224_Nebson, Tireless Tinkerer" data-flag="@X" onclick="openSidebar('224_Nebson, Tireless Tinkerer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\242_Vesz, Endless Whisper.png" id="242_Vesz, Endless Whisper" data-flag="@X" onclick="openSidebar('242_Vesz, Endless Whisper',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\219_Herald of Anox.png" id="219_Herald of Anox" data-flag="@X" onclick="openSidebar('219_Herald of Anox',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\237_Syzygy, Whole One.png" id="237_Syzygy, Whole One" data-flag="@X" onclick="openSidebar('237_Syzygy, Whole One',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\260.png" id="TVB_260" data-flag="@X" onclick="openSidebar('TVB_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\261.png" id="TVB_261" data-flag="@X" onclick="openSidebar('TVB_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\248.png" id="TVB_248" data-flag="@X" onclick="openSidebar('TVB_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\249.png" id="TVB_249" data-flag="@X" onclick="openSidebar('TVB_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\251.png" id="TVB_251" data-flag="@X" onclick="openSidebar('TVB_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\246.png" id="TVB_246" data-flag="@X" onclick="openSidebar('TVB_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\247.png" id="TVB_247" data-flag="@X" onclick="openSidebar('TVB_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\64.png" id="TVB_64" data-flag="@X" onclick="openSidebar('TVB_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\255.png" id="TVB_255" data-flag="@X" onclick="openSidebar('TVB_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\264.png" id="TVB_264" data-flag="@X" onclick="openSidebar('TVB_264',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\146.png" id="TVB_146" data-flag="@X" onclick="openSidebar('TVB_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\61.png" id="TVB_61" data-flag="@X" onclick="openSidebar('TVB_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\262.png" id="TVB_262" data-flag="@X" onclick="openSidebar('TVB_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\76.png" id="TVB_76" data-flag="@X" onclick="openSidebar('TVB_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\68.png" id="TVB_68" data-flag="@X" onclick="openSidebar('TVB_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\60.png" id="TVB_60" data-flag="@X" onclick="openSidebar('TVB_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\62.png" id="TVB_62" data-flag="@X" onclick="openSidebar('TVB_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\63.png" id="TVB_63" data-flag="@X" onclick="openSidebar('TVB_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\66.png" id="TVB_66" data-flag="@X" onclick="openSidebar('TVB_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\223.png" id="TVB_223" data-flag="@X" onclick="openSidebar('TVB_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\265.png" id="TVB_265" data-flag="@X" onclick="openSidebar('TVB_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\252.png" id="TVB_252" data-flag="@X" onclick="openSidebar('TVB_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\253.png" id="TVB_253" data-flag="@X" onclick="openSidebar('TVB_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\254.png" id="TVB_254" data-flag="@X" onclick="openSidebar('TVB_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\219.png" id="TVB_219" data-flag="@X" onclick="openSidebar('TVB_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\250.png" id="TVB_250" data-flag="@X" onclick="openSidebar('TVB_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\266.png" id="TVB_266" data-flag="@X" onclick="openSidebar('TVB_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\267.png" id="TVB_267" data-flag="@X" onclick="openSidebar('TVB_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\291.png" id="TVB_291" data-flag="@X" onclick="openSidebar('TVB_291',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\263.png" id="TVB_263" data-flag="@X" onclick="openSidebar('TVB_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\70.png" id="TVB_70" data-flag="@X" onclick="openSidebar('TVB_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\71.png" id="TVB_71" data-flag="@X" onclick="openSidebar('TVB_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\73.png" id="TVB_73" data-flag="@X" onclick="openSidebar('TVB_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\210.png" id="TVB_210" data-flag="@X" onclick="openSidebar('TVB_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\77.png" id="TVB_77" data-flag="@X" onclick="openSidebar('TVB_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\22.png" id="TVB_22" data-flag="@X" onclick="openSidebar('TVB_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\72.png" id="TVB_72" data-flag="@X" onclick="openSidebar('TVB_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\74.png" id="TVB_74" data-flag="@X" onclick="openSidebar('TVB_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\75.png" id="TVB_75" data-flag="@X" onclick="openSidebar('TVB_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\238.png" id="TVB_238" data-flag="@X" onclick="openSidebar('TVB_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\239.png" id="TVB_239" data-flag="@X" onclick="openSidebar('TVB_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\240.png" id="TVB_240" data-flag="@X" onclick="openSidebar('TVB_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\241.png" id="TVB_241" data-flag="@X" onclick="openSidebar('TVB_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\242.png" id="TVB_242" data-flag="@X" onclick="openSidebar('TVB_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\243.png" id="TVB_243" data-flag="@X" onclick="openSidebar('TVB_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\244.png" id="TVB_244" data-flag="@X" onclick="openSidebar('TVB_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\245.png" id="TVB_245" data-flag="@X" onclick="openSidebar('TVB_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\289.png" id="TVB_289" data-flag="@X" onclick="openSidebar('TVB_289',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\288.png" id="TVB_288" data-flag="@X" onclick="openSidebar('TVB_288',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\277.png" id="TVB_277" data-flag="@X" onclick="openSidebar('TVB_277',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\292.png" id="TVB_292" data-flag="@X" onclick="openSidebar('TVB_292',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\4_Empty Heart.png" id="4_Empty Heart" data-flag="@X" onclick="openSidebar('4_Empty Heart',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\23_A World Asunder.png" id="23_A World Asunder" data-flag="@X" onclick="openSidebar('23_A World Asunder',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\257_The Terralance.png" id="257_The Terralance" data-flag="@X" onclick="openSidebar('257_The Terralance',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\3_Effervescent Enigma.png" id="3_Effervescent Enigma" data-flag="@X" onclick="openSidebar('3_Effervescent Enigma',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\6_Fibrose Sympath.png" id="6_Fibrose Sympath" data-flag="@X" onclick="openSidebar('6_Fibrose Sympath',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\11_Lucient Amalgam.png" id="11_Lucient Amalgam" data-flag="@X" onclick="openSidebar('11_Lucient Amalgam',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\13_Pact Eternal.png" id="13_Pact Eternal" data-flag="@X" onclick="openSidebar('13_Pact Eternal',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\17_Shattered Reflection.png" id="17_Shattered Reflection" data-flag="@X" onclick="openSidebar('17_Shattered Reflection',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\19_Sporespawn Drift.png" id="19_Sporespawn Drift" data-flag="@X" onclick="openSidebar('19_Sporespawn Drift',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\20_To Waste.png" id="20_To Waste" data-flag="@X" onclick="openSidebar('20_To Waste',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\21_Warped Echoes.png" id="21_Warped Echoes" data-flag="@X" onclick="openSidebar('21_Warped Echoes',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\258_Void Engine.png" id="258_Void Engine" data-flag="@X" onclick="openSidebar('258_Void Engine',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\1_Budding Mycospawn.png" id="1_Budding Mycospawn" data-flag="@X" onclick="openSidebar('1_Budding Mycospawn',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\2_Dreamroot Mass.png" id="2_Dreamroot Mass" data-flag="@X" onclick="openSidebar('2_Dreamroot Mass',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\5_Endless Hollow.png" id="5_Endless Hollow" data-flag="@X" onclick="openSidebar('5_Endless Hollow',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\8_Fractured Phantom.png" id="8_Fractured Phantom" data-flag="@X" onclick="openSidebar('8_Fractured Phantom',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\9_Grotesque Gestalt.png" id="9_Grotesque Gestalt" data-flag="@X" onclick="openSidebar('9_Grotesque Gestalt',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\14_Scalefeather Twister.png" id="14_Scalefeather Twister" data-flag="@X" onclick="openSidebar('14_Scalefeather Twister',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\247_Aderic's Sextant.png" id="247_Aderics Sextant" data-flag="@X" onclick="openSidebar('247_Aderics Sextant',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\248_Adventuring Gear.png" id="248_Adventuring Gear" data-flag="@X" onclick="openSidebar('248_Adventuring Gear',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\249_Broken Vessel.png" id="249_Broken Vessel" data-flag="@X" onclick="openSidebar('249_Broken Vessel',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\250_Essence Extractor.png" id="250_Essence Extractor" data-flag="@X" onclick="openSidebar('250_Essence Extractor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\252_Meteor Golem.png" id="252_Meteor Golem" data-flag="@X" onclick="openSidebar('252_Meteor Golem',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\255_Scouting Ship.png" id="255_Scouting Ship" data-flag="@X" onclick="openSidebar('255_Scouting Ship',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\7_Flourishing Stomper.png" id="7_Flourishing Stomper" data-flag="@X" onclick="openSidebar('7_Flourishing Stomper',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\10_Lightning Flare.png" id="10_Lightning Flare" data-flag="@X" onclick="openSidebar('10_Lightning Flare',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\12_Madness Incarnate.png" id="12_Madness Incarnate" data-flag="@X" onclick="openSidebar('12_Madness Incarnate',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\15_Sepia Serpent.png" id="15_Sepia Serpent" data-flag="@X" onclick="openSidebar('15_Sepia Serpent',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\16_Shadow Self.png" id="16_Shadow Self" data-flag="@X" onclick="openSidebar('16_Shadow Self',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\18_Shimmering Stalker.png" id="18_Shimmering Stalker" data-flag="@X" onclick="openSidebar('18_Shimmering Stalker',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\22_Wasteland Wanderer.png" id="22_Wasteland Wanderer" data-flag="@X" onclick="openSidebar('22_Wasteland Wanderer',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\251_Leyline Surveyor.png" id="251_Leyline Surveyor" data-flag="@X" onclick="openSidebar('251_Leyline Surveyor',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\253_Periscope Sentinel.png" id="253_Periscope Sentinel" data-flag="@X" onclick="openSidebar('253_Periscope Sentinel',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\254_Prismatic Lens.png" id="254_Prismatic Lens" data-flag="@X" onclick="openSidebar('254_Prismatic Lens',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\256_Skyport Custodian.png" id="256_Skyport Custodian" data-flag="@X" onclick="openSidebar('256_Skyport Custodian',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\267_Sandswept Quarry.png" id="267_Sandswept Quarry" data-flag="@X" onclick="openSidebar('267_Sandswept Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\269_Shadowcrest Quarry.png" id="269_Shadowcrest Quarry" data-flag="@X" onclick="openSidebar('269_Shadowcrest Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\263_Magmafell Quarry.png" id="263_Magmafell Quarry" data-flag="@X" onclick="openSidebar('263_Magmafell Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\265_Rootbound Quarry.png" id="265_Rootbound Quarry" data-flag="@X" onclick="openSidebar('265_Rootbound Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\271_Wickfield Quarry.png" id="271_Wickfield Quarry" data-flag="@X" onclick="openSidebar('271_Wickfield Quarry',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\259_Cryptveil Quarry.png" id="259_Cryptveil Quarry" data-flag="@X" onclick="openSidebar('259_Cryptveil Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\266_Runespark Quarry.png" id="266_Runespark Quarry" data-flag="@X" onclick="openSidebar('266_Runespark Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\270_Umberdark Quarry.png" id="270_Umberdark Quarry" data-flag="@X" onclick="openSidebar('270_Umberdark Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\268_Scorchwheat Quarry.png" id="268_Scorchwheat Quarry" data-flag="@X" onclick="openSidebar('268_Scorchwheat Quarry',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\262_Ivyflow Quarry.png" id="262_Ivyflow Quarry" data-flag="@X" onclick="openSidebar('262_Ivyflow Quarry',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\260_Crystal Dunes.png" id="260_Crystal Dunes" data-flag="@X" onclick="openSidebar('260_Crystal Dunes',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\261_Fallen Lotus.png" id="261_Fallen Lotus" data-flag="@X" onclick="openSidebar('261_Fallen Lotus',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\264_Resonant Quarry.png" id="264_Resonant Quarry" data-flag="@X" onclick="openSidebar('264_Resonant Quarry',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\273_Plains.png" id="273_Plains" data-flag="@X" onclick="openSidebar('273_Plains',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\272_Plains.png" id="272_Plains" data-flag="@X" onclick="openSidebar('272_Plains',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\274_Island.png" id="274_Island" data-flag="@X" onclick="openSidebar('274_Island',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\275_Island.png" id="275_Island" data-flag="@X" onclick="openSidebar('275_Island',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\276_Swamp.png" id="276_Swamp" data-flag="@X" onclick="openSidebar('276_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\277_Swamp.png" id="277_Swamp" data-flag="@X" onclick="openSidebar('277_Swamp',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\279_Mountain.png" id="279_Mountain" data-flag="@X" onclick="openSidebar('279_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\278_Mountain.png" id="278_Mountain" data-flag="@X" onclick="openSidebar('278_Mountain',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\281_Forest.png" id="281_Forest" data-flag="@X" onclick="openSidebar('281_Forest',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\280_Forest.png" id="280_Forest" data-flag="@X" onclick="openSidebar('280_Forest',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\282.png" id="TVB_282" data-flag="@X" onclick="openSidebar('TVB_282',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\293.png" id="TVB_293" data-flag="@X" onclick="openSidebar('TVB_293',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\294.png" id="TVB_294" data-flag="@X" onclick="openSidebar('TVB_294',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\131.png" id="TVB_131" data-flag="@X" onclick="openSidebar('TVB_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\237.png" id="TVB_237" data-flag="@X" onclick="openSidebar('TVB_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\194.png" id="TVB_194" data-flag="@X" onclick="openSidebar('TVB_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\174.png" id="TVB_174" data-flag="@X" onclick="openSidebar('TVB_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\153.png" id="TVB_153" data-flag="@X" onclick="openSidebar('TVB_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\217.png" id="TVB_217" data-flag="@X" onclick="openSidebar('TVB_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\257.png" id="TVB_257" data-flag="@X" onclick="openSidebar('TVB_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\259.png" id="TVB_259" data-flag="@X" onclick="openSidebar('TVB_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\258.png" id="TVB_258" data-flag="@X" onclick="openSidebar('TVB_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\231.png" id="TVB_231" data-flag="@X" onclick="openSidebar('TVB_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\65.png" id="TVB_65" data-flag="@X" onclick="openSidebar('TVB_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\270.png" id="TVB_270" data-flag="@X" onclick="openSidebar('TVB_270',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\274.png" id="TVB_274" data-flag="@X" onclick="openSidebar('TVB_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\185.png" id="TVB_185" data-flag="@X" onclick="openSidebar('TVB_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\164.png" id="TVB_164" data-flag="@X" onclick="openSidebar('TVB_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\83.png" id="TVB_83" data-flag="@X" onclick="openSidebar('TVB_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\271.png" id="TVB_271" data-flag="@X" onclick="openSidebar('TVB_271',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\275.png" id="TVB_275" data-flag="@X" onclick="openSidebar('TVB_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\272.png" id="TVB_272" data-flag="@X" onclick="openSidebar('TVB_272',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\276.png" id="TVB_276" data-flag="@X" onclick="openSidebar('TVB_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\278.png" id="TVB_278" data-flag="@X" onclick="openSidebar('TVB_278',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\55.png" id="TVB_55" data-flag="@X" onclick="openSidebar('TVB_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\44.png" id="TVB_44" data-flag="@X" onclick="openSidebar('TVB_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\31.png" id="TVB_31" data-flag="@X" onclick="openSidebar('TVB_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\18.png" id="TVB_18" data-flag="@X" onclick="openSidebar('TVB_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\81.png" id="TVB_81" data-flag="@X" onclick="openSidebar('TVB_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\9.png" id="TVB_9" data-flag="@X" onclick="openSidebar('TVB_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\78.png" id="TVB_78" data-flag="@X" onclick="openSidebar('TVB_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\269.png" id="TVB_269" data-flag="@X" onclick="openSidebar('TVB_269',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\80.png" id="TVB_80" data-flag="@X" onclick="openSidebar('TVB_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\82.png" id="TVB_82" data-flag="@X" onclick="openSidebar('TVB_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\79.png" id="TVB_79" data-flag="@X" onclick="openSidebar('TVB_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\107.png" id="TVB_107" data-flag="@X" onclick="openSidebar('TVB_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\109.png" id="TVB_109" data-flag="@X" onclick="openSidebar('TVB_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\104.png" id="TVB_104" data-flag="@X" onclick="openSidebar('TVB_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\105.png" id="TVB_105" data-flag="@X" onclick="openSidebar('TVB_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\112.png" id="TVB_112" data-flag="@X" onclick="openSidebar('TVB_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\110.png" id="TVB_110" data-flag="@X" onclick="openSidebar('TVB_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\106.png" id="TVB_106" data-flag="@X" onclick="openSidebar('TVB_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\111.png" id="TVB_111" data-flag="@X" onclick="openSidebar('TVB_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\108.png" id="TVB_108" data-flag="@X" onclick="openSidebar('TVB_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\103.png" id="TVB_103" data-flag="@X" onclick="openSidebar('TVB_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\236.png" id="TVB_236" data-flag="@X" onclick="openSidebar('TVB_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\256.png" id="TVB_256" data-flag="@X" onclick="openSidebar('TVB_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\286.png" id="TVB_286" data-flag="@X" onclick="openSidebar('TVB_286',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\113.png" id="TVB_113" data-flag="@X" onclick="openSidebar('TVB_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\114.png" id="TVB_114" data-flag="@X" onclick="openSidebar('TVB_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\115.png" id="TVB_115" data-flag="@X" onclick="openSidebar('TVB_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\116.png" id="TVB_116" data-flag="@X" onclick="openSidebar('TVB_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\117.png" id="TVB_117" data-flag="@X" onclick="openSidebar('TVB_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\118.png" id="TVB_118" data-flag="@X" onclick="openSidebar('TVB_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\119.png" id="TVB_119" data-flag="@X" onclick="openSidebar('TVB_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\120.png" id="TVB_120" data-flag="@X" onclick="openSidebar('TVB_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\121.png" id="TVB_121" data-flag="@X" onclick="openSidebar('TVB_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\122.png" id="TVB_122" data-flag="@X" onclick="openSidebar('TVB_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\1t_Common Keyword Distribution.png" id="1t_Common Keyword Distribution" data-flag="@X" onclick="openSidebar('1t_Common Keyword Distribution',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\2t_Cycles.png" id="2t_Cycles" data-flag="@X" onclick="openSidebar('2t_Cycles',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\3t_Draft Archetypes.png" id="3t_Draft Archetypes" data-flag="@X" onclick="openSidebar('3t_Draft Archetypes',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\4t_Illusion.png" id="4t_Illusion" data-flag="@X" onclick="openSidebar('4t_Illusion',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\5t_Voidling.png" id="5t_Voidling" data-flag="@X" onclick="openSidebar('5t_Voidling',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\6t_Voidling Beast.png" id="6t_Voidling Beast" data-flag="@X" onclick="openSidebar('6t_Voidling Beast',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\11t_Prism.png" id="11t_Prism" data-flag="@X" onclick="openSidebar('11t_Prism',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\12t_Rock.png" id="12t_Rock" data-flag="@X" onclick="openSidebar('12t_Rock',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\13t_Thopter.png" id="13t_Thopter" data-flag="@X" onclick="openSidebar('13t_Thopter',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\14t_Wastes Token.png" id="14t_Wastes Token" data-flag="@X" onclick="openSidebar('14t_Wastes Token',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\7t_Soldier.png" id="7t_Soldier" data-flag="@X" onclick="openSidebar('7t_Soldier',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\8t_Vampire.png" id="8t_Vampire" data-flag="@X" onclick="openSidebar('8t_Vampire',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\9t_Elephant.png" id="9t_Elephant" data-flag="@X" onclick="openSidebar('9t_Elephant',false)"></div>
-				<div class="container"><img alt="/sets\TVB-files\img\10t_Saproling.png" id="10t_Saproling" data-flag="@X" onclick="openSidebar('10t_Saproling',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\84.png" id="TVB_84" data-flag="@X" onclick="openSidebar('TVB_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\99.png" id="TVB_99" data-flag="@X" onclick="openSidebar('TVB_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\126.png" id="TVB_126" data-flag="@X" onclick="openSidebar('TVB_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\287.png" id="TVB_287" data-flag="@X" onclick="openSidebar('TVB_287',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\85.png" id="TVB_85" data-flag="@X" onclick="openSidebar('TVB_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\273.png" id="TVB_273" data-flag="@X" onclick="openSidebar('TVB_273',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\125.png" id="TVB_125" data-flag="@X" onclick="openSidebar('TVB_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\283.png" id="TVB_283" data-flag="@X" onclick="openSidebar('TVB_283',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\87.png" id="TVB_87" data-flag="@X" onclick="openSidebar('TVB_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\123.png" id="TVB_123" data-flag="@X" onclick="openSidebar('TVB_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\86.png" id="TVB_86" data-flag="@X" onclick="openSidebar('TVB_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\290.png" id="TVB_290" data-flag="@X" onclick="openSidebar('TVB_290',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\127.png" id="TVB_127" data-flag="@X" onclick="openSidebar('TVB_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\TVB-files\img\281.png" id="TVB_281" data-flag="@X" onclick="openSidebar('TVB_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="TVB_e" data-flag="@E" onclick="openSidebar('TVB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="TVB_er" data-flag="@E" onclick="openSidebar('TVB_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -579,19 +603,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -626,13 +742,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -658,27 +777,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -690,17 +833,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -733,6 +878,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -742,6 +888,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -758,16 +905,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -777,7 +924,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

@@ -1,4 +1,598 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Stormfront Skyport added.
+
+Stormfront Gate removed.
+
+Ascendant Guide
+
+Heartpact Acolyte
+
+Skyport Watchman
+
+Reckless Raptor
+
+Aethelia Aerialist
+
+Aeronaut Modelist
+
+Eager Settler
+
+Magnanimous Architect
+
+Barrescape Conquerer
+
+Shimmering Stalker
+
+Emerge from the Cocoon
+
+Highspire Sentry
+
+Voidcraft Scholar
+
+Lumina Technician
+
+Wild Whelp
+
+Curio Collector
+
+Luxara Doorman
+
+Wingblade Surveyor
+
+Sepia Serpent
+
+Lifeleeched Vermin
+
+Deathrattle Scorpion
+
+Duram Nightstalker
+
+Sinister Administrator
+
+Voidheart Mystic
+
+Desperate Howler
+
+Sickleblade Rallier
+
+Cruel Enforcer
+
+Graverazer
+
+Out of Focus
+
+Blackened Blade
+
+Corrupted Conviction
+
+Madness Incarnate
+
+Mindless Culling
+
+Battlefield Troubador
+
+Careless Cartographer
+
+Blazing Artillerist
+
+Caustic Peakcrawler
+
+Voidcaller Druid
+
+Cindertusk Boar
+
+Echoing Roar
+
+Barrescape Behemoth
+
+Beckoning Void
+
+Let Go Lightly
+
+Light Fantastic
+
+Lightning Flare
+
+Scorching Abrasion
+
+Cycle Tender
+
+Ichortongue Lizard
+
+Barrescape Nurturer
+
+Soil Stirrer
+
+Thunderous Terrapin
+
+Deeproot Treefolk
+
+Disciple of Koma
+
+Peatfield Ambush
+
+Nature's Wrath
+
+Flourishing Stomper
+
+Koma's Chosen
+
+Leyline Navigation
+
+Harvest Cycle
+
+Thopter Suit
+
+Wingblade General
+
+Blightwing Locust
+
+Cunning Projectionist
+
+Voidheart Rallier
+
+Underfall Flamer
+
+Dreamroot Mass
+
+Leyline Defender
+
+Underfall Harmonist
+
+Harvester of the Way
+
+Dessicated Diner
+
+Ceaseless Minstrel
+
+Cobbled Contraption
+
+Ephemera Vendor
+
+Darkeater
+
+Underdark Avenger
+
+Flamekin Piper
+
+Bullish Adventurer
+
+Seeker of Muses
+
+Wasteland Wanderer
+
+Skyport Custodian
+rules_text: When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{C}: Put target card from a graveyard on the bottom of its owner's library. Activate only once each turn as a sorcery. => When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{C}: Put target card from a graveyard on the bottom of its owner's library. Activate only once during each of your turns.
+
+Periscope Sentinel
+
+Shadow Self
+
+Prismatic Lens
+
+Aderic's Sextant
+
+Common Keyword Distribution
+
+Voidling
+
+Soldier
+
+Thopter
+
+Ruinating Strike
+
+Severed Sanctum
+
+Fleeting Flight
+
+Wingblade Recruit
+
+Rescue
+
+Rasping Currents
+
+Dazzling Maneuver
+
+Abrasive Ideation
+
+Utter Insignificance
+
+Chonofraction
+
+Flickerlight Projection
+
+Cycles
+
+Split the Earth
+
+Barrescape Brawler
+
+Clawfoot Herd
+
+Ivyflow Quarry
+
+Magmafell Quarry
+
+Rootbound Quarry
+
+Runespark Quarry
+
+Sandswept Quarry
+
+Scorchwheat Quarry
+
+Shadowcrest Quarry
+
+Cryptveil Quarry
+
+Umberdark Quarry
+
+Wickfield Quarry
+
+The Blind Army
+
+Prism
+
+Draft Archetypes
+
+Elephant
+
+Hu, Vestige of Faith
+
+Shen, Heir of Anox
+
+Destiny Manifest
+
+Effervescent Enigma
+
+Empire's Wing
+
+Tectonic Shift
+
+Soul Siphoner
+
+Zealous Pilgrim
+
+Munitions Supplier
+
+Inspiring General
+
+Dawncaller
+
+Twin-Blade Duelist
+
+Leyline Patrol
+
+Battlebond Infantry
+
+Wakecatcher
+
+Raptor Trainer
+
+Pioneering Aristocrat
+
+Silvershield Martyr
+
+Rewarding Retreat
+
+Bonded in Battle
+
+Zealous Display
+
+Ba, Vestige of Knowledge
+
+Pfiel, Expansion Architect
+
+Warbling Loon
+
+Shattered Reflection
+
+Voidseeker Sneak
+
+Voidcraft Adept
+
+Sculpt in Light
+
+Sparkwork Armorer
+
+Shifting Spectre
+
+Thopter Tinkerer
+
+Wakewatcher Wizard
+
+Leyline Tracker
+
+Imperial Mistweaver
+
+Voidsea Leviathan
+
+Scalefeather Twister
+
+Dissonant Dream
+
+Search the Depths
+
+Sparkwork Kaleidoscope
+
+Flickerlight Form
+
+Skyjack
+
+Hunt for the Awakened Core
+
+Li, Vestige of Life
+
+Sculptor of Memories
+
+Grim Opportunist
+
+Pact Eternal
+
+Bitter Grudge
+
+Malaak, Corrupted Prince
+
+Yan, Dealer of Destinies
+
+Thornmarrow Mass
+
+Voidseeker Fanatic
+rules_text: Menace
+{3}{C}: Put two +1/+1 counters on this creature. It becomes colorless. => Menace
+{2}{C}: Put two +1/+1 counters on this creature. It becomes colorless.
+
+Barrescape Reaper
+
+Mindskewer
+
+Void Summoner
+
+Lifeblood Lurker
+
+Blood-Mad Ogre
+
+Grotesque Gestalt
+
+Encroaching Void
+
+Shadows Around Us
+
+Stitcher's Supplies
+
+Wreckage Extractor
+
+Death Claims Another
+
+Pull Apart
+
+Ko, Vestige of Fervor
+
+Barrescape Tyrant
+
+Lucient Amalgam
+
+Earthquake Elemental
+
+Leila, Reckless Pyromancer
+
+Flintlock Scavenger
+
+Voidcraft Blade
+
+Haal, Dissident Illusionist
+
+Dispassionate Plunderer
+
+Magmatic Marauder
+
+Voidcraft Champion
+
+Forgetful Forager
+
+Greyheart Avenger
+
+Boulder Breaker
+
+Strikesoul Rallier
+
+Barrescape Pioneer
+
+Warpwalk
+
+Terrabomb
+
+Call to Battle
+
+Dizzying Resummoning
+
+Uncaged Fury
+
+Luciclasm
+
+Te, Vestige of Strength
+
+Sundering Hydra
+
+Venerant Earthspeaker
+
+Sporespawn Drift
+
+Reveal the Underdark
+
+Mammoth Caller
+
+Rampaging Clawfoot
+
+Fenfield Nourisher
+
+Manaseeker Serpent
+
+Heartpact Rebirth
+
+Greenleaf Treefolk
+
+Earthweaver Druid
+
+Scruptions Tiller
+
+Reckless Roots
+
+Clawfoot Elder
+
+Deepwell Repurposer
+
+Brush Stomper
+
+Budding Mycospawn
+
+Spirited Growth
+
+Blessing of Selas
+
+Rite of Rebirth
+
+Heaped Harvest
+
+Crystal Dunes
+
+Fibrose Sympath
+
+Kul, the Left Hand
+
+Nox, Flickerlight Mind
+
+Yegh, Twisted Spawn
+
+Oho, Who Endures
+
+Aderic, Savvy Surveyor
+
+Gaar, 9th Front General
+
+Llem, Greyheart Elder
+
+Biel, the Storyteller
+
+Dzaan, Wingblade Veteran
+
+Vel, Grand Illusionist
+
+Dance of Undeath
+
+Greyheart Awakener
+
+Toil Unending
+
+Heartpact Awakening
+rules_text: 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+special_text: 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+
+Prism Dancer
+
+Cycleborn Mycolid
+
+Greyheart Evangelist
+
+Shattered Earth
+
+Fallen Lotus
+
+To Waste
+
+Void Engine
+
+Warped Echoes
+
+Dizzying Heights
+
+Dreameater
+
+Rancorous Rebel
+
+Scintillating Shardborn
+
+Settler's Day Parade
+
+Synchrum Puppeteer
+
+Voidcraft Refiner
+
+Dregwalker
+
+Koma's Hearth
+
+Leyline Surveyor
+
+Endless Hollow
+
+Adventuring Gear
+
+Essence Extractor
+
+Voidling Beast
+
+Fractured Phantom
+
+Broken Vessel
+
+Meteor Golem
+
+Herald of Anox
+
+Scouting Ship
+
+Radiant Crab
+
+Fetid Maw
+
+Saproling
+
+Empty Heart
+
+Rock
+
+Magma Lash
+
+Oxhide Veil
+
+Resonant Quarry
+
+Illusion
+
+Vesz, Endless Whisper
+
+Nebson, Tireless Tinkerer
+
+Vampire
+
+Riftwake Phoenix
+
+Syzygy, Whole One
+
+A World Asunder
+
+The Terralance
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Stormfront Gate added.

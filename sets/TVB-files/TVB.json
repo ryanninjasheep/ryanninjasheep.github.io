@@ -1,10 +1,11 @@
 ﻿{
     "name": "The Void Beneath",
     "formats": "",
-    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Ascendant Guide",
@@ -23,6 +24,8 @@
             "loyalty": "",
             "artist": "Katerina Ladon",
             "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": "CW01: One-mana creature\nhttps://www.artstation.com/artwork/xDnYnY"
         },
         {
@@ -42,6 +45,8 @@
             "loyalty": "",
             "artist": "Dimitar Bochukov",
             "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": "CW05: Three-mana creature\nhttps://www.artstation.com/artwork/NrLq"
         },
         {
@@ -61,6 +66,8 @@
             "loyalty": "",
             "artist": "Daniela Ivanova",
             "alias": "",
+            "position": "2",
+            "rotated": false,
             "notes": "CW06: Three-mana creature\nhttps://www.artstation.com/artwork/n019K4"
         },
         {
@@ -80,6 +87,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "CW02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/x2GwW"
         },
         {
@@ -99,6 +108,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": "CW03: Two-mana creature\nhttps://www.artstation.com/artwork/y4QZKQ\nall attackers are declared and tapped, then attack triggers occur"
         },
         {
@@ -118,6 +129,8 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
+            "position": "5",
+            "rotated": false,
             "notes": "CW07: Three-mana creature\n[canon reprint \u2014 seller of songbirds]\nhttps://www.artstation.com/artwork/blKxRa"
         },
         {
@@ -137,6 +150,8 @@
             "loyalty": "",
             "artist": "Matt Rhodes",
             "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": "CW08: Four-mana creature\nhttps://www.artstation.com/artwork/R39dJX"
         },
         {
@@ -156,6 +171,8 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "CW10: Five- or six-mana creature\nhttps://www.artstation.com/artwork/r8662"
         },
         {
@@ -175,6 +192,8 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": "CW09: Four-mana creature\nhttps://www.artstation.com/artwork/zx5aQ"
         },
         {
@@ -194,6 +213,8 @@
             "loyalty": "",
             "artist": "Margarita Mishanina",
             "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "CW11: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/280PEy"
         },
         {
@@ -213,6 +234,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": "CW15: Disenchant/removal spell\n[ignored bc i have creature that does it]\n[canon reprint]\nhttps://www.artstation.com/artwork/NG21Qg"
         },
         {
@@ -232,6 +255,8 @@
             "loyalty": "",
             "artist": "Alex Chow",
             "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "CU01: Two-mana creature\nhttps://www.artstation.com/artwork/z63k2"
         },
         {
@@ -251,6 +276,8 @@
             "loyalty": "",
             "artist": "IdeaXu",
             "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "CU02: Two-mana creature\nhttps://www.artstation.com/artwork/vb8YlY"
         },
         {
@@ -270,6 +297,8 @@
             "loyalty": "",
             "artist": "Samantha B. Lucas",
             "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "CU03: Three-mana creature\nhttps://www.artstation.com/artwork/aRKQgX"
         },
         {
@@ -289,6 +318,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": "CU04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/y4QZKQ"
         },
         {
@@ -308,6 +339,8 @@
             "loyalty": "",
             "artist": "Magical Kaleidoscope",
             "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": "CU05: Three-mana creature\nhttps://www.artstation.com/artwork/lRma5k"
         },
         {
@@ -327,6 +360,8 @@
             "loyalty": "",
             "artist": "Drew Cichy",
             "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": "CU06: Four-mana creature\n[canon reprint \u2014 bigfin bouncer]\nhttps://www.artstation.com/artwork/5vdey8"
         },
         {
@@ -346,6 +381,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "CU07: Five- or six-mana creature\n[canon reprint \u2014 icewind elemental]\nhttps://www.artstation.com/artwork/ELgoVA"
         },
         {
@@ -365,6 +402,8 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "CU15: Modal spell\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/qQV89e"
         },
         {
@@ -384,6 +423,8 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": "CB01: One- or two-mana creature\nhttps://www.artstation.com/artwork/w8BAw"
         },
         {
@@ -403,6 +444,8 @@
             "loyalty": "",
             "artist": "Guillem H. Pongiluppi",
             "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": "CB02: Two-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/yXqOR"
         },
         {
@@ -422,6 +465,8 @@
             "loyalty": "",
             "artist": "Diana Franco",
             "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "CB08: Five- or six-mana creature\nhttps://www.artstation.com/artwork/dbL6w"
         },
         {
@@ -441,6 +486,8 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/WBJNlG"
         },
         {
@@ -460,6 +507,8 @@
             "loyalty": "",
             "artist": "Helder ALMEIDA",
             "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "CB05: Three-mana creature\nhttps://www.artstation.com/artwork/mqbAJE"
         },
         {
@@ -479,6 +528,8 @@
             "loyalty": "",
             "artist": "Jason Behnke",
             "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": "CB06: Four-mana creature\nhttps://www.artstation.com/artwork/zAq45m"
         },
         {
@@ -498,6 +549,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": "CB07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/6LA8W"
         },
         {
@@ -517,6 +570,8 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": "CB09: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/VdYYP"
         },
         {
@@ -536,6 +591,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": "CB03: Two-mana creature\nhttps://www.artstation.com/artwork/GY8gQ"
         },
         {
@@ -555,6 +612,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "CB13: Coercion +\nhttps://www.artstation.com/artwork/3qGlxB"
         },
         {
@@ -574,6 +633,8 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "CB11: Combat trick\nhttps://www.artstation.com/artwork/29qBnK"
         },
         {
@@ -593,6 +654,8 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": "CB12: Card draw (added cost)\n[canon reprint]\nhttps://www.artstation.com/artwork/gJLqyK"
         },
         {
@@ -612,6 +675,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": "CB10: Small conditional removal\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/G1mz4"
         },
         {
@@ -631,6 +696,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": "CB15: Slightly overcosted removal\nhttps://www.artstation.com/artwork/m38Wy"
         },
         {
@@ -650,6 +717,8 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": "CR01: One- or two-mana creature\n[canon reprint \u2014 clockwork percussionist]\nhttps://www.artstation.com/artwork/5WKEqA"
         },
         {
@@ -669,6 +738,8 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": "CR02: Two-mana creature\nhttps://www.artstation.com/artwork/YGbn13"
         },
         {
@@ -688,6 +759,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": "CR03: Two-mana creature\n[canon reprint \u2014 sabotender]\nhttps://www.artstation.com/artwork/rOVv5"
         },
         {
@@ -707,6 +780,8 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
+            "position": "36",
+            "rotated": false,
             "notes": "CR04: Three-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/YKglwb"
         },
         {
@@ -726,6 +801,8 @@
             "loyalty": "",
             "artist": "Joseph Montano",
             "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "CR06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/zDnGKQ"
         },
         {
@@ -745,6 +822,8 @@
             "loyalty": "",
             "artist": "Aica Cortez",
             "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": "CR07: Four- or five-mana creature\nhttps://www.artstation.com/artwork/gJVvzL"
         },
         {
@@ -764,6 +843,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": "CR08: Five-mana creature\nhttps://www.artstation.com/artwork/JlBglz"
         },
         {
@@ -783,6 +864,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "CR09: Six-mana creature\nhttps://www.artstation.com/artwork/J8gOm"
         },
         {
@@ -802,6 +885,8 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "CR11: Combat trick\nhttps://www.artstation.com/artwork/y4NkoQ"
         },
         {
@@ -821,6 +906,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "CR12: Rummaging/impulsive draw\nhttps://www.artstation.com/artwork/9eV3WR"
         },
         {
@@ -840,6 +927,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": "CR13: Modal Shatter [ignored]\nhttps://www.artstation.com/artwork/YBa16"
         },
         {
@@ -859,6 +948,8 @@
             "loyalty": "",
             "artist": "Jean Collard",
             "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "CR14: Direct damage (efficient, usually deals 4)\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/d0qo3Q"
         },
         {
@@ -878,6 +969,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "45",
+            "rotated": false,
             "notes": "CR15: Direct damage (five mana, 6 damage)\nhttps://www.artstation.com/artwork/EVXmgK"
         },
         {
@@ -897,6 +990,8 @@
             "loyalty": "",
             "artist": "Anastasia Serova",
             "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": "CG01: One- or two-mana creature\nhttps://www.artstation.com/artwork/yJvODJ"
         },
         {
@@ -916,6 +1011,8 @@
             "loyalty": "",
             "artist": "Agustin Vergara Koller",
             "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "CG02: Two-mana creature\nhttps://www.artstation.com/artwork/6LR9oW"
         },
         {
@@ -935,6 +1032,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "CG03: Two-mana creature\n[canon reprint \u2014 aniok wayfarer]\nhttps://www.artstation.com/artwork/XB2zga"
         },
         {
@@ -954,6 +1053,8 @@
             "loyalty": "",
             "artist": "Rafael Assis",
             "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": "CG06: Three- or four-mana creature\nhttps://www.artstation.com/artwork/04zyYV"
         },
         {
@@ -973,6 +1074,8 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "CG07: Four- or five-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/Nqw5Ob"
         },
         {
@@ -992,6 +1095,8 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss (Kimagu)",
             "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "CG08: Five-mana creature\nhttps://www.artstation.com/artwork/lDO2Bo"
         },
         {
@@ -1011,6 +1116,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": "CG09: Six-mana creature\nhttps://www.artstation.com/artwork/w846Jg"
         },
         {
@@ -1030,6 +1137,8 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": "CG12: Bite spell\nhttps://www.artstation.com/artwork/31E4E"
         },
         {
@@ -1049,6 +1158,8 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": "CG11: Fight spell\nhttps://www.artstation.com/artwork/RKa3GO"
         },
         {
@@ -1068,6 +1179,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": "CG10: Six- or seven-mana creature\ncommon_evoke_cycle\nhttps://www.artstation.com/artwork/9Nv4JR"
         },
         {
@@ -1087,6 +1200,8 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
+            "position": "56",
+            "rotated": false,
             "notes": "CG05: Three-mana creature\nhttps://www.artstation.com/artwork/VdPavR"
         },
         {
@@ -1106,6 +1221,8 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": "CG14: Mana acceleration\nhttps://www.artstation.com/artwork/1BnZ"
         },
         {
@@ -1125,6 +1242,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "CG15: Dig for lands and/or creatures\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/vxvxO"
         },
         {
@@ -1144,6 +1263,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "\nhttps://www.artstation.com/artwork/VdEnAn"
         },
         {
@@ -1163,6 +1284,8 @@
             "loyalty": "",
             "artist": "Alex Chow",
             "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "Archetype payoff\n[canon reprint \u2014 empyrean eagle]\nhttps://www.artstation.com/artwork/5gWWO"
         },
         {
@@ -1182,6 +1305,8 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/V2DPOR"
         },
         {
@@ -1201,6 +1326,8 @@
             "loyalty": "",
             "artist": "Beto Lima",
             "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/481wRq"
         },
         {
@@ -1220,6 +1347,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/k4KWXz"
         },
         {
@@ -1239,6 +1368,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/kQWG9y"
         },
         {
@@ -1258,6 +1389,8 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "65",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/RnWbrX"
         },
         {
@@ -1277,6 +1410,8 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/q9dW2a"
         },
         {
@@ -1296,6 +1431,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "67",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/0XGrVe"
         },
         {
@@ -1315,6 +1452,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "68",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/2xOXza"
         },
         {
@@ -1334,6 +1473,8 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "CB04: Three-mana creature\nhttps://www.artstation.com/artwork/dKqLEW"
         },
         {
@@ -1353,6 +1494,8 @@
             "loyalty": "",
             "artist": "Vera Rehaag",
             "alias": "",
+            "position": "70",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/rJzN8a"
         },
         {
@@ -1372,6 +1515,8 @@
             "loyalty": "",
             "artist": "Stijn Beerts",
             "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/aoDGZR"
         },
         {
@@ -1391,6 +1536,8 @@
             "loyalty": "",
             "artist": "Graey Erb",
             "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/kKY0x"
         },
         {
@@ -1410,6 +1557,8 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/L2J8l"
         },
         {
@@ -1429,6 +1578,8 @@
             "loyalty": "",
             "artist": "Daniel Batista",
             "alias": "",
+            "position": "74",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/x3ooAY"
         },
         {
@@ -1448,6 +1599,8 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/XgebW3"
         },
         {
@@ -1467,6 +1620,8 @@
             "loyalty": "",
             "artist": "Margarita Mishanina",
             "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/wJw81L"
         },
         {
@@ -1486,6 +1641,8 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/BkJ0mr"
         },
         {
@@ -1505,6 +1662,8 @@
             "loyalty": "",
             "artist": "Marcus Whinney",
             "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": "CA01: Two-mana creature (variance buster \u2014 scry/filter to find lands)\nhttps://www.artstation.com/artwork/el8213"
         },
         {
@@ -1515,7 +1674,7 @@
             "number": 256,
             "color_identity": "C",
             "cost": "{3}",
-            "rules_text": "When this creature enters, create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\n{C}: Put target card from a graveyard on the bottom of its owner's library. Activate only once each turn as a sorcery.",
+            "rules_text": "When this creature enters, create a Prism token. [i](It's an artifact with \u201c{T}, Sacrifice this artifact: Add {C}\u201d and \u201c{1}, {T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\n{C}: Put target card from a graveyard on the bottom of its owner's library. Activate only once during each of your turns.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1524,6 +1683,8 @@
             "loyalty": "",
             "artist": "Aleksandar Ignatov",
             "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": "CA02: Three-mana creature\nhttps://www.artstation.com/artwork/G8ALa"
         },
         {
@@ -1543,6 +1704,8 @@
             "loyalty": "",
             "artist": "Kamil Tondera",
             "alias": "",
+            "position": "80",
+            "rotated": false,
             "notes": "CA03: Four-mana creature\ncommon_waste_cycle\nhttps://www.artstation.com/artwork/lnBNG"
         },
         {
@@ -1562,6 +1725,8 @@
             "loyalty": "",
             "artist": "Vladislav Orlowski",
             "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": "CA04: Removal\nhttps://www.artstation.com/artwork/OyPgXe"
         },
         {
@@ -1581,6 +1746,8 @@
             "loyalty": "",
             "artist": "Pascal Blanche",
             "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "CA05: Manalith+ ability\n[canon reprint]\nhttps://www.artstation.com/artwork/NGrRRg"
         },
         {
@@ -1600,6 +1767,8 @@
             "loyalty": "",
             "artist": "Magical Kaleidoscope",
             "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oJmrrO"
         },
         {
@@ -1619,6 +1788,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1638,6 +1809,8 @@
             "loyalty": "",
             "artist": "Katinka Thorondor",
             "alias": "",
+            "position": "85",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/RYKW4e\n!related Lucient Amalgam<2>;Soul Siphoner;Encroaching Void;Lifeleeched Vermin;Mindless Culling;Void Summoner;Yan, Dealer of Destinies;Barrescape Pioneer;Beckoning Void;The Blind Army;Scorching Abrasion;Voidcaller Druid;Voidcraft Blade;Warpwalk;Ephemera Vendor;Flamekin Piper;Greyheart Evangelist;Broken Vessel"
         },
         {
@@ -1657,6 +1830,8 @@
             "loyalty": "",
             "artist": "Ming Ming John",
             "alias": "",
+            "position": "86",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/g0G1ae\n!related Leyline Patrol<3>;Pioneering Aristocrat;Call to Battle<2>;Gaar, 9th Front General<2>;Greyheart Evangelist;Thopter Suit"
         },
         {
@@ -1676,6 +1851,8 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Queiroz",
             "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/w8lKe5\n!related Aeronaut Modelist;Hunt for the Awakened Core;Thopter Tinkerer;Nebson, Tireless Tinkerer"
         },
         {
@@ -1695,6 +1872,8 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": "CW12: Combat-related removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/Qr45Q8"
         },
         {
@@ -1714,6 +1893,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "CW13: Banishing light\nhttps://www.artstation.com/artwork/oAe01k"
         },
         {
@@ -1733,6 +1914,8 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "CW14: Combat trick\n[canon reprint]\nhttps://www.artstation.com/artwork/d8dg4W"
         },
         {
@@ -1752,6 +1935,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "CW04: Three-mana creature\nhttps://www.artstation.com/artwork/n2Y3K"
         },
         {
@@ -1771,6 +1956,8 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
+            "position": "92",
+            "rotated": false,
             "notes": "CU09: Protective instant\n[canon reprint]\nhttps://www.artstation.com/artwork/yzZwQ"
         },
         {
@@ -1790,6 +1977,8 @@
             "loyalty": "",
             "artist": "Ryan Van Dongen",
             "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/w6EZNZ\nuncommon_waste_cycle"
         },
         {
@@ -1809,6 +1998,8 @@
             "loyalty": "",
             "artist": "Blake",
             "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "CU11: Cantrip\nhttps://www.artstation.com/artwork/0X8EAe"
         },
         {
@@ -1828,6 +2019,8 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "CU12: Draw spell (two to three cards)\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/8lrOVx"
         },
         {
@@ -1847,6 +2040,8 @@
             "loyalty": "",
             "artist": "ands",
             "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": "CU13: Witness Protection Aura\n[canon reprint]\nhttps://unsplash.com/illustrations/a-girl-falls-through-the-starry-sky-TksnTKTPZgE"
         },
         {
@@ -1866,6 +2061,8 @@
             "loyalty": "",
             "artist": "Daniela Ivanova",
             "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": "CU14: Top or bottom spell (room to improve \u2014 modal, etc.)\nhttps://www.artstation.com/artwork/PXr9PZ"
         },
         {
@@ -1885,6 +2082,8 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
+            "position": "98",
+            "rotated": false,
             "notes": "CU08: Six- or seven-mana creature\nhttps://www.artstation.com/artwork/nY6qV4"
         },
         {
@@ -1904,6 +2103,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1923,6 +2124,8 @@
             "loyalty": "",
             "artist": "Aleksi Briclot",
             "alias": "",
+            "position": "100",
+            "rotated": false,
             "notes": "CB14: Unconditional removal\ncommon_waste_spell_cycle\nhttps://www.artstation.com/artwork/QrRn3"
         },
         {
@@ -1942,6 +2145,8 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": "CR05: Three-mana creature\nhttps://www.artstation.com/artwork/bnRvG"
         },
         {
@@ -1961,6 +2166,8 @@
             "loyalty": "",
             "artist": "Luca Testi",
             "alias": "",
+            "position": "102",
+            "rotated": false,
             "notes": "CG04: Three-mana creature\nhttps://www.artstation.com/artwork/2B9Ove"
         },
         {
@@ -1980,6 +2187,8 @@
             "loyalty": "",
             "artist": "Voyager",
             "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/lvPbO"
         },
         {
@@ -1999,6 +2208,8 @@
             "loyalty": "",
             "artist": "Stas Yurev",
             "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/LxBX0"
         },
         {
@@ -2018,6 +2229,8 @@
             "loyalty": "",
             "artist": "M\u00e1rton Gyula Kiss (Kimagu)",
             "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/zAvbX4"
         },
         {
@@ -2037,6 +2250,8 @@
             "loyalty": "",
             "artist": "Collette Curran",
             "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rbKzG"
         },
         {
@@ -2056,6 +2271,8 @@
             "loyalty": "",
             "artist": "Sergei Sarichev",
             "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/obqE3q"
         },
         {
@@ -2075,6 +2292,8 @@
             "loyalty": "",
             "artist": "Aaron Limonick",
             "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3vowo"
         },
         {
@@ -2094,6 +2313,8 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/qe1AOn"
         },
         {
@@ -2113,6 +2334,8 @@
             "loyalty": "",
             "artist": "Dorje Bellbrook",
             "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/2xOqg"
         },
         {
@@ -2132,6 +2355,8 @@
             "loyalty": "",
             "artist": "Jorge Jacinto",
             "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8lLZGR"
         },
         {
@@ -2151,6 +2376,8 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/OyX0Y6"
         },
         {
@@ -2170,6 +2397,8 @@
             "loyalty": "",
             "artist": "Ryan Groskamp",
             "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/elKAY"
         },
         {
@@ -2189,6 +2418,8 @@
             "loyalty": "",
             "artist": "Chen Chaoteng",
             "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/mqKAXd"
         },
         {
@@ -2208,6 +2439,8 @@
             "loyalty": "",
             "artist": "Mark Kolobaev",
             "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/48Vyq"
         },
         {
@@ -2227,6 +2460,8 @@
             "loyalty": "",
             "artist": "Christina P. Myrvold",
             "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/EzL6zA"
         },
         {
@@ -2246,6 +2481,8 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/EzO2Aq"
         },
         {
@@ -2265,6 +2502,8 @@
             "loyalty": "",
             "artist": "Magda Wo\u017aniak",
             "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/B1BJe8"
         },
         {
@@ -2284,6 +2523,8 @@
             "loyalty": "",
             "artist": "Dimitrije Miljus",
             "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/zPNB6Z"
         },
         {
@@ -2303,6 +2544,8 @@
             "loyalty": "",
             "artist": "Kalen Art",
             "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/434g2"
         },
         {
@@ -2322,6 +2565,8 @@
             "loyalty": "",
             "artist": "Florian Herold",
             "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/yDz1wR"
         },
         {
@@ -2341,6 +2586,8 @@
             "loyalty": "",
             "artist": "Benjamin Rzp",
             "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/lxKDge"
         },
         {
@@ -2360,6 +2607,8 @@
             "loyalty": "",
             "artist": "Sylvea M. Bobekova",
             "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": "!exportname Wastes Token\n!related Aderic's Sextant<2>\nhttps://www.artstation.com/artwork/B1QWO6"
         },
         {
@@ -2379,6 +2628,8 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/LVGbr"
         },
         {
@@ -2398,6 +2649,8 @@
             "loyalty": "",
             "artist": "Hayley Bell",
             "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/K2WdX\n!related Fractured Phantom;Chonofraction;Lumina Technician;Thopter Tinkerer;Out of Focus;Wreckage Extractor;Dispassionate Plunderer;Flintlock Scavenger;Haal, Dissident Illusionist;Light Fantastic;Blessing of Selas;Ephemera Vendor;Nox, Flickerlight Mind;Scintillating Shardborn;Shattered Earth<x>;Skyport Custodian;Crystal Dunes"
         },
         {
@@ -2417,6 +2670,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2436,6 +2691,8 @@
             "loyalty": "",
             "artist": "Matiyas Cabezas Montoya",
             "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/qnl0a\n!related Mammoth Caller;Settler's Day Parade"
         },
         {
@@ -2455,6 +2712,8 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
+            "position": "128",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Ev6EK4"
         },
         {
@@ -2474,6 +2733,8 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/KezYao"
         },
         {
@@ -2493,6 +2754,8 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3o0Z0D"
         },
         {
@@ -2512,6 +2775,8 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/qAZl92"
         },
         {
@@ -2531,6 +2796,8 @@
             "loyalty": "",
             "artist": "Kelly Potter",
             "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/GdzQ4"
         },
         {
@@ -2550,6 +2817,8 @@
             "loyalty": "",
             "artist": "kirinkarwai",
             "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/el4ZDZ"
         },
         {
@@ -2569,6 +2838,8 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "134",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nEzQoe"
         },
         {
@@ -2588,6 +2859,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/evanb"
         },
         {
@@ -2607,6 +2880,8 @@
             "loyalty": "",
             "artist": "Stephen Stark",
             "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/AD225"
         },
         {
@@ -2626,6 +2901,8 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/y4Je4J"
         },
         {
@@ -2645,6 +2922,8 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/k484EK"
         },
         {
@@ -2664,6 +2943,8 @@
             "loyalty": "",
             "artist": "Joseph Qiu",
             "alias": "",
+            "position": "139",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/1QkxX\n[canon reprtint \u2014 dual-sun adepts]"
         },
         {
@@ -2683,6 +2964,8 @@
             "loyalty": "",
             "artist": "NEMO Art",
             "alias": "",
+            "position": "140",
+            "rotated": false,
             "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/Zl2voZ"
         },
         {
@@ -2702,6 +2985,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "141",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/vbzmvE"
         },
         {
@@ -2721,6 +3006,8 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/JvevbD"
         },
         {
@@ -2740,6 +3027,8 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
+            "position": "143",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ZenQL0"
         },
         {
@@ -2759,6 +3048,8 @@
             "loyalty": "",
             "artist": "Tanya Podolskaia",
             "alias": "",
+            "position": "144",
+            "rotated": false,
             "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/kQAvq6"
         },
         {
@@ -2778,10 +3069,12 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "145",
+            "rotated": false,
             "notes": "[canon reprint \u2014 bellowing aegisaur]\nhttps://www.artstation.com/artwork/wW55"
         },
         {
-            "card_name": "Stormfront Gate",
+            "card_name": "Stormfront Skyport",
             "color": "WU",
             "rarity": "uncommon",
             "type": "Artifact Creature \u2014 Wall",
@@ -2797,6 +3090,8 @@
             "loyalty": "",
             "artist": "Tuomas Korpi",
             "alias": "",
+            "position": "146",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/O1Yy"
         },
         {
@@ -2816,6 +3111,8 @@
             "loyalty": "",
             "artist": "Rafael Assis",
             "alias": "",
+            "position": "147",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/4NggRY"
         },
         {
@@ -2835,6 +3132,8 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
+            "position": "148",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/bvygm"
         },
         {
@@ -2854,6 +3153,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "149",
+            "rotated": false,
             "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/VGyv4"
         },
         {
@@ -2873,6 +3174,8 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
+            "position": "150",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/OGYKny"
         },
         {
@@ -2892,6 +3195,8 @@
             "loyalty": "",
             "artist": "lejia chan",
             "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/6baA16"
         },
         {
@@ -2911,6 +3216,8 @@
             "loyalty": "",
             "artist": "Sam Santala",
             "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3dl0dE"
         },
         {
@@ -2930,6 +3237,8 @@
             "loyalty": "",
             "artist": "technochroma",
             "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/L3m4W5"
         },
         {
@@ -2949,6 +3258,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/xz9wzY"
         },
         {
@@ -2968,6 +3279,8 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rlX185"
         },
         {
@@ -2987,6 +3300,8 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8wZK2q"
         },
         {
@@ -3006,6 +3321,8 @@
             "loyalty": "",
             "artist": "Chris Dien",
             "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/NGYB5"
         },
         {
@@ -3025,6 +3342,8 @@
             "loyalty": "",
             "artist": "Simon Dominic Brewer",
             "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/NynZ9N"
         },
         {
@@ -3044,6 +3363,8 @@
             "loyalty": "",
             "artist": "Mark Hretskyi",
             "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/a035O9"
         },
         {
@@ -3063,6 +3384,8 @@
             "loyalty": "",
             "artist": "Salin S",
             "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/nLJeE"
         },
         {
@@ -3082,6 +3405,8 @@
             "loyalty": "",
             "artist": "Aleksandra Alekseeva",
             "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/PXL4EL"
         },
         {
@@ -3101,6 +3426,8 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
+            "position": "162",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nYa2Do"
         },
         {
@@ -3120,6 +3447,8 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": "May be non-creature\nhttps://www.artstation.com/artwork/YaxRP"
         },
         {
@@ -3139,6 +3468,8 @@
             "loyalty": "",
             "artist": "Andy Alsamov",
             "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/4bBvJ4"
         },
         {
@@ -3158,6 +3489,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "CU10: Counterspell\nhttps://www.artstation.com/artwork/rzOZ2"
         },
         {
@@ -3177,6 +3510,8 @@
             "loyalty": "",
             "artist": "Polina Surygina",
             "alias": "",
+            "position": "166",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/P66zZ8"
         },
         {
@@ -3196,6 +3531,8 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/V2DPOR"
         },
         {
@@ -3215,6 +3552,8 @@
             "loyalty": "",
             "artist": "Carlo Wardhana",
             "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/baGKAG"
         },
         {
@@ -3234,6 +3573,8 @@
             "loyalty": "",
             "artist": "Alan Gomes",
             "alias": "",
+            "position": "169",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Xn5mr0"
         },
         {
@@ -3253,6 +3594,8 @@
             "loyalty": "",
             "artist": "Emilio Grasso",
             "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XoXxl"
         },
         {
@@ -3272,6 +3615,8 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/EzQvv0"
         },
         {
@@ -3291,6 +3636,8 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "172",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/a01DBq"
         },
         {
@@ -3310,6 +3657,8 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/OGqPN8"
         },
         {
@@ -3329,6 +3678,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/QnnQnE"
         },
         {
@@ -3348,6 +3699,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/y4QZKQ"
         },
         {
@@ -3367,6 +3720,8 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
             "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/lDRknG\n[should be mythic probably]"
         },
         {
@@ -3386,6 +3741,8 @@
             "loyalty": "",
             "artist": "Alan Gomes",
             "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/9mAkeo"
         },
         {
@@ -3405,6 +3762,8 @@
             "loyalty": "",
             "artist": "Joao Sergio",
             "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/wJ34Aw"
         },
         {
@@ -3415,7 +3774,7 @@
             "number": 124,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Menace\n{3}{C}: Put two +1/+1 counters on this creature. It becomes colorless.",
+            "rules_text": "Menace\n{2}{C}: Put two +1/+1 counters on this creature. It becomes colorless.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3424,6 +3783,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/YBKJ2P"
         },
         {
@@ -3443,6 +3804,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/NggeN"
         },
         {
@@ -3462,6 +3825,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/lVmB9a"
         },
         {
@@ -3481,6 +3846,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/n006v4"
         },
         {
@@ -3500,6 +3867,8 @@
             "loyalty": "",
             "artist": "Chrisnazgul",
             "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/DvbV39"
         },
         {
@@ -3519,6 +3888,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/OG6nb"
         },
         {
@@ -3538,6 +3909,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "185",
+            "rotated": false,
             "notes": "May be non-creature\nhttps://www.artstation.com/artwork/48kalW"
         },
         {
@@ -3557,6 +3930,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XBdVgl"
         },
         {
@@ -3576,6 +3951,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/X10lE0"
         },
         {
@@ -3595,6 +3972,8 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Vd6AwN"
         },
         {
@@ -3614,6 +3993,8 @@
             "loyalty": "",
             "artist": "Louis STILLACE",
             "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/WBqGRy"
         },
         {
@@ -3633,6 +4014,8 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/6N9z0"
         },
         {
@@ -3652,6 +4035,8 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
+            "position": "191",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/V2Yo8N"
         },
         {
@@ -3671,6 +4056,8 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/JrnVyA"
         },
         {
@@ -3690,6 +4077,8 @@
             "loyalty": "",
             "artist": "Mintoucan _",
             "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nQDQEe"
         },
         {
@@ -3709,6 +4098,8 @@
             "loyalty": "",
             "artist": "Andrej Z.T.",
             "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/g8KErL"
         },
         {
@@ -3728,6 +4119,8 @@
             "loyalty": "",
             "artist": "Maria Trepalina",
             "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/NGbzz"
         },
         {
@@ -3747,6 +4140,8 @@
             "loyalty": "",
             "artist": "Igor Sid",
             "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/WBGW4y"
         },
         {
@@ -3766,6 +4161,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/PkDw1"
         },
         {
@@ -3785,6 +4182,8 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/VJoO0g"
         },
         {
@@ -3804,6 +4203,8 @@
             "loyalty": "",
             "artist": "Blake Byun",
             "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/29gnge"
         },
         {
@@ -3823,6 +4224,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/0XyWky"
         },
         {
@@ -3842,6 +4245,8 @@
             "loyalty": "",
             "artist": "Horace Hsu",
             "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/8x3G6"
         },
         {
@@ -3861,6 +4266,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nOnv4"
         },
         {
@@ -3880,6 +4287,8 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/B1BEz6"
         },
         {
@@ -3899,6 +4308,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/ENvBq"
         },
         {
@@ -3918,6 +4329,8 @@
             "loyalty": "",
             "artist": "Markus Neidel",
             "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/badqr"
         },
         {
@@ -3937,6 +4350,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/vEaAx"
         },
         {
@@ -3956,6 +4371,8 @@
             "loyalty": "",
             "artist": "Peter Mohrbacher",
             "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "May be non-creature\nhttps://www.artstation.com/artwork/9e6R"
         },
         {
@@ -3975,6 +4392,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "208",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/qAYzVN"
         },
         {
@@ -3994,6 +4413,8 @@
             "loyalty": "",
             "artist": "Envar Studio",
             "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/b5RdeG"
         },
         {
@@ -4013,6 +4434,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/5dawP"
         },
         {
@@ -4032,6 +4455,8 @@
             "loyalty": "",
             "artist": "lejia chan",
             "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/0360Vy"
         },
         {
@@ -4051,6 +4476,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/5DoO"
         },
         {
@@ -4070,6 +4497,8 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/VJDZaN"
         },
         {
@@ -4089,6 +4518,8 @@
             "loyalty": "",
             "artist": "A. Shipwright",
             "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/y4KJn9"
         },
         {
@@ -4108,6 +4539,8 @@
             "loyalty": "",
             "artist": "Nino Is",
             "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/d05NLX"
         },
         {
@@ -4127,6 +4560,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/A93QXy"
         },
         {
@@ -4146,6 +4581,8 @@
             "loyalty": "",
             "artist": "Pascal Blanche",
             "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": "rare_evoke_cycle\nhttps://www.artstation.com/artwork/Krngn4"
         },
         {
@@ -4165,6 +4602,8 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Ga48Xa"
         },
         {
@@ -4184,6 +4623,8 @@
             "loyalty": "",
             "artist": "Dimitar Bochukov",
             "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/wOY6"
         },
         {
@@ -4203,6 +4644,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": "rare_repeatable_waste_cycle\nhttps://www.artstation.com/artwork/EVXmgK"
         },
         {
@@ -4222,6 +4665,8 @@
             "loyalty": "",
             "artist": "lei min",
             "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/3qE6GE"
         },
         {
@@ -4241,6 +4686,8 @@
             "loyalty": "",
             "artist": "Bachzim",
             "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": "uncommon_waste_cycle\nhttps://www.artstation.com/artwork/48aw21"
         },
         {
@@ -4260,6 +4707,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": "Archetype enabler\nhttps://www.artstation.com/artwork/nEENG9"
         },
         {
@@ -4279,6 +4728,8 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/eJX6P3"
         },
         {
@@ -4298,6 +4749,8 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/6LXVEx"
         },
         {
@@ -4317,6 +4770,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "226",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XB2zga"
         },
         {
@@ -4336,6 +4791,8 @@
             "loyalty": "",
             "artist": "Sung Choi",
             "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/L336R"
         },
         {
@@ -4355,6 +4812,8 @@
             "loyalty": "",
             "artist": "Calder Moore",
             "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "uncommon_landfall_cycle\nhttps://www.artstation.com/artwork/GLdBa"
         },
         {
@@ -4374,6 +4833,8 @@
             "loyalty": "",
             "artist": "BLAKE",
             "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/x6Z6Y"
         },
         {
@@ -4393,6 +4854,8 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9EwK8L"
         },
         {
@@ -4412,6 +4875,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rAZ9VG"
         },
         {
@@ -4431,6 +4896,8 @@
             "loyalty": "",
             "artist": "Sergio Chaves",
             "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nYWWJ1"
         },
         {
@@ -4450,6 +4917,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Ga1XZV"
         },
         {
@@ -4469,6 +4938,8 @@
             "loyalty": "",
             "artist": "Richard Lay",
             "alias": "",
+            "position": "234",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/AlrxEX"
         },
         {
@@ -4488,6 +4959,8 @@
             "loyalty": "",
             "artist": "Archana",
             "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/RKqPlA"
         },
         {
@@ -4507,6 +4980,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/xzbqZX"
         },
         {
@@ -4526,6 +5001,8 @@
             "loyalty": "",
             "artist": "Biagio D'Alessandro",
             "alias": "",
+            "position": "237",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/GXW1QV"
         },
         {
@@ -4545,6 +5022,8 @@
             "loyalty": "",
             "artist": "Christian Ramirez",
             "alias": "",
+            "position": "238",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/GeBwNV"
         },
         {
@@ -4564,6 +5043,8 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
+            "position": "239",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/vJXklO"
         },
         {
@@ -4583,6 +5064,8 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XnwVAL"
         },
         {
@@ -4602,6 +5085,8 @@
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
             "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/6LxL5W"
         },
         {
@@ -4621,6 +5106,8 @@
             "loyalty": "",
             "artist": "Maxime Desmettre",
             "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8RlO"
         },
         {
@@ -4640,6 +5127,8 @@
             "loyalty": "",
             "artist": "Thomas Elliott",
             "alias": "",
+            "position": "243",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/mDerYv"
         },
         {
@@ -4659,6 +5148,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XB2zga"
         },
         {
@@ -4678,6 +5169,8 @@
             "loyalty": "",
             "artist": "Kan Liu",
             "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9nLq"
         },
         {
@@ -4697,6 +5190,8 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/gOWGQ"
         },
         {
@@ -4716,6 +5211,8 @@
             "loyalty": "",
             "artist": "Tanya Podolskaia",
             "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Zld2oR"
         },
         {
@@ -4735,6 +5232,8 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/vbX863"
         },
         {
@@ -4754,6 +5253,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/k4KWXz"
         },
         {
@@ -4773,6 +5274,8 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/W2ql0v"
         },
         {
@@ -4783,15 +5286,17 @@
             "number": 217,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Each player draws a card, then discards a card. You gain 3 life.\nIII \u2014 Put target non-Saga permanent card from a graveyard onto the battlefield under your control.\n\u200b",
             "shape": "saga",
             "set": "TVB",
             "loyalty": "",
             "artist": "Richard lay",
             "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XJa3kD"
         },
         {
@@ -4811,6 +5316,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/5WP8Yg"
         },
         {
@@ -4830,6 +5337,8 @@
             "loyalty": "",
             "artist": "Silvia M. Bobekova",
             "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/m8AkL8"
         },
         {
@@ -4849,6 +5358,8 @@
             "loyalty": "",
             "artist": "Igor Sid",
             "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/68a8QW"
         },
         {
@@ -4868,6 +5379,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/L2gQ4k"
         },
         {
@@ -4887,6 +5400,8 @@
             "loyalty": "",
             "artist": "Ruska J. J. Bergh\u00e4ll",
             "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "UL02\n[canon reprint \u2014 crystal vein]\nhttps://www.artstation.com/artwork/e0bbJw"
         },
         {
@@ -4906,6 +5421,8 @@
             "loyalty": "",
             "artist": "Sin jong hun",
             "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/YBEAWP"
         },
         {
@@ -4925,6 +5442,8 @@
             "loyalty": "",
             "artist": "Nolan Lu",
             "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/RYg9Jv"
         },
         {
@@ -4944,6 +5463,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/EL5V3A"
         },
         {
@@ -4963,6 +5484,8 @@
             "loyalty": "",
             "artist": "Steve Firchow",
             "alias": "",
+            "position": "260",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/OlY1k"
         },
         {
@@ -4982,6 +5505,8 @@
             "loyalty": "",
             "artist": "Feng Wei",
             "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/qbl5z"
         },
         {
@@ -5001,6 +5526,8 @@
             "loyalty": "",
             "artist": "Bayard Wu",
             "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": "Archetype payoff\nhttps://www.artstation.com/artwork/9eB38Q"
         },
         {
@@ -5020,6 +5547,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/QLNGL"
         },
         {
@@ -5039,6 +5568,8 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/0dPQG"
         },
         {
@@ -5058,6 +5589,8 @@
             "loyalty": "",
             "artist": "Matteo Spirito",
             "alias": "",
+            "position": "265",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/8eAnan"
         },
         {
@@ -5077,6 +5610,8 @@
             "loyalty": "",
             "artist": "Veli Nystrom",
             "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/nOnv4"
         },
         {
@@ -5096,6 +5631,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Z56V80"
         },
         {
@@ -5115,6 +5652,8 @@
             "loyalty": "",
             "artist": "Adam Burn",
             "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/X1oJ3a"
         },
         {
@@ -5134,6 +5673,8 @@
             "loyalty": "",
             "artist": "Andr\u00e9 Martuscelli",
             "alias": "",
+            "position": "269",
+            "rotated": false,
             "notes": "CA06: Land fixing\nhttps://www.artstation.com/artwork/XBEvXn"
         },
         {
@@ -5153,6 +5694,8 @@
             "loyalty": "",
             "artist": "John Howard",
             "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/KJl9x"
         },
         {
@@ -5172,6 +5715,8 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/o2RGNL"
         },
         {
@@ -5191,6 +5736,8 @@
             "loyalty": "",
             "artist": "Cristi Balanescu",
             "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/zOAvE4"
         },
         {
@@ -5210,6 +5757,8 @@
             "loyalty": "",
             "artist": "Katina Thorondor",
             "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Ev46Kq\n!related Shadows Around Us;Echoing Roar<2>;Ko, Vestige of Fervor;Biel, the Storyteller;Voidcraft Refiner;Voidheart Rallier"
         },
         {
@@ -5229,6 +5778,8 @@
             "loyalty": "",
             "artist": "Darren Myners",
             "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/XkonL"
         },
         {
@@ -5248,6 +5799,8 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
+            "position": "275",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/oyQ3q"
         },
         {
@@ -5267,6 +5820,8 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "[canon reprint]\nhttps://www.artstation.com/artwork/OvmENb"
         },
         {
@@ -5286,6 +5841,8 @@
             "loyalty": "",
             "artist": "Joao Sergio",
             "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/9eZAqW"
         },
         {
@@ -5305,6 +5862,8 @@
             "loyalty": "",
             "artist": "Collette Curran",
             "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/zAmORw"
         },
         {
@@ -5324,6 +5883,8 @@
             "loyalty": "",
             "artist": "(Yuumei) Wenqing Yan",
             "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/YeQOgd"
         },
         {
@@ -5343,6 +5904,8 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/qJbK0e"
         },
         {
@@ -5362,6 +5925,8 @@
             "loyalty": "",
             "artist": "Andrew McIntosh",
             "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/4avK2\n!related Cycleborn Mycolid<x>;Darkeater"
         },
         {
@@ -5381,6 +5946,8 @@
             "loyalty": "",
             "artist": "Luka Brico",
             "alias": "",
+            "position": "282",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/X1bOoy"
         },
         {
@@ -5400,6 +5967,8 @@
             "loyalty": "",
             "artist": "Jason Scheier",
             "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": "!related Potshot Goblin\nhttps://www.artstation.com/artwork/nQwNbX"
         },
         {
@@ -5419,6 +5988,8 @@
             "loyalty": "",
             "artist": "Bekah Chew",
             "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": "CR10: Direct damage (deals 2)\ncommon_waste_spell_cycle"
         },
         {
@@ -5438,6 +6009,8 @@
             "loyalty": "",
             "artist": "Halder ALMEIDA",
             "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": "CG13: Combat trick (power pump)"
         },
         {
@@ -5457,6 +6030,8 @@
             "loyalty": "",
             "artist": "Lukas Juchnelis",
             "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "UL01"
         },
         {
@@ -5476,6 +6051,8 @@
             "loyalty": "",
             "artist": "Ryan Davenport",
             "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/Je0RXd\n!related Haal, Dissident Illusionist;Prism Dancer"
         },
         {
@@ -5495,6 +6072,8 @@
             "loyalty": "",
             "artist": "Nino Is.",
             "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/rA2wQL"
         },
         {
@@ -5514,6 +6093,8 @@
             "loyalty": "",
             "artist": "Simon Dominic Brewer",
             "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/PX53BB"
         },
         {
@@ -5533,6 +6114,8 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/6QevW\n!related Death Claims Another;Dessicated Diner;Sinister Administrator"
         },
         {
@@ -5552,6 +6135,8 @@
             "loyalty": "",
             "artist": "Maria_ Roklain",
             "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/lGZYnJ"
         },
         {
@@ -5571,6 +6156,8 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
+            "position": "292",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/L4kYow"
         },
         {
@@ -5590,6 +6177,8 @@
             "loyalty": "",
             "artist": "Piotr Foksowicz",
             "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/w846Jg"
         },
         {
@@ -5609,8 +6198,10 @@
             "loyalty": "",
             "artist": "Atomhawk",
             "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": "https://www.artstation.com/artwork/WXKBJX"
         }
     ],
-    "version": 25
+    "version": 26
 }
