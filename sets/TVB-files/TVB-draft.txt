@@ -783,7 +783,7 @@
 		{
 			"name": "Wasteland Wanderer",
 			"rarity": "common",
-			"mana_cost": "C",
+			"mana_cost": "{2/C}",
 			"type": "Creature — Voidling",
 			"collector_number": "22",
 			"image_uris": {
@@ -813,7 +813,7 @@
 		{
 			"name": "Shadow Self",
 			"rarity": "common",
-			"mana_cost": "{1}C",
+			"mana_cost": "{1}{2/C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "16",
 			"image_uris": {
@@ -2703,7 +2703,7 @@
 		{
 			"name": "Endless Hollow",
 			"rarity": "uncommon",
-			"mana_cost": "CCC",
+			"mana_cost": "{2/C}{2/C}{2/C}",
 			"type": "Creature — Voidling",
 			"collector_number": "5",
 			"image_uris": {
@@ -3054,6 +3054,16 @@
 	4 Seeker of Muses
 	4 Aderic's Sextant
 	4 Rasping Currents
+	4 Ivyflow Quarry
+	4 Magmafell Quarry
+	4 Rootbound Quarry
+	4 Runespark Quarry
+	4 Sandswept Quarry
+	4 Scorchwheat Quarry
+	4 Shadowcrest Quarry
+	4 Cryptveil Quarry
+	4 Umberdark Quarry
+	4 Wickfield Quarry
 	4 Munitions Supplier
 	4 Inspiring General
 	4 Dawncaller
@@ -3843,18 +3853,3 @@
 	4 A World Asunder
 	4 The Terralance
 [land(1)]
-	4 Ivyflow Quarry
-	4 Magmafell Quarry
-	4 Rootbound Quarry
-	4 Runespark Quarry
-	4 Sandswept Quarry
-	4 Scorchwheat Quarry
-	4 Shadowcrest Quarry
-	4 Cryptveil Quarry
-	4 Umberdark Quarry
-	4 Wickfield Quarry
-    8 Plains
-    8 Island
-    8 Swamp
-    8 Mountain
-    8 Forest

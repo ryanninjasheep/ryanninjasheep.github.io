@@ -5,7 +5,7 @@
 			<name>TVB</name>
 			<longname>The Void Beneath</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-27</releasedate>
+			<releasedate>2026-03-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1525,24 +1525,24 @@ CG Keyword Distribution
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Lucient Amalgam</reverse_related>
-			<reverse_related>Soul Siphoner</reverse_related>
-			<reverse_related>Encroaching Void</reverse_related>
-			<reverse_related>Lifeleeched Vermin</reverse_related>
-			<reverse_related>Mindless Culling</reverse_related>
-			<reverse_related>Void Summoner</reverse_related>
-			<reverse_related>Yan, Dealer of Destinies</reverse_related>
-			<reverse_related>Barrescape Pioneer</reverse_related>
-			<reverse_related>Beckoning Void</reverse_related>
-			<reverse_related>The Blind Army</reverse_related>
-			<reverse_related>Scorching Abrasion</reverse_related>
-			<reverse_related>Voidcaller Druid</reverse_related>
-			<reverse_related>Voidcraft Blade</reverse_related>
-			<reverse_related>Warpwalk</reverse_related>
-			<reverse_related>Ephemera Vendor</reverse_related>
-			<reverse_related>Flamekin Piper</reverse_related>
-			<reverse_related>Greyheart Evangelist</reverse_related>
-			<reverse_related>Broken Vessel</reverse_related>
+			<reverse-related count="2">Lucient Amalgam</reverse-related>
+			<reverse-related>Soul Siphoner</reverse-related>
+			<reverse-related>Encroaching Void</reverse-related>
+			<reverse-related>Lifeleeched Vermin</reverse-related>
+			<reverse-related>Mindless Culling</reverse-related>
+			<reverse-related>Void Summoner</reverse-related>
+			<reverse-related>Yan, Dealer of Destinies</reverse-related>
+			<reverse-related>Barrescape Pioneer</reverse-related>
+			<reverse-related>Beckoning Void</reverse-related>
+			<reverse-related>The Blind Army</reverse-related>
+			<reverse-related>Scorching Abrasion</reverse-related>
+			<reverse-related>Voidcaller Druid</reverse-related>
+			<reverse-related>Voidcraft Blade</reverse-related>
+			<reverse-related>Warpwalk</reverse-related>
+			<reverse-related>Ephemera Vendor</reverse-related>
+			<reverse-related>Flamekin Piper</reverse-related>
+			<reverse-related>Greyheart Evangelist</reverse-related>
+			<reverse-related>Broken Vessel</reverse-related>
 		</card>
 		<card>
 			<name>Soldier TVB</name>
@@ -1561,12 +1561,12 @@ CG Keyword Distribution
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="3">Leyline Patrol</reverse_related>
-			<reverse_related>Pioneering Aristocrat</reverse_related>
-			<reverse_related count="2">Call to Battle</reverse_related>
-			<reverse_related count="2">Gaar, 9th Front General</reverse_related>
-			<reverse_related>Greyheart Evangelist</reverse_related>
-			<reverse_related>Thopter Suit</reverse_related>
+			<reverse-related count="3">Leyline Patrol</reverse-related>
+			<reverse-related>Pioneering Aristocrat</reverse-related>
+			<reverse-related count="2">Call to Battle</reverse-related>
+			<reverse-related count="2">Gaar, 9th Front General</reverse-related>
+			<reverse-related>Greyheart Evangelist</reverse-related>
+			<reverse-related>Thopter Suit</reverse-related>
 		</card>
 		<card>
 			<name>Thopter TVB</name>
@@ -1583,10 +1583,10 @@ CG Keyword Distribution
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Aeronaut Modelist</reverse_related>
-			<reverse_related>Hunt for the Awakened Core</reverse_related>
-			<reverse_related>Thopter Tinkerer</reverse_related>
-			<reverse_related>Nebson, Tireless Tinkerer</reverse_related>
+			<reverse-related>Aeronaut Modelist</reverse-related>
+			<reverse-related>Hunt for the Awakened Core</reverse-related>
+			<reverse-related>Thopter Tinkerer</reverse-related>
+			<reverse-related>Nebson, Tireless Tinkerer</reverse-related>
 		</card>
 		<card>
 			<name>Ruinating Strike</name>
@@ -2172,7 +2172,7 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 			</prop>
 			<tablerow>0</tablerow>
 			<token>1</token>
-			<reverse_related count="2">Aderic&apos;s Sextant</reverse_related>
+			<reverse-related count="2">Aderic&apos;s Sextant</reverse-related>
 		</card>
 		<card>
 			<name>The Blind Army</name>
@@ -2206,23 +2206,23 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Fractured Phantom</reverse_related>
-			<reverse_related>Chonofraction</reverse_related>
-			<reverse_related>Lumina Technician</reverse_related>
-			<reverse_related>Thopter Tinkerer</reverse_related>
-			<reverse_related>Out of Focus</reverse_related>
-			<reverse_related>Wreckage Extractor</reverse_related>
-			<reverse_related>Dispassionate Plunderer</reverse_related>
-			<reverse_related>Flintlock Scavenger</reverse_related>
-			<reverse_related>Haal, Dissident Illusionist</reverse_related>
-			<reverse_related>Light Fantastic</reverse_related>
-			<reverse_related>Blessing of Selas</reverse_related>
-			<reverse_related>Ephemera Vendor</reverse_related>
-			<reverse_related>Nox, Flickerlight Mind</reverse_related>
-			<reverse_related>Scintillating Shardborn</reverse_related>
-			<reverse_related count="x">Shattered Earth</reverse_related>
-			<reverse_related>Skyport Custodian</reverse_related>
-			<reverse_related>Crystal Dunes</reverse_related>
+			<reverse-related>Fractured Phantom</reverse-related>
+			<reverse-related>Chonofraction</reverse-related>
+			<reverse-related>Lumina Technician</reverse-related>
+			<reverse-related>Thopter Tinkerer</reverse-related>
+			<reverse-related>Out of Focus</reverse-related>
+			<reverse-related>Wreckage Extractor</reverse-related>
+			<reverse-related>Dispassionate Plunderer</reverse-related>
+			<reverse-related>Flintlock Scavenger</reverse-related>
+			<reverse-related>Haal, Dissident Illusionist</reverse-related>
+			<reverse-related>Light Fantastic</reverse-related>
+			<reverse-related>Blessing of Selas</reverse-related>
+			<reverse-related>Ephemera Vendor</reverse-related>
+			<reverse-related>Nox, Flickerlight Mind</reverse-related>
+			<reverse-related>Scintillating Shardborn</reverse-related>
+			<reverse-related count="x">Shattered Earth</reverse-related>
+			<reverse-related>Skyport Custodian</reverse-related>
+			<reverse-related>Crystal Dunes</reverse-related>
 		</card>
 		<card>
 			<name>Draft Archetypes TVB</name>
@@ -2265,8 +2265,8 @@ GU — Evoke ramp</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Mammoth Caller</reverse_related>
-			<reverse_related>Settler&apos;s Day Parade</reverse_related>
+			<reverse-related>Mammoth Caller</reverse-related>
+			<reverse-related>Settler&apos;s Day Parade</reverse-related>
 		</card>
 		<card>
 			<name>Hu, Vestige of Faith</name>
@@ -4820,12 +4820,12 @@ Equip {1}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Shadows Around Us</reverse_related>
-			<reverse_related count="2">Echoing Roar</reverse_related>
-			<reverse_related>Ko, Vestige of Fervor</reverse_related>
-			<reverse_related>Biel, the Storyteller</reverse_related>
-			<reverse_related>Voidcraft Refiner</reverse_related>
-			<reverse_related>Voidheart Rallier</reverse_related>
+			<reverse-related>Shadows Around Us</reverse-related>
+			<reverse-related count="2">Echoing Roar</reverse-related>
+			<reverse-related>Ko, Vestige of Fervor</reverse-related>
+			<reverse-related>Biel, the Storyteller</reverse-related>
+			<reverse-related>Voidcraft Refiner</reverse-related>
+			<reverse-related>Voidheart Rallier</reverse-related>
 		</card>
 		<card>
 			<name>Fractured Phantom</name>
@@ -4960,8 +4960,8 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related count="x">Cycleborn Mycolid</reverse_related>
-			<reverse_related>Darkeater</reverse_related>
+			<reverse-related count="x">Cycleborn Mycolid</reverse-related>
+			<reverse-related>Darkeater</reverse-related>
 		</card>
 		<card>
 			<name>Empty Heart</name>
@@ -4995,7 +4995,7 @@ Equip {1}</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse_related>Potshot Goblin</reverse_related>
+			<reverse-related>Potshot Goblin</reverse-related>
 		</card>
 		<card>
 			<name>Magma Lash</name>
@@ -5061,8 +5061,8 @@ When this land enters, choose a color.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Haal, Dissident Illusionist</reverse_related>
-			<reverse_related>Prism Dancer</reverse_related>
+			<reverse-related>Haal, Dissident Illusionist</reverse-related>
+			<reverse-related>Prism Dancer</reverse-related>
 		</card>
 		<card>
 			<name>Vesz, Endless Whisper</name>
@@ -5117,9 +5117,9 @@ Whenever Vesz attacks, exile target nonland card from your graveyard. Copy it. Y
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse_related>Death Claims Another</reverse_related>
-			<reverse_related>Dessicated Diner</reverse_related>
-			<reverse_related>Sinister Administrator</reverse_related>
+			<reverse-related>Death Claims Another</reverse-related>
+			<reverse-related>Dessicated Diner</reverse-related>
+			<reverse-related>Sinister Administrator</reverse-related>
 		</card>
 		<card>
 			<name>Riftwake Phoenix</name>
