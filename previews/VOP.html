@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/VOP-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>VOP visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/VOP-files/logo.png" />
+	<img class="preload-hidden" src="../sets/TVB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/VOP-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/VOP"><img src="../sets/VOP-files/icon.png">Visions of Presh</a>
+	
+		<a class="set-bar inactive" href="../previews/TVB"><img src="../sets/TVB-files/icon.png">The Void Beneath</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/VOP-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\VOP-files\img\217.png" id="VOP_217" data-flag="@X" onclick="openSidebar('VOP_217',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\219.png" id="VOP_219" data-flag="@X" onclick="openSidebar('VOP_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\221.png" id="VOP_221" data-flag="@X" onclick="openSidebar('VOP_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\223.png" id="VOP_223" data-flag="@X" onclick="openSidebar('VOP_223',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\225.png" id="VOP_225" data-flag="@X" onclick="openSidebar('VOP_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\218.png" id="VOP_218" data-flag="@X" onclick="openSidebar('VOP_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\220.png" id="VOP_220" data-flag="@X" onclick="openSidebar('VOP_220',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\222.png" id="VOP_222" data-flag="@X" onclick="openSidebar('VOP_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\224.png" id="VOP_224" data-flag="@X" onclick="openSidebar('VOP_224',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\226.png" id="VOP_226" data-flag="@X" onclick="openSidebar('VOP_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\179.png" id="VOP_179" data-flag="@X" onclick="openSidebar('VOP_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\186.png" id="VOP_186" data-flag="@X" onclick="openSidebar('VOP_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\193.png" id="VOP_193" data-flag="@X" onclick="openSidebar('VOP_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\200.png" id="VOP_200" data-flag="@X" onclick="openSidebar('VOP_200',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\207.png" id="VOP_207" data-flag="@X" onclick="openSidebar('VOP_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\180.png" id="VOP_180" data-flag="@X" onclick="openSidebar('VOP_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\187.png" id="VOP_187" data-flag="@X" onclick="openSidebar('VOP_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\194.png" id="VOP_194" data-flag="@X" onclick="openSidebar('VOP_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\201.png" id="VOP_201" data-flag="@X" onclick="openSidebar('VOP_201',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\208.png" id="VOP_208" data-flag="@X" onclick="openSidebar('VOP_208',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\181.png" id="VOP_181" data-flag="@X" onclick="openSidebar('VOP_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\188.png" id="VOP_188" data-flag="@X" onclick="openSidebar('VOP_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\195.png" id="VOP_195" data-flag="@X" onclick="openSidebar('VOP_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\202.png" id="VOP_202" data-flag="@X" onclick="openSidebar('VOP_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\209.png" id="VOP_209" data-flag="@X" onclick="openSidebar('VOP_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\182.png" id="VOP_182" data-flag="@X" onclick="openSidebar('VOP_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\189.png" id="VOP_189" data-flag="@X" onclick="openSidebar('VOP_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\196.png" id="VOP_196" data-flag="@X" onclick="openSidebar('VOP_196',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\203.png" id="VOP_203" data-flag="@X" onclick="openSidebar('VOP_203',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\210.png" id="VOP_210" data-flag="@X" onclick="openSidebar('VOP_210',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\183.png" id="VOP_183" data-flag="@X" onclick="openSidebar('VOP_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\190.png" id="VOP_190" data-flag="@X" onclick="openSidebar('VOP_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\197.png" id="VOP_197" data-flag="@X" onclick="openSidebar('VOP_197',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\204.png" id="VOP_204" data-flag="@X" onclick="openSidebar('VOP_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\211.png" id="VOP_211" data-flag="@X" onclick="openSidebar('VOP_211',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\184.png" id="VOP_184" data-flag="@X" onclick="openSidebar('VOP_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\191.png" id="VOP_191" data-flag="@X" onclick="openSidebar('VOP_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\198.png" id="VOP_198" data-flag="@X" onclick="openSidebar('VOP_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\205.png" id="VOP_205" data-flag="@X" onclick="openSidebar('VOP_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\212.png" id="VOP_212" data-flag="@X" onclick="openSidebar('VOP_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\185.png" id="VOP_185" data-flag="@X" onclick="openSidebar('VOP_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\192.png" id="VOP_192" data-flag="@X" onclick="openSidebar('VOP_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\199.png" id="VOP_199" data-flag="@X" onclick="openSidebar('VOP_199',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\206.png" id="VOP_206" data-flag="@X" onclick="openSidebar('VOP_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\213.png" id="VOP_213" data-flag="@X" onclick="openSidebar('VOP_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\14.png" id="VOP_14" data-flag="@X" onclick="openSidebar('VOP_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\43.png" id="VOP_43" data-flag="@X" onclick="openSidebar('VOP_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\71.png" id="VOP_71" data-flag="@X" onclick="openSidebar('VOP_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\100.png" id="VOP_100" data-flag="@X" onclick="openSidebar('VOP_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\129.png" id="VOP_129" data-flag="@X" onclick="openSidebar('VOP_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\15.png" id="VOP_15" data-flag="@X" onclick="openSidebar('VOP_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\44.png" id="VOP_44" data-flag="@X" onclick="openSidebar('VOP_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\72.png" id="VOP_72" data-flag="@X" onclick="openSidebar('VOP_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\101.png" id="VOP_101" data-flag="@X" onclick="openSidebar('VOP_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\130.png" id="VOP_130" data-flag="@X" onclick="openSidebar('VOP_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\16.png" id="VOP_16" data-flag="@X" onclick="openSidebar('VOP_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\45.png" id="VOP_45" data-flag="@X" onclick="openSidebar('VOP_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\73.png" id="VOP_73" data-flag="@X" onclick="openSidebar('VOP_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\102.png" id="VOP_102" data-flag="@X" onclick="openSidebar('VOP_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\131.png" id="VOP_131" data-flag="@X" onclick="openSidebar('VOP_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\17.png" id="VOP_17" data-flag="@X" onclick="openSidebar('VOP_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\46.png" id="VOP_46" data-flag="@X" onclick="openSidebar('VOP_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\74.png" id="VOP_74" data-flag="@X" onclick="openSidebar('VOP_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\103.png" id="VOP_103" data-flag="@X" onclick="openSidebar('VOP_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\132.png" id="VOP_132" data-flag="@X" onclick="openSidebar('VOP_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\18.png" id="VOP_18" data-flag="@X" onclick="openSidebar('VOP_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\47.png" id="VOP_47" data-flag="@X" onclick="openSidebar('VOP_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\75.png" id="VOP_75" data-flag="@X" onclick="openSidebar('VOP_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\104.png" id="VOP_104" data-flag="@X" onclick="openSidebar('VOP_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\133.png" id="VOP_133" data-flag="@X" onclick="openSidebar('VOP_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\19.png" id="VOP_19" data-flag="@X" onclick="openSidebar('VOP_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\48.png" id="VOP_48" data-flag="@X" onclick="openSidebar('VOP_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\76.png" id="VOP_76" data-flag="@X" onclick="openSidebar('VOP_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\105.png" id="VOP_105" data-flag="@X" onclick="openSidebar('VOP_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\134.png" id="VOP_134" data-flag="@X" onclick="openSidebar('VOP_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\20.png" id="VOP_20" data-flag="@X" onclick="openSidebar('VOP_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\49.png" id="VOP_49" data-flag="@X" onclick="openSidebar('VOP_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\77.png" id="VOP_77" data-flag="@X" onclick="openSidebar('VOP_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\106.png" id="VOP_106" data-flag="@X" onclick="openSidebar('VOP_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\135.png" id="VOP_135" data-flag="@X" onclick="openSidebar('VOP_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\21.png" id="VOP_21" data-flag="@X" onclick="openSidebar('VOP_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\50.png" id="VOP_50" data-flag="@X" onclick="openSidebar('VOP_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\78.png" id="VOP_78" data-flag="@X" onclick="openSidebar('VOP_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\107.png" id="VOP_107" data-flag="@X" onclick="openSidebar('VOP_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\136.png" id="VOP_136" data-flag="@X" onclick="openSidebar('VOP_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\22.png" id="VOP_22" data-flag="@X" onclick="openSidebar('VOP_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\51.png" id="VOP_51" data-flag="@X" onclick="openSidebar('VOP_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\79.png" id="VOP_79" data-flag="@X" onclick="openSidebar('VOP_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\108.png" id="VOP_108" data-flag="@X" onclick="openSidebar('VOP_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\137.png" id="VOP_137" data-flag="@X" onclick="openSidebar('VOP_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\23.png" id="VOP_23" data-flag="@X" onclick="openSidebar('VOP_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\52.png" id="VOP_52" data-flag="@X" onclick="openSidebar('VOP_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\281.png" id="VOP_281" data-flag="@X" onclick="openSidebar('VOP_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\109.png" id="VOP_109" data-flag="@X" onclick="openSidebar('VOP_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\138.png" id="VOP_138" data-flag="@X" onclick="openSidebar('VOP_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\24.png" id="VOP_24" data-flag="@X" onclick="openSidebar('VOP_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\53.png" id="VOP_53" data-flag="@X" onclick="openSidebar('VOP_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\81.png" id="VOP_81" data-flag="@X" onclick="openSidebar('VOP_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\110.png" id="VOP_110" data-flag="@X" onclick="openSidebar('VOP_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\139.png" id="VOP_139" data-flag="@X" onclick="openSidebar('VOP_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\12.png" id="VOP_12" data-flag="@X" onclick="openSidebar('VOP_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\54.png" id="VOP_54" data-flag="@X" onclick="openSidebar('VOP_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\82.png" id="VOP_82" data-flag="@X" onclick="openSidebar('VOP_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\111.png" id="VOP_111" data-flag="@X" onclick="openSidebar('VOP_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\140.png" id="VOP_140" data-flag="@X" onclick="openSidebar('VOP_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\26.png" id="VOP_26" data-flag="@X" onclick="openSidebar('VOP_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\55.png" id="VOP_55" data-flag="@X" onclick="openSidebar('VOP_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\83.png" id="VOP_83" data-flag="@X" onclick="openSidebar('VOP_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\112.png" id="VOP_112" data-flag="@X" onclick="openSidebar('VOP_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\141.png" id="VOP_141" data-flag="@X" onclick="openSidebar('VOP_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\27.png" id="VOP_27" data-flag="@X" onclick="openSidebar('VOP_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\56.png" id="VOP_56" data-flag="@X" onclick="openSidebar('VOP_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\84.png" id="VOP_84" data-flag="@X" onclick="openSidebar('VOP_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\113.png" id="VOP_113" data-flag="@X" onclick="openSidebar('VOP_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\142.png" id="VOP_142" data-flag="@X" onclick="openSidebar('VOP_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\0.png" id="VOP_0" data-flag="@X" onclick="openSidebar('VOP_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\29.png" id="VOP_29" data-flag="@X" onclick="openSidebar('VOP_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\58.png" id="VOP_58" data-flag="@X" onclick="openSidebar('VOP_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\85.png" id="VOP_85" data-flag="@X" onclick="openSidebar('VOP_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\114.png" id="VOP_114" data-flag="@X" onclick="openSidebar('VOP_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\1.png" id="VOP_1" data-flag="@X" onclick="openSidebar('VOP_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\30.png" id="VOP_30" data-flag="@X" onclick="openSidebar('VOP_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\60.png" id="VOP_60" data-flag="@X" onclick="openSidebar('VOP_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\89.png" id="VOP_89" data-flag="@X" onclick="openSidebar('VOP_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\115.png" id="VOP_115" data-flag="@X" onclick="openSidebar('VOP_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\3.png" id="VOP_3" data-flag="@X" onclick="openSidebar('VOP_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\31.png" id="VOP_31" data-flag="@X" onclick="openSidebar('VOP_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\61.png" id="VOP_61" data-flag="@X" onclick="openSidebar('VOP_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\87.png" id="VOP_87" data-flag="@X" onclick="openSidebar('VOP_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\119.png" id="VOP_119" data-flag="@X" onclick="openSidebar('VOP_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\5.png" id="VOP_5" data-flag="@X" onclick="openSidebar('VOP_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\32.png" id="VOP_32" data-flag="@X" onclick="openSidebar('VOP_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\62.png" id="VOP_62" data-flag="@X" onclick="openSidebar('VOP_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\88.png" id="VOP_88" data-flag="@X" onclick="openSidebar('VOP_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\118.png" id="VOP_118" data-flag="@X" onclick="openSidebar('VOP_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\6.png" id="VOP_6" data-flag="@X" onclick="openSidebar('VOP_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\34.png" id="VOP_34" data-flag="@X" onclick="openSidebar('VOP_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\63.png" id="VOP_63" data-flag="@X" onclick="openSidebar('VOP_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\90.png" id="VOP_90" data-flag="@X" onclick="openSidebar('VOP_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\120.png" id="VOP_120" data-flag="@X" onclick="openSidebar('VOP_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\277.png" id="VOP_277" data-flag="@X" onclick="openSidebar('VOP_277',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\35.png" id="VOP_35" data-flag="@X" onclick="openSidebar('VOP_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\64.png" id="VOP_64" data-flag="@X" onclick="openSidebar('VOP_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\92.png" id="VOP_92" data-flag="@X" onclick="openSidebar('VOP_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\121.png" id="VOP_121" data-flag="@X" onclick="openSidebar('VOP_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\7.png" id="VOP_7" data-flag="@X" onclick="openSidebar('VOP_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\36.png" id="VOP_36" data-flag="@X" onclick="openSidebar('VOP_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\65.png" id="VOP_65" data-flag="@X" onclick="openSidebar('VOP_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\93.png" id="VOP_93" data-flag="@X" onclick="openSidebar('VOP_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\122.png" id="VOP_122" data-flag="@X" onclick="openSidebar('VOP_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\8.png" id="VOP_8" data-flag="@X" onclick="openSidebar('VOP_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\37.png" id="VOP_37" data-flag="@X" onclick="openSidebar('VOP_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\66.png" id="VOP_66" data-flag="@X" onclick="openSidebar('VOP_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\94.png" id="VOP_94" data-flag="@X" onclick="openSidebar('VOP_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\123.png" id="VOP_123" data-flag="@X" onclick="openSidebar('VOP_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\9.png" id="VOP_9" data-flag="@X" onclick="openSidebar('VOP_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\38.png" id="VOP_38" data-flag="@X" onclick="openSidebar('VOP_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\80.png" id="VOP_80" data-flag="@X" onclick="openSidebar('VOP_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\95.png" id="VOP_95" data-flag="@X" onclick="openSidebar('VOP_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\124.png" id="VOP_124" data-flag="@X" onclick="openSidebar('VOP_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\10.png" id="VOP_10" data-flag="@X" onclick="openSidebar('VOP_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\39.png" id="VOP_39" data-flag="@X" onclick="openSidebar('VOP_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\67.png" id="VOP_67" data-flag="@X" onclick="openSidebar('VOP_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\96.png" id="VOP_96" data-flag="@X" onclick="openSidebar('VOP_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\125.png" id="VOP_125" data-flag="@X" onclick="openSidebar('VOP_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\11.png" id="VOP_11" data-flag="@X" onclick="openSidebar('VOP_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\40.png" id="VOP_40" data-flag="@X" onclick="openSidebar('VOP_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\68.png" id="VOP_68" data-flag="@X" onclick="openSidebar('VOP_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\97.png" id="VOP_97" data-flag="@X" onclick="openSidebar('VOP_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\126.png" id="VOP_126" data-flag="@X" onclick="openSidebar('VOP_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\25.png" id="VOP_25" data-flag="@X" onclick="openSidebar('VOP_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\41.png" id="VOP_41" data-flag="@X" onclick="openSidebar('VOP_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\69.png" id="VOP_69" data-flag="@X" onclick="openSidebar('VOP_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\98.png" id="VOP_98" data-flag="@X" onclick="openSidebar('VOP_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\127.png" id="VOP_127" data-flag="@X" onclick="openSidebar('VOP_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\13.png" id="VOP_13" data-flag="@X" onclick="openSidebar('VOP_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\42.png" id="VOP_42" data-flag="@X" onclick="openSidebar('VOP_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\70.png" id="VOP_70" data-flag="@X" onclick="openSidebar('VOP_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\99.png" id="VOP_99" data-flag="@X" onclick="openSidebar('VOP_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\128.png" id="VOP_128" data-flag="@X" onclick="openSidebar('VOP_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\214.png" id="VOP_214" data-flag="@X" onclick="openSidebar('VOP_214',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\244.png" id="VOP_244" data-flag="@X" onclick="openSidebar('VOP_244',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\246.png" id="VOP_246" data-flag="@X" onclick="openSidebar('VOP_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\248.png" id="VOP_248" data-flag="@X" onclick="openSidebar('VOP_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\250.png" id="VOP_250" data-flag="@X" onclick="openSidebar('VOP_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\243.png" id="VOP_243" data-flag="@X" onclick="openSidebar('VOP_243',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\245.png" id="VOP_245" data-flag="@X" onclick="openSidebar('VOP_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\247.png" id="VOP_247" data-flag="@X" onclick="openSidebar('VOP_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\249.png" id="VOP_249" data-flag="@X" onclick="openSidebar('VOP_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\252.png" id="VOP_252" data-flag="@X" onclick="openSidebar('VOP_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\143.png" id="VOP_143" data-flag="@X" onclick="openSidebar('VOP_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\145.png" id="VOP_145" data-flag="@X" onclick="openSidebar('VOP_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\148.png" id="VOP_148" data-flag="@X" onclick="openSidebar('VOP_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\149.png" id="VOP_149" data-flag="@X" onclick="openSidebar('VOP_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\151.png" id="VOP_151" data-flag="@X" onclick="openSidebar('VOP_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\144.png" id="VOP_144" data-flag="@X" onclick="openSidebar('VOP_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\146.png" id="VOP_146" data-flag="@X" onclick="openSidebar('VOP_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\147.png" id="VOP_147" data-flag="@X" onclick="openSidebar('VOP_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\150.png" id="VOP_150" data-flag="@X" onclick="openSidebar('VOP_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\152.png" id="VOP_152" data-flag="@X" onclick="openSidebar('VOP_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\4.png" id="VOP_4" data-flag="@X" onclick="openSidebar('VOP_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\28.png" id="VOP_28" data-flag="@X" onclick="openSidebar('VOP_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\57.png" id="VOP_57" data-flag="@X" onclick="openSidebar('VOP_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\86.png" id="VOP_86" data-flag="@X" onclick="openSidebar('VOP_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\116.png" id="VOP_116" data-flag="@X" onclick="openSidebar('VOP_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\251.png" id="VOP_251" data-flag="@X" onclick="openSidebar('VOP_251',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\156.png" id="VOP_156" data-flag="@X" onclick="openSidebar('VOP_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\256.png" id="VOP_256" data-flag="@X" onclick="openSidebar('VOP_256',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\258.png" id="VOP_258" data-flag="@X" onclick="openSidebar('VOP_258',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\260.png" id="VOP_260" data-flag="@X" onclick="openSidebar('VOP_260',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\253.png" id="VOP_253" data-flag="@X" onclick="openSidebar('VOP_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\255.png" id="VOP_255" data-flag="@X" onclick="openSidebar('VOP_255',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\257.png" id="VOP_257" data-flag="@X" onclick="openSidebar('VOP_257',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\259.png" id="VOP_259" data-flag="@X" onclick="openSidebar('VOP_259',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\261.png" id="VOP_261" data-flag="@X" onclick="openSidebar('VOP_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\153.png" id="VOP_153" data-flag="@X" onclick="openSidebar('VOP_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\254.png" id="VOP_254" data-flag="@X" onclick="openSidebar('VOP_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\157.png" id="VOP_157" data-flag="@X" onclick="openSidebar('VOP_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\159.png" id="VOP_159" data-flag="@X" onclick="openSidebar('VOP_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\161.png" id="VOP_161" data-flag="@X" onclick="openSidebar('VOP_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\154.png" id="VOP_154" data-flag="@X" onclick="openSidebar('VOP_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\155.png" id="VOP_155" data-flag="@X" onclick="openSidebar('VOP_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\158.png" id="VOP_158" data-flag="@X" onclick="openSidebar('VOP_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\160.png" id="VOP_160" data-flag="@X" onclick="openSidebar('VOP_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\162.png" id="VOP_162" data-flag="@X" onclick="openSidebar('VOP_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\2.png" id="VOP_2" data-flag="@X" onclick="openSidebar('VOP_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\33.png" id="VOP_33" data-flag="@X" onclick="openSidebar('VOP_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\59.png" id="VOP_59" data-flag="@X" onclick="openSidebar('VOP_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\91.png" id="VOP_91" data-flag="@X" onclick="openSidebar('VOP_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\117.png" id="VOP_117" data-flag="@X" onclick="openSidebar('VOP_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\216.png" id="VOP_216" data-flag="@X" onclick="openSidebar('VOP_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\234.png" id="VOP_234" data-flag="@X" onclick="openSidebar('VOP_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\235.png" id="VOP_235" data-flag="@X" onclick="openSidebar('VOP_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\238.png" id="VOP_238" data-flag="@X" onclick="openSidebar('VOP_238',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\237.png" id="VOP_237" data-flag="@X" onclick="openSidebar('VOP_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\236.png" id="VOP_236" data-flag="@X" onclick="openSidebar('VOP_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\239.png" id="VOP_239" data-flag="@X" onclick="openSidebar('VOP_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\240.png" id="VOP_240" data-flag="@X" onclick="openSidebar('VOP_240',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\241.png" id="VOP_241" data-flag="@X" onclick="openSidebar('VOP_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\242.png" id="VOP_242" data-flag="@X" onclick="openSidebar('VOP_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\263.png" id="VOP_263" data-flag="@X" onclick="openSidebar('VOP_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\264.png" id="VOP_264" data-flag="@X" onclick="openSidebar('VOP_264',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\262.png" id="VOP_262" data-flag="@X" onclick="openSidebar('VOP_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\215.png" id="VOP_215" data-flag="@X" onclick="openSidebar('VOP_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\169.png" id="VOP_169" data-flag="@X" onclick="openSidebar('VOP_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\170.png" id="VOP_170" data-flag="@X" onclick="openSidebar('VOP_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\171.png" id="VOP_171" data-flag="@X" onclick="openSidebar('VOP_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\172.png" id="VOP_172" data-flag="@X" onclick="openSidebar('VOP_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\173.png" id="VOP_173" data-flag="@X" onclick="openSidebar('VOP_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\174.png" id="VOP_174" data-flag="@X" onclick="openSidebar('VOP_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\175.png" id="VOP_175" data-flag="@X" onclick="openSidebar('VOP_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\176.png" id="VOP_176" data-flag="@X" onclick="openSidebar('VOP_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\167.png" id="VOP_167" data-flag="@X" onclick="openSidebar('VOP_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\163.png" id="VOP_163" data-flag="@X" onclick="openSidebar('VOP_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\164.png" id="VOP_164" data-flag="@X" onclick="openSidebar('VOP_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\165.png" id="VOP_165" data-flag="@X" onclick="openSidebar('VOP_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\166.png" id="VOP_166" data-flag="@X" onclick="openSidebar('VOP_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\168.png" id="VOP_168" data-flag="@X" onclick="openSidebar('VOP_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\266.png" id="VOP_266" data-flag="@X" onclick="openSidebar('VOP_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\267.png" id="VOP_267" data-flag="@X" onclick="openSidebar('VOP_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\268.png" id="VOP_268" data-flag="@X" onclick="openSidebar('VOP_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\269.png" id="VOP_269" data-flag="@X" onclick="openSidebar('VOP_269',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\270.png" id="VOP_270" data-flag="@X" onclick="openSidebar('VOP_270',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\271.png" id="VOP_271" data-flag="@X" onclick="openSidebar('VOP_271',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\272.png" id="VOP_272" data-flag="@X" onclick="openSidebar('VOP_272',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\273.png" id="VOP_273" data-flag="@X" onclick="openSidebar('VOP_273',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\274.png" id="VOP_274" data-flag="@X" onclick="openSidebar('VOP_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\275.png" id="VOP_275" data-flag="@X" onclick="openSidebar('VOP_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\265.png" id="VOP_265" data-flag="@X" onclick="openSidebar('VOP_265',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\177.png" id="VOP_177" data-flag="@X" onclick="openSidebar('VOP_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\178.png" id="VOP_178" data-flag="@X" onclick="openSidebar('VOP_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\229.png" id="VOP_229" data-flag="@X" onclick="openSidebar('VOP_229',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\230.png" id="VOP_230" data-flag="@X" onclick="openSidebar('VOP_230',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\231.png" id="VOP_231" data-flag="@X" onclick="openSidebar('VOP_231',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\232.png" id="VOP_232" data-flag="@X" onclick="openSidebar('VOP_232',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\233.png" id="VOP_233" data-flag="@X" onclick="openSidebar('VOP_233',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\282.png" id="VOP_282" data-flag="@X" onclick="openSidebar('VOP_282',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\227.png" id="VOP_227" data-flag="@X" onclick="openSidebar('VOP_227',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\228.png" id="VOP_228" data-flag="@X" onclick="openSidebar('VOP_228',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\276.png" id="VOP_276" data-flag="@X" onclick="openSidebar('VOP_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\280.png" id="VOP_280" data-flag="@X" onclick="openSidebar('VOP_280',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\279.png" id="VOP_279" data-flag="@X" onclick="openSidebar('VOP_279',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\VOP-files\img\278.png" id="VOP_278" data-flag="@X" onclick="openSidebar('VOP_278',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="VOP_e" data-flag="@E" onclick="openSidebar('VOP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="VOP_er" data-flag="@E" onclick="openSidebar('VOP_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>
