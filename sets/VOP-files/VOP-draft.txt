@@ -123,7 +123,7 @@
 		{
 			"name": "UW12",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "37",
 			"image_uris": {
@@ -263,7 +263,7 @@
 		{
 			"name": "UW13",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "38",
 			"image_uris": {
@@ -273,7 +273,7 @@
 		{
 			"name": "UW14",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "39",
 			"image_uris": {
@@ -533,7 +533,7 @@
 		{
 			"name": "UU11",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "72",
 			"image_uris": {
@@ -543,7 +543,7 @@
 		{
 			"name": "UU12",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "73",
 			"image_uris": {
@@ -553,7 +553,7 @@
 		{
 			"name": "UU13",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "74",
 			"image_uris": {
@@ -563,7 +563,7 @@
 		{
 			"name": "UU14",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "75",
 			"image_uris": {
@@ -823,7 +823,7 @@
 		{
 			"name": "UB12",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "109",
 			"image_uris": {
@@ -833,7 +833,7 @@
 		{
 			"name": "UB13",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "110",
 			"image_uris": {
@@ -843,7 +843,7 @@
 		{
 			"name": "UB14",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "111",
 			"image_uris": {
@@ -1103,7 +1103,7 @@
 		{
 			"name": "UR11",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "144",
 			"image_uris": {
@@ -1113,7 +1113,7 @@
 		{
 			"name": "UR12",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "145",
 			"image_uris": {
@@ -1123,7 +1123,7 @@
 		{
 			"name": "UR13",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "146",
 			"image_uris": {
@@ -1133,7 +1133,7 @@
 		{
 			"name": "UR14",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "147",
 			"image_uris": {
@@ -1413,7 +1413,7 @@
 		{
 			"name": "UG13",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "182",
 			"image_uris": {
@@ -1423,7 +1423,7 @@
 		{
 			"name": "UG14",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "183",
 			"image_uris": {
@@ -1693,7 +1693,7 @@
 		{
 			"name": "UA01",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "Artifact Creature",
 			"collector_number": "251",
 			"image_uris": {
@@ -1703,7 +1703,7 @@
 		{
 			"name": "UA02",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "Artifact Creature",
 			"collector_number": "252",
 			"image_uris": {
@@ -1713,7 +1713,7 @@
 		{
 			"name": "UA03",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "Artifact Creature",
 			"collector_number": "253",
 			"image_uris": {
@@ -1723,7 +1723,7 @@
 		{
 			"name": "UA04",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "Artifact Creature",
 			"collector_number": "254",
 			"image_uris": {
@@ -1753,7 +1753,7 @@
 		{
 			"name": "UA07",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "Artifact",
 			"collector_number": "257",
 			"image_uris": {
@@ -1763,7 +1763,7 @@
 		{
 			"name": "UA08",
 			"rarity": "uncommon",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
@@ -1803,7 +1803,7 @@
 		{
 			"name": "RW02",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "20",
 			"image_uris": {
@@ -1813,7 +1813,7 @@
 		{
 			"name": "RW03",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "21",
 			"image_uris": {
@@ -1823,7 +1823,7 @@
 		{
 			"name": "RW04",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "22",
 			"image_uris": {
@@ -1833,7 +1833,7 @@
 		{
 			"name": "RW05",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "23",
 			"image_uris": {
@@ -1843,7 +1843,7 @@
 		{
 			"name": "RW06",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "24",
 			"image_uris": {
@@ -1853,7 +1853,7 @@
 		{
 			"name": "RW07",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "25",
 			"image_uris": {
@@ -1863,7 +1863,7 @@
 		{
 			"name": "RU01",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "55",
 			"image_uris": {
@@ -1873,7 +1873,7 @@
 		{
 			"name": "RU02",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "56",
 			"image_uris": {
@@ -1883,7 +1883,7 @@
 		{
 			"name": "RU03",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "57",
 			"image_uris": {
@@ -1893,7 +1893,7 @@
 		{
 			"name": "RU04",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "58",
 			"image_uris": {
@@ -1903,7 +1903,7 @@
 		{
 			"name": "RU05",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "59",
 			"image_uris": {
@@ -1913,7 +1913,7 @@
 		{
 			"name": "RU06",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "60",
 			"image_uris": {
@@ -1923,7 +1923,7 @@
 		{
 			"name": "RU07",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "61",
 			"image_uris": {
@@ -1933,7 +1933,7 @@
 		{
 			"name": "RB01",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "91",
 			"image_uris": {
@@ -1943,7 +1943,7 @@
 		{
 			"name": "RB02",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "92",
 			"image_uris": {
@@ -1953,7 +1953,7 @@
 		{
 			"name": "RB03",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "93",
 			"image_uris": {
@@ -1963,7 +1963,7 @@
 		{
 			"name": "RB04",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "94",
 			"image_uris": {
@@ -1973,7 +1973,7 @@
 		{
 			"name": "RB05",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "95",
 			"image_uris": {
@@ -1983,7 +1983,7 @@
 		{
 			"name": "RB06",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "96",
 			"image_uris": {
@@ -1993,7 +1993,7 @@
 		{
 			"name": "RB07",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "97",
 			"image_uris": {
@@ -2003,7 +2003,7 @@
 		{
 			"name": "RR01",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "127",
 			"image_uris": {
@@ -2013,7 +2013,7 @@
 		{
 			"name": "RR02",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "128",
 			"image_uris": {
@@ -2023,7 +2023,7 @@
 		{
 			"name": "RR03",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "129",
 			"image_uris": {
@@ -2033,7 +2033,7 @@
 		{
 			"name": "RR04",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "130",
 			"image_uris": {
@@ -2043,7 +2043,7 @@
 		{
 			"name": "RR05",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "131",
 			"image_uris": {
@@ -2053,7 +2053,7 @@
 		{
 			"name": "RR06",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "132",
 			"image_uris": {
@@ -2063,7 +2063,7 @@
 		{
 			"name": "RR07",
 			"rarity": "rare",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "133",
 			"image_uris": {
@@ -2073,7 +2073,7 @@
 		{
 			"name": "RG01",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "163",
 			"image_uris": {
@@ -2083,7 +2083,7 @@
 		{
 			"name": "RG02",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "164",
 			"image_uris": {
@@ -2093,7 +2093,7 @@
 		{
 			"name": "RG03",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "165",
 			"image_uris": {
@@ -2103,7 +2103,7 @@
 		{
 			"name": "RG04",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "166",
 			"image_uris": {
@@ -2113,7 +2113,7 @@
 		{
 			"name": "RG05",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "167",
 			"image_uris": {
@@ -2123,7 +2123,7 @@
 		{
 			"name": "RG06",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "168",
 			"image_uris": {
@@ -2133,7 +2133,7 @@
 		{
 			"name": "RG07",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "169",
 			"image_uris": {
@@ -2163,7 +2163,7 @@
 		{
 			"name": "MM02 low power reanimator",
 			"rarity": "mythic",
-			"mana_cost": "{W}{U}{B}",
+			"mana_cost": "?{W}{U}{B}",
 			"type": "",
 			"collector_number": "185",
 			"image_uris": {
@@ -2173,7 +2173,7 @@
 		{
 			"name": "MW01",
 			"rarity": "mythic",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "17",
 			"image_uris": {
@@ -2183,7 +2183,7 @@
 		{
 			"name": "MW02",
 			"rarity": "mythic",
-			"mana_cost": "{W}",
+			"mana_cost": "?{W}",
 			"type": "",
 			"collector_number": "18",
 			"image_uris": {
@@ -2193,7 +2193,7 @@
 		{
 			"name": "MU01",
 			"rarity": "mythic",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "53",
 			"image_uris": {
@@ -2203,7 +2203,7 @@
 		{
 			"name": "MU02",
 			"rarity": "mythic",
-			"mana_cost": "{U}",
+			"mana_cost": "?{U}",
 			"type": "",
 			"collector_number": "54",
 			"image_uris": {
@@ -2213,7 +2213,7 @@
 		{
 			"name": "MB01",
 			"rarity": "mythic",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "89",
 			"image_uris": {
@@ -2223,7 +2223,7 @@
 		{
 			"name": "MB02",
 			"rarity": "mythic",
-			"mana_cost": "{B}",
+			"mana_cost": "?{B}",
 			"type": "",
 			"collector_number": "90",
 			"image_uris": {
@@ -2233,7 +2233,7 @@
 		{
 			"name": "MR01",
 			"rarity": "mythic",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "125",
 			"image_uris": {
@@ -2243,7 +2243,7 @@
 		{
 			"name": "MR02",
 			"rarity": "mythic",
-			"mana_cost": "{R}",
+			"mana_cost": "?{R}",
 			"type": "",
 			"collector_number": "126",
 			"image_uris": {
@@ -2253,7 +2253,7 @@
 		{
 			"name": "MG01",
 			"rarity": "mythic",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "161",
 			"image_uris": {
@@ -2263,7 +2263,7 @@
 		{
 			"name": "MG02",
 			"rarity": "mythic",
-			"mana_cost": "{G}",
+			"mana_cost": "?{G}",
 			"type": "",
 			"collector_number": "162",
 			"image_uris": {
@@ -2343,7 +2343,7 @@
 		{
 			"name": "MM03",
 			"rarity": "mythic",
-			"mana_cost": "{U}{B}{R}",
+			"mana_cost": "?{U}{B}{R}",
 			"type": "",
 			"collector_number": "186",
 			"image_uris": {
@@ -2353,7 +2353,7 @@
 		{
 			"name": "MM04",
 			"rarity": "mythic",
-			"mana_cost": "{B}{R}{G}",
+			"mana_cost": "?{B}{R}{G}",
 			"type": "",
 			"collector_number": "187",
 			"image_uris": {
@@ -2363,7 +2363,7 @@
 		{
 			"name": "MM06",
 			"rarity": "mythic",
-			"mana_cost": "{R}{W}{B}",
+			"mana_cost": "?{R}{W}{B}",
 			"type": "",
 			"collector_number": "189",
 			"image_uris": {
@@ -2373,7 +2373,7 @@
 		{
 			"name": "MM01",
 			"rarity": "mythic",
-			"mana_cost": "{G}{W}{U}",
+			"mana_cost": "?{G}{W}{U}",
 			"type": "",
 			"collector_number": "184",
 			"image_uris": {
@@ -2383,7 +2383,7 @@
 		{
 			"name": "MM05",
 			"rarity": "mythic",
-			"mana_cost": "{R}{G}{W}",
+			"mana_cost": "?{R}{G}{W}",
 			"type": "",
 			"collector_number": "188",
 			"image_uris": {
@@ -2393,7 +2393,7 @@
 		{
 			"name": "MM07",
 			"rarity": "mythic",
-			"mana_cost": "{G}{U}{R}",
+			"mana_cost": "?{G}{U}{R}",
 			"type": "",
 			"collector_number": "190",
 			"image_uris": {
@@ -2403,7 +2403,7 @@
 		{
 			"name": "MM08 saga recursion",
 			"rarity": "mythic",
-			"mana_cost": "{W}{B}{G}",
+			"mana_cost": "?{W}{B}{G}",
 			"type": "",
 			"collector_number": "191",
 			"image_uris": {
@@ -2413,7 +2413,7 @@
 		{
 			"name": "MM09 mega voltron",
 			"rarity": "mythic",
-			"mana_cost": "{U}{R}{W}",
+			"mana_cost": "?{U}{R}{W}",
 			"type": "",
 			"collector_number": "192",
 			"image_uris": {
@@ -2423,7 +2423,7 @@
 		{
 			"name": "MM10 proliferate",
 			"rarity": "mythic",
-			"mana_cost": "{B}{G}{U}",
+			"mana_cost": "?{B}{G}{U}",
 			"type": "",
 			"collector_number": "193",
 			"image_uris": {
@@ -2433,7 +2433,7 @@
 		{
 			"name": "RM02",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "?{W}{U}",
 			"type": "",
 			"collector_number": "195",
 			"image_uris": {
@@ -2443,7 +2443,7 @@
 		{
 			"name": "RM03",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "?{U}{B}",
 			"type": "",
 			"collector_number": "196",
 			"image_uris": {
@@ -2463,7 +2463,7 @@
 		{
 			"name": "RM05",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
+			"mana_cost": "?{B}{R}",
 			"type": "",
 			"collector_number": "198",
 			"image_uris": {
@@ -2473,7 +2473,7 @@
 		{
 			"name": "RM06",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
+			"mana_cost": "?{B}{R}",
 			"type": "",
 			"collector_number": "199",
 			"image_uris": {
@@ -2493,7 +2493,7 @@
 		{
 			"name": "RM08",
 			"rarity": "rare",
-			"mana_cost": "{R}{G}",
+			"mana_cost": "?{R}{G}",
 			"type": "",
 			"collector_number": "201",
 			"image_uris": {
@@ -2503,7 +2503,7 @@
 		{
 			"name": "RM09",
 			"rarity": "rare",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "?{G}{W}",
 			"type": "",
 			"collector_number": "202",
 			"image_uris": {
@@ -2513,7 +2513,7 @@
 		{
 			"name": "RM11",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}",
+			"mana_cost": "?{W}{B}",
 			"type": "",
 			"collector_number": "204",
 			"image_uris": {
@@ -2523,7 +2523,7 @@
 		{
 			"name": "RM10",
 			"rarity": "rare",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "?{G}{W}",
 			"type": "",
 			"collector_number": "203",
 			"image_uris": {
@@ -2533,7 +2533,7 @@
 		{
 			"name": "RM12",
 			"rarity": "rare",
-			"mana_cost": "{W}{B}",
+			"mana_cost": "?{W}{B}",
 			"type": "",
 			"collector_number": "205",
 			"image_uris": {
@@ -2553,7 +2553,7 @@
 		{
 			"name": "RM14",
 			"rarity": "rare",
-			"mana_cost": "{U}{R}",
+			"mana_cost": "?{U}{R}",
 			"type": "",
 			"collector_number": "207",
 			"image_uris": {
@@ -2573,7 +2573,7 @@
 		{
 			"name": "RM16",
 			"rarity": "rare",
-			"mana_cost": "{B}{G}",
+			"mana_cost": "?{B}{G}",
 			"type": "",
 			"collector_number": "209",
 			"image_uris": {
@@ -2583,7 +2583,7 @@
 		{
 			"name": "RM17",
 			"rarity": "rare",
-			"mana_cost": "{R}{W}",
+			"mana_cost": "?{R}{W}",
 			"type": "",
 			"collector_number": "210",
 			"image_uris": {
@@ -2593,7 +2593,7 @@
 		{
 			"name": "RM18",
 			"rarity": "rare",
-			"mana_cost": "{R}{W}",
+			"mana_cost": "?{R}{W}",
 			"type": "",
 			"collector_number": "211",
 			"image_uris": {
@@ -2603,7 +2603,7 @@
 		{
 			"name": "RM19",
 			"rarity": "rare",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "?{G}{U}",
 			"type": "",
 			"collector_number": "212",
 			"image_uris": {
@@ -2613,7 +2613,7 @@
 		{
 			"name": "RM20",
 			"rarity": "rare",
-			"mana_cost": "{G}{U}",
+			"mana_cost": "?{G}{U}",
 			"type": "",
 			"collector_number": "213",
 			"image_uris": {
@@ -2623,7 +2623,7 @@
 		{
 			"name": "RM23",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "",
 			"collector_number": "3",
 			"image_uris": {
@@ -2633,7 +2633,7 @@
 		{
 			"name": "RM25",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}{B}{R}{G}",
+			"mana_cost": "?{W}{U}{B}{R}{G}",
 			"type": "",
 			"collector_number": "214",
 			"image_uris": {
@@ -2643,7 +2643,7 @@
 		{
 			"name": "RM22",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "?",
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
@@ -2833,108 +2833,156 @@
 	]
 
 [rare(1)]
-	4 UW01 Veteran Underwriter
-	4 UW02 Cursed Chaplain
-	4 UW03 Shimmervale Lorekeeper
-	4 UW05 Silvershield Invoker
-	4 UW06 Storied Outlaw
-	4 UW07 Impassioned Recruiter
-	4 UW09 Mistfeather Steed
-	4 UW11 Song of Courage
-	4 UU01 Mistfeather Osprey
-	4 UU02 Opposition Researcher
-	4 UU04 Patient Strategist
-	4 UU05 Belligerent Bodyguard
-	4 UU07 Gravishift Sphinx
-	4 UU08 Song of Control
-	4 UU09 Erudite Underwriter
-	4 UU10 Deem Unworthy
-	4 UB01 Goblin Fleshreaper
-	4 UB02 Deathless Underwriter
-	4 UB04 Subtle Spy
-	4 UB05 Keeper of Memories
-	4 UB06 Pietous Propagandist
-	4 UB09 Song of Memory
-	4 UB11 Careless Mudslinging
-	4 UR02 Forgetful Researcher
-	4 UR03 Prideful Soloist
-	4 UR04 Inspiring Speaker
-	4 UR05 Vain Underwriter
-	4 UR06 Devilish Dancer
-	4 UR07 Blazing Aggressor
-	4 UR09 Bribery Scheme
-	4 UR10 Song of Valor
-	4 UG02 Runic Ooze
-	4 UG03 Ardent Runebreaker
-	4 UG04 Shimmervale Witness
-	4 UG05 Devoted Underwriter
-	4 UG09 Streamrider Moose
-	4 UG10 Song of Unity
-	4 UG11 Zealous Strength
-	4 UG12 Colossal Might
-	4 UM01 Unimpeachable Image
-	4 UM02 Ravishing Raconteur
-	4 UM03 Murkwater Infiltrator
-	4 UM04 Prideful Populist
-	4 UM06 Dragon's Tongue
-	4 UM05 Rune-Charge Marauder
-	4 UM07 Stirring Siegebreaker
-	4 UM08 Rubblefall Fanatic
-	4 UM09 Bishop of Runes
-	4 UM10 Shimmervale Enchantress
-	4 UM11 Effigy Sculptor
-	4 UM12 Singer of Tragedy
-	4 UM14 Springsuit Artisan
-	4 UM15 Song of Regrowth
-	4 UM16 Veilhoarder
-	4 UM17 High Hall Strategist
-	4 UM18 Stellar Paragon
-	4 UM19 Propaganda Profferer
-	4 UM20 Vine Dancer
-	4 UA05 Propagandist's Quill
-	4 UA06 Prismatic Anchor
-	4 UM13 Charged Debate
-	4 UB10 Deathless Defiance
+	2 RM13 Kaya, Unyielding Innovator
+	2 RW01 Nok, People's Candidate
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RB07
+	2 RR01
+	2 RR02
+	2 RR03
+	2 RR04
+	2 RR05
+	2 RR06
+	2 RR07
+	2 RG01
+	2 RG02
+	2 RG03
+	2 RG04
+	2 RG05
+	2 RG06
+	2 RG07
+	2 RM01 Majesty
+	2 RM21 Sparkwright Animus
+	1 MM02 low power reanimator
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	1 MM03
+	1 MM04
+	1 MM06
+	1 MM01
+	1 MM05
+	1 MM07
+	1 MM08 saga recursion
+	1 MM09 mega voltron
+	1 MM10 proliferate
+	2 RM02
+	2 RM03
+	2 RM04 Silvercloak Strike
+	2 RM05
+	2 RM06
+	2 RM07 Fervor
+	2 RM08
+	2 RM09
+	2 RM11
+	2 RM10
+	2 RM12
+	2 RM14
+	2 RM15
+	2 RM16
+	2 RM17
+	2 RM18
+	2 RM19
+	2 RM20
+	2 RM23
+	2 RM25
+	2 RM22
+	2 RM24
 [uncommon(3)]
+	4 UW12
 	4 UW01 Veteran Underwriter
 	4 UW02 Cursed Chaplain
 	4 UW03 Shimmervale Lorekeeper
+	4 UW04
 	4 UW05 Silvershield Invoker
 	4 UW06 Storied Outlaw
 	4 UW07 Impassioned Recruiter
+	4 UW08
 	4 UW09 Mistfeather Steed
+	4 UW10
 	4 UW11 Song of Courage
+	4 UW13
+	4 UW14
 	4 UU01 Mistfeather Osprey
 	4 UU02 Opposition Researcher
+	4 UU03 Shimmervale Infiltrator
 	4 UU04 Patient Strategist
 	4 UU05 Belligerent Bodyguard
+	4 UU06
 	4 UU07 Gravishift Sphinx
 	4 UU08 Song of Control
 	4 UU09 Erudite Underwriter
 	4 UU10 Deem Unworthy
+	4 UU11
+	4 UU12
+	4 UU13
+	4 UU14
 	4 UB01 Goblin Fleshreaper
 	4 UB02 Deathless Underwriter
+	4 UB03
 	4 UB04 Subtle Spy
 	4 UB05 Keeper of Memories
 	4 UB06 Pietous Propagandist
+	4 UB07
+	4 UB08
 	4 UB09 Song of Memory
 	4 UB11 Careless Mudslinging
+	4 UB12
+	4 UB13
+	4 UB14
+	4 UR01
 	4 UR02 Forgetful Researcher
 	4 UR03 Prideful Soloist
 	4 UR04 Inspiring Speaker
 	4 UR05 Vain Underwriter
 	4 UR06 Devilish Dancer
 	4 UR07 Blazing Aggressor
+	4 UR08
 	4 UR09 Bribery Scheme
 	4 UR10 Song of Valor
+	4 UR11
+	4 UR12
+	4 UR13
+	4 UR14
+	4 UG01
 	4 UG02 Runic Ooze
 	4 UG03 Ardent Runebreaker
 	4 UG04 Shimmervale Witness
 	4 UG05 Devoted Underwriter
+	4 UG06
+	4 UG07
+	4 UG08
 	4 UG09 Streamrider Moose
 	4 UG10 Song of Unity
 	4 UG11 Zealous Strength
 	4 UG12 Colossal Might
+	4 UG13
+	4 UG14
 	4 UM01 Unimpeachable Image
 	4 UM02 Ravishing Raconteur
 	4 UM03 Murkwater Infiltrator
@@ -2954,8 +3002,16 @@
 	4 UM18 Stellar Paragon
 	4 UM19 Propaganda Profferer
 	4 UM20 Vine Dancer
+	4 UA01
+	4 UA02
+	4 UA03
+	4 UA04
 	4 UA05 Propagandist's Quill
 	4 UA06 Prismatic Anchor
+	4 UA07
+	4 UA08
+	4 UL01
+	4 UL02
 	4 UM13 Charged Debate
 	4 UB10 Deathless Defiance
 [common(6)]
@@ -3143,187 +3199,547 @@
 	8 CL10 Wandervine District
 	8 CW08 Pampered Prince
 [foil(1)]
-	8 CW01 Surveillance Pigeon
-	8 CW02 Capitol Guardian
-	8 CW03 Storied Idol
-	8 CW04 Martyred Idol
-	8 CW05 Silvershield Aerialist
-	8 CW06 Lakefront Siren
-	8 CW07 Shimmervale Scion
-	8 CW09 Clearsong Flautist
-	8 CW10 Pious Summoner
-	8 CW11 Silvershield Luminary
-	8 CW12 Runebreak Trap
-	8 CW13 The Visionary's Exile
-	8 CW15 Righteous Purge
-	8 CW14 Titan's Valor
-	8 CU01 Murkwater Scavenger
-	8 CU02 Skyseeker Raven
-	8 CU03 Persistent Paparazzo
-	8 CU04 Lateral Strategist
-	8 CU05 Watchful Neighbor
-	8 CU06 Runespark Tinkerer
-	8 CU07 Aqueduct Agent
-	8 CU08 Evenflow Drake
-	8 CU09 Into the Mist
-	8 CU10 Control the Narrative
-	8 CU11 Experimental Augury
-	8 CU12 Clear Visions
-	8 CU13 Early Retirement
-	8 CU14 Meddling Grasp
-	8 CU15 Monarch's Wings
-	8 CB01 Footlight Fiend
-	8 CB02 Riotous Reactionary
-	8 CB03 Underhall Crawler
-	8 CB04 Sensational Reporter
-	8 CB05 Honored Hireling
-	8 CB06 Runesnare Wyvern
-	8 CB07 Paranoid Prophet
-	8 CB08 Maverick Mortician
-	8 CB09 Macabre Mascot
-	8 CB10 Smear Campaign
-	8 CB12 Decontextualize
-	8 CB13 Splintered Thought
-	8 CB14 Murder
-	8 CB15 Essence Sear
-	8 CB11 Twisted Blade
-	8 CR01 Dragon Trumpeter
-	8 CR05 Rubblefall Marauder
-	8 CR03 Outspoken Activist
-	8 CR04 Flamesprite Maverick
-	8 CR02 Scorned Duelist
-	8 CR06 Beloved Pet
-	8 CR07 Veteran Songsmith
-	8 CR08 Rubblefall Browbeater
-	8 CR09 Earthquake Wurm
-	8 CR10 Shock
-	8 CR11 Aggressive Stance
-	8 CR12 Grassroots Movement
-	8 CR13 Scavenger's Crest
-	8 CR14 Erase the Past
-	8 CR15 Conclusive Charge
-	8 CG01 Amicable Activist
-	8 CG02 Steadfast Botanist
-	8 CG06 High Hall Archivist
-	8 CG04 Rousing Orator
-	8 CG05 Wandervine Historian
-	8 CG03 Shimmervale Nurturer
-	8 CG07 Rune-Etched Arachnaur
-	8 CG08 High Hall General
-	8 CG09 Devoted Conjurer
-	8 CG10 Camelback Elephant
-	8 CG11 Measured Takeover
-	8 CG12 Call a Hit
-	8 CG13 Stoic Resolve
-	8 CG14 Return with Riches
-	8 CG15 Nourishing Roots
-	8 CA01 Deepland Surveyor
-	8 CA02 Idol's Effigy
-	8 CA03 Plaza Recycler
-	8 CA04 Prism-Bomb
-	8 CA05 Patron's Cant
-	8 CA06 Alley Map
-	8 CL01 Lakefront District
-	8 CL02 Murkwater District
-	8 CL03 Flinthall District
-	8 CL04 Rubblefall District
-	8 CL05 Shimmervale District
-	8 CL06 Echoing District
-	8 CL07 Runespark District
-	8 CL08 Conjurer's District
-	8 CL09 Clearsong District
-	8 CL10 Wandervine District
-	8 CW08 Pampered Prince
+	12 CW01 Surveillance Pigeon
+	12 CW02 Capitol Guardian
+	12 CW03 Storied Idol
+	12 CW04 Martyred Idol
+	12 CW05 Silvershield Aerialist
+	12 CW06 Lakefront Siren
+	12 CW07 Shimmervale Scion
+	12 CW09 Clearsong Flautist
+	12 CW10 Pious Summoner
+	12 CW11 Silvershield Luminary
+	12 CW12 Runebreak Trap
+	12 CW13 The Visionary's Exile
+	6 UW12
+	12 CW15 Righteous Purge
+	6 UW01 Veteran Underwriter
+	6 UW02 Cursed Chaplain
+	6 UW03 Shimmervale Lorekeeper
+	6 UW04
+	6 UW05 Silvershield Invoker
+	6 UW06 Storied Outlaw
+	6 UW07 Impassioned Recruiter
+	6 UW08
+	6 UW09 Mistfeather Steed
+	6 UW10
+	6 UW11 Song of Courage
+	12 CW14 Titan's Valor
+	6 UW13
+	6 UW14
+	12 CU01 Murkwater Scavenger
+	12 CU02 Skyseeker Raven
+	12 CU03 Persistent Paparazzo
+	12 CU04 Lateral Strategist
+	12 CU05 Watchful Neighbor
+	12 CU06 Runespark Tinkerer
+	12 CU07 Aqueduct Agent
+	12 CU08 Evenflow Drake
+	12 CU09 Into the Mist
+	12 CU10 Control the Narrative
+	12 CU11 Experimental Augury
+	12 CU12 Clear Visions
+	12 CU13 Early Retirement
+	12 CU14 Meddling Grasp
+	12 CU15 Monarch's Wings
+	6 UU01 Mistfeather Osprey
+	6 UU02 Opposition Researcher
+	6 UU03 Shimmervale Infiltrator
+	6 UU04 Patient Strategist
+	6 UU05 Belligerent Bodyguard
+	6 UU06
+	6 UU07 Gravishift Sphinx
+	6 UU08 Song of Control
+	6 UU09 Erudite Underwriter
+	6 UU10 Deem Unworthy
+	6 UU11
+	6 UU12
+	6 UU13
+	6 UU14
+	12 CB01 Footlight Fiend
+	12 CB02 Riotous Reactionary
+	12 CB03 Underhall Crawler
+	12 CB04 Sensational Reporter
+	12 CB05 Honored Hireling
+	12 CB06 Runesnare Wyvern
+	12 CB07 Paranoid Prophet
+	12 CB08 Maverick Mortician
+	12 CB09 Macabre Mascot
+	12 CB10 Smear Campaign
+	12 CB12 Decontextualize
+	12 CB13 Splintered Thought
+	12 CB14 Murder
+	12 CB15 Essence Sear
+	6 UB01 Goblin Fleshreaper
+	6 UB02 Deathless Underwriter
+	6 UB03
+	6 UB04 Subtle Spy
+	6 UB05 Keeper of Memories
+	6 UB06 Pietous Propagandist
+	6 UB07
+	6 UB08
+	6 UB09 Song of Memory
+	12 CB11 Twisted Blade
+	6 UB11 Careless Mudslinging
+	6 UB12
+	6 UB13
+	6 UB14
+	12 CR01 Dragon Trumpeter
+	12 CR05 Rubblefall Marauder
+	12 CR03 Outspoken Activist
+	12 CR04 Flamesprite Maverick
+	12 CR02 Scorned Duelist
+	12 CR06 Beloved Pet
+	12 CR07 Veteran Songsmith
+	12 CR08 Rubblefall Browbeater
+	12 CR09 Earthquake Wurm
+	12 CR10 Shock
+	12 CR11 Aggressive Stance
+	12 CR12 Grassroots Movement
+	12 CR13 Scavenger's Crest
+	12 CR14 Erase the Past
+	12 CR15 Conclusive Charge
+	6 UR01
+	6 UR02 Forgetful Researcher
+	6 UR03 Prideful Soloist
+	6 UR04 Inspiring Speaker
+	6 UR05 Vain Underwriter
+	6 UR06 Devilish Dancer
+	6 UR07 Blazing Aggressor
+	6 UR08
+	6 UR09 Bribery Scheme
+	6 UR10 Song of Valor
+	6 UR11
+	6 UR12
+	6 UR13
+	6 UR14
+	12 CG01 Amicable Activist
+	12 CG02 Steadfast Botanist
+	12 CG06 High Hall Archivist
+	12 CG04 Rousing Orator
+	12 CG05 Wandervine Historian
+	12 CG03 Shimmervale Nurturer
+	12 CG07 Rune-Etched Arachnaur
+	12 CG08 High Hall General
+	12 CG09 Devoted Conjurer
+	12 CG10 Camelback Elephant
+	12 CG11 Measured Takeover
+	12 CG12 Call a Hit
+	12 CG13 Stoic Resolve
+	12 CG14 Return with Riches
+	12 CG15 Nourishing Roots
+	6 UG01
+	6 UG02 Runic Ooze
+	6 UG03 Ardent Runebreaker
+	6 UG04 Shimmervale Witness
+	6 UG05 Devoted Underwriter
+	6 UG06
+	6 UG07
+	6 UG08
+	6 UG09 Streamrider Moose
+	6 UG10 Song of Unity
+	6 UG11 Zealous Strength
+	6 UG12 Colossal Might
+	6 UG13
+	6 UG14
+	6 UM01 Unimpeachable Image
+	6 UM02 Ravishing Raconteur
+	6 UM03 Murkwater Infiltrator
+	6 UM04 Prideful Populist
+	6 UM06 Dragon's Tongue
+	6 UM05 Rune-Charge Marauder
+	6 UM07 Stirring Siegebreaker
+	6 UM08 Rubblefall Fanatic
+	6 UM09 Bishop of Runes
+	6 UM10 Shimmervale Enchantress
+	6 UM11 Effigy Sculptor
+	6 UM12 Singer of Tragedy
+	6 UM14 Springsuit Artisan
+	2 RM13 Kaya, Unyielding Innovator
+	6 UM15 Song of Regrowth
+	6 UM16 Veilhoarder
+	6 UM17 High Hall Strategist
+	6 UM18 Stellar Paragon
+	6 UM19 Propaganda Profferer
+	6 UM20 Vine Dancer
+	12 CA01 Deepland Surveyor
+	12 CA02 Idol's Effigy
+	12 CA03 Plaza Recycler
+	12 CA04 Prism-Bomb
+	12 CA05 Patron's Cant
+	12 CA06 Alley Map
+	6 UA01
+	6 UA02
+	6 UA03
+	6 UA04
+	6 UA05 Propagandist's Quill
+	6 UA06 Prismatic Anchor
+	6 UA07
+	6 UA08
+	6 UL01
+	6 UL02
+	2 RW01 Nok, People's Candidate
+	2 RW02
+	2 RW03
+	2 RW04
+	2 RW05
+	2 RW06
+	2 RW07
+	2 RU01
+	2 RU02
+	2 RU03
+	2 RU04
+	2 RU05
+	2 RU06
+	2 RU07
+	2 RB01
+	2 RB02
+	2 RB03
+	2 RB04
+	2 RB05
+	2 RB06
+	2 RB07
+	2 RR01
+	2 RR02
+	2 RR03
+	2 RR04
+	2 RR05
+	2 RR06
+	2 RR07
+	2 RG01
+	2 RG02
+	2 RG03
+	2 RG04
+	2 RG05
+	2 RG06
+	2 RG07
+	2 RM01 Majesty
+	2 RM21 Sparkwright Animus
+	1 MM02 low power reanimator
+	1 MW01
+	1 MW02
+	1 MU01
+	1 MU02
+	1 MB01
+	1 MB02
+	1 MR01
+	1 MR02
+	1 MG01
+	1 MG02
+	1 MM03
+	1 MM04
+	1 MM06
+	1 MM01
+	1 MM05
+	1 MM07
+	1 MM08 saga recursion
+	1 MM09 mega voltron
+	1 MM10 proliferate
+	2 RM02
+	2 RM03
+	2 RM04 Silvercloak Strike
+	2 RM05
+	2 RM06
+	2 RM07 Fervor
+	2 RM08
+	2 RM09
+	2 RM11
+	2 RM10
+	2 RM12
+	6 UM13 Charged Debate
+	2 RM14
+	2 RM15
+	2 RM16
+	2 RM17
+	2 RM18
+	2 RM19
+	2 RM20
+	2 RM23
+	2 RM25
+	2 RM22
+	2 RM24
+	12 CL01 Lakefront District
+	12 CL02 Murkwater District
+	12 CL03 Flinthall District
+	12 CL04 Rubblefall District
+	12 CL05 Shimmervale District
+	12 CL06 Echoing District
+	12 CL07 Runespark District
+	12 CL08 Conjurer's District
+	12 CL09 Clearsong District
+	12 CL10 Wandervine District
+	12 CW08 Pampered Prince
+	6 UB10 Deathless Defiance
 [wildcard(1)]
-	8 CW01 Surveillance Pigeon
-	8 CW02 Capitol Guardian
-	8 CW03 Storied Idol
-	8 CW04 Martyred Idol
-	8 CW05 Silvershield Aerialist
-	8 CW06 Lakefront Siren
-	8 CW07 Shimmervale Scion
-	8 CW09 Clearsong Flautist
-	8 CW10 Pious Summoner
-	8 CW11 Silvershield Luminary
-	8 CW12 Runebreak Trap
-	8 CW13 The Visionary's Exile
-	8 CW15 Righteous Purge
-	8 CW14 Titan's Valor
-	8 CU01 Murkwater Scavenger
-	8 CU02 Skyseeker Raven
-	8 CU03 Persistent Paparazzo
-	8 CU04 Lateral Strategist
-	8 CU05 Watchful Neighbor
-	8 CU06 Runespark Tinkerer
-	8 CU07 Aqueduct Agent
-	8 CU08 Evenflow Drake
-	8 CU09 Into the Mist
-	8 CU10 Control the Narrative
-	8 CU11 Experimental Augury
-	8 CU12 Clear Visions
-	8 CU13 Early Retirement
-	8 CU14 Meddling Grasp
-	8 CU15 Monarch's Wings
-	8 CB01 Footlight Fiend
-	8 CB02 Riotous Reactionary
-	8 CB03 Underhall Crawler
-	8 CB04 Sensational Reporter
-	8 CB05 Honored Hireling
-	8 CB06 Runesnare Wyvern
-	8 CB07 Paranoid Prophet
-	8 CB08 Maverick Mortician
-	8 CB09 Macabre Mascot
-	8 CB10 Smear Campaign
-	8 CB12 Decontextualize
-	8 CB13 Splintered Thought
-	8 CB14 Murder
-	8 CB15 Essence Sear
-	8 CB11 Twisted Blade
-	8 CR01 Dragon Trumpeter
-	8 CR05 Rubblefall Marauder
-	8 CR03 Outspoken Activist
-	8 CR04 Flamesprite Maverick
-	8 CR02 Scorned Duelist
-	8 CR06 Beloved Pet
-	8 CR07 Veteran Songsmith
-	8 CR08 Rubblefall Browbeater
-	8 CR09 Earthquake Wurm
-	8 CR10 Shock
-	8 CR11 Aggressive Stance
-	8 CR12 Grassroots Movement
-	8 CR13 Scavenger's Crest
-	8 CR14 Erase the Past
-	8 CR15 Conclusive Charge
-	8 CG01 Amicable Activist
-	8 CG02 Steadfast Botanist
-	8 CG06 High Hall Archivist
-	8 CG04 Rousing Orator
-	8 CG05 Wandervine Historian
-	8 CG03 Shimmervale Nurturer
-	8 CG07 Rune-Etched Arachnaur
-	8 CG08 High Hall General
-	8 CG09 Devoted Conjurer
-	8 CG10 Camelback Elephant
-	8 CG11 Measured Takeover
-	8 CG12 Call a Hit
-	8 CG13 Stoic Resolve
-	8 CG14 Return with Riches
-	8 CG15 Nourishing Roots
-	8 CA01 Deepland Surveyor
-	8 CA02 Idol's Effigy
-	8 CA03 Plaza Recycler
-	8 CA04 Prism-Bomb
-	8 CA05 Patron's Cant
-	8 CA06 Alley Map
-	8 CL01 Lakefront District
-	8 CL02 Murkwater District
-	8 CL03 Flinthall District
-	8 CL04 Rubblefall District
-	8 CL05 Shimmervale District
-	8 CL06 Echoing District
-	8 CL07 Runespark District
-	8 CL08 Conjurer's District
-	8 CL09 Clearsong District
-	8 CL10 Wandervine District
-	8 CW08 Pampered Prince
+	6 CW01 Surveillance Pigeon
+	6 CW02 Capitol Guardian
+	6 CW03 Storied Idol
+	6 CW04 Martyred Idol
+	6 CW05 Silvershield Aerialist
+	6 CW06 Lakefront Siren
+	6 CW07 Shimmervale Scion
+	6 CW09 Clearsong Flautist
+	6 CW10 Pious Summoner
+	6 CW11 Silvershield Luminary
+	6 CW12 Runebreak Trap
+	6 CW13 The Visionary's Exile
+	15 UW12
+	6 CW15 Righteous Purge
+	15 UW01 Veteran Underwriter
+	15 UW02 Cursed Chaplain
+	15 UW03 Shimmervale Lorekeeper
+	15 UW04
+	15 UW05 Silvershield Invoker
+	15 UW06 Storied Outlaw
+	15 UW07 Impassioned Recruiter
+	15 UW08
+	15 UW09 Mistfeather Steed
+	15 UW10
+	15 UW11 Song of Courage
+	6 CW14 Titan's Valor
+	15 UW13
+	15 UW14
+	6 CU01 Murkwater Scavenger
+	6 CU02 Skyseeker Raven
+	6 CU03 Persistent Paparazzo
+	6 CU04 Lateral Strategist
+	6 CU05 Watchful Neighbor
+	6 CU06 Runespark Tinkerer
+	6 CU07 Aqueduct Agent
+	6 CU08 Evenflow Drake
+	6 CU09 Into the Mist
+	6 CU10 Control the Narrative
+	6 CU11 Experimental Augury
+	6 CU12 Clear Visions
+	6 CU13 Early Retirement
+	6 CU14 Meddling Grasp
+	6 CU15 Monarch's Wings
+	15 UU01 Mistfeather Osprey
+	15 UU02 Opposition Researcher
+	15 UU03 Shimmervale Infiltrator
+	15 UU04 Patient Strategist
+	15 UU05 Belligerent Bodyguard
+	15 UU06
+	15 UU07 Gravishift Sphinx
+	15 UU08 Song of Control
+	15 UU09 Erudite Underwriter
+	15 UU10 Deem Unworthy
+	15 UU11
+	15 UU12
+	15 UU13
+	15 UU14
+	6 CB01 Footlight Fiend
+	6 CB02 Riotous Reactionary
+	6 CB03 Underhall Crawler
+	6 CB04 Sensational Reporter
+	6 CB05 Honored Hireling
+	6 CB06 Runesnare Wyvern
+	6 CB07 Paranoid Prophet
+	6 CB08 Maverick Mortician
+	6 CB09 Macabre Mascot
+	6 CB10 Smear Campaign
+	6 CB12 Decontextualize
+	6 CB13 Splintered Thought
+	6 CB14 Murder
+	6 CB15 Essence Sear
+	15 UB01 Goblin Fleshreaper
+	15 UB02 Deathless Underwriter
+	15 UB03
+	15 UB04 Subtle Spy
+	15 UB05 Keeper of Memories
+	15 UB06 Pietous Propagandist
+	15 UB07
+	15 UB08
+	15 UB09 Song of Memory
+	6 CB11 Twisted Blade
+	15 UB11 Careless Mudslinging
+	15 UB12
+	15 UB13
+	15 UB14
+	6 CR01 Dragon Trumpeter
+	6 CR05 Rubblefall Marauder
+	6 CR03 Outspoken Activist
+	6 CR04 Flamesprite Maverick
+	6 CR02 Scorned Duelist
+	6 CR06 Beloved Pet
+	6 CR07 Veteran Songsmith
+	6 CR08 Rubblefall Browbeater
+	6 CR09 Earthquake Wurm
+	6 CR10 Shock
+	6 CR11 Aggressive Stance
+	6 CR12 Grassroots Movement
+	6 CR13 Scavenger's Crest
+	6 CR14 Erase the Past
+	6 CR15 Conclusive Charge
+	15 UR01
+	15 UR02 Forgetful Researcher
+	15 UR03 Prideful Soloist
+	15 UR04 Inspiring Speaker
+	15 UR05 Vain Underwriter
+	15 UR06 Devilish Dancer
+	15 UR07 Blazing Aggressor
+	15 UR08
+	15 UR09 Bribery Scheme
+	15 UR10 Song of Valor
+	15 UR11
+	15 UR12
+	15 UR13
+	15 UR14
+	6 CG01 Amicable Activist
+	6 CG02 Steadfast Botanist
+	6 CG06 High Hall Archivist
+	6 CG04 Rousing Orator
+	6 CG05 Wandervine Historian
+	6 CG03 Shimmervale Nurturer
+	6 CG07 Rune-Etched Arachnaur
+	6 CG08 High Hall General
+	6 CG09 Devoted Conjurer
+	6 CG10 Camelback Elephant
+	6 CG11 Measured Takeover
+	6 CG12 Call a Hit
+	6 CG13 Stoic Resolve
+	6 CG14 Return with Riches
+	6 CG15 Nourishing Roots
+	15 UG01
+	15 UG02 Runic Ooze
+	15 UG03 Ardent Runebreaker
+	15 UG04 Shimmervale Witness
+	15 UG05 Devoted Underwriter
+	15 UG06
+	15 UG07
+	15 UG08
+	15 UG09 Streamrider Moose
+	15 UG10 Song of Unity
+	15 UG11 Zealous Strength
+	15 UG12 Colossal Might
+	15 UG13
+	15 UG14
+	15 UM01 Unimpeachable Image
+	15 UM02 Ravishing Raconteur
+	15 UM03 Murkwater Infiltrator
+	15 UM04 Prideful Populist
+	15 UM06 Dragon's Tongue
+	15 UM05 Rune-Charge Marauder
+	15 UM07 Stirring Siegebreaker
+	15 UM08 Rubblefall Fanatic
+	15 UM09 Bishop of Runes
+	15 UM10 Shimmervale Enchantress
+	15 UM11 Effigy Sculptor
+	15 UM12 Singer of Tragedy
+	15 UM14 Springsuit Artisan
+	7 RM13 Kaya, Unyielding Innovator
+	15 UM15 Song of Regrowth
+	15 UM16 Veilhoarder
+	15 UM17 High Hall Strategist
+	15 UM18 Stellar Paragon
+	15 UM19 Propaganda Profferer
+	15 UM20 Vine Dancer
+	6 CA01 Deepland Surveyor
+	6 CA02 Idol's Effigy
+	6 CA03 Plaza Recycler
+	6 CA04 Prism-Bomb
+	6 CA05 Patron's Cant
+	6 CA06 Alley Map
+	15 UA01
+	15 UA02
+	15 UA03
+	15 UA04
+	15 UA05 Propagandist's Quill
+	15 UA06 Prismatic Anchor
+	15 UA07
+	15 UA08
+	15 UL01
+	15 UL02
+	7 RW01 Nok, People's Candidate
+	7 RW02
+	7 RW03
+	7 RW04
+	7 RW05
+	7 RW06
+	7 RW07
+	7 RU01
+	7 RU02
+	7 RU03
+	7 RU04
+	7 RU05
+	7 RU06
+	7 RU07
+	7 RB01
+	7 RB02
+	7 RB03
+	7 RB04
+	7 RB05
+	7 RB06
+	7 RB07
+	7 RR01
+	7 RR02
+	7 RR03
+	7 RR04
+	7 RR05
+	7 RR06
+	7 RR07
+	7 RG01
+	7 RG02
+	7 RG03
+	7 RG04
+	7 RG05
+	7 RG06
+	7 RG07
+	7 RM01 Majesty
+	7 RM21 Sparkwright Animus
+	4 MM02 low power reanimator
+	4 MW01
+	4 MW02
+	4 MU01
+	4 MU02
+	4 MB01
+	4 MB02
+	4 MR01
+	4 MR02
+	4 MG01
+	4 MG02
+	4 MM03
+	4 MM04
+	4 MM06
+	4 MM01
+	4 MM05
+	4 MM07
+	4 MM08 saga recursion
+	4 MM09 mega voltron
+	4 MM10 proliferate
+	7 RM02
+	7 RM03
+	7 RM04 Silvercloak Strike
+	7 RM05
+	7 RM06
+	7 RM07 Fervor
+	7 RM08
+	7 RM09
+	7 RM11
+	7 RM10
+	7 RM12
+	15 UM13 Charged Debate
+	7 RM14
+	7 RM15
+	7 RM16
+	7 RM17
+	7 RM18
+	7 RM19
+	7 RM20
+	7 RM23
+	7 RM25
+	7 RM22
+	7 RM24
+	6 CL01 Lakefront District
+	6 CL02 Murkwater District
+	6 CL03 Flinthall District
+	6 CL04 Rubblefall District
+	6 CL05 Shimmervale District
+	6 CL06 Echoing District
+	6 CL07 Runespark District
+	6 CL08 Conjurer's District
+	6 CL09 Clearsong District
+	6 CL10 Wandervine District
+	6 CW08 Pampered Prince
+	15 UB10 Deathless Defiance
 [land(1)]

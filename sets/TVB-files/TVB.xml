@@ -5,7 +5,7 @@
 			<name>TVB</name>
 			<longname>The Void Beneath</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-04</releasedate>
+			<releasedate>2026-03-28</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -35,18 +35,18 @@
 				<side>front</side>
 				<type>Creature — Elf Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Skyport Watchman</name>
 			<text>{T}, Tap another creature you control: Tap target creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/2.png" num="50">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/2.png" num="49">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -61,20 +61,20 @@
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Reckless Raptor</name>
+			<name>Territorial Talonclaw</name>
 			<text>Flying, lifelink
 When this creature enters, lay waste. (Exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/3.png" num="44">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/3.png" num="52">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Bird</type>
 				<maintype>Creature</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -891,7 +891,7 @@ When this creature enters, lay waste. (Exile a face-up land you control and retu
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1217,7 +1217,7 @@ Whenever this creature enters or attacks, draw a card, then discard a card.</tex
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Vampire Citizen</type>
+				<type>Creature — Human Citizen</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
@@ -1303,7 +1303,7 @@ Whenever one or more cards leave your graveyard, create a 1/1 green Saproling cr
 		<card>
 			<name>Underdark Avenger</name>
 			<text>Vigilance
-{2}, Exile a permanent card from your graveyard: Put a +1/+1 counter on this creature.</text>
+Whenever this creature attacks, you may exile a permanent card from your graveyard. If you do, put a +1/+1 counter on this creature.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/74.png" num="239">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1592,7 +1592,7 @@ CG Keyword Distribution
 			<name>Ruinating Strike</name>
 			<text>As an additional cost to cast this spell, lay waste. (Exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)
 Exile target attacking or blocking creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/88.png" num="46">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/88.png" num="45">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1609,7 +1609,7 @@ Exile target attacking or blocking creature.</text>
 			<name>Severed Sanctum</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
 {1}, Sacrifice this enchantment: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/89.png" num="47">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/89.png" num="46">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1782,7 +1782,7 @@ common_waste_cycle
 common_waste_spell_cycle
 uncommon_landfall_cycle
 uncommon_waste_cycle
-rare_voidling_cycle
+rare_evoke_cycle
 rare_repeatable_waste_cycle</text>
 			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/99.png" num="2">TVB</set>
 			<prop>
@@ -2226,16 +2226,16 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 		</card>
 		<card>
 			<name>Draft Archetypes TVB</name>
-			<text>WU — Flying Elves
-UB — Colorless cost control
-BR — Aristocrats
-RG — Landfall
-GW — Reanimator
-WB — +1/+1 counters
-UR — Prisms/colorless permanents
-BG — Graveyard as cost
-RW — Tapped creatures
-GU — Evoke ramp</text>
+			<text>{W}{U} Flying Elves
+{U}{B} Colorless cost control
+{B}{R} Sacrifice
+{R}{G} Landfall
+{G}{W} Reanimator
+{W}{B} Tapped creatures
+{U}{R} Colorless permanents
+{B}{G} Leaves the graveyard
+{R}{W} Go wide
+{G}{U} MV 5+</text>
 			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/126.png" num="3">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2244,6 +2244,7 @@ GU — Evoke ramp</text>
 				<maintype></maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
@@ -2292,7 +2293,7 @@ When Hu dies, return all cards exiled with it to the battlefield under their own
 			<name>Shen, Heir of Anox</name>
 			<text>Vigilance
 Whenever another creature you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/129.png" num="48">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/129.png" num="47">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2367,7 +2368,7 @@ Crew 2</text>
 			<text>Choose one —
 • Destroy all nonland permanents that are one or more colors.
 • Destroy all colorless nonland permanents.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/133.png" num="52">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/133.png" num="51">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2383,7 +2384,7 @@ Crew 2</text>
 		<card>
 			<name>Soul Siphoner</name>
 			<text>Whenever a nontoken creature you control dies, create a 2/2 colorless Voidling creature token for each counter that creature had on it.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/134.png" num="51">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/134.png" num="50">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2573,7 +2574,7 @@ When this creature enters, return target permanent card with mana value 3 or les
 		<card>
 			<name>Silvershield Martyr</name>
 			<text>Whenever this creature is dealt damage, put a +1/+1 counter on each other creature you control.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/145.png" num="49">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/145.png" num="48">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2608,7 +2609,7 @@ Whenever you attack, target creature gets +1/+0 until end of turn.</text>
 		<card>
 			<name>Rewarding Retreat</name>
 			<text>Exile target creature you control. At the beginning of the next end step, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/147.png" num="45">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/147.png" num="44">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3044,7 +3045,7 @@ When Li dies, return all permanents exiled with it to the battlefield under your
 		<card>
 			<name>Sculptor of Memories</name>
 			<text>{C}{B}: Exile target creature card from a graveyard. Put a +1/+1 counter on this creature.
-This creature has all activated and triggered abilities of all creature cards exiled by it.</text>
+This creature has all activated abilities of all creature cards exiled by it.</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/172.png" num="116">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3133,7 +3134,7 @@ Mill X cards.</text>
 			<name>Yan, Dealer of Destinies</name>
 			<text>{T}, Sacrifice a creature: Draw a card.
 {T}, Discard a card: Create a 2/2 colorless Voidling creature token with decayed.
-Lay waste: Untap Yan. (To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)</text>
+Lay waste: Untap Yan. Activate only as a sorcery. (To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/177.png" num="126">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4436,8 +4437,7 @@ Face-down lands you control are 3/3 Voidling creatures with trample and haste in
 		</card>
 		<card>
 			<name>Heartpact Awakening</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I, II — Each player draws a card, then discards a card. You gain 3 life.
+			<text>I, II — Each player draws a card, then discards a card. You gain 3 life.
 III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
 ​</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/251.png" num="217">TVB</set>
@@ -5164,8 +5164,7 @@ Evoke {5}</text>
 		</card>
 		<card>
 			<name>A World Asunder</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Exile all other nonland permanents.
+			<text>I — Exile all other nonland permanents.
 II — Lay waste.
 III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/293.png" num="23">TVB</set>

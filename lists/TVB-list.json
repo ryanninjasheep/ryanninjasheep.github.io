@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Shen, Heir of Anox",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -161,7 +161,7 @@
     },
     {
         "card_name": "Soul Siphoner",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -201,7 +201,7 @@
     },
     {
         "card_name": "Tectonic Shift",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Rewarding Retreat",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -641,7 +641,7 @@
     },
     {
         "card_name": "Silvershield Martyr",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -1200,12 +1200,12 @@
         "position": "54"
     },
     {
-        "card_name": "Reckless Raptor",
-        "number": 44,
+        "card_name": "Ruinating Strike",
+        "number": 45,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "3"
+        "position": "88"
     },
     {
         "card_name": "Utter Insignificance",
@@ -1240,12 +1240,12 @@
         "position": "285"
     },
     {
-        "card_name": "Ruinating Strike",
+        "card_name": "Severed Sanctum",
         "number": 46,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "88"
+        "position": "89"
     },
     {
         "card_name": "Voidcraft Scholar",
@@ -1280,12 +1280,12 @@
         "position": "53"
     },
     {
-        "card_name": "Severed Sanctum",
-        "number": 47,
+        "card_name": "Skyport Watchman",
+        "number": 49,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "89"
+        "position": "2"
     },
     {
         "card_name": "Wild Whelp",
@@ -1320,12 +1320,12 @@
         "position": "49"
     },
     {
-        "card_name": "Skyport Watchman",
-        "number": 50,
+        "card_name": "Territorial Talonclaw",
+        "number": 52,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "2"
+        "position": "3"
     },
     {
         "card_name": "Wingblade Surveyor",

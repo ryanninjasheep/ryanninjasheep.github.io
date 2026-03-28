@@ -1,4 +1,111 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Territorial Talonclaw added.
+
+Reckless Raptor removed.
+
+Heartpact Acolyte
+cost: {2}{W} => {1}{W}
+pt: 2/3 => 2/2
+
+Thunderous Terrapin
+pt: 4/4 => 3/4
+
+Dessicated Diner
+type: Creature — Vampire Citizen => Creature — Human Citizen
+
+Underdark Avenger
+rules_text: Vigilance
+{2}, Exile a permanent card from your graveyard: Put a +1/+1 counter on this creature. => Vigilance
+Whenever this creature attacks, you may exile a permanent card from your graveyard. If you do, put a +1/+1 counter on this creature.
+
+Cycles
+rules_text: common_evoke_cycle
+common_waste_cycle
+common_waste_spell_cycle
+uncommon_landfall_cycle
+uncommon_waste_cycle
+rare_voidling_cycle
+rare_repeatable_waste_cycle => common_evoke_cycle
+common_waste_cycle
+common_waste_spell_cycle
+uncommon_landfall_cycle
+uncommon_waste_cycle
+rare_evoke_cycle
+rare_repeatable_waste_cycle
+
+Draft Archetypes
+rules_text: WU — Flying Elves
+UB — Colorless cost control
+BR — Aristocrats
+RG — [i]Landfall[/i]
+GW — Reanimator
+WB — +1/+1 counters
+UR — Prisms/colorless permanents
+BG — Graveyard as cost
+RW — Tapped creatures
+GU — Evoke ramp => {W}{U} Flying Elves
+{U}{B} Colorless cost control
+{B}{R} Sacrifice
+{R}{G} [/i][i]Landfall[/i][i]
+{G}{W} Reanimator
+{W}{B} Tapped creatures
+{U}{R} Colorless permanents
+{B}{G} Leaves the graveyard
+{R}{W} Go wide
+{G}{U} MV 5+
+
+Sculptor of Memories
+rules_text: {C}{B}: Exile target creature card from a graveyard. Put a +1/+1 counter on this creature.
+This creature has all activated and triggered abilities of all creature cards exiled by it. => {C}{B}: Exile target creature card from a graveyard. Put a +1/+1 counter on this creature.
+This creature has all activated abilities of all creature cards exiled by it.
+
+Yan, Dealer of Destinies
+rules_text: {T}, Sacrifice a creature: Draw a card.
+{T}, Discard a card: Create a 2/2 colorless Voidling creature token with decayed.
+Lay waste: Untap Yan. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i] => {T}, Sacrifice a creature: Draw a card.
+{T}, Discard a card: Create a 2/2 colorless Voidling creature token with decayed.
+Lay waste: Untap Yan. Activate only as a sorcery. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+
+Stitcher's Supplies
+
+Heartpact Awakening
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+
+Synchrum Puppeteer
+
+A World Asunder
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Stormfront Skyport added.

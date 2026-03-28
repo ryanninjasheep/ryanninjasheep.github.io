@@ -13,7 +13,7 @@
 		{
 			"name": "Heartpact Acolyte",
 			"rarity": "common",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Cleric",
 			"collector_number": "36",
 			"image_uris": {
@@ -25,17 +25,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/2.png"
 			}
 		},
 		{
-			"name": "Reckless Raptor",
+			"name": "Territorial Talonclaw",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "44",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/3.png"
 			}
@@ -694,7 +694,7 @@
 			"name": "Dessicated Diner",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Vampire Citizen",
+			"type": "Creature — Human Citizen",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/69.png"
@@ -783,7 +783,7 @@
 		{
 			"name": "Wasteland Wanderer",
 			"rarity": "common",
-			"mana_cost": "{2/C}",
+			"mana_cost": "{C}",
 			"type": "Creature — Voidling",
 			"collector_number": "22",
 			"image_uris": {
@@ -813,7 +813,7 @@
 		{
 			"name": "Shadow Self",
 			"rarity": "common",
-			"mana_cost": "{1}{2/C}",
+			"mana_cost": "{1}{C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "16",
 			"image_uris": {
@@ -885,7 +885,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/89.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Elf Noble",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/129.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/133.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/134.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/147.png"
 			}
@@ -2703,7 +2703,7 @@
 		{
 			"name": "Endless Hollow",
 			"rarity": "uncommon",
-			"mana_cost": "{2/C}{2/C}{2/C}",
+			"mana_cost": "{C}{C}{C}",
 			"type": "Creature — Voidling",
 			"collector_number": "5",
 			"image_uris": {
@@ -3054,16 +3054,6 @@
 	4 Seeker of Muses
 	4 Aderic's Sextant
 	4 Rasping Currents
-	4 Ivyflow Quarry
-	4 Magmafell Quarry
-	4 Rootbound Quarry
-	4 Runespark Quarry
-	4 Sandswept Quarry
-	4 Scorchwheat Quarry
-	4 Shadowcrest Quarry
-	4 Cryptveil Quarry
-	4 Umberdark Quarry
-	4 Wickfield Quarry
 	4 Munitions Supplier
 	4 Inspiring General
 	4 Dawncaller
@@ -3148,7 +3138,7 @@
 	8 Ascendant Guide
 	8 Heartpact Acolyte
 	8 Skyport Watchman
-	8 Reckless Raptor
+	8 Territorial Talonclaw
 	8 Aethelia Aerialist
 	8 Aeronaut Modelist
 	8 Eager Settler
@@ -3230,7 +3220,7 @@
 	8 Ascendant Guide
 	8 Heartpact Acolyte
 	8 Skyport Watchman
-	8 Reckless Raptor
+	8 Territorial Talonclaw
 	8 Aethelia Aerialist
 	8 Aeronaut Modelist
 	8 Eager Settler
@@ -3312,7 +3302,7 @@
 	12 Ascendant Guide
 	12 Heartpact Acolyte
 	12 Skyport Watchman
-	12 Reckless Raptor
+	12 Territorial Talonclaw
 	12 Aethelia Aerialist
 	12 Aeronaut Modelist
 	12 Eager Settler
@@ -3584,7 +3574,7 @@
 	6 Ascendant Guide
 	6 Heartpact Acolyte
 	6 Skyport Watchman
-	6 Reckless Raptor
+	6 Territorial Talonclaw
 	6 Aethelia Aerialist
 	6 Aeronaut Modelist
 	6 Eager Settler
@@ -3853,3 +3843,18 @@
 	4 A World Asunder
 	4 The Terralance
 [land(1)]
+	4 Ivyflow Quarry
+	4 Magmafell Quarry
+	4 Rootbound Quarry
+	4 Runespark Quarry
+	4 Sandswept Quarry
+	4 Scorchwheat Quarry
+	4 Shadowcrest Quarry
+	4 Cryptveil Quarry
+	4 Umberdark Quarry
+	4 Wickfield Quarry
+    8 Plains
+    8 Island
+    8 Swamp
+    8 Mountain
+    8 Forest
