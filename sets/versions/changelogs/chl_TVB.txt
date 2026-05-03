@@ -1,4 +1,200 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Feisty Furball added.
+Prideful Priest added.
+Elf Soldier added.
+Baffling Visions added.
+Crystalline Cutlass added.
+Haunted Pioneer added.
+Igneous Core added.
+Gravity Gauntlet added.
+
+Ascendant Guide removed.
+Thopter Suit removed.
+Soldier removed.
+Dazzling Maneuver removed.
+Voidcraft Blade removed.
+Barrescape Pioneer removed.
+Terrabomb removed.
+Adventuring Gear removed.
+
+Skyport Watchman
+rules_text: {T}, Tap another creature you control: Tap target creature. => {T}, Tap another untapped creature you control: Tap target creature.
+
+Barrescape Conquerer
+rules_text: During your turn, this creature has first strike.
+Whenever another creature you control enters, this creature gets +1/+0 until end of turn. => During your turn, this creature has first strike.
+When this creature enters, creatures you control get +1/+0 until end of turn.
+
+Sinister Administrator
+rules_text: When this creature enters, create a 1/1 black Vampire creature token with “Whenever this creature becomes tapped, each opponent loses 1 life.”
+At the beginning of your end step, if you control three or more tapped creatures, draw a card. => When this creature enters, each opponent loses 2 life and you gain 2 life.
+At the beginning of your end step, you may pay 1 life. If you do, untap target creature.
+pt: 3/3 => 3/4
+
+Voidcaller Druid
+rules_text: When this creature enters, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature enters, create two 2/2 colorless Voidling creature tokens with decayed. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 2/3 => 2/2
+
+Echoing Roar
+
+Let Go Lightly
+rules_text: As an additional cost to cast this spell, discard a card or sacrifice a colorless permanent.
+Draw two cards. => As an additional cost to cast this spell, discard a card or sacrifice a colorless nonland permanent.
+Draw two cards.
+
+Wingblade General
+
+Cunning Projectionist
+
+Underfall Flamer
+rules_text: Menace
+At the beginning of your end step, if you sacrificed one or more permanents this turn, this creature deals that much damage to any target. => Menace
+At the beginning of your end step, this creature deals X damage to any target, where X is the number of permanents you sacrificed this turn.
+
+Cobbled Contraption
+rules_text: Vigilance, trample
+Whenever this creature attacks, you may sacrifice a colorless permanent. If you do, put a +1/+1 counter on this creature. => Vigilance, trample
+Whenever this creature attacks, you may sacrifice a colorless nonland permanent. If you do, put a +1/+1 counter on this creature.
+
+Skyport Custodian
+rules_text: When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{C}: Put target card from a graveyard on the bottom of its owner's library. Activate only once during each of your turns. => When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+{C}, {T}: Put target card from a graveyard on the bottom of its owner's library.
+
+Voidling
+
+Severed Sanctum
+type: Enchantment — Aura => Enchantment
+
+Rescue
+
+Prism
+
+Shen, Heir of Anox
+pt: 2/3 => 3/3
+
+Soul Siphoner
+rules_text: Whenever a nontoken creature you control dies, create a 2/2 colorless Voidling creature token for each counter that creature had on it. => Whenever a nontoken creature you control dies, create a 2/2 colorless Voidling creature token with decayed for each counter that creature had on it. [i](A creature with decayed can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Leyline Patrol
+rules_text: As an additional cost to cast this spell, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Create three 1/1 white Soldier creature tokens. => As an additional cost to cast this spell, lay waste. [i](Exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+Create three 1/1 white Elf Soldier creature tokens.
+
+Battlebond Infantry
+rules_text: Tap a Soldier you control: Target creature gets +1/+0 until end of turn. Activate only as a sorcery. => Tap an untapped Soldier you control: Target creature gets +1/+0 until end of turn. Activate only as a sorcery.
+pt: 2/1 => 3/1
+
+Pioneering Aristocrat
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 1/1 white Soldier creature token. => [i]Landfall[/i] — Whenever a land you control enters, create a 1/1 white Elf Soldier creature token.
+
+Voidcraft Adept
+cost: {2}{U}{U} => {3}{U}
+
+Sparkwork Kaleidoscope
+rules_text: {T}: Add {C}. Spend this mana only to cast a colorless spell or activate an ability.
+{2}{C}: Exile the top card of your library, then surveil 1. => {T}: Add {C}. Spend this mana only to cast a colorless spell or activate an ability.
+{1}{C}: Exile the top card of your library, then surveil 1.
+
+Bitter Grudge
+rules_text: Choose target player. Until end of turn, whenever a permanent is put into your graveyard from anywhere, that player loses 1 life.
+Mill X cards. => Choose target player. Until end of turn, whenever a permanent card is put into your graveyard from anywhere, that player loses 1 life.
+Mill X cards.
+
+Strikesoul Rallier
+rules_text: When this creature enters or dies, creatures you control get +1/+0 until end of turn. => Haste
+Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.
+
+Call to Battle
+rules_text: Choose one —
+• Creatures you control get +1/+1 until end of turn.
+• Create two 1/1 white Soldier creature tokens. => Choose one —
+• Creatures you control get +1/+1 until end of turn.
+• Create two 1/1 white Elf Soldier creature tokens.
+
+Earthweaver Druid
+
+Rite of Rebirth
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, mill a card.
+Exile this enchantment: You may play target permanent card from your graveyard without paying its mana cost. Activate only as a sorcery and only if there are eight or more permanent cards in your graveyard. => [i]Landfall[/i] — Whenever a land you control enters, mill a card.
+Exile this enchantment: You may cast target creature card from your graveyard without paying its mana cost. Activate only as a sorcery and only if there are eight or more permanent cards in your graveyard.
+
+Gaar, 9th Front General
+rules_text: Menace
+Whenever Gaar attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.
+Attacking tokens you control get +1/+0. => Menace
+Whenever Gaar attacks, create two 1/1 white Elf Soldier creature tokens that are tapped and attacking. Sacrifice them at the beginning of the next end step.
+Attacking tokens you control get +1/+0.
+
+Biel, the Storyteller
+pt: 3/3 => 3/5
+
+Dzaan, Wingblade Veteran
+rules_text: Flying
+Whenever Dzaan attacks for the first time each turn, untap each creature you control with flying. After this phase, there is an additional combat phase. => Flying
+Whenever Dzaan attacks for the first time each turn, untap each Elf you control. After this phase, there is an additional combat phase.
+
+Vel, Grand Illusionist
+rules_text: {2}: Target permanent you control gains protection from colorless until end of turn. [i](It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless until end of turn.)[/i]
+{C}: Target spell or permanent becomes colorless until end of turn. => {2}: Target permanent you control gains protection from colorless until end of turn. [i](It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless until end of turn.)[/i]
+{C}: Target permanent becomes colorless until end of turn.
+
+Heartpact Awakening
+rules_text: 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+special_text: 
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+
+Warped Echoes
+rules_text: If a creature you evoked would die, exile it instead. You may cast it for its mana cost for as long as it remains exiled. [i](You may not cast it for its evoke cost.)[/i]
+{3}, Sacrifice this enchantment: Target player shuffles their graveyard into their library. => If a creature you evoked would die, exile it instead. You may cast it for its mana cost for as long as it remains exiled. [i](You may not cast it for its evoke cost.)[/i]
+{2}, Exile this enchantment: Target player shuffles their graveyard into their library.
+
+Scintillating Shardborn
+rules_text: When this creature enters, create two Prism tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Sacrifice a Prism: Put a +1/+1 counter on this creature. => When this creature enters, create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+Prisms you control have “{T}: Add {C}.”
+pt: 1/1 => 3/2
+
+Synchrum Puppeteer
+
+Voidcraft Refiner
+rules_text: When this creature enters, create a 3/2 colorless Voidling Beast creature token.
+{1}, Sacrifice a colorless permanent: Put a +1/+1 counter on target Voidling. => When this creature enters, create a 3/2 colorless Voidling Beast creature token.
+{1}, Sacrifice a colorless nonland permanent: Put a +1/+1 counter on target Voidling.
+
+Riftwake Phoenix
+
+A World Asunder
+rules_text: 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+special_text: 
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Territorial Talonclaw added.
