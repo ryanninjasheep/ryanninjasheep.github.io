@@ -5,7 +5,7 @@
 			<name>TVB</name>
 			<longname>The Void Beneath</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-03</releasedate>
+			<releasedate>2026-05-04</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -344,7 +344,7 @@ Evoke {1}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		<card>
 			<name>Lifeleeched Vermin</name>
 			<text>{1}, Exile this card from your graveyard: Create a 2/2 colorless Voidling creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/19.png" num="110">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/19.png" num="111">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -413,19 +413,20 @@ At the beginning of your end step, you may pay 1 life. If you do, untap target c
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Voidheart Mystic</name>
-			<text>Whenever this creature attacks, you may pay {C}. If you do, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/23.png" num="123">TVB</set>
+			<name>Gem Gorger</name>
+			<text>Flying
+{2}, Exile this card from your graveyard: Create a Prism token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add {C}&quot; and &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/23.png" num="106">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Druid</type>
+				<type>Creature — Bat</type>
 				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -450,7 +451,7 @@ When this creature enters, if a creature died this turn, put a +1/+1 counter on 
 		<card>
 			<name>Sickleblade Rallier</name>
 			<text>At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/25.png" num="118">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/25.png" num="120">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -486,11 +487,11 @@ Whenever this creature attacks, you may sacrifice another artifact or creature. 
 			<name>Graverazer</name>
 			<text>Flying
 Whenever this creature attacks, you may exile a permanent card from your graveyard. If you do, this creature gets +2/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/27.png" num="106">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/27.png" num="107">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Bat</type>
+				<type>Creature — Wraith</type>
 				<maintype>Creature</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
@@ -504,7 +505,7 @@ Whenever this creature attacks, you may exile a permanent card from your graveya
 			<name>Out of Focus</name>
 			<text>Target player reveals their hand. You choose a nonland card from it. That player discards that card.
 Create a tapped Prism token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add {C}&quot; and &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/28.png" num="114">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/28.png" num="116">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -518,22 +519,21 @@ Create a tapped Prism token. (It&apos;s an artifact with &quot;{T}, Sacrifice th
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Blackened Blade</name>
-			<text>Flash
-When this enchantment enters, enchanted creature gains lifelink until end of turn.
-Enchanted creature gets +2/+0.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/29.png" num="95">TVB</set>
+			<name>Moonstruck Frenzy</name>
+			<text>Target creature gains deathtouch and indestructible until end of turn.
+If {C} was spent to cast this spell, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/29.png" num="115">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Corrupted Conviction</name>
@@ -572,7 +572,7 @@ Evoke {2}{B} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		<card>
 			<name>Mindless Culling</name>
 			<text>Target player sacrifices a creature of their choice. Create a 2/2 colorless Voidling creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/32.png" num="112">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/32.png" num="113">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1798,7 +1798,7 @@ rare_repeatable_waste_cycle</text>
 			<name>Split the Earth</name>
 			<text>As an additional cost to cast this spell, lay waste. (Exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)
 Exile target creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/100.png" num="119">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/100.png" num="121">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2222,6 +2222,7 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 			<reverse-related>Skyport Custodian</reverse-related>
 			<reverse-related>Crystal Dunes</reverse-related>
 			<reverse-related>Crystalline Cutlass</reverse-related>
+			<reverse-related>Gem Gorger</reverse-related>
 		</card>
 		<card>
 			<name>Draft Archetypes TVB</name>
@@ -2271,9 +2272,8 @@ Landfall — Whenever a land you control enters, this creature gets +1/+0 until 
 		<card>
 			<name>Hu, Vestige of Faith</name>
 			<text>(This card has no color.)
-Flying
-Whenever Hu attacks, exile target nonland permanent defending player controls.
-When Hu dies, return all cards exiled with it to the battlefield under their owners&apos; control.</text>
+Flying, vigilance
+Whenever Hu attacks, exile up to one other target creature, then return it to the battlefield under its owner&apos;s control. You may tap that creature.</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/128.png" num="37">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2284,7 +2284,7 @@ When Hu dies, return all cards exiled with it to the battlefield under their own
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>4/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3023,11 +3023,11 @@ Whenever you cast a spell with mana value 5 or greater, return this enchantment 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Li, Vestige of Life</name>
+			<name>Li, Vestige of Power</name>
 			<text>(This card has no color.)
-Whenever Li attacks, sacrifice it unless you exile a permanent card from a graveyard.
+Whenever Li attacks, each player chooses a nonland permanent they control. Exile those permanents.
 When Li dies, return all permanents exiled with it to the battlefield under your control.</text>
-			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/171.png" num="108">TVB</set>
+			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/171.png" num="109">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3045,7 +3045,7 @@ When Li dies, return all permanents exiled with it to the battlefield under your
 			<name>Sculptor of Memories</name>
 			<text>{C}{B}: Exile target creature card from a graveyard. Put a +1/+1 counter on this creature.
 This creature has all activated abilities of all creature cards exiled by it.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/172.png" num="116">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/172.png" num="118">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3063,7 +3063,7 @@ This creature has all activated abilities of all creature cards exiled by it.</t
 			<name>Grim Opportunist</name>
 			<text>When this creature enters, put a decayed counter on target creature. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Whenever a player sacrifices a permanent, you gain 1 life.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/173.png" num="107">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/173.png" num="108">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3115,7 +3115,7 @@ Mill X cards.</text>
 		<card>
 			<name>Malaak, Corrupted Prince</name>
 			<text>Whenever another nontoken creature you control without decayed dies, return it to the battlefield with a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/176.png" num="111">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/176.png" num="112">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3133,7 +3133,7 @@ Mill X cards.</text>
 			<name>Yan, Dealer of Destinies</name>
 			<text>{T}, Sacrifice a creature: Draw a card.
 {T}, Discard a card: Create a 2/2 colorless Voidling creature token with decayed.
-Lay waste: Untap Yan. Activate only as a sorcery. (To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)</text>
+{B}, Lay waste: Untap Yan. (To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/177.png" num="126">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3152,7 +3152,7 @@ Lay waste: Untap Yan. Activate only as a sorcery. (To lay waste, exile a face-up
 			<name>Thornmarrow Mass</name>
 			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)
 Landfall — Whenever a land you control enters, you may return this card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/178.png" num="121">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/178.png" num="123">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3168,19 +3168,18 @@ Landfall — Whenever a land you control enters, you may return this card from y
 		</card>
 		<card>
 			<name>Voidseeker Fanatic</name>
-			<text>Menace
-{2}{C}: Put two +1/+1 counters on this creature. It becomes colorless.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/179.png" num="124">TVB</set>
+			<text>{4}{C}: Put two +1/+1 counters on this creature. It becomes colorless. Activate only once.</text>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/179.png" num="125">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Elf Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3205,7 +3204,7 @@ Whenever you sacrifice a permanent, target opponent loses 1 life.</text>
 		<card>
 			<name>Mindskewer</name>
 			<text>Whenever this creature deals damage to a player, you may exile a permanent card from your graveyard. If you do, that player discards a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/181.png" num="113">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/181.png" num="114">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3222,7 +3221,7 @@ Whenever you sacrifice a permanent, target opponent loses 1 life.</text>
 		<card>
 			<name>Void Summoner</name>
 			<text>Whenever this creature becomes tapped, you may exile a permanent card from your graveyard. If you do, create a 2/2 colorless Voidling creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/182.png" num="122">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/182.png" num="124">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3240,7 +3239,7 @@ Whenever you sacrifice a permanent, target opponent loses 1 life.</text>
 			<name>Lifeblood Lurker</name>
 			<text>Lifelink
 Whenever one or more cards leave your graveyard during your turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/183.png" num="109">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/183.png" num="110">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3256,7 +3255,9 @@ Whenever one or more cards leave your graveyard during your turn, put a +1/+1 co
 		</card>
 		<card>
 			<name>Blood-Mad Ogre</name>
-			<text>At the beginning of your end step, if a creature died this turn, untap this creature.</text>
+			<text>Menace
+This creature doesn&apos;t untap during your untap step.
+Sacrifice another creature: Untap this creature.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/184.png" num="96">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3267,7 +3268,7 @@ Whenever one or more cards leave your graveyard during your turn, put a +1/+1 co
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/6</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3311,7 +3312,7 @@ Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 li
 			<text>Choose one —
 • Return target creature card with mana value 3 or less from your graveyard to the battlefield.
 • Exile target creature card from a graveyard. Create a 3/2 colorless Voidling Beast creature token.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/187.png" num="117">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/187.png" num="119">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3328,7 +3329,7 @@ Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 li
 			<name>Stitcher&apos;s Supplies</name>
 			<text>When this artifact enters, up to one target creature gets -3/-3 until end of turn.
 {1}{C}{B}, {T}, Sacrifice this artifact: Draw two cards. Each player loses 2 life.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/188.png" num="120">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/188.png" num="122">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3342,25 +3343,27 @@ Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 li
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Wreckage Extractor</name>
-			<text>{T}, Sacrifice an artifact or creature: Surveil 1.
-{T}, Exile a permanent card from your graveyard: Create a tapped Prism token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add {C}&quot; and &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/189.png" num="125">TVB</set>
+			<name>Blighted Barricade</name>
+			<text>Defender
+{2C}, {T}: Surveil 1. ({2C} can be paid with any two mana or with {C}.)</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/189.png" num="95">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
-				<maintype>Artifact</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>0/4</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Death Claims Another</name>
-			<text>Destroy target creature. Create a 1/1 black Vampire creature token with &quot;Whenever this creature becomes tapped, each opponent loses 1 life.&quot;</text>
+			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
+Destroy target creature.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/190.png" num="99">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3377,7 +3380,7 @@ Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 li
 		<card>
 			<name>Pull Apart</name>
 			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control with a +1/+1 counter on it.&quot;</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/191.png" num="115">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/191.png" num="117">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3393,7 +3396,7 @@ Whenever you sacrifice a permanent, each opponent loses 1 life and you gain 1 li
 		<card>
 			<name>Ko, Vestige of Fervor</name>
 			<text>(This card has no color.)
-Flying, haste
+Flying
 Whenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that&apos;s tapped and attacking. Sacrifice it at the beginning of the next end step.
 Whenever another colorless creature you control dies, Ko deals damage equal to that creature&apos;s power to each opponent.</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/192.png" num="149">TVB</set>
@@ -3406,7 +3409,7 @@ Whenever another colorless creature you control dies, Ko deals damage equal to t
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3779,10 +3782,12 @@ Creatures you control gain haste until end of turn.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Te, Vestige of Strength</name>
+			<name>Te, Vestige of Life</name>
 			<text>(This card has no color.)
-Te enters with a +1/+1 counter on it.
-Whenever Te attacks, put a +1/+1 counter on each creature you control, then double the number of +1/+1 counters on each attacking creature.</text>
+Trample
+Te enters with four +1/+1 counters on it.
+Whenever Te attacks, exile up to one target creature card from a graveyard. Put a number of +1/+1 counters on Te equal to that creature&apos;s power.
+When Te dies, you gain life equal to its power.</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/214.png" num="192">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3905,7 +3910,7 @@ Draw a card.</text>
 		<card>
 			<name>Fenfield Nourisher</name>
 			<text>Vigilance
-You may play land cards from your graveyard.</text>
+You may play lands from your graveyard.</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/221.png" num="172">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3916,7 +3921,7 @@ You may play land cards from your graveyard.</text>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4958,6 +4963,7 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 				<cmc>0</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -5118,9 +5124,7 @@ Whenever Vesz attacks, exile target nonland card from your graveyard. Copy it. Y
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related>Death Claims Another</reverse-related>
 			<reverse-related>Dessicated Diner</reverse-related>
-			<reverse-related>Sinister Administrator</reverse-related>
 		</card>
 		<card>
 			<name>Riftwake Phoenix</name>

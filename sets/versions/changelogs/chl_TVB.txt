@@ -1,4 +1,80 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Gem Gorger added.
+Moonstruck Frenzy added.
+Li, Vestige of Power added.
+Blighted Barricade added.
+Te, Vestige of Life added.
+
+Voidheart Mystic removed.
+Blackened Blade removed.
+Li, Vestige of Life removed.
+Wreckage Extractor removed.
+Te, Vestige of Strength removed.
+
+Graverazer
+type: Creature — Bat => Creature — Wraith
+
+Prism
+
+Hu, Vestige of Faith
+rules_text: [i](This card has no color.)[/i]
+Flying
+Whenever Hu attacks, exile target nonland permanent defending player controls.
+When Hu dies, return all cards exiled with it to the battlefield under their owners' control. => [i](This card has no color.)[/i]
+Flying, vigilance
+Whenever Hu attacks, exile up to one other target creature, then return it to the battlefield under its owner's control. You may tap that creature.
+pt: 4/3 => 4/4
+
+Yan, Dealer of Destinies
+rules_text: {T}, Sacrifice a creature: Draw a card.
+{T}, Discard a card: Create a 2/2 colorless Voidling creature token with decayed.
+Lay waste: Untap Yan. Activate only as a sorcery. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i] => {T}, Sacrifice a creature: Draw a card.
+{T}, Discard a card: Create a 2/2 colorless Voidling creature token with decayed.
+{B}, Lay waste: Untap Yan. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+
+Voidseeker Fanatic
+cost: {1}{B} => {2}{B}
+rules_text: Menace
+{2}{C}: Put two +1/+1 counters on this creature. It becomes colorless. => {4}{C}: Put two +1/+1 counters on this creature. It becomes colorless. Activate only once.
+pt: 2/2 => 3/3
+
+Blood-Mad Ogre
+rules_text: At the beginning of your end step, if a creature died this turn, untap this creature. => Menace
+This creature doesn't untap during your untap step.
+Sacrifice another creature: Untap this creature.
+pt: 4/6 => 6/6
+
+Stitcher's Supplies
+
+Death Claims Another
+rules_text: Destroy target creature. Create a 1/1 black Vampire creature token with “Whenever this creature becomes tapped, each opponent loses 1 life.” => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Destroy target creature.
+
+Ko, Vestige of Fervor
+rules_text: [i](This card has no color.)[/i]
+Flying, haste
+Whenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking. Sacrifice it at the beginning of the next end step.
+Whenever another colorless creature you control dies, Ko deals damage equal to that creature's power to each opponent. => [i](This card has no color.)[/i]
+Flying
+Whenever Ko attacks, create a 3/2 colorless Voidling Beast creature token that's tapped and attacking. Sacrifice it at the beginning of the next end step.
+Whenever another colorless creature you control dies, Ko deals damage equal to that creature's power to each opponent.
+pt: 2/4 => 3/4
+
+Fenfield Nourisher
+rules_text: Vigilance
+You may play land cards from your graveyard. => Vigilance
+You may play lands from your graveyard.
+pt: 3/3 => 2/3
+
+Saproling
+pt:  => 1/1
+
+Vampire
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Feisty Furball added.

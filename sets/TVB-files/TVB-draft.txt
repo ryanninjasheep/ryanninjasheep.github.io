@@ -195,7 +195,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Rat",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/19.png"
 			}
@@ -231,11 +231,11 @@
 			}
 		},
 		{
-			"name": "Voidheart Mystic",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Druid",
-			"collector_number": "123",
+			"name": "Gem Gorger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Bat",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/23.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "118",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/25.png"
 			}
@@ -274,8 +274,8 @@
 			"name": "Graverazer",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Bat",
-			"collector_number": "106",
+			"type": "Creature — Wraith",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/27.png"
 			}
@@ -285,17 +285,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/28.png"
 			}
 		},
 		{
-			"name": "Blackened Blade",
+			"name": "Moonstruck Frenzy",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "95",
+			"type": "Instant",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/29.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/32.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/100.png"
 			}
@@ -1711,11 +1711,11 @@
 			}
 		},
 		{
-			"name": "Li, Vestige of Life",
+			"name": "Li, Vestige of Power",
 			"rarity": "mythic",
 			"mana_cost": "{C}{C}{B}{B}",
 			"type": "Legendary Devoid Creature — Demon",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/171.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "116",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/172.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/173.png"
 			}
@@ -1765,7 +1765,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Vampire Noble",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/176.png"
 			}
@@ -1785,17 +1785,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Plant Zombie",
-			"collector_number": "121",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/178.png"
 			}
 		},
 		{
 			"name": "Voidseeker Fanatic",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/179.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Gnoll",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/181.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Druid",
-			"collector_number": "122",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/183.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/187.png"
 			}
@@ -1885,17 +1885,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "120",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/188.png"
 			}
 		},
 		{
-			"name": "Wreckage Extractor",
+			"name": "Blighted Barricade",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Artifact",
-			"collector_number": "125",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/189.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "115",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/191.png"
 			}
@@ -2141,7 +2141,7 @@
 			}
 		},
 		{
-			"name": "Te, Vestige of Strength",
+			"name": "Te, Vestige of Life",
 			"rarity": "mythic",
 			"mana_cost": "{C}{C}{G}{G}",
 			"type": "Legendary Devoid Creature — Hydra",
@@ -2971,7 +2971,7 @@
 	2 Sculpt in Light
 	2 Sparkwork Armorer
 	2 Imperial Mistweaver
-	1 Li, Vestige of Life
+	1 Li, Vestige of Power
 	2 Sculptor of Memories
 	2 Grim Opportunist
 	2 Pact Eternal
@@ -2985,7 +2985,7 @@
 	2 Leila, Reckless Pyromancer
 	2 Flintlock Scavenger
 	2 Haal, Dissident Illusionist
-	1 Te, Vestige of Strength
+	1 Te, Vestige of Life
 	2 Sundering Hydra
 	2 Venerant Earthspeaker
 	2 Sporespawn Drift
@@ -3035,6 +3035,7 @@
 	1 The Terralance
 [uncommon(3)]
 	4 Sinister Administrator
+	4 Gem Gorger
 	4 Prideful Priest
 	4 Wingblade General
 	4 Blightwing Locust
@@ -3081,7 +3082,6 @@
 	4 Skyjack
 	4 Hunt for the Awakened Core
 	4 Thornmarrow Mass
-	4 Voidseeker Fanatic
 	4 Barrescape Reaper
 	4 Mindskewer
 	4 Void Summoner
@@ -3091,7 +3091,7 @@
 	4 Encroaching Void
 	4 Shadows Around Us
 	4 Stitcher's Supplies
-	4 Wreckage Extractor
+	4 Blighted Barricade
 	4 Death Claims Another
 	4 Pull Apart
 	4 Crystalline Cutlass
@@ -3157,13 +3157,12 @@
 	8 Lifeleeched Vermin
 	8 Deathrattle Scorpion
 	8 Duram Nightstalker
-	8 Voidheart Mystic
 	8 Desperate Howler
 	8 Sickleblade Rallier
 	8 Cruel Enforcer
 	8 Graverazer
 	8 Out of Focus
-	8 Blackened Blade
+	8 Moonstruck Frenzy
 	8 Corrupted Conviction
 	8 Madness Incarnate
 	8 Mindless Culling
@@ -3213,6 +3212,7 @@
 	8 Barrescape Brawler
 	8 Clawfoot Herd
 	8 Dissonant Dream
+	8 Voidseeker Fanatic
 	8 Leyline Surveyor
 	8 Magma Lash
 	8 Oxhide Veil
@@ -3239,13 +3239,12 @@
 	8 Lifeleeched Vermin
 	8 Deathrattle Scorpion
 	8 Duram Nightstalker
-	8 Voidheart Mystic
 	8 Desperate Howler
 	8 Sickleblade Rallier
 	8 Cruel Enforcer
 	8 Graverazer
 	8 Out of Focus
-	8 Blackened Blade
+	8 Moonstruck Frenzy
 	8 Corrupted Conviction
 	8 Madness Incarnate
 	8 Mindless Culling
@@ -3295,6 +3294,7 @@
 	8 Barrescape Brawler
 	8 Clawfoot Herd
 	8 Dissonant Dream
+	8 Voidseeker Fanatic
 	8 Leyline Surveyor
 	8 Magma Lash
 	8 Oxhide Veil
@@ -3322,13 +3322,13 @@
 	12 Deathrattle Scorpion
 	12 Duram Nightstalker
 	6 Sinister Administrator
-	12 Voidheart Mystic
+	6 Gem Gorger
 	12 Desperate Howler
 	12 Sickleblade Rallier
 	12 Cruel Enforcer
 	12 Graverazer
 	12 Out of Focus
-	12 Blackened Blade
+	12 Moonstruck Frenzy
 	12 Corrupted Conviction
 	12 Madness Incarnate
 	12 Mindless Culling
@@ -3451,7 +3451,7 @@
 	6 Flickerlight Form
 	6 Skyjack
 	6 Hunt for the Awakened Core
-	1 Li, Vestige of Life
+	1 Li, Vestige of Power
 	2 Sculptor of Memories
 	2 Grim Opportunist
 	2 Pact Eternal
@@ -3459,7 +3459,7 @@
 	2 Malaak, Corrupted Prince
 	2 Yan, Dealer of Destinies
 	6 Thornmarrow Mass
-	6 Voidseeker Fanatic
+	12 Voidseeker Fanatic
 	6 Barrescape Reaper
 	6 Mindskewer
 	6 Void Summoner
@@ -3469,7 +3469,7 @@
 	6 Encroaching Void
 	6 Shadows Around Us
 	6 Stitcher's Supplies
-	6 Wreckage Extractor
+	6 Blighted Barricade
 	6 Death Claims Another
 	6 Pull Apart
 	1 Ko, Vestige of Fervor
@@ -3494,7 +3494,7 @@
 	6 Dizzying Resummoning
 	6 Uncaged Fury
 	6 Luciclasm
-	1 Te, Vestige of Strength
+	1 Te, Vestige of Life
 	2 Sundering Hydra
 	2 Venerant Earthspeaker
 	2 Sporespawn Drift
@@ -3594,13 +3594,13 @@
 	6 Deathrattle Scorpion
 	6 Duram Nightstalker
 	15 Sinister Administrator
-	6 Voidheart Mystic
+	15 Gem Gorger
 	6 Desperate Howler
 	6 Sickleblade Rallier
 	6 Cruel Enforcer
 	6 Graverazer
 	6 Out of Focus
-	6 Blackened Blade
+	6 Moonstruck Frenzy
 	6 Corrupted Conviction
 	6 Madness Incarnate
 	6 Mindless Culling
@@ -3723,7 +3723,7 @@
 	15 Flickerlight Form
 	15 Skyjack
 	15 Hunt for the Awakened Core
-	4 Li, Vestige of Life
+	4 Li, Vestige of Power
 	7 Sculptor of Memories
 	7 Grim Opportunist
 	7 Pact Eternal
@@ -3731,7 +3731,7 @@
 	7 Malaak, Corrupted Prince
 	7 Yan, Dealer of Destinies
 	15 Thornmarrow Mass
-	15 Voidseeker Fanatic
+	6 Voidseeker Fanatic
 	15 Barrescape Reaper
 	15 Mindskewer
 	15 Void Summoner
@@ -3741,7 +3741,7 @@
 	15 Encroaching Void
 	15 Shadows Around Us
 	15 Stitcher's Supplies
-	15 Wreckage Extractor
+	15 Blighted Barricade
 	15 Death Claims Another
 	15 Pull Apart
 	4 Ko, Vestige of Fervor
@@ -3766,7 +3766,7 @@
 	15 Dizzying Resummoning
 	15 Uncaged Fury
 	15 Luciclasm
-	4 Te, Vestige of Strength
+	4 Te, Vestige of Life
 	7 Sundering Hydra
 	7 Venerant Earthspeaker
 	7 Sporespawn Drift
