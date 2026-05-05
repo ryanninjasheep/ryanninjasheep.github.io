@@ -1,4 +1,72 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Scrupulous Patron added.
+Obsessive Pursuit added.
+Glimpse the Unknown added.
+Scavenging Sandcrawler added.
+
+Silvershield Martyr removed.
+Search the Depths removed.
+Flickerlight Form removed.
+Grotesque Gestalt removed.
+
+Harvester of the Way
+rules_text: Lifelink, vigilance, reach
+Whenever this creature enters or attacks, draw a card, then discard a card. => Trample, vigilance, reach
+Whenever this creature enters or attacks, draw a card, then discard a card.
+pt: 4/7 => 5/7
+
+Elf Soldier
+
+Raptor Trainer
+cost: {4}{W} => {5}{W}
+pt: 3/4 => 4/4
+
+Te, Vestige of Life
+rules_text: [i](This card has no color.)[/i]
+Trample
+Te enters with four +1/+1 counters on it.
+Whenever Te attacks, exile up to one target creature card from a graveyard. Put a number of +1/+1 counters on Te equal to that creature's power.
+When Te dies, you gain life equal to its power. => [i](This card has no color.)[/i]
+Trample
+Whenever Te attacks, exile up to one target creature card from a graveyard. Put a number of +1/+1 counters on Te equal to that creature's power.
+When Te dies, you gain life equal to its power.
+pt: 0/0 => 4/4
+
+Spirited Growth
+rules_text: Target creature gets +X/+X until end of turn. If X is 5 or more, you gain 5 life. => Target creature gets +X/+X until end of turn. If X is 4 or more, you gain X life.
+
+Toil Unending
+type: Enchantment => Creature — Avatar
+cost: {W}{B} => {2}{W}{B}
+rules_text: Whenever a creature you control dies, if it was tapped, put a +1/+1 counter on target creature you control.
+{3}{W}{B}, Sacrifice this enchantment: Untap all creatures you control. If it's your combat phase, there is an additional combat phase after this phase. => Menace
+Tapped creatures you control have indestructible.
+pt:  => 4/3
+
+Heartpact Awakening
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 2 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 3 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Each player draws a card, then discards a card. You gain 2 life.
+III — Put target non-Saga permanent card from a graveyard onto the battlefield under your control.
+​
+
+Vesz, Endless Whisper
+type: Legendary Creature — Snake => Legendary Creature — Snake Druid
+pt: 2/4 => 2/5
+
+
+VERSION 29 CHANGELOG
 ====================
 
 Gem Gorger added.
