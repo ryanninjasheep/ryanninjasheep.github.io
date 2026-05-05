@@ -135,7 +135,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/13.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elf Mercenary",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/16.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/93.png"
 			}
@@ -961,11 +961,11 @@
 			}
 		},
 		{
-			"name": "Utter Insignificance",
+			"name": "Lost in Nightmares",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "83",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/96.png"
 			}
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"name": "Ivyflow Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "262",
@@ -1042,7 +1042,7 @@
 		},
 		{
 			"name": "Magmafell Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "263",
@@ -1052,7 +1052,7 @@
 		},
 		{
 			"name": "Rootbound Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "265",
@@ -1062,7 +1062,7 @@
 		},
 		{
 			"name": "Runespark Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "266",
@@ -1072,7 +1072,7 @@
 		},
 		{
 			"name": "Sandswept Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "267",
@@ -1082,7 +1082,7 @@
 		},
 		{
 			"name": "Scorchwheat Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "268",
@@ -1092,7 +1092,7 @@
 		},
 		{
 			"name": "Shadowcrest Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "269",
@@ -1102,7 +1102,7 @@
 		},
 		{
 			"name": "Cryptveil Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "259",
@@ -1112,7 +1112,7 @@
 		},
 		{
 			"name": "Umberdark Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "270",
@@ -1122,7 +1122,7 @@
 		},
 		{
 			"name": "Wickfield Quarry",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "271",
@@ -1155,29 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "275",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/115.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/116.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "277",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/117.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/115.png"
 			}
 		},
 		{
@@ -1187,7 +1167,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/118.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/116.png"
 			}
 		},
 		{
@@ -1197,7 +1177,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/119.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/117.png"
 			}
 		},
 		{
@@ -1207,7 +1187,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/120.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/118.png"
 			}
 		},
 		{
@@ -1217,7 +1197,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/121.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/119.png"
 			}
 		},
 		{
@@ -1227,7 +1207,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/122.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/120.png"
 			}
 		},
 		{
@@ -1237,7 +1217,7 @@
 			"type": "Token Basic Land",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/123.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/121.png"
 			}
 		},
 		{
@@ -1247,7 +1227,7 @@
 			"type": "Enchantment",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/124.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/122.png"
 			}
 		},
 		{
@@ -1257,7 +1237,7 @@
 			"type": "Token Artifact — Prism",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/125.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/123.png"
 			}
 		},
 		{
@@ -1267,7 +1247,7 @@
 			"type": "",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/126.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/124.png"
 			}
 		},
 		{
@@ -1277,7 +1257,7 @@
 			"type": "Token Creature — Elephant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/127.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/125.png"
 			}
 		},
 		{
@@ -1287,7 +1267,7 @@
 			"type": "Legendary Devoid Creature — Angel",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/128.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/126.png"
 			}
 		},
 		{
@@ -1297,7 +1277,7 @@
 			"type": "Legendary Creature — Elf Noble",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/129.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/127.png"
 			}
 		},
 		{
@@ -1307,7 +1287,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/130.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/128.png"
 			}
 		},
 		{
@@ -1317,7 +1297,7 @@
 			"type": "Creature — Voidling Pegasus",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/131.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/129.png"
 			}
 		},
 		{
@@ -1327,7 +1307,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/132.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/130.png"
 			}
 		},
 		{
@@ -1337,7 +1317,7 @@
 			"type": "Sorcery",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/133.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/131.png"
 			}
 		},
 		{
@@ -1347,7 +1327,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/134.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/132.png"
 			}
 		},
 		{
@@ -1357,7 +1337,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/135.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/133.png"
 			}
 		},
 		{
@@ -1367,7 +1347,7 @@
 			"type": "Creature — Elf Citizen",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/136.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/134.png"
 			}
 		},
 		{
@@ -1377,7 +1357,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/137.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/135.png"
 			}
 		},
 		{
@@ -1387,7 +1367,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/138.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/136.png"
 			}
 		},
 		{
@@ -1397,7 +1377,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/139.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/137.png"
 			}
 		},
 		{
@@ -1407,7 +1387,7 @@
 			"type": "Sorcery",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/140.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/138.png"
 			}
 		},
 		{
@@ -1417,7 +1397,7 @@
 			"type": "Creature — Elf Soldier",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/141.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/139.png"
 			}
 		},
 		{
@@ -1427,7 +1407,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/142.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/140.png"
 			}
 		},
 		{
@@ -1437,7 +1417,7 @@
 			"type": "Creature — Elf Citizen",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/143.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/141.png"
 			}
 		},
 		{
@@ -1447,7 +1427,7 @@
 			"type": "Creature — Elf Noble",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/144.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/142.png"
 			}
 		},
 		{
@@ -1457,7 +1437,7 @@
 			"type": "Creature — Elf Advisor",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/143.png"
 			}
 		},
 		{
@@ -1467,7 +1447,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/146.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/144.png"
 			}
 		},
 		{
@@ -1477,7 +1457,7 @@
 			"type": "Instant",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/147.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145.png"
 			}
 		},
 		{
@@ -1487,7 +1467,7 @@
 			"type": "Sorcery",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/148.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/146.png"
 			}
 		},
 		{
@@ -1497,7 +1477,7 @@
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/149.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/147.png"
 			}
 		},
 		{
@@ -1507,7 +1487,7 @@
 			"type": "Legendary Devoid Creature — Sphinx",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/150.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/148.png"
 			}
 		},
 		{
@@ -1515,9 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Elf Advisor",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/151.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/149.png"
 			}
 		},
 		{
@@ -1527,7 +1507,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/152.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/150.png"
 			}
 		},
 		{
@@ -1537,7 +1517,7 @@
 			"type": "Creature — Voidling Shapeshifter",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/153.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/151.png"
 			}
 		},
 		{
@@ -1547,7 +1527,7 @@
 			"type": "Creature — Elf Rogue",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/154.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/152.png"
 			}
 		},
 		{
@@ -1557,7 +1537,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/155.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/153.png"
 			}
 		},
 		{
@@ -1565,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/156.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/154.png"
 			}
 		},
 		{
@@ -1575,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/157.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/155.png"
 			}
 		},
 		{
@@ -1585,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/158.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/156.png"
 			}
 		},
 		{
@@ -1595,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/159.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/157.png"
 			}
 		},
 		{
@@ -1607,7 +1587,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/160.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/158.png"
 			}
 		},
 		{
@@ -1617,7 +1597,7 @@
 			"type": "Creature — Elf Scout",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/161.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/159.png"
 			}
 		},
 		{
@@ -1627,7 +1607,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/162.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/160.png"
 			}
 		},
 		{
@@ -1637,7 +1617,7 @@
 			"type": "Creature — Whale",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/163.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/161.png"
 			}
 		},
 		{
@@ -1647,7 +1627,7 @@
 			"type": "Creature — Voidling Bird",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/164.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/162.png"
 			}
 		},
 		{
@@ -1657,7 +1637,7 @@
 			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/165.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/163.png"
 			}
 		},
 		{
@@ -1665,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/166.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/164.png"
 			}
 		},
 		{
@@ -1675,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/167.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/165.png"
 			}
 		},
 		{
@@ -1687,7 +1667,7 @@
 			"type": "Instant",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/168.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/166.png"
 			}
 		},
 		{
@@ -1695,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/169.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/167.png"
 			}
 		},
 		{
@@ -1707,7 +1687,7 @@
 			"type": "Enchantment",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/170.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/168.png"
 			}
 		},
 		{
@@ -1717,7 +1697,7 @@
 			"type": "Legendary Devoid Creature — Demon",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/171.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/169.png"
 			}
 		},
 		{
@@ -1727,7 +1707,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/172.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/170.png"
 			}
 		},
 		{
@@ -1737,7 +1717,7 @@
 			"type": "Creature — Vampire Warlock",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/173.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/171.png"
 			}
 		},
 		{
@@ -1747,7 +1727,7 @@
 			"type": "Creature — Voidling Demon",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/174.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/172.png"
 			}
 		},
 		{
@@ -1757,7 +1737,7 @@
 			"type": "Sorcery",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/175.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/173.png"
 			}
 		},
 		{
@@ -1767,7 +1747,7 @@
 			"type": "Legendary Creature — Vampire Noble",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/176.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/174.png"
 			}
 		},
 		{
@@ -1777,7 +1757,7 @@
 			"type": "Legendary Creature — Elf Warlock",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/177.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/175.png"
 			}
 		},
 		{
@@ -1787,7 +1767,7 @@
 			"type": "Creature — Plant Zombie",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/178.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/176.png"
 			}
 		},
 		{
@@ -1797,7 +1777,7 @@
 			"type": "Creature — Elf Wizard",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/179.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/177.png"
 			}
 		},
 		{
@@ -1807,7 +1787,7 @@
 			"type": "Creature — Elf Pirate",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/180.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/178.png"
 			}
 		},
 		{
@@ -1817,7 +1797,7 @@
 			"type": "Creature — Gnoll",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/181.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/179.png"
 			}
 		},
 		{
@@ -1827,7 +1807,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/182.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/180.png"
 			}
 		},
 		{
@@ -1837,7 +1817,7 @@
 			"type": "Creature — Vampire",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/183.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/181.png"
 			}
 		},
 		{
@@ -1847,7 +1827,7 @@
 			"type": "Creature — Ogre",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/184.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/182.png"
 			}
 		},
 		{
@@ -1857,7 +1837,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/185.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/183.png"
 			}
 		},
 		{
@@ -1867,7 +1847,7 @@
 			"type": "Enchantment",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/186.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/184.png"
 			}
 		},
 		{
@@ -1877,7 +1857,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/187.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/185.png"
 			}
 		},
 		{
@@ -1887,7 +1867,7 @@
 			"type": "Artifact",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/188.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/186.png"
 			}
 		},
 		{
@@ -1897,7 +1877,7 @@
 			"type": "Artifact Creature — Wall",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/189.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/187.png"
 			}
 		},
 		{
@@ -1907,7 +1887,7 @@
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/190.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/188.png"
 			}
 		},
 		{
@@ -1917,7 +1897,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/191.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/189.png"
 			}
 		},
 		{
@@ -1927,7 +1907,7 @@
 			"type": "Legendary Devoid Creature — Dragon",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/192.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/190.png"
 			}
 		},
 		{
@@ -1937,7 +1917,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/193.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/191.png"
 			}
 		},
 		{
@@ -1947,7 +1927,7 @@
 			"type": "Creature — Voidling Mutant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/194.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/192.png"
 			}
 		},
 		{
@@ -1957,7 +1937,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/195.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/193.png"
 			}
 		},
 		{
@@ -1967,7 +1947,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/196.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/194.png"
 			}
 		},
 		{
@@ -1977,7 +1957,7 @@
 			"type": "Creature — Goblin Pirate",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/197.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/195.png"
 			}
 		},
 		{
@@ -1987,7 +1967,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/198.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/196.png"
 			}
 		},
 		{
@@ -1997,7 +1977,7 @@
 			"type": "Legendary Creature — Elf Wizard Rebel",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/199.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/197.png"
 			}
 		},
 		{
@@ -2007,7 +1987,7 @@
 			"type": "Creature — Goblin Pirate",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/200.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/198.png"
 			}
 		},
 		{
@@ -2017,7 +1997,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/201.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/199.png"
 			}
 		},
 		{
@@ -2027,7 +2007,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/202.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/200.png"
 			}
 		},
 		{
@@ -2037,7 +2017,7 @@
 			"type": "Creature — Goblin Scout",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/203.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/201.png"
 			}
 		},
 		{
@@ -2047,7 +2027,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/204.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/202.png"
 			}
 		},
 		{
@@ -2057,7 +2037,7 @@
 			"type": "Creature — Ogre Mercenary",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/205.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/203.png"
 			}
 		},
 		{
@@ -2067,7 +2047,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/206.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/204.png"
 			}
 		},
 		{
@@ -2077,7 +2057,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/205.png"
 			}
 		},
 		{
@@ -2087,7 +2067,7 @@
 			"type": "Sorcery",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/208.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/206.png"
 			}
 		},
 		{
@@ -2097,7 +2077,7 @@
 			"type": "Artifact",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/209.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207.png"
 			}
 		},
 		{
@@ -2107,7 +2087,7 @@
 			"type": "Instant",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/210.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/208.png"
 			}
 		},
 		{
@@ -2117,7 +2097,7 @@
 			"type": "Sorcery",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/211.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/209.png"
 			}
 		},
 		{
@@ -2127,7 +2107,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/212.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/210.png"
 			}
 		},
 		{
@@ -2137,7 +2117,7 @@
 			"type": "Sorcery",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/213.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/211.png"
 			}
 		},
 		{
@@ -2147,7 +2127,7 @@
 			"type": "Legendary Devoid Creature — Hydra",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/214.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/212.png"
 			}
 		},
 		{
@@ -2157,7 +2137,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/215.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/213.png"
 			}
 		},
 		{
@@ -2167,7 +2147,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/216.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/214.png"
 			}
 		},
 		{
@@ -2177,7 +2157,7 @@
 			"type": "Creature — Voidling Fungus",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/217.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/215.png"
 			}
 		},
 		{
@@ -2187,7 +2167,7 @@
 			"type": "Sorcery",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/218.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/216.png"
 			}
 		},
 		{
@@ -2197,7 +2177,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/219.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/217.png"
 			}
 		},
 		{
@@ -2207,7 +2187,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/220.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/218.png"
 			}
 		},
 		{
@@ -2217,7 +2197,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/221.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/219.png"
 			}
 		},
 		{
@@ -2227,7 +2207,7 @@
 			"type": "Creature — Snake",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/222.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/220.png"
 			}
 		},
 		{
@@ -2237,7 +2217,7 @@
 			"type": "Sorcery",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/223.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/221.png"
 			}
 		},
 		{
@@ -2247,7 +2227,7 @@
 			"type": "Creature — Treefolk",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/224.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/222.png"
 			}
 		},
 		{
@@ -2257,7 +2237,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/225.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/223.png"
 			}
 		},
 		{
@@ -2267,7 +2247,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/226.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/224.png"
 			}
 		},
 		{
@@ -2277,7 +2257,7 @@
 			"type": "Sorcery",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/225.png"
 			}
 		},
 		{
@@ -2287,7 +2267,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/228.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/226.png"
 			}
 		},
 		{
@@ -2297,7 +2277,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/229.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227.png"
 			}
 		},
 		{
@@ -2307,7 +2287,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/230.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/228.png"
 			}
 		},
 		{
@@ -2317,7 +2297,7 @@
 			"type": "Creature — Voidling Fungus",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/231.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/229.png"
 			}
 		},
 		{
@@ -2327,7 +2307,7 @@
 			"type": "Instant",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/232.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/230.png"
 			}
 		},
 		{
@@ -2337,7 +2317,7 @@
 			"type": "Instant",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/233.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/231.png"
 			}
 		},
 		{
@@ -2347,7 +2327,7 @@
 			"type": "Enchantment",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/234.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/232.png"
 			}
 		},
 		{
@@ -2357,7 +2337,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/235.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/233.png"
 			}
 		},
 		{
@@ -2367,7 +2347,7 @@
 			"type": "Land",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/236.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/234.png"
 			}
 		},
 		{
@@ -2377,7 +2357,7 @@
 			"type": "Creature — Voidling Homunculus",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/237.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/235.png"
 			}
 		},
 		{
@@ -2387,7 +2367,7 @@
 			"type": "Legendary Creature — Elf Advisor",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/238.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/236.png"
 			}
 		},
 		{
@@ -2397,7 +2377,7 @@
 			"type": "Legendary Creature — Elf Wizard",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/239.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/237.png"
 			}
 		},
 		{
@@ -2407,27 +2387,27 @@
 			"type": "Legendary Creature — Elemental Fungus",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/240.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/238.png"
 			}
 		},
 		{
 			"name": "Oho, Who Endures",
 			"rarity": "mythic",
-			"mana_cost": "{2}{R}{G}{W}",
+			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Treefolk",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/241.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/239.png"
 			}
 		},
 		{
 			"name": "Aderic, Savvy Surveyor",
 			"rarity": "mythic",
-			"mana_cost": "{1}{G}{W}{U}",
+			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Elf Scout",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/242.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/240.png"
 			}
 		},
 		{
@@ -2437,7 +2417,7 @@
 			"type": "Legendary Creature — Elf Soldier",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/243.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/241.png"
 			}
 		},
 		{
@@ -2447,7 +2427,7 @@
 			"type": "Legendary Creature — Human Druid",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/244.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/242.png"
 			}
 		},
 		{
@@ -2457,7 +2437,7 @@
 			"type": "Legendary Creature — Human Bard",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/245.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/243.png"
 			}
 		},
 		{
@@ -2467,7 +2447,7 @@
 			"type": "Legendary Creature — Elf Soldier",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/246.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/244.png"
 			}
 		},
 		{
@@ -2477,7 +2457,7 @@
 			"type": "Legendary Creature — Elf Wizard",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/247.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/245.png"
 			}
 		},
 		{
@@ -2487,7 +2467,7 @@
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/248.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/246.png"
 			}
 		},
 		{
@@ -2497,7 +2477,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/249.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/247.png"
 			}
 		},
 		{
@@ -2507,7 +2487,7 @@
 			"type": "Creature — Avatar",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/250.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/248.png"
 			}
 		},
 		{
@@ -2517,7 +2497,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/251.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/249.png"
 			}
 		},
 		{
@@ -2527,7 +2507,7 @@
 			"type": "Creature — Elf Performer",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/252.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/250.png"
 			}
 		},
 		{
@@ -2537,7 +2517,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/251.png"
 			}
 		},
 		{
@@ -2547,7 +2527,7 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/254.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/252.png"
 			}
 		},
 		{
@@ -2557,7 +2537,7 @@
 			"type": "Sorcery",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/255.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253.png"
 			}
 		},
 		{
@@ -2567,7 +2547,7 @@
 			"type": "Land",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/256.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/254.png"
 			}
 		},
 		{
@@ -2577,7 +2557,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/257.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/255.png"
 			}
 		},
 		{
@@ -2587,7 +2567,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/258.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/256.png"
 			}
 		},
 		{
@@ -2597,7 +2577,7 @@
 			"type": "Enchantment",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/259.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/257.png"
 			}
 		},
 		{
@@ -2607,7 +2587,7 @@
 			"type": "Instant",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/260.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/258.png"
 			}
 		},
 		{
@@ -2617,7 +2597,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/261.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/259.png"
 			}
 		},
 		{
@@ -2627,7 +2607,7 @@
 			"type": "Creature — Goblin Rebel",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/262.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/260.png"
 			}
 		},
 		{
@@ -2637,7 +2617,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/263.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/261.png"
 			}
 		},
 		{
@@ -2647,7 +2627,7 @@
 			"type": "Sorcery",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/264.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/262.png"
 			}
 		},
 		{
@@ -2657,7 +2637,7 @@
 			"type": "Creature — Elf Cleric",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/265.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/263.png"
 			}
 		},
 		{
@@ -2667,7 +2647,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/266.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/264.png"
 			}
 		},
 		{
@@ -2677,7 +2657,7 @@
 			"type": "Creature — Mutant",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/267.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/265.png"
 			}
 		},
 		{
@@ -2687,7 +2667,7 @@
 			"type": "Artifact",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/268.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/266.png"
 			}
 		},
 		{
@@ -2697,7 +2677,7 @@
 			"type": "Artifact Creature — Thopter",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/269.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/267.png"
 			}
 		},
 		{
@@ -2707,7 +2687,7 @@
 			"type": "Creature — Voidling",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/270.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/268.png"
 			}
 		},
 		{
@@ -2717,7 +2697,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/271.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/269.png"
 			}
 		},
 		{
@@ -2727,7 +2707,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/272.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/270.png"
 			}
 		},
 		{
@@ -2737,17 +2717,17 @@
 			"type": "Token Creature — Voidling Beast",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/273.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/271.png"
 			}
 		},
 		{
 			"name": "Fractured Phantom",
 			"rarity": "uncommon",
-			"mana_cost": "{8}",
-			"type": "Creature — Voidling",
+			"mana_cost": "{9}",
+			"type": "Creature — Voidling Fractal",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/274.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/272.png"
 			}
 		},
 		{
@@ -2757,7 +2737,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/275.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/273.png"
 			}
 		},
 		{
@@ -2767,7 +2747,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/276.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/274.png"
 			}
 		},
 		{
@@ -2777,7 +2757,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/277.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/275.png"
 			}
 		},
 		{
@@ -2787,7 +2767,7 @@
 			"type": "Artifact — Vehicle",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/278.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/276.png"
 			}
 		},
 		{
@@ -2795,9 +2775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Crab",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/279.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/277.png"
 			}
 		},
 		{
@@ -2807,7 +2787,7 @@
 			"type": "Creature — Elemental Mutant",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/280.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/278.png"
 			}
 		},
 		{
@@ -2817,7 +2797,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/281.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/279.png"
 			}
 		},
 		{
@@ -2827,7 +2807,7 @@
 			"type": "Creature — Voidling",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/282.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/280.png"
 			}
 		},
 		{
@@ -2837,7 +2817,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/283.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/281.png"
 			}
 		},
 		{
@@ -2847,7 +2827,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/284.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/282.png"
 			}
 		},
 		{
@@ -2857,7 +2837,7 @@
 			"type": "Instant",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/285.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/283.png"
 			}
 		},
 		{
@@ -2867,7 +2847,7 @@
 			"type": "Land",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/286.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/284.png"
 			}
 		},
 		{
@@ -2877,7 +2857,7 @@
 			"type": "Token Creature — Illusion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/287.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/285.png"
 			}
 		},
 		{
@@ -2887,7 +2867,7 @@
 			"type": "Legendary Creature — Snake Druid",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/288.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/286.png"
 			}
 		},
 		{
@@ -2897,7 +2877,7 @@
 			"type": "Legendary Creature — Elf Artificer",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/289.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/287.png"
 			}
 		},
 		{
@@ -2907,7 +2887,7 @@
 			"type": "Token Creature — Vampire",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/290.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/288.png"
 			}
 		},
 		{
@@ -2917,7 +2897,7 @@
 			"type": "Creature — Phoenix",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/291.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/289.png"
 			}
 		},
 		{
@@ -2927,7 +2907,7 @@
 			"type": "Legendary Creature — Voidling",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/292.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/290.png"
 			}
 		},
 		{
@@ -2937,7 +2917,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/293.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/291.png"
 			}
 		},
 		{
@@ -2946,6 +2926,26 @@
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact",
 			"collector_number": "257",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/292.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/293.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/294.png"
 			}
@@ -3205,7 +3205,7 @@
 	8 Rescue
 	8 Baffling Visions
 	8 Abrasive Ideation
-	8 Utter Insignificance
+	8 Lost in Nightmares
 	8 Chonofraction
 	8 Flickerlight Projection
 	8 Split the Earth
@@ -3287,7 +3287,7 @@
 	8 Rescue
 	8 Baffling Visions
 	8 Abrasive Ideation
-	8 Utter Insignificance
+	8 Lost in Nightmares
 	8 Chonofraction
 	8 Flickerlight Projection
 	8 Split the Earth
@@ -3391,22 +3391,22 @@
 	6 Rasping Currents
 	12 Baffling Visions
 	12 Abrasive Ideation
-	12 Utter Insignificance
+	12 Lost in Nightmares
 	12 Chonofraction
 	12 Flickerlight Projection
 	12 Split the Earth
 	12 Barrescape Brawler
 	12 Clawfoot Herd
-	6 Ivyflow Quarry
-	6 Magmafell Quarry
-	6 Rootbound Quarry
-	6 Runespark Quarry
-	6 Sandswept Quarry
-	6 Scorchwheat Quarry
-	6 Shadowcrest Quarry
-	6 Cryptveil Quarry
-	6 Umberdark Quarry
-	6 Wickfield Quarry
+	12 Ivyflow Quarry
+	12 Magmafell Quarry
+	12 Rootbound Quarry
+	12 Runespark Quarry
+	12 Sandswept Quarry
+	12 Scorchwheat Quarry
+	12 Shadowcrest Quarry
+	12 Cryptveil Quarry
+	12 Umberdark Quarry
+	12 Wickfield Quarry
 	2 The Blind Army
 	1 Hu, Vestige of Faith
 	2 Shen, Heir of Anox
@@ -3663,22 +3663,22 @@
 	15 Rasping Currents
 	6 Baffling Visions
 	6 Abrasive Ideation
-	6 Utter Insignificance
+	6 Lost in Nightmares
 	6 Chonofraction
 	6 Flickerlight Projection
 	6 Split the Earth
 	6 Barrescape Brawler
 	6 Clawfoot Herd
-	15 Ivyflow Quarry
-	15 Magmafell Quarry
-	15 Rootbound Quarry
-	15 Runespark Quarry
-	15 Sandswept Quarry
-	15 Scorchwheat Quarry
-	15 Shadowcrest Quarry
-	15 Cryptveil Quarry
-	15 Umberdark Quarry
-	15 Wickfield Quarry
+	6 Ivyflow Quarry
+	6 Magmafell Quarry
+	6 Rootbound Quarry
+	6 Runespark Quarry
+	6 Sandswept Quarry
+	6 Scorchwheat Quarry
+	6 Shadowcrest Quarry
+	6 Cryptveil Quarry
+	6 Umberdark Quarry
+	6 Wickfield Quarry
 	7 The Blind Army
 	4 Hu, Vestige of Faith
 	7 Shen, Heir of Anox
@@ -3843,18 +3843,18 @@
 	4 A World Asunder
 	4 The Terralance
 [land(1)]
-	4 Ivyflow Quarry
-	4 Magmafell Quarry
-	4 Rootbound Quarry
-	4 Runespark Quarry
-	4 Sandswept Quarry
-	4 Scorchwheat Quarry
-	4 Shadowcrest Quarry
-	4 Cryptveil Quarry
-	4 Umberdark Quarry
-	4 Wickfield Quarry
-    8 Plains
-    8 Island
-    8 Swamp
-    8 Mountain
-    8 Forest
+	8 Ivyflow Quarry
+	8 Magmafell Quarry
+	8 Rootbound Quarry
+	8 Runespark Quarry
+	8 Sandswept Quarry
+	8 Scorchwheat Quarry
+	8 Shadowcrest Quarry
+	8 Cryptveil Quarry
+	8 Umberdark Quarry
+	8 Wickfield Quarry
+    16 Plains
+    16 Island
+    16 Swamp
+    16 Mountain
+    16 Forest
