@@ -225,7 +225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Vampire Advisor",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/22.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/46.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/52.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/58.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/66.png"
 			}
@@ -775,7 +775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Human Bard",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/77.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/102.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/117.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/118.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "280",
+			"collector_number": "281",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/119.png"
 			}
@@ -1205,7 +1205,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "281",
+			"collector_number": "280",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/120.png"
 			}
@@ -1445,7 +1445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Artifact Creature — Wall",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/144.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/196.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Creature — Human Druid",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/217.png"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/219.png"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/221.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/222.png"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/223.png"
 			}
@@ -2265,7 +2265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/226.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/227.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/228.png"
 			}
@@ -2311,7 +2311,7 @@
 			}
 		},
 		{
-			"name": "Blessing of Selas",
+			"name": "Blessing of Koma",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
@@ -2331,11 +2331,11 @@
 			}
 		},
 		{
-			"name": "Heaped Harvest",
+			"name": "Blighted Blossoming",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Artifact — Food",
-			"collector_number": "175",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/233.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Elf Advisor",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/236.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Legendary Creature — Elf Wizard",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/237.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Treefolk",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/239.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/242.png"
 			}
@@ -2485,17 +2485,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Avatar",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/248.png"
 			}
 		},
 		{
-			"name": "Heartpact Awakening",
+			"name": "Traveler of the Way",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Enchantment — Saga",
-			"collector_number": "217",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Human Scout",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/249.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Elf Performer",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/250.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/253.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Goblin Rebel",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/260.png"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/261.png"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/262.png"
 			}
@@ -2635,7 +2635,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/263.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/267.png"
 			}
@@ -2705,7 +2705,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/270.png"
 			}
@@ -2741,11 +2741,11 @@
 			}
 		},
 		{
-			"name": "Meteor Golem",
+			"name": "Core-Kin Titan",
 			"rarity": "uncommon",
-			"mana_cost": "{7}",
+			"mana_cost": "{5}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "252",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/274.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{C/W}{C/U}{C/B}{C/R}{C/G}",
 			"type": "Creature — Elemental",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/275.png"
 			}
@@ -2875,7 +2875,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{R}{W}",
 			"type": "Legendary Creature — Elf Artificer",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/287.png"
 			}
@@ -2895,7 +2895,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Phoenix",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/289.png"
 			}
@@ -2905,7 +2905,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Voidling",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/290.png"
 			}
@@ -2914,7 +2914,7 @@
 			"name": "A World Asunder",
 			"rarity": "mythic",
 			"mana_cost": "{4}{C}{C}",
-			"type": "Enchantment — Saga",
+			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/291.png"
@@ -3008,7 +3008,7 @@
 	2 Dance of Undeath
 	2 Greyheart Awakener
 	2 Toil Unending
-	2 Heartpact Awakening
+	2 Traveler of the Way
 	2 Prism Dancer
 	2 Cycleborn Mycolid
 	2 Greyheart Evangelist
@@ -3120,9 +3120,9 @@
 	4 Brush Stomper
 	4 Budding Mycospawn
 	4 Spirited Growth
-	4 Blessing of Selas
+	4 Blessing of Koma
 	4 Rite of Rebirth
-	4 Heaped Harvest
+	4 Blighted Blossoming
 	4 Fallen Lotus
 	4 Rancorous Rebel
 	4 Endless Hollow
@@ -3130,7 +3130,7 @@
 	4 Essence Extractor
 	4 Fractured Phantom
 	4 Broken Vessel
-	4 Meteor Golem
+	4 Core-Kin Titan
 	4 Scouting Ship
 	4 Radiant Crab
 	4 Resonant Quarry
@@ -3293,6 +3293,16 @@
 	8 Split the Earth
 	8 Barrescape Brawler
 	8 Clawfoot Herd
+	8 Ivyflow Quarry
+	8 Magmafell Quarry
+	8 Rootbound Quarry
+	8 Runespark Quarry
+	8 Sandswept Quarry
+	8 Scorchwheat Quarry
+	8 Shadowcrest Quarry
+	8 Cryptveil Quarry
+	8 Umberdark Quarry
+	8 Wickfield Quarry
 	8 Dissonant Dream
 	8 Voidseeker Fanatic
 	8 Leyline Surveyor
@@ -3513,9 +3523,9 @@
 	6 Brush Stomper
 	6 Budding Mycospawn
 	6 Spirited Growth
-	6 Blessing of Selas
+	6 Blessing of Koma
 	6 Rite of Rebirth
-	6 Heaped Harvest
+	6 Blighted Blossoming
 	2 Crystal Dunes
 	2 Fibrose Sympath
 	1 Kul, the Left Hand
@@ -3531,7 +3541,7 @@
 	2 Dance of Undeath
 	2 Greyheart Awakener
 	2 Toil Unending
-	2 Heartpact Awakening
+	2 Traveler of the Way
 	2 Prism Dancer
 	2 Cycleborn Mycolid
 	2 Greyheart Evangelist
@@ -3555,7 +3565,7 @@
 	6 Essence Extractor
 	6 Fractured Phantom
 	6 Broken Vessel
-	6 Meteor Golem
+	6 Core-Kin Titan
 	1 Herald of Anox
 	6 Scouting Ship
 	6 Radiant Crab
@@ -3785,9 +3795,9 @@
 	15 Brush Stomper
 	15 Budding Mycospawn
 	15 Spirited Growth
-	15 Blessing of Selas
+	15 Blessing of Koma
 	15 Rite of Rebirth
-	15 Heaped Harvest
+	15 Blighted Blossoming
 	7 Crystal Dunes
 	7 Fibrose Sympath
 	4 Kul, the Left Hand
@@ -3803,7 +3813,7 @@
 	7 Dance of Undeath
 	7 Greyheart Awakener
 	7 Toil Unending
-	7 Heartpact Awakening
+	7 Traveler of the Way
 	7 Prism Dancer
 	7 Cycleborn Mycolid
 	7 Greyheart Evangelist
@@ -3827,7 +3837,7 @@
 	15 Essence Extractor
 	15 Fractured Phantom
 	15 Broken Vessel
-	15 Meteor Golem
+	15 Core-Kin Titan
 	4 Herald of Anox
 	15 Scouting Ship
 	15 Radiant Crab

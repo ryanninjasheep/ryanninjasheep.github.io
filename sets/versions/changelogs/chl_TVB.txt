@@ -1,4 +1,122 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Blessing of Koma added.
+Blighted Blossoming added.
+Traveler of the Way added.
+Core-Kin Titan added.
+
+Blessing of Selas removed.
+Heaped Harvest removed.
+Heartpact Awakening removed.
+Meteor Golem removed.
+
+Aethelia Aerialist
+rules_text: Flying
+Whenever this creature attacks, if you control three or more tapped creatures, this creature gets +2/+0 until end of turn. => Flying
+Whenever this creature attacks, it gets +1/+0 until end of turn if you control another tapped creature.
+
+Voidcraft Scholar
+
+Curio Collector
+
+Luxara Doorman
+rules_text: When this creature enters, return target creature an opponent controls to its owner's hand. => Whenever you cast a spell with mana value 5 or greater, target creature an opponent controls gets -3/-0 until end of turn.
+pt: 3/2 => 4/3
+
+Blazing Artillerist
+
+Wingblade General
+
+Underdark Avenger
+
+Baffling Visions
+rules_text: Target creature gets -1/-0 until end of turn. It gets -3/-0 until end of turn instead if you control a colorless nonland permanent.
+Draw a card. => Target creature gets -1/-0 until end of turn. It gets -3/-0 until end of turn instead if you control a creature with flying.
+Draw a card.
+
+Clawfoot Herd
+
+Draft Archetypes
+rules_text: {W}{U} Flying Elves
+{U}{B} Colorless cost control
+{B}{R} Sacrifice
+{R}{G} [/i][i]Landfall[/i][i]
+{G}{W} Reanimator
+{W}{B} Tapped creatures
+{U}{R} Colorless permanents
+{B}{G} Leaves the graveyard
+{R}{W} Go wide
+{G}{U} MV 5+ => {W}{U} Flying Elves
+{U}{B} Colorless cost control
+{B}{R} Sacrifice
+{R}{G} [/i][i]Landfall[/i][i]
+{G}{W} Reanimator
+{W}{B} Tapped creatures matter
+{U}{R} Colorless permanents
+{B}{G} Leaves the graveyard
+{R}{W} Go wide tokens
+{G}{U} MV 5+ matters
+
+Voidseeker Sneak
+
+Wakewatcher Wizard
+
+Grim Opportunist
+rules_text: When this creature enters, put a decayed counter on target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a permanent, you gain 1 life. => When this creature enters, put a decayed counter on up to one target creature. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Whenever a player sacrifices a permanent, you gain 1 life.
+
+Blighted Barricade
+
+Greyheart Avenger
+
+Igneous Core
+rules_text: Whenever you lay waste, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{2}, {T}, Sacrifice this artifact: Draw a card. => When this artifact enters and whenever you lay waste, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{2}, {T}, Sacrifice this artifact: Draw a card.
+
+Uncaged Fury
+
+Luciclasm
+
+Fibrose Sympath
+rules_text: When this creature enters, create a token that's a copy of it.
+Other colorless creatures you control get +1/+1.
+Evoke {2}{C} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When this creature enters, if it isn't a token, create a token that's a copy of it.
+Other colorless creatures you control get +1/+1.
+Evoke {2}{C} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Oho, Who Endures
+rules_text: Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+At the beginning of combat on your turn, exile up to one target land you control, then return it to the battlefield under its owner's control. => Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Void Engine
+
+Gravity Gauntlet
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, put a charge counter on this Equipment.
+Whenever equipped creature attacks, it gets +X/+X until end of turn, where X is the number of charge counters on this Equipment.
+Equip {2} => [i]Landfall[/i] — Whenever a land you control enters, put a charge counter on this Equipment.
+Whenever equipped creature attacks, it gets +X/+X until end of turn, where X is the number of charge counters on this Equipment.
+Equip {1}
+
+Fetid Maw
+
+A World Asunder
+type: Enchantment — Saga => Sorcery
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => Exile all nonland permanents. Until the end of your next turn, you may cast cards exiled this way, and you may spend colorless mana as though it were mana of any color to do so.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Exile all other nonland permanents.
+II — Lay waste.
+III — Until end of turn, you may cast cards exiled by this Saga, and you may spend colorless mana as though it were mana of any color to do so. => 
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Lost in Nightmares added.
