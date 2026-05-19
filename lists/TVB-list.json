@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Li, Vestige of Power",
-        "number": 108,
+        "number": 109,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Ko, Vestige of Fervor",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -105,7 +105,7 @@
     },
     {
         "card_name": "The Blind Army",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Sculpt in Light",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Earthquake Elemental",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Sparkwork Armorer",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -185,7 +185,7 @@
     },
     {
         "card_name": "Flintlock Scavenger",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -225,7 +225,7 @@
     },
     {
         "card_name": "Haal, Dissident Illusionist",
-        "number": 146,
+        "number": 145,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Leila, Reckless Pyromancer",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -305,7 +305,7 @@
     },
     {
         "card_name": "Boulder Breaker",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -345,7 +345,7 @@
     },
     {
         "card_name": "Dispassionate Plunderer",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Dizzying Resummoning",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -425,7 +425,7 @@
     },
     {
         "card_name": "Forgetful Forager",
-        "number": 143,
+        "number": 142,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Gravity Gauntlet",
-        "number": 144,
+        "number": 143,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -505,7 +505,7 @@
     },
     {
         "card_name": "Greyheart Avenger",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -529,7 +529,7 @@
     },
     {
         "card_name": "Shifting Spectre",
-        "number": 79,
+        "number": 78,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -537,7 +537,7 @@
     },
     {
         "card_name": "Lifeblood Lurker",
-        "number": 109,
+        "number": 110,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -545,7 +545,7 @@
     },
     {
         "card_name": "Haunted Pioneer",
-        "number": 147,
+        "number": 146,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -569,7 +569,7 @@
     },
     {
         "card_name": "Skyjack",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -585,7 +585,7 @@
     },
     {
         "card_name": "Igneous Core",
-        "number": 148,
+        "number": 147,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -609,7 +609,7 @@
     },
     {
         "card_name": "Sparkwork Kaleidoscope",
-        "number": 82,
+        "number": 81,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Thopter Tinkerer",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -848,12 +848,12 @@
         "position": "5"
     },
     {
-        "card_name": "Baffling Visions",
+        "card_name": "Chonofraction",
         "number": 60,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "94"
+        "position": "97"
     },
     {
         "card_name": "Corrupted Conviction",
@@ -888,12 +888,12 @@
         "position": "4"
     },
     {
-        "card_name": "Chonofraction",
+        "card_name": "Curio Collector",
         "number": 61,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "97"
+        "position": "15"
     },
     {
         "card_name": "Cruel Enforcer",
@@ -928,12 +928,12 @@
         "position": "8"
     },
     {
-        "card_name": "Curio Collector",
+        "card_name": "Dextrous Dodge",
         "number": 62,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "15"
+        "position": "94"
     },
     {
         "card_name": "Deathrattle Scorpion",
@@ -944,12 +944,12 @@
         "position": "20"
     },
     {
-        "card_name": "Battlefield Troubador",
+        "card_name": "Beckoning Void",
         "number": 130,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "33"
+        "position": "41"
     },
     {
         "card_name": "Deeproot Treefolk",
@@ -984,12 +984,12 @@
         "position": "24"
     },
     {
-        "card_name": "Beckoning Void",
+        "card_name": "Blazing Artillerist",
         "number": 131,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "41"
+        "position": "35"
     },
     {
         "card_name": "Disciple of Koma",
@@ -1024,12 +1024,12 @@
         "position": "69"
     },
     {
-        "card_name": "Blazing Artillerist",
-        "number": 132,
+        "card_name": "Careless Cartographer",
+        "number": 134,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "35"
+        "position": "34"
     },
     {
         "card_name": "Harvest Cycle",
@@ -1064,12 +1064,12 @@
         "position": "21"
     },
     {
-        "card_name": "Careless Cartographer",
+        "card_name": "Caustic Peakcrawler",
         "number": 135,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "34"
+        "position": "36"
     },
     {
         "card_name": "Ichortongue Lizard",
@@ -1104,12 +1104,12 @@
         "position": "27"
     },
     {
-        "card_name": "Caustic Peakcrawler",
+        "card_name": "Cindertusk Boar",
         "number": 136,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "36"
+        "position": "38"
     },
     {
         "card_name": "Koma's Chosen",
@@ -1136,20 +1136,20 @@
         "position": "13"
     },
     {
-        "card_name": "Lifeleeched Vermin",
-        "number": 110,
+        "card_name": "Grubtail Spider",
+        "number": 108,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "19"
     },
     {
-        "card_name": "Cindertusk Boar",
-        "number": 137,
+        "card_name": "Echoing Roar",
+        "number": 140,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "38"
+        "position": "39"
     },
     {
         "card_name": "Leyline Navigation",
@@ -1184,12 +1184,12 @@
         "position": "32"
     },
     {
-        "card_name": "Echoing Roar",
-        "number": 141,
+        "card_name": "Let Go Lightly",
+        "number": 150,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "39"
+        "position": "42"
     },
     {
         "card_name": "Nature's Wrath",
@@ -1208,8 +1208,8 @@
         "position": "88"
     },
     {
-        "card_name": "Rescue",
-        "number": 77,
+        "card_name": "Unsummon",
+        "number": 83,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -1224,12 +1224,12 @@
         "position": "29"
     },
     {
-        "card_name": "Let Go Lightly",
+        "card_name": "Lifeleeched Vermin",
         "number": 151,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "42"
+        "position": "33"
     },
     {
         "card_name": "Oxhide Veil",
@@ -1647,7 +1647,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "289"
+        "position": "288"
     },
     {
         "card_name": "Scintillating Shardborn",
@@ -1871,7 +1871,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "290"
+        "position": "289"
     },
     {
         "card_name": "e"
@@ -1909,7 +1909,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "291"
+        "position": "290"
     },
     {
         "card_name": "The Terralance",
@@ -1917,7 +1917,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "292"
+        "position": "291"
     },
     {
         "card_name": "Effervescent Enigma",
@@ -2342,7 +2342,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 272,
+        "number": 273,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2350,7 +2350,7 @@
     },
     {
         "card_name": "Plains",
-        "number": 273,
+        "number": 272,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2374,7 +2374,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 279,
+        "number": 278,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2382,7 +2382,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 278,
+        "number": 279,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2410,7 +2410,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "293"
+        "position": "292"
     },
     {
         "card_name": "Swamp",
@@ -2418,7 +2418,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "294"
+        "position": "293"
     },
     {
         "card_name": "er"
@@ -2483,7 +2483,7 @@
     },
     {
         "card_name": "Prism",
-        "number": 11,
+        "number": 10,
         "shape": "token",
         "set": "TVB",
         "rotated": false,
@@ -2491,7 +2491,7 @@
     },
     {
         "card_name": "Rock",
-        "number": 12,
+        "number": 11,
         "shape": "token",
         "set": "TVB",
         "rotated": false,
@@ -2499,7 +2499,7 @@
     },
     {
         "card_name": "Thopter",
-        "number": 13,
+        "number": 12,
         "shape": "token",
         "set": "TVB",
         "rotated": false,
@@ -2507,7 +2507,7 @@
     },
     {
         "card_name": "Wastes Token",
-        "number": 14,
+        "number": 13,
         "shape": "token",
         "set": "TVB",
         "rotated": false,
@@ -2522,16 +2522,8 @@
         "position": "86"
     },
     {
-        "card_name": "Vampire",
-        "number": 8,
-        "shape": "token",
-        "set": "TVB",
-        "rotated": false,
-        "position": "288"
-    },
-    {
         "card_name": "Elephant",
-        "number": 9,
+        "number": 8,
         "shape": "token",
         "set": "TVB",
         "rotated": false,
@@ -2539,11 +2531,14 @@
     },
     {
         "card_name": "Saproling",
-        "number": 10,
+        "number": 9,
         "shape": "token",
         "set": "TVB",
         "rotated": false,
         "position": "279"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

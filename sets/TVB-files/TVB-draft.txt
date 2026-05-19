@@ -155,7 +155,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/15.png"
 			}
@@ -191,11 +191,11 @@
 			}
 		},
 		{
-			"name": "Lifeleeched Vermin",
+			"name": "Grubtail Spider",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Rat",
-			"collector_number": "110",
+			"type": "Creature — Spider",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/19.png"
 			}
@@ -331,11 +331,11 @@
 			}
 		},
 		{
-			"name": "Battlefield Troubador",
+			"name": "Lifeleeched Vermin",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Goblin Bard",
-			"collector_number": "130",
+			"type": "Creature — Rat",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Archer",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Salamander",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/36.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/39.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/42.png"
 			}
@@ -694,7 +694,7 @@
 			"name": "Dessicated Diner",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Citizen",
+			"type": "Creature — Vampire Citizen",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/69.png"
@@ -875,7 +875,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/87.png"
 			}
@@ -921,11 +921,11 @@
 			}
 		},
 		{
-			"name": "Rescue",
+			"name": "Unsummon",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/92.png"
 			}
@@ -941,11 +941,11 @@
 			}
 		},
 		{
-			"name": "Baffling Visions",
+			"name": "Dextrous Dodge",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/94.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/97.png"
 			}
@@ -1135,7 +1135,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "273",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/114.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "279",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/117.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "278",
+			"collector_number": "279",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/118.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Basic Land",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/122.png"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Prism",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/123.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elephant",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/125.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/154.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Illusion",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/156.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/157.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/165.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/167.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{C}{B}{B}",
 			"type": "Legendary Devoid Creature — Demon",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/169.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/181.png"
 			}
@@ -1905,7 +1905,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{C}{R}{R}",
 			"type": "Legendary Devoid Creature — Dragon",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/190.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/193.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Pirate",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/195.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Elf Wizard Rebel",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/197.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Pirate",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/198.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Scout",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/202.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ogre Mercenary",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/203.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Scout",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/205.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/209.png"
 			}
@@ -2695,7 +2695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/269.png"
 			}
@@ -2795,7 +2795,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/279.png"
 			}
@@ -2815,7 +2815,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/281.png"
 			}
@@ -2881,23 +2881,13 @@
 			}
 		},
 		{
-			"name": "Vampire",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Vampire",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/288.png"
-			}
-		},
-		{
 			"name": "Riftwake Phoenix",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Phoenix",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/289.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/288.png"
 			}
 		},
 		{
@@ -2907,7 +2897,7 @@
 			"type": "Legendary Creature — Voidling",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/290.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/289.png"
 			}
 		},
 		{
@@ -2917,7 +2907,7 @@
 			"type": "Sorcery",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/291.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/290.png"
 			}
 		},
 		{
@@ -2927,7 +2917,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/292.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/291.png"
 			}
 		},
 		{
@@ -2937,7 +2927,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/293.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/292.png"
 			}
 		},
 		{
@@ -2947,7 +2937,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/294.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/293.png"
 			}
 		}
 	]
@@ -3154,7 +3144,7 @@
 	8 Luxara Doorman
 	8 Wingblade Surveyor
 	8 Sepia Serpent
-	8 Lifeleeched Vermin
+	8 Grubtail Spider
 	8 Deathrattle Scorpion
 	8 Duram Nightstalker
 	8 Desperate Howler
@@ -3166,7 +3156,7 @@
 	8 Corrupted Conviction
 	8 Madness Incarnate
 	8 Mindless Culling
-	8 Battlefield Troubador
+	8 Lifeleeched Vermin
 	8 Careless Cartographer
 	8 Blazing Artillerist
 	8 Caustic Peakcrawler
@@ -3202,8 +3192,8 @@
 	8 Severed Sanctum
 	8 Fleeting Flight
 	8 Wingblade Recruit
-	8 Rescue
-	8 Baffling Visions
+	8 Unsummon
+	8 Dextrous Dodge
 	8 Abrasive Ideation
 	8 Lost in Nightmares
 	8 Chonofraction
@@ -3236,7 +3226,7 @@
 	8 Luxara Doorman
 	8 Wingblade Surveyor
 	8 Sepia Serpent
-	8 Lifeleeched Vermin
+	8 Grubtail Spider
 	8 Deathrattle Scorpion
 	8 Duram Nightstalker
 	8 Desperate Howler
@@ -3248,7 +3238,7 @@
 	8 Corrupted Conviction
 	8 Madness Incarnate
 	8 Mindless Culling
-	8 Battlefield Troubador
+	8 Lifeleeched Vermin
 	8 Careless Cartographer
 	8 Blazing Artillerist
 	8 Caustic Peakcrawler
@@ -3284,8 +3274,8 @@
 	8 Severed Sanctum
 	8 Fleeting Flight
 	8 Wingblade Recruit
-	8 Rescue
-	8 Baffling Visions
+	8 Unsummon
+	8 Dextrous Dodge
 	8 Abrasive Ideation
 	8 Lost in Nightmares
 	8 Chonofraction
@@ -3293,16 +3283,6 @@
 	8 Split the Earth
 	8 Barrescape Brawler
 	8 Clawfoot Herd
-	8 Ivyflow Quarry
-	8 Magmafell Quarry
-	8 Rootbound Quarry
-	8 Runespark Quarry
-	8 Sandswept Quarry
-	8 Scorchwheat Quarry
-	8 Shadowcrest Quarry
-	8 Cryptveil Quarry
-	8 Umberdark Quarry
-	8 Wickfield Quarry
 	8 Dissonant Dream
 	8 Voidseeker Fanatic
 	8 Leyline Surveyor
@@ -3328,7 +3308,7 @@
 	12 Luxara Doorman
 	12 Wingblade Surveyor
 	12 Sepia Serpent
-	12 Lifeleeched Vermin
+	12 Grubtail Spider
 	12 Deathrattle Scorpion
 	12 Duram Nightstalker
 	6 Sinister Administrator
@@ -3342,7 +3322,7 @@
 	12 Corrupted Conviction
 	12 Madness Incarnate
 	12 Mindless Culling
-	12 Battlefield Troubador
+	12 Lifeleeched Vermin
 	12 Careless Cartographer
 	12 Blazing Artillerist
 	12 Caustic Peakcrawler
@@ -3397,9 +3377,9 @@
 	12 Severed Sanctum
 	12 Fleeting Flight
 	12 Wingblade Recruit
-	12 Rescue
+	12 Unsummon
 	6 Rasping Currents
-	12 Baffling Visions
+	12 Dextrous Dodge
 	12 Abrasive Ideation
 	12 Lost in Nightmares
 	12 Chonofraction
@@ -3600,7 +3580,7 @@
 	6 Luxara Doorman
 	6 Wingblade Surveyor
 	6 Sepia Serpent
-	6 Lifeleeched Vermin
+	6 Grubtail Spider
 	6 Deathrattle Scorpion
 	6 Duram Nightstalker
 	15 Sinister Administrator
@@ -3614,7 +3594,7 @@
 	6 Corrupted Conviction
 	6 Madness Incarnate
 	6 Mindless Culling
-	6 Battlefield Troubador
+	6 Lifeleeched Vermin
 	6 Careless Cartographer
 	6 Blazing Artillerist
 	6 Caustic Peakcrawler
@@ -3669,9 +3649,9 @@
 	6 Severed Sanctum
 	6 Fleeting Flight
 	6 Wingblade Recruit
-	6 Rescue
+	6 Unsummon
 	15 Rasping Currents
-	6 Baffling Visions
+	6 Dextrous Dodge
 	6 Abrasive Ideation
 	6 Lost in Nightmares
 	6 Chonofraction

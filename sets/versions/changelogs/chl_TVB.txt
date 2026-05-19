@@ -1,4 +1,50 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Grubtail Spider added.
+Unsummon added.
+Dextrous Dodge added.
+
+Battlefield Troubador removed.
+Rescue removed.
+Baffling Visions removed.
+Vampire removed.
+
+Lifeleeched Vermin
+cost: {B} => {R}
+rules_text: {1}, Exile this card from your graveyard: Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Menace
+When this creature dies, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Dessicated Diner
+type: Creature — Human Citizen => Creature — Vampire Citizen
+rules_text: When this creature dies, create a 1/1 black Vampire creature token with “Whenever this creature becomes tapped, each opponent loses 1 life.” => Whenever this creature becomes tapped, each opponent loses 1 life.
+pt: 2/2 => 2/3
+
+Voidseeker Sneak
+
+Voidcraft Adept
+rules_text: You may look at the top card of your library at any time.
+You may cast colorless spells from the top of your library.
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature. => You may cast colorless spells as though they had flash.
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature.
+
+Wakewatcher Wizard
+
+Koma's Hearth
+rules_text: You may cast spells for their evoke costs as though they had flash.
+At the beginning of your end step, exile a permanent card from your graveyard at random, then you may return a permanent card from your graveyard to your hand. => Whenever you evoke a spell, gain 2 life.
+At the beginning of your end step, exile a permanent card from your graveyard at random, then you may return a permanent card from your graveyard to your hand.
+
+Riftwake Phoenix
+
+Syzygy, Whole One
+
+A World Asunder
+
+The Terralance
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Blessing of Koma added.
