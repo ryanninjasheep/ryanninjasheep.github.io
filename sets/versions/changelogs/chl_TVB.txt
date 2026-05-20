@@ -1,4 +1,42 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Core Collapse added.
+Riftwake Ancient added.
+
+Igneous Core removed.
+Warped Echoes removed.
+
+Voidcraft Adept
+rules_text: You may cast colorless spells as though they had flash.
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature. => Flying
+You may cast colorless spells as though they had flash.
+Whenever you cast a colorless spell, put a +1/+1 counter on this creature.
+
+Sculpt in Light
+type: Instant => Sorcery
+cost: {2}{U}{U} => {3}{U}{U}
+rules_text: Create a token that's a copy of target permanent except it's a 4/1 colorless Illusion creature with decayed in addition to its other types. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When you cast this spell, copy it for each {C} spent to cast it. You may choose new targets for the copies.
+Create a token that's a copy of target permanent except it's a 4/1 colorless Illusion creature with decayed in addition to its other types. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Sparkwork Kaleidoscope
+
+Oho, Who Endures
+rules_text: Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{T}: Exile target land, then return it to the battlefield under its owner's control.
+
+Cycleborn Mycolid
+pt: 3/4 => 4/4
+
+Void Engine
+rules_text: {T}: Add {C}.
+{1}{C}, {T}, Sacrifice this artifact: Copy the next colorless spell you cast this turn. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i] => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to evoke a creature spell. When you do, exile that creature when it enters. You may cast it for its mana cost for as long as it remains exiled. [i](You may not evoke it.)[/i]
+
+
+VERSION 33 CHANGELOG
 ====================
 
 Grubtail Spider added.
