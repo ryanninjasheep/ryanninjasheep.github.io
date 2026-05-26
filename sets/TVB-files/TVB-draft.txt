@@ -214,7 +214,7 @@
 			"name": "Duram Nightstalker",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Vampire",
+			"type": "Creature — Vampire Scout",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/21.png"
@@ -1814,7 +1814,7 @@
 			"name": "Lifeblood Lurker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Vampire",
+			"type": "Creature — Vampire Cleric",
 			"collector_number": "109",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/181.png"
@@ -2073,8 +2073,8 @@
 		{
 			"name": "Core Collapse",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
 			"collector_number": "136",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/207.png"
@@ -2894,7 +2894,7 @@
 			"name": "Syzygy, Whole One",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature — Voidling",
+			"type": "Legendary Devoid Creature — Voidling",
 			"collector_number": "235",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/289.png"

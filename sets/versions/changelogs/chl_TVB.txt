@@ -1,4 +1,68 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+
+
+Duram Nightstalker
+type: Creature — Vampire => Creature — Vampire Scout
+
+Corrupted Conviction
+
+Ichortongue Lizard
+
+Disciple of Koma
+
+Dessicated Diner
+
+Shattered Reflection
+rules_text: You may have this creature enter as a copy of any creature on the battlefield except it's a 5/5 colorless Voidling in addition to its other types.
+Evoke {U}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => You may have this creature enter as a copy of any permanent on the battlefield except it's a 5/5 colorless Voidling creature in addition to its other types.
+Evoke {U}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Sculpt in Light
+rules_text: When you cast this spell, copy it for each {C} spent to cast it. You may choose new targets for the copies.
+Create a token that's a copy of target permanent except it's a 4/1 colorless Illusion creature with decayed in addition to its other types. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When you cast this spell, copy it for each {C} spent to cast it. You may choose new targets for the copies.
+Create a token that's a copy of target creature except it's a 4/1 colorless Illusion creature with decayed in addition to its other types. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Voidseeker Fanatic
+
+Mindskewer
+
+Lifeblood Lurker
+type: Creature — Vampire => Creature — Vampire Cleric
+
+Core Collapse
+type: Sorcery => Instant
+cost: {2}{R} => {1}{R}
+rules_text: Core Collapse deals X damage to target creature, where X is the number of face-down lands you control. Exile cards from the top of your library equal to the excess damage dealt to that creature this way, then choose one of those cards. You may play it until the end of your next turn. => Core Collapse deals 3 damage to target creature and X damage to that creature's controller, where X is the number of face-down lands you control.
+
+Fenfield Nourisher
+
+Clawfoot Elder
+
+Oho, Who Endures
+rules_text: Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{T}: Exile target land, then return it to the battlefield under its owner's control. => Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{5}: Add {W}{U}{B}{R}{G}.
+
+Syzygy, Whole One
+type: Legendary Creature — Voidling => Legendary Devoid Creature — Voidling
+rules_text: {1}, Lay waste: Choose one —
+• You gain 3 life.
+• Draw a card, then discard a card.
+• Target creature gets -1/-1 until end of turn.
+• Syzygy deals 2 damage to any target.
+• Put a +1/+1 counter on target creature.
+Evoke {5} => [i](This card has no color.)[/i]
+When Syzygy enters, draw a card and create a Prism token.
+If Syzygy would be put into a graveyard from anywhere, its owner shuffles it into their library instead.
+Evoke {3}
+pt: 7/7 => 5/5
+
+
+VERSION 34 CHANGELOG
 ====================
 
 Core Collapse added.

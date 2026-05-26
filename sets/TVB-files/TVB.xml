@@ -5,7 +5,7 @@
 			<name>TVB</name>
 			<longname>The Void Beneath</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-20</releasedate>
+			<releasedate>2026-05-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -384,7 +384,7 @@ When this creature enters, if a creature died this turn, you draw a card and los
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Vampire</type>
+				<type>Creature — Vampire Scout</type>
 				<maintype>Creature</maintype>
 				<manacost>4B</manacost>
 				<cmc>5</cmc>
@@ -2683,7 +2683,7 @@ You may cast spells exiled by Ba, and you may spend colorless mana as though it 
 		</card>
 		<card>
 			<name>Shattered Reflection</name>
-			<text>You may have this creature enter as a copy of any creature on the battlefield except it&apos;s a 5/5 colorless Voidling in addition to its other types.
+			<text>You may have this creature enter as a copy of any permanent on the battlefield except it&apos;s a 5/5 colorless Voidling creature in addition to its other types.
 Evoke {U}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/151.png" num="16">TVB</set>
 			<prop>
@@ -2737,7 +2737,7 @@ Whenever you cast a colorless spell, put a +1/+1 counter on this creature.</text
 		<card>
 			<name>Sculpt in Light</name>
 			<text>When you cast this spell, copy it for each {C} spent to cast it. You may choose new targets for the copies.
-Create a token that&apos;s a copy of target permanent except it&apos;s a 4/1 colorless Illusion creature with decayed in addition to its other types. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+Create a token that&apos;s a copy of target creature except it&apos;s a 4/1 colorless Illusion creature with decayed in addition to its other types. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/154.png" num="76">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3217,7 +3217,7 @@ Whenever one or more cards leave your graveyard during your turn, put a +1/+1 co
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Vampire</type>
+				<type>Creature — Vampire Cleric</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -3675,15 +3675,15 @@ Creatures you control gain haste until end of turn.</text>
 		</card>
 		<card>
 			<name>Core Collapse</name>
-			<text>Core Collapse deals X damage to target creature, where X is the number of face-down lands you control. Exile cards from the top of your library equal to the excess damage dealt to that creature this way, then choose one of those cards. You may play it until the end of your next turn.</text>
+			<text>Core Collapse deals 3 damage to target creature and X damage to that creature&apos;s controller, where X is the number of face-down lands you control.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/207.png" num="136">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 			</prop>
@@ -4230,7 +4230,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Yegh.
 			<name>Oho, Who Endures</name>
 			<text>Reach
 If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
-{T}: Exile target land, then return it to the battlefield under its owner&apos;s control.</text>
+{5}: Add {W}{U}{B}{R}{G}.</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/239.png" num="224">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4240,7 +4240,7 @@ If a permanent entering the battlefield causes a triggered ability of a permanen
 				<manacost>2GWU</manacost>
 				<cmc>5</cmc>
 				<colors>WUG</colors>
-				<coloridentity>WUG</coloridentity>
+				<coloridentity>WUBRG</coloridentity>
 				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -5102,24 +5102,21 @@ Whenever you lay waste, you may return this card from your graveyard to the batt
 		</card>
 		<card>
 			<name>Syzygy, Whole One</name>
-			<text>{1}, Lay waste: Choose one —
-• You gain 3 life.
-• Draw a card, then discard a card.
-• Target creature gets -1/-1 until end of turn.
-• Syzygy deals 2 damage to any target.
-• Put a +1/+1 counter on target creature.
-Evoke {5}</text>
+			<text>(This card has no color.)
+When Syzygy enters, draw a card and create a Prism token.
+If Syzygy would be put into a graveyard from anywhere, its owner shuffles it into their library instead.
+Evoke {3}</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/289.png" num="235">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Voidling</type>
+				<type>Legendary Devoid Creature — Voidling</type>
 				<maintype>Creature</maintype>
 				<manacost>WUBRG</manacost>
 				<cmc>5</cmc>
 				<colors>WUBRG</colors>
 				<coloridentity>WUBRG</coloridentity>
-				<pt>7/7</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

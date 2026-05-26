@@ -1780,12 +1780,7 @@
         "position": "240"
     },
     {
-        "card_name": "Oho, Who Endures",
-        "number": 224,
-        "shape": "normal",
-        "set": "TVB",
-        "rotated": false,
-        "position": "239"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1858,6 +1853,14 @@
         "card_name": "er"
     },
     {
+        "card_name": "Oho, Who Endures",
+        "number": 224,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "239"
+    },
+    {
         "card_name": "Herald of Anox",
         "number": 217,
         "shape": "normal",
@@ -1872,9 +1875,6 @@
         "set": "TVB",
         "rotated": false,
         "position": "289"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
