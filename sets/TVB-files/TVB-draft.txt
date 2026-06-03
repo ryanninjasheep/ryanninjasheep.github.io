@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/3.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Elf Advisor",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/7.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/59.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/91.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{C}{C}{W}{W}",
 			"type": "Legendary Devoid Creature — Angel",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/126.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Elf Noble",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/127.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/132.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/134.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/135.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/137.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/138.png"
 			}
@@ -1405,7 +1405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Wizard",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/140.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/141.png"
 			}
@@ -1425,7 +1425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Elf Noble",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/142.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Advisor",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/143.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/145.png"
 			}
@@ -1464,18 +1464,18 @@
 			"name": "Bonded in Battle",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/146.png"
 			}
 		},
 		{
-			"name": "Zealous Display",
+			"name": "Excise the Blasphemous",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/147.png"
 			}
@@ -2939,6 +2939,276 @@
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/293.png"
 			}
+		},
+		{
+			"name": "Abtruse Appropriation",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Devoid Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/294.png"
+			}
+		},
+		{
+			"name": "Abtruse Archaic",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Creature — Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/295.png"
+			}
+		},
+		{
+			"name": "Cryptic Trilobite",
+			"rarity": "special",
+			"mana_cost": "{X}{X}",
+			"type": "Creature — Trilobite",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/296.png"
+			}
+		},
+		{
+			"name": "Desecrate Reality",
+			"rarity": "special",
+			"mana_cost": "{7}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/297.png"
+			}
+		},
+		{
+			"name": "Energybending",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Instant — Lesson",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/298.png"
+			}
+		},
+		{
+			"name": "Ghostfire Slice",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Devoid Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/299.png"
+			}
+		},
+		{
+			"name": "Null Elemental Blast",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/300.png"
+			}
+		},
+		{
+			"name": "Spatial Contortion",
+			"rarity": "special",
+			"mana_cost": "{1}{C}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/301.png"
+			}
+		},
+		{
+			"name": "Skittering Cicada",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Creature — Insect",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/302.png"
+			}
+		},
+		{
+			"name": "Brutal Explosion",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Devoid Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/303.png"
+			}
+		},
+		{
+			"name": "Swarm Surge",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Devoid Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/304.png"
+			}
+		},
+		{
+			"name": "Gruesome Slaughter",
+			"rarity": "special",
+			"mana_cost": "{6}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/305.png"
+			}
+		},
+		{
+			"name": "Genemorph Imago",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Insect Druid",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/306.png"
+			}
+		},
+		{
+			"name": "Icetill Explorer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Insect Scout",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/307.png"
+			}
+		},
+		{
+			"name": "Hedron Crab",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Crab",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/308.png"
+			}
+		},
+		{
+			"name": "Scythecat Cub",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/309.png"
+			}
+		},
+		{
+			"name": "Mossborn Hydra",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elemental Hydra",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/310.png"
+			}
+		},
+		{
+			"name": "Lotus Cobra",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Snake",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/311.png"
+			}
+		},
+		{
+			"name": "Embodiment of Insight",
+			"rarity": "special",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/312.png"
+			}
+		},
+		{
+			"name": "Trove Warden",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/313.png"
+			}
+		},
+		{
+			"name": "Nightshade Harvester",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/314.png"
+			}
+		},
+		{
+			"name": "Consign to Memory",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/315.png"
+			}
+		},
+		{
+			"name": "Forsaken Momument",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/316.png"
+			}
+		},
+		{
+			"name": "Mulldrifter",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/317.png"
+			}
+		},
+		{
+			"name": "Obsidian Chainmaw",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/318.png"
+			}
+		},
+		{
+			"name": "Reluctant Role Model",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/319.png"
+			}
+		},
+		{
+			"name": "Prowling Geistcatcher",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/320.png"
+			}
 		}
 	]
 
@@ -3058,7 +3328,7 @@
 	4 Stormfront Skyport
 	4 Rewarding Retreat
 	4 Bonded in Battle
-	4 Zealous Display
+	4 Excise the Blasphemous
 	4 Voidseeker Sneak
 	4 Shifting Spectre
 	4 Thopter Tinkerer
@@ -3288,6 +3558,33 @@
 	8 Leyline Surveyor
 	8 Magma Lash
 	8 Oxhide Veil
+	3 Abtruse Appropriation
+	3 Abtruse Archaic
+	3 Cryptic Trilobite
+	3 Desecrate Reality
+	3 Energybending
+	3 Ghostfire Slice
+	3 Null Elemental Blast
+	3 Spatial Contortion
+	3 Skittering Cicada
+	3 Brutal Explosion
+	3 Swarm Surge
+	3 Gruesome Slaughter
+	3 Genemorph Imago
+	3 Icetill Explorer
+	3 Hedron Crab
+	3 Scythecat Cub
+	3 Mossborn Hydra
+	3 Lotus Cobra
+	3 Embodiment of Insight
+	3 Trove Warden
+	3 Nightshade Harvester
+	3 Consign to Memory
+	3 Forsaken Momument
+	3 Mulldrifter
+	3 Obsidian Chainmaw
+	3 Reluctant Role Model
+	3 Prowling Geistcatcher
 [foil(1)]
 	12 Feisty Furball
 	12 Heartpact Acolyte
@@ -3419,7 +3716,7 @@
 	6 Stormfront Skyport
 	6 Rewarding Retreat
 	6 Bonded in Battle
-	6 Zealous Display
+	6 Excise the Blasphemous
 	1 Ba, Vestige of Knowledge
 	2 Pfiel, Expansion Architect
 	2 Warbling Loon
@@ -3691,7 +3988,7 @@
 	15 Stormfront Skyport
 	15 Rewarding Retreat
 	15 Bonded in Battle
-	15 Zealous Display
+	15 Excise the Blasphemous
 	4 Ba, Vestige of Knowledge
 	7 Pfiel, Expansion Architect
 	7 Warbling Loon

@@ -1,4 +1,93 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+Excise the Blasphemous added.
+Abtruse Appropriation added.
+Abtruse Archaic added.
+Cryptic Trilobite added.
+Desecrate Reality added.
+Energybending added.
+Ghostfire Slice added.
+Null Elemental Blast added.
+Spatial Contortion added.
+Skittering Cicada added.
+Brutal Explosion added.
+Swarm Surge added.
+Gruesome Slaughter added.
+Genemorph Imago added.
+Icetill Explorer added.
+Hedron Crab added.
+Scythecat Cub added.
+Mossborn Hydra added.
+Lotus Cobra added.
+Embodiment of Insight added.
+Trove Warden added.
+Nightshade Harvester added.
+Consign to Memory added.
+Forsaken Momument added.
+Mulldrifter added.
+Obsidian Chainmaw added.
+Reluctant Role Model added.
+Prowling Geistcatcher added.
+
+Zealous Display removed.
+
+Peatfield Ambush
+
+Nature's Wrath
+
+Ephemera Vendor
+rules_text: When this creature enters, choose one — 
+• Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+• Create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature enters, choose one —
+• Create a 4/1 colorless Illusion creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+• Create a Prism token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add {C}” and “{1}, {T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+pt: 2/3 => 1/4
+
+Voidling
+
+Inspiring General
+rules_text: At the beginning of your end step, if this creature is tapped, put a +1/+1 counter on target creature. => Whenever this creature becomes tapped, put a +1/+1 counter on target creature you control.
+pt: 2/3 => 2/2
+
+Bonded in Battle
+type: Sorcery => Instant
+rules_text: Put a +1/+1 counter on each of up to two target creatures. They gain first strike and vigilance until end of turn.
+You gain 3 life. => Put a +1/+1 counter on each of up to three target creatures. Untap them.
+
+Sculpt in Light
+rules_text: When you cast this spell, copy it for each {C} spent to cast it. You may choose new targets for the copies.
+Create a token that's a copy of target creature except it's a 4/1 colorless Illusion creature with decayed in addition to its other types. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When you cast this spell, copy it for each {C} spent to cast it.
+Create a token that's a copy of target creature except it's a 4/1 colorless Illusion creature with decayed in addition to its other types. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Leyline Tracker
+rules_text: When this creature enters, you may search your library for a card with mana value 5 or greater, reveal it, then shuffle and put that card on top. => When this creature enters, look at the top four cards of your library. You may reveal a colorless card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+Te, Vestige of Life
+rules_text: [i](This card has no color.)[/i]
+Trample
+Whenever Te attacks, exile up to one target creature card from a graveyard. Put a number of +1/+1 counters on Te equal to that creature's power.
+When Te dies, you gain life equal to its power. => [i](This card has no color.)[/i]
+Trample
+Whenever Te attacks, exile up to one target creature card from a graveyard. Each creature you control gets +X/+X until end of turn, where X is the exiled creature's power.
+
+Venerant Earthspeaker
+rules_text: When this creature enters, put four +1/+1 counters on target land you control. It becomes a 0/0 Elemental creature with haste. It's still a land.
+Colorless creatures you control have trample. => {T}: Choose target creature card in your graveyard that was put there this turn. Return that creature to the battlefield. Activate only as a sorcery.
+pt: 2/2 => 3/3
+
+Toil Unending
+rules_text: Menace
+Tapped creatures you control have indestructible. => Menace
+Tapped creatures you control have indestructible.
+Triggered abilities you control can't cause you to sacrifice creatures you control.
+
+Essence Extractor
+
+Illusion
+
+
+VERSION 35 CHANGELOG
 ====================
 
 
