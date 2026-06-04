@@ -1,4 +1,88 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+Brutal Expulsion added.
+Obsidian Charmaw added.
+Jackdaw Savior added.
+Steel-Plume Marshal added.
+Stridehangar Automaton added.
+Echoing Assault added.
+
+Cryptic Trilobite removed.
+Brutal Explosion removed.
+Mossborn Hydra removed.
+Obsidian Chainmaw removed.
+Reluctant Role Model removed.
+
+Aderic's Sextant
+rules_text: {1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{5}, {T}, Sacrifice this artifact: Create two basic land tokens named Wastes with “{T}: Add {C}.” => {1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{6}, {T}, Sacrifice this artifact: Create two basic land tokens named Wastes with “{T}: Add {C}.”
+
+Scruptions Tiller
+rules_text: {T}: Return target land you control to its owner's hand.
+{T}: Put a land card from your hand onto the battlefield. => Vigilance
+{T}: Return target land you control to its owner's hand.
+{T}: Put a land card from your hand onto the battlefield.
+
+Traveler of the Way
+rules_text: Whenever this creature attacks, look at the top card of your library. You may put it into your graveyard. If you do, put a +1/+1 counter on target creature.
+Whenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card. => At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. If you do, put a +1/+1 counter on target creature.
+Whenever one or more creatures you control with +1/+1 counters on them deal combat damage to a player, draw a card.
+
+Empty Heart
+rules_text: Flying, indestructible
+Whenever a colorless source you control deals damage to a creature, exile that creature.
+{C}{C}{C}: Target player lays waste. => Flying, indestructible
+Whenever a colorless source you control deals damage to a creature, exile that creature.
+Whenever a colorless creature you control deals combat damage to a player, that player gets a poison counter. [i](A player with ten or more poison counters loses the game.)[/i]
+
+Abtruse Appropriation
+
+Abtruse Archaic
+
+Desecrate Reality
+
+Energybending
+
+Ghostfire Slice
+
+Null Elemental Blast
+
+Spatial Contortion
+
+Skittering Cicada
+
+Swarm Surge
+
+Gruesome Slaughter
+
+Genemorph Imago
+
+Icetill Explorer
+
+Hedron Crab
+
+Scythecat Cub
+
+Lotus Cobra
+
+Embodiment of Insight
+
+Trove Warden
+
+Nightshade Harvester
+
+Consign to Memory
+
+Forsaken Momument
+
+Mulldrifter
+
+Prowling Geistcatcher
+
+
+VERSION 36 CHANGELOG
 ====================
 
 Excise the Blasphemous added.

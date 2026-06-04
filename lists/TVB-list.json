@@ -2565,7 +2565,7 @@
         "position": "295"
     },
     {
-        "card_name": "Cryptic Trilobite",
+        "card_name": "Desecrate Reality",
         "number": 2,
         "shape": "normal",
         "set": "TVB",
@@ -2573,7 +2573,7 @@
         "position": "296"
     },
     {
-        "card_name": "Desecrate Reality",
+        "card_name": "Energybending",
         "number": 3,
         "shape": "normal",
         "set": "TVB",
@@ -2581,44 +2581,36 @@
         "position": "297"
     },
     {
-        "card_name": "Energybending",
+        "card_name": "Gruesome Slaughter",
         "number": 4,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "298"
+        "position": "304"
     },
     {
-        "card_name": "Gruesome Slaughter",
+        "card_name": "Null Elemental Blast",
         "number": 5,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "305"
+        "position": "299"
     },
     {
-        "card_name": "Null Elemental Blast",
+        "card_name": "Skittering Cicada",
         "number": 6,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "300"
+        "position": "301"
     },
     {
-        "card_name": "Skittering Cicada",
+        "card_name": "Spatial Contortion",
         "number": 7,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "302"
-    },
-    {
-        "card_name": "Spatial Contortion",
-        "number": 8,
-        "shape": "normal",
-        "set": "TVB",
-        "rotated": false,
-        "position": "301"
+        "position": "300"
     },
     {
         "card_name": "Forsaken Momument",
@@ -2626,10 +2618,26 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "316"
+        "position": "314"
     },
     {
-        "card_name": "Reluctant Role Model",
+        "card_name": "Stridehangar Automaton",
+        "number": 28,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "320"
+    },
+    {
+        "card_name": "Jackdaw Savior",
+        "number": 8,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "317"
+    },
+    {
+        "card_name": "Steel-Plume Marshal",
         "number": 9,
         "shape": "normal",
         "set": "TVB",
@@ -2642,7 +2650,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "313"
+        "position": "311"
     },
     {
         "card_name": "Consign to Memory",
@@ -2650,7 +2658,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "315"
+        "position": "313"
     },
     {
         "card_name": "Hedron Crab",
@@ -2658,7 +2666,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "308"
+        "position": "307"
     },
     {
         "card_name": "Mulldrifter",
@@ -2666,7 +2674,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "317"
+        "position": "315"
     },
     {
         "card_name": "Nightshade Harvester",
@@ -2674,7 +2682,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "314"
+        "position": "312"
     },
     {
         "card_name": "Prowling Geistcatcher",
@@ -2682,7 +2690,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "320"
+        "position": "318"
     },
     {
         "card_name": "Swarm Surge",
@@ -2690,55 +2698,55 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "304"
+        "position": "303"
     },
     {
-        "card_name": "Ghostfire Slice",
+        "card_name": "Echoing Assault",
         "number": 17,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "299"
+        "position": "321"
     },
     {
-        "card_name": "Obsidian Chainmaw",
+        "card_name": "Ghostfire Slice",
         "number": 18,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "318"
+        "position": "298"
     },
     {
-        "card_name": "Embodiment of Insight",
+        "card_name": "Obsidian Charmaw",
         "number": 19,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "312"
+        "position": "316"
     },
     {
-        "card_name": "Icetill Explorer",
+        "card_name": "Embodiment of Insight",
         "number": 20,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "307"
+        "position": "310"
     },
     {
-        "card_name": "Lotus Cobra",
+        "card_name": "Icetill Explorer",
         "number": 21,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "311"
+        "position": "306"
     },
     {
-        "card_name": "Mossborn Hydra",
+        "card_name": "Lotus Cobra",
         "number": 22,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "310"
+        "position": "309"
     },
     {
         "card_name": "Scythecat Cub",
@@ -2746,7 +2754,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "309"
+        "position": "308"
     },
     {
         "card_name": "Abtruse Appropriation",
@@ -2757,12 +2765,12 @@
         "position": "294"
     },
     {
-        "card_name": "Brutal Explosion",
+        "card_name": "Brutal Expulsion",
         "number": 25,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "303"
+        "position": "302"
     },
     {
         "card_name": "Genemorph Imago",
@@ -2770,10 +2778,7 @@
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "306"
-    },
-    {
-        "card_name": "e"
+        "position": "305"
     },
     {
         "card_name": "e"

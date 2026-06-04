@@ -2961,23 +2961,13 @@
 			}
 		},
 		{
-			"name": "Cryptic Trilobite",
-			"rarity": "special",
-			"mana_cost": "{X}{X}",
-			"type": "Creature — Trilobite",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/296.png"
-			}
-		},
-		{
 			"name": "Desecrate Reality",
 			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Instant",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/297.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/296.png"
 			}
 		},
 		{
@@ -2985,9 +2975,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Instant — Lesson",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/298.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/297.png"
 			}
 		},
 		{
@@ -2995,9 +2985,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Devoid Instant",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/299.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/298.png"
 			}
 		},
 		{
@@ -3005,9 +2995,9 @@
 			"rarity": "special",
 			"mana_cost": "{C}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/300.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/299.png"
 			}
 		},
 		{
@@ -3015,9 +3005,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{C}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/301.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/300.png"
 			}
 		},
 		{
@@ -3025,19 +3015,19 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Creature — Insect",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/302.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/301.png"
 			}
 		},
 		{
-			"name": "Brutal Explosion",
+			"name": "Brutal Expulsion",
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Devoid Instant",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/303.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/302.png"
 			}
 		},
 		{
@@ -3047,7 +3037,7 @@
 			"type": "Devoid Sorcery",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/304.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/303.png"
 			}
 		},
 		{
@@ -3055,9 +3045,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}",
 			"type": "Sorcery",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/305.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/304.png"
 			}
 		},
 		{
@@ -3067,7 +3057,7 @@
 			"type": "Creature — Insect Druid",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/306.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/305.png"
 			}
 		},
 		{
@@ -3075,9 +3065,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Insect Scout",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/307.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/306.png"
 			}
 		},
 		{
@@ -3087,7 +3077,7 @@
 			"type": "Creature — Crab",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/308.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/307.png"
 			}
 		},
 		{
@@ -3097,17 +3087,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/309.png"
-			}
-		},
-		{
-			"name": "Mossborn Hydra",
-			"rarity": "special",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Elemental Hydra",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/310.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/308.png"
 			}
 		},
 		{
@@ -3115,9 +3095,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Snake",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/311.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/309.png"
 			}
 		},
 		{
@@ -3125,9 +3105,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/312.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/310.png"
 			}
 		},
 		{
@@ -3137,7 +3117,7 @@
 			"type": "Creature — Cat Beast",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/313.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/311.png"
 			}
 		},
 		{
@@ -3147,7 +3127,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/314.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/312.png"
 			}
 		},
 		{
@@ -3157,7 +3137,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/315.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/313.png"
 			}
 		},
 		{
@@ -3167,7 +3147,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/316.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/314.png"
 			}
 		},
 		{
@@ -3177,27 +3157,27 @@
 			"type": "Creature — Elemental",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/317.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/315.png"
 			}
 		},
 		{
-			"name": "Obsidian Chainmaw",
+			"name": "Obsidian Charmaw",
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/318.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/316.png"
 			}
 		},
 		{
-			"name": "Reluctant Role Model",
+			"name": "Jackdaw Savior",
 			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Survivor",
-			"collector_number": "9",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Cleric",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/319.png"
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/317.png"
 			}
 		},
 		{
@@ -3207,7 +3187,37 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "15",
 			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/318.png"
+			}
+		},
+		{
+			"name": "Steel-Plume Marshal",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/319.png"
+			}
+		},
+		{
+			"name": "Stridehangar Automaton",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "28",
+			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/320.png"
+			}
+		},
+		{
+			"name": "Echoing Assault",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/321.png"
 			}
 		}
 	]
@@ -3560,21 +3570,19 @@
 	8 Oxhide Veil
 	3 Abtruse Appropriation
 	3 Abtruse Archaic
-	3 Cryptic Trilobite
 	3 Desecrate Reality
 	3 Energybending
 	3 Ghostfire Slice
 	3 Null Elemental Blast
 	3 Spatial Contortion
 	3 Skittering Cicada
-	3 Brutal Explosion
+	3 Brutal Expulsion
 	3 Swarm Surge
 	3 Gruesome Slaughter
 	3 Genemorph Imago
 	3 Icetill Explorer
 	3 Hedron Crab
 	3 Scythecat Cub
-	3 Mossborn Hydra
 	3 Lotus Cobra
 	3 Embodiment of Insight
 	3 Trove Warden
@@ -3582,9 +3590,12 @@
 	3 Consign to Memory
 	3 Forsaken Momument
 	3 Mulldrifter
-	3 Obsidian Chainmaw
-	3 Reluctant Role Model
+	3 Obsidian Charmaw
+	3 Jackdaw Savior
 	3 Prowling Geistcatcher
+	3 Steel-Plume Marshal
+	3 Stridehangar Automaton
+	3 Echoing Assault
 [foil(1)]
 	12 Feisty Furball
 	12 Heartpact Acolyte
