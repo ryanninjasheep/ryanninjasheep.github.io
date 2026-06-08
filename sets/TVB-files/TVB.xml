@@ -5,7 +5,7 @@
 			<name>TVB</name>
 			<longname>The Void Beneath</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-04</releasedate>
+			<releasedate>2026-06-07</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -587,8 +587,7 @@ Evoke {2}{B} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		</card>
 		<card>
 			<name>Lifeleeched Vermin</name>
-			<text>Menace
-When this creature dies, create a 2/2 colorless Voidling creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<text>When this creature dies, create a 2/2 colorless Voidling creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
 			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/33.png" num="150">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -665,29 +664,29 @@ When this creature enters, lay waste. (Exile a face-up land you control and retu
 				<side>front</side>
 				<type>Creature — Goblin Druid</type>
 				<maintype>Creature</maintype>
-				<manacost>2R</manacost>
-				<cmc>3</cmc>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Cindertusk Boar</name>
 			<text>Trample
-When this creature enters, you may sacrifice a colorless permanent. When you do, destroy target artifact an opponent controls.</text>
+At the beginning of your end step, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature.</text>
 			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/38.png" num="135">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Boar</type>
 				<maintype>Creature</maintype>
-				<manacost>3R</manacost>
-				<cmc>4</cmc>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -709,8 +708,8 @@ When this creature enters, you may sacrifice a colorless permanent. When you do,
 		</card>
 		<card>
 			<name>Barrescape Behemoth</name>
-			<text>Trample
-At the beginning of your end step, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature.</text>
+			<text>Menace
+When this creature enters, you may sacrifice a colorless nonland permanent. When you do, destroy target artifact an opponent controls.</text>
 			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/40.png" num="126">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -721,7 +720,7 @@ At the beginning of your end step, if you sacrificed a permanent this turn, put 
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -829,7 +828,7 @@ Evoke {2}{R} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 			<name>Ichortongue Lizard</name>
 			<text>Deathtouch
 Whenever this creature attacks, mill three cards.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/47.png" num="175">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/47.png" num="176">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -862,7 +861,7 @@ Whenever this creature attacks, mill three cards.</text>
 		</card>
 		<card>
 			<name>Soil Stirrer</name>
-			<text>When this creature enters, you may sacrifice a land. If you do, draw a card.</text>
+			<text>When this creature enters, you may return a land you control to its owner&apos;s hand. If you do, draw a card.</text>
 			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/49.png" num="188">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -873,7 +872,7 @@ Whenever this creature attacks, mill three cards.</text>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -932,9 +931,10 @@ When this creature enters, if there are four or more permanent cards in your gra
 		</card>
 		<card>
 			<name>Peatfield Ambush</name>
-			<text>As an additional cost to cast this spell, pay {1} or exile two permanent cards from your graveyard.
-Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/53.png" num="182">TVB</set>
+			<text>Choose one or both —
+• Target creature you control fights target creature you don&apos;t control.
+• Exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/53.png" num="182">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -950,16 +950,16 @@ Put a +1/+1 counter on target creature you control. It deals damage equal to its
 		<card>
 			<name>Nature&apos;s Wrath</name>
 			<text>Choose one — 
-• Target creature you control fights target creature you don&apos;t control.
-• Destroy target noncreature artifact.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/54.png" num="180">TVB</set>
+• Target creature you control deals damage equal to its power to target creature you don&apos;t control.
+• Destroy target noncreature artifact or enchantment.</text>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/54.png" num="181">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -985,7 +985,7 @@ Evoke {G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 		<card>
 			<name>Koma&apos;s Chosen</name>
 			<text>At the beginning of your end step, if one or more cards left your graveyard this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/56.png" num="176">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/56.png" num="177">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -995,7 +995,7 @@ Evoke {G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1003,7 +1003,7 @@ Evoke {G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacr
 			<name>Leyline Navigation</name>
 			<text>As an additional cost to cast this spell, sacrifice a land.
 Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/57.png" num="178">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/57.png" num="179">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1020,7 +1020,7 @@ Search your library for up to two basic land cards, put them onto the battlefiel
 			<name>Harvest Cycle</name>
 			<text>As an additional cost to cast this spell, lay waste. (Exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)
 Mill four cards. Then you may return a creature or land card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/58.png" num="174">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/58.png" num="175">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1725,7 +1725,7 @@ Surveil 2, then draw two cards.</text>
 Enchant creature
 Enchanted creature loses all abilities and has base power and toughness 1/1.
 {3}{C}: Enchanted creature&apos;s owner shuffles it into their library.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/96.png" num="69">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/96.png" num="69">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2385,7 +2385,7 @@ Crew 2</text>
 		</card>
 		<card>
 			<name>Munitions Supplier</name>
-			<text>{W}, {T}: Target creature gets +1/+1 until end of turn. If it had flying, put a +1/+1 counter on it instead. Activate only as a sorcery.</text>
+			<text>{W}, {T}: Target creature gets +1/+1 until end of turn. If it has flying, put a +1/+1 counter on it instead. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/134.png" num="40">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2576,8 +2576,10 @@ Whenever you attack, target creature gets +1/+0 until end of turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Rewarding Retreat</name>
-			<text>Exile target creature you control. At the beginning of the next end step, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.</text>
+			<name>Retreat to Essentia</name>
+			<text>Choose one —
+• Exile target creature you control. At the beginning of the next end step, return it to the battlefield under its owner&apos;s control.
+• Exile target card from a graveyard. You gain 2 life.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/145.png" num="44">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2842,7 +2844,7 @@ Landfall — Whenever a land you control enters, surveil 1.</text>
 		<card>
 			<name>Imperial Mistweaver</name>
 			<text>Flying
-Other Elves you control have ward {2}. (Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Other Elves you control have ward {2}.
 Whenever one or more Elves you control deal combat damage to a player, draw a card.</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/160.png" num="67">TVB</set>
 			<prop>
@@ -2914,7 +2916,7 @@ Evoke {1}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		<card>
 			<name>Obsessive Pursuit</name>
 			<text>Tap target creature and put X stun counters on it. If X is 4 or more, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/164.png" num="72">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/164.png" num="72">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3553,7 +3555,7 @@ When this creature dies, create a Prism token. (It&apos;s an artifact with &quot
 		<card>
 			<name>Voidcraft Champion</name>
 			<text>First strike
-Whenever a colorless permanent you control enters, this creature gets +2/+0 until end of turn.</text>
+Whenever a colorless permanent you control enters, this creature gets +1/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/200.png" num="159">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3564,7 +3566,7 @@ Whenever a colorless permanent you control enters, this creature gets +2/+0 unti
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3659,7 +3661,7 @@ Whenever this creature attacks, each other attacking creature gets +1/+0 until e
 		<card>
 			<name>Warpwalk</name>
 			<text>Create a 2/2 colorless Voidling creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
-Creatures you control gain haste until end of turn.</text>
+Creatures you control gain haste until end of turn. Colorless creatures you control also gain menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/206.png" num="160">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3812,7 +3814,7 @@ This creature enters with X +1/+1 counters on it. This creature enters with an a
 		<card>
 			<name>Sporespawn Drift</name>
 			<text>When this creature enters, return up to one target creature card from your graveyard to your hand.
-{T}: Add {C}{C}{C}{C}.
+{T}: Add {C}{C}{C}.
 Evoke {G}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/215.png" num="18">TVB</set>
 			<prop>
@@ -3831,7 +3833,7 @@ Evoke {G}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 			<name>Reveal the Underdark</name>
 			<text>Search your library for any number of basic land cards, reveal them, shuffle, then put them on top of your library in a random order.
 Draw a card.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/216.png" num="185">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/216.png" num="184">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3901,7 +3903,7 @@ You may play lands from your graveyard.</text>
 			<text>Deathtouch
 When this creature enters, lay waste. (Exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)
 Whenever you cast a spell with mana value 5 or greater, you may return this card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/220.png" num="179">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/220.png" num="180">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3936,7 +3938,7 @@ Whenever you cast a spell with mana value 5 or greater, you may return this card
 			<text>Reach
 {T}: Mill a card.
 {T}, Exile a permanent card from your graveyard: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/222.png" num="173">TVB</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/222.png" num="174">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3970,8 +3972,7 @@ Whenever you cast a spell with mana value 5 or greater, you may return this card
 		<card>
 			<name>Scruptions Tiller</name>
 			<text>Vigilance
-{T}: Return target land you control to its owner&apos;s hand.
-{T}: Put a land card from your hand onto the battlefield.</text>
+Whenever this creature attacks, you may return a land you control to its owner&apos;s hand. If you do, you may play an additional land this turn.</text>
 			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/224.png" num="187">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -3987,20 +3988,21 @@ Whenever you cast a spell with mana value 5 or greater, you may return this card
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Reckless Roots</name>
-			<text>Mill three cards, then put X +1/+1 counters on target land you control, where X is the number of permanent cards in your graveyard. That land becomes a 0/0 Elemental creature with haste. It&apos;s still a land.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/225.png" num="184">TVB</set>
+			<name>Rootkin Wastewalker</name>
+			<text>This creature&apos;s power and toughness are each equal to the number of lands you control plus the number of land cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/225.png" num="186">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Clawfoot Elder</name>
@@ -4076,7 +4078,7 @@ Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		<card>
 			<name>Spirited Growth</name>
 			<text>Target creature gets +X/+X until end of turn. If X is 4 or more, you gain X life.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/230.png" num="189">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/230.png" num="189">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4092,7 +4094,7 @@ Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		<card>
 			<name>Blessing of Koma</name>
 			<text>Return target permanent card from your graveyard to your hand. Create a tapped Prism token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add {C}&quot; and &quot;{1}, {T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/231.png" num="162">TVB</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/231.png" num="162">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4108,8 +4110,8 @@ Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 		<card>
 			<name>Rite of Rebirth</name>
 			<text>Landfall — Whenever a land you control enters, mill a card.
-Exile this enchantment: You may cast target creature card from your graveyard without paying its mana cost. Activate only as a sorcery and only if there are eight or more permanent cards in your graveyard.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/232.png" num="186">TVB</set>
+Exile eight permanent cards from your graveyard, Sacrifice this enchantment: You may cast a creature card exiled this way without paying its mana cost. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/232.png" num="185">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4215,7 +4217,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Yegh.
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Elemental Fungus</type>
+				<type>Legendary Creature — Fungus</type>
 				<maintype>Creature</maintype>
 				<manacost>1BRG</manacost>
 				<cmc>4</cmc>
@@ -4229,7 +4231,7 @@ Whenever you sacrifice a permanent, put a +1/+1 counter on Yegh.
 			<name>Oho, Who Endures</name>
 			<text>Reach
 If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
-{5}: Add {W}{U}{B}{R}{G}.</text>
+Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/239.png" num="224">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4239,7 +4241,7 @@ If a permanent entering the battlefield causes a triggered ability of a permanen
 				<manacost>2GWU</manacost>
 				<cmc>5</cmc>
 				<colors>WUG</colors>
-				<coloridentity>WUBRG</coloridentity>
+				<coloridentity>WUG</coloridentity>
 				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -4448,8 +4450,8 @@ Whenever one or more creatures you control with +1/+1 counters on them deal comb
 		</card>
 		<card>
 			<name>Cycleborn Mycolid</name>
-			<text>{B}, Sacrifice a land: Put a +1/+1 counter on this creature.
-{G}, Sacrifice this creature: Create X 1/1 green Saproling creature tokens, where X is the number of land cards in your graveyard.</text>
+			<text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+When this creature dies, return another target non-Fungus permanent card with mana value less or equal to than this creature&apos;s power from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/251.png" num="203">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4460,7 +4462,7 @@ Whenever one or more creatures you control with +1/+1 counters on them deal comb
 				<cmc>4</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>4/4</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4704,9 +4706,9 @@ Prisms you control have &quot;{T}: Add {C}.&quot;</text>
 		</card>
 		<card>
 			<name>Koma&apos;s Hearth</name>
-			<text>Whenever you evoke a spell, gain 2 life.
+			<text>Whenever you evoke a spell, you gain 2 life.
 At the beginning of your end step, exile a permanent card from your graveyard at random, then you may return a permanent card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/266.png" num="177">TVB</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/266.png" num="178">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4943,8 +4945,8 @@ Whenever another creature you control dies, put a +1/+1 counter on this creature
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
-			<reverse-related count="x">Cycleborn Mycolid</reverse-related>
 			<reverse-related>Darkeater</reverse-related>
+			<reverse-related>Fungal Haze</reverse-related>
 		</card>
 		<card>
 			<name>Empty Heart</name>
@@ -4998,20 +5000,21 @@ Magma Lash deals 2 damage to any target.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Oxhide Veil</name>
-			<text>Put a +1/+1 counter on target creature. It gains indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/283.png" num="181">TVB</set>
+			<name>Fungal Haze</name>
+			<text>At the beginning of your upkeep, surveil 1.
+Whenever you evoke a spell, create a 1/1 green Saproling creature token.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/283.png" num="173">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>G</manacost>
-				<cmc>1</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Resonant Quarry</name>
@@ -5068,7 +5071,7 @@ Whenever Vesz attacks, exile target nonland card from your graveyard. Copy it. Y
 		<card>
 			<name>Nebson, Tireless Tinkerer</name>
 			<text>Whenever you lay waste, create a 1/1 colorless Thopter artifact creature token with flying.
-{2}, Sacrifice an artifact: Creatures you control get +1/+1 until end of turn. Activate only during your turn.</text>
+{2}, Lay waste: Draw a card, then discard a card. (To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It&apos;s a land with &quot;{T}: Add {C}.&quot;)</text>
 			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/287.png" num="222">TVB</set>
 			<prop>
 				<layout>normal</layout>
@@ -5185,7 +5188,7 @@ Evoke {3}</text>
 			<name>Abtruse Appropriation</name>
 			<text>(This card has no color.)
 Exile target nonland permanent. You may cast that card for as long as it remains exiled, and you may spend colorless mana as though it were mana of any color to cast that spell.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/294.png" num="24">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/294.png" num="23">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5215,25 +5218,10 @@ Exile target nonland permanent. You may cast that card for as long as it remains
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Desecrate Reality</name>
-			<text>For each opponent, exile up to one target permanent that player controls with an even mana value. (Zero is even.)
-Adamant — If at least three colorless mana was spent to cast this spell, return a permanent card with an odd mana value from your graveyard to the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/296.png" num="2">TVB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>7</manacost>
-				<cmc>7</cmc>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Energybending</name>
 			<text>Lands you control gain all basic land types until end of turn.
 Draw a card.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/297.png" num="3">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/296.png" num="2">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5249,7 +5237,7 @@ Draw a card.</text>
 			<text>(This card has no color.)
 This spell costs {2} less to cast if an opponent controls a multicolored permanent.
 Ghostfire Slice deals 4 damage to any target.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/298.png" num="18">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/297.png" num="17">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5267,7 +5255,7 @@ Ghostfire Slice deals 4 damage to any target.</text>
 			<text>Choose one —
 • Counter target multicolored spell.
 • Destroy target multicolored permanent.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/299.png" num="5">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/298.png" num="4">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5281,7 +5269,7 @@ Ghostfire Slice deals 4 damage to any target.</text>
 		<card>
 			<name>Spatial Contortion</name>
 			<text>Target creature gets +3/-3 until end of turn.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/300.png" num="7">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/299.png" num="6">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5297,7 +5285,7 @@ Ghostfire Slice deals 4 damage to any target.</text>
 			<text>Flash
 You may cast colorless spells as though they had flash.
 Whenever you cast a colorless spell, until end of turn, this creature gains trample and gets +X/+X, where X is that spell&apos;s mana value.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/301.png" num="6">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/300.png" num="5">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5315,7 +5303,7 @@ Whenever you cast a colorless spell, until end of turn, this creature gains tram
 Choose one or both —
 • Return target spell or creature to its owner&apos;s hand.
 • Brutal Expulsion deals 2 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/302.png" num="25">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/301.png" num="24">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5332,7 +5320,7 @@ Choose one or both —
 			<name>Swarm Surge</name>
 			<text>(This card has no color.)
 Creatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/303.png" num="16">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/302.png" num="15">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5348,7 +5336,7 @@ Creatures you control get +2/+0 until end of turn. Colorless creatures you contr
 		<card>
 			<name>Gruesome Slaughter</name>
 			<text>Until end of turn, colorless creatures you control gain &quot;{T}: This creature deals damage equal to its power to target creature.&quot;</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/304.png" num="4">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/303.png" num="3">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5363,7 +5351,7 @@ Creatures you control get +2/+0 until end of turn. Colorless creatures you contr
 			<name>Genemorph Imago</name>
 			<text>Flying
 Landfall — Whenever a land you control enters, target creature has base power and toughness 3/3 until end of turn. If you control six or more lands, that creature has base power and toughness 6/6 until end of turn instead.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/305.png" num="26">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/304.png" num="25">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5382,7 +5370,7 @@ Landfall — Whenever a land you control enters, target creature has base power 
 			<text>You may play an additional land on each of your turns.
 You may play lands from your graveyard.
 Landfall — Whenever a land you control enters, mill a card.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/306.png" num="21">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/305.png" num="20">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5399,7 +5387,7 @@ Landfall — Whenever a land you control enters, mill a card.</text>
 		<card>
 			<name>Hedron Crab</name>
 			<text>Landfall — Whenever a land you control enters, target player mills three cards.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/307.png" num="12">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/306.png" num="11">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5417,7 +5405,7 @@ Landfall — Whenever a land you control enters, mill a card.</text>
 			<name>Scythecat Cub</name>
 			<text>Trample
 Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, double the number of +1/+1 counters on that creature instead.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/308.png" num="23">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/307.png" num="22">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5434,7 +5422,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target c
 		<card>
 			<name>Lotus Cobra</name>
 			<text>Landfall — Whenever a land you control enters, add one mana of any color.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/309.png" num="22">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/308.png" num="21">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5453,7 +5441,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target c
 			<text>Vigilance
 Land creatures you control have vigilance.
 Landfall — Whenever a land you control enters, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It&apos;s still a land.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/310.png" num="20">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/309.png" num="19">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5472,7 +5460,7 @@ Landfall — Whenever a land you control enters, you may have target land you co
 			<text>Vigilance
 Landfall — Whenever a land you control enters, exile target permanent card with mana value 3 or less from your graveyard.
 When this creature dies, put each permanent card exiled with it onto the battlefield under the control of that card&apos;s owner.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/311.png" num="10">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/310.png" num="9">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5489,7 +5477,7 @@ When this creature dies, put each permanent card exiled with it onto the battlef
 		<card>
 			<name>Nightshade Harvester</name>
 			<text>Whenever a land an opponent controls enters, that player loses 1 life. Put a +1/+1 counter on this creature.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/312.png" num="14">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/311.png" num="13">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5507,7 +5495,7 @@ When this creature dies, put each permanent card exiled with it onto the battlef
 			<name>Consign to Memory</name>
 			<text>Replicate {1} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
 Counter target triggered ability or colorless spell.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/313.png" num="11">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/312.png" num="10">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5525,7 +5513,7 @@ Counter target triggered ability or colorless spell.</text>
 			<text>Colorless creatures you control get +2/+2.
 Whenever you tap a permanent for {C}, add an additional {C}.
 Whenever you cast a colorless spell, you gain 2 life.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/314.png" num="27">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/313.png" num="28">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5541,7 +5529,7 @@ Whenever you cast a colorless spell, you gain 2 life.</text>
 			<text>Flying
 When this creature enters, draw two cards.
 Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/315.png" num="13">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/314.png" num="12">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5560,7 +5548,7 @@ Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it&apos;s s
 			<text>This spell costs {1} less to cast for each land your opponents control that could produce {C}.
 Flying
 When this creature enters, destroy target nonbasic land an opponent controls.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/316.png" num="19">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/315.png" num="18">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5578,7 +5566,7 @@ When this creature enters, destroy target nonbasic land an opponent controls.</t
 			<name>Jackdaw Savior</name>
 			<text>Flying
 Whenever this creature or another creature you control with flying dies, return another target creature card with lesser mana value from your graveyard to the battlefield.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/317.png" num="8">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/316.png" num="7">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5596,7 +5584,7 @@ Whenever this creature or another creature you control with flying dies, return 
 			<name>Prowling Geistcatcher</name>
 			<text>Whenever you sacrifice another creature, exile it. If that creature was a token, put a +1/+1 counter on this creature.
 When this creature leaves the battlefield, return each card exiled with it to the battlefield under your control.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/318.png" num="15">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/317.png" num="14">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5614,7 +5602,7 @@ When this creature leaves the battlefield, return each card exiled with it to th
 			<name>Steel-Plume Marshal</name>
 			<text>Flying
 Whenever this creature attacks, other attacking creatures you control with flying get +2/+2 until end of turn.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/319.png" num="9">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/318.png" num="8">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5632,7 +5620,7 @@ Whenever this creature attacks, other attacking creatures you control with flyin
 			<name>Stridehangar Automaton</name>
 			<text>Thopters you control get +1/+1.
 If one or more artifact tokens would be created under your control, those tokens plus an additional 1/1 colorless Thopter artifact creature token with flying are created instead.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/320.png" num="28">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/319.png" num="29">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5648,7 +5636,7 @@ If one or more artifact tokens would be created under your control, those tokens
 			<name>Echoing Assault</name>
 			<text>Creature tokens you control have menace.
 Whenever you attack a player, choose target nontoken creature that&apos;s attacking that player. Create a token that&apos;s a copy of that creature, except it&apos;s 1/1. The token enters tapped and attacking that player. Sacrifice it at the beginning of the next end step.</text>
-			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/321.png" num="17">TVB</set>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/320.png" num="16">TVB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5661,6 +5649,38 @@ Whenever you attack a player, choose target nontoken creature that&apos;s attack
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Lantern</name>
+			<text>Lands you control have &quot;{T}: Add one mana of any color.&quot;
+{T}: Add one mana of any color.</text>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/321.png" num="27">TVB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mayhem Devil</name>
+			<text>Whenever a player sacrifices a permanent, this creature deals 1 damage to any target.</text>
+			<set rarity="masterpiece" picurl="https://ryanninjasheep.github.io/sets/TVB-files/img/322.png" num="26">TVB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Devil</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

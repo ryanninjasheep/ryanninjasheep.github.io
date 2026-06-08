@@ -1,4 +1,194 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Retreat to Essentia added.
+Rootkin Wastewalker added.
+Fungal Haze added.
+Chromatic Lantern added.
+Mayhem Devil added.
+
+Rewarding Retreat removed.
+Reckless Roots removed.
+Oxhide Veil removed.
+Desecrate Reality removed.
+
+Lifeleeched Vermin
+rules_text: Menace
+When this creature dies, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => When this creature dies, create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Voidcaller Druid
+cost: {2}{R} => {3}{R}
+pt: 2/2 => 3/3
+
+Cindertusk Boar
+cost: {3}{R} => {2}{R}
+rules_text: Trample
+When this creature enters, you may sacrifice a colorless permanent. When you do, destroy target artifact an opponent controls. => Trample
+At the beginning of your end step, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature.
+pt: 4/3 => 3/2
+
+Barrescape Behemoth
+rules_text: Trample
+At the beginning of your end step, if you sacrificed a permanent this turn, put a +1/+1 counter on this creature. => Menace
+When this creature enters, you may sacrifice a colorless nonland permanent. When you do, destroy target artifact an opponent controls.
+pt: 4/4 => 5/4
+
+Ichortongue Lizard
+
+Soil Stirrer
+rules_text: When this creature enters, you may sacrifice a land. If you do, draw a card. => When this creature enters, you may return a land you control to its owner's hand. If you do, draw a card.
+pt: 3/3 => 3/2
+
+Peatfield Ambush
+rules_text: As an additional cost to cast this spell, pay {1} or exile two permanent cards from your graveyard.
+Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control. => Choose one or both —
+• Target creature you control fights target creature you don't control.
+• Exile target card from a graveyard.
+
+Nature's Wrath
+cost: {G} => {1}{G}
+rules_text: Choose one — 
+• Target creature you control fights target creature you don't control.
+• Destroy target noncreature artifact. => Choose one — 
+• Target creature you control deals damage equal to its power to target creature you don't control.
+• Destroy target noncreature artifact or enchantment.
+
+Koma's Chosen
+pt: 3/2 => 3/3
+
+Dessicated Diner
+
+Fleeting Flight
+
+Lost in Nightmares
+
+Munitions Supplier
+rules_text: {W}, {T}: Target creature gets +1/+1 until end of turn. If it had flying, put a +1/+1 counter on it instead. Activate only as a sorcery. => {W}, {T}: Target creature gets +1/+1 until end of turn. If it has flying, put a +1/+1 counter on it instead. Activate only as a sorcery.
+
+Imperial Mistweaver
+rules_text: Flying
+Other Elves you control have ward {2}. [i](Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Whenever one or more Elves you control deal combat damage to a player, draw a card. => Flying
+Other Elves you control have ward {2}.
+Whenever one or more Elves you control deal combat damage to a player, draw a card.
+
+Obsessive Pursuit
+
+Mindskewer
+
+Voidcraft Champion
+rules_text: First strike
+Whenever a colorless permanent you control enters, this creature gets +2/+0 until end of turn. => First strike
+Whenever a colorless permanent you control enters, this creature gets +1/+0 until end of turn.
+pt: 1/2 => 2/2
+
+Warpwalk
+rules_text: Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control gain haste until end of turn. => Create a 2/2 colorless Voidling creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+Creatures you control gain haste until end of turn. Colorless creatures you control also gain menace until end of turn.
+
+Sporespawn Drift
+rules_text: When this creature enters, return up to one target creature card from your graveyard to your hand.
+{T}: Add {C}{C}{C}{C}.
+Evoke {G}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When this creature enters, return up to one target creature card from your graveyard to your hand.
+{T}: Add {C}{C}{C}.
+Evoke {G}{G} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+
+Scruptions Tiller
+rules_text: Vigilance
+{T}: Return target land you control to its owner's hand.
+{T}: Put a land card from your hand onto the battlefield. => Vigilance
+Whenever this creature attacks, you may return a land you control to its owner's hand. If you do, you may play an additional land this turn.
+
+Spirited Growth
+
+Blessing of Koma
+
+Rite of Rebirth
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, mill a card.
+Exile this enchantment: You may cast target creature card from your graveyard without paying its mana cost. Activate only as a sorcery and only if there are eight or more permanent cards in your graveyard. => [i]Landfall[/i] — Whenever a land you control enters, mill a card.
+Exile eight permanent cards from your graveyard, Sacrifice this enchantment: You may cast a creature card exiled this way without paying its mana cost. Activate only as a sorcery.
+
+Yegh, Twisted Spawn
+type: Legendary Creature — Elemental Fungus => Legendary Creature — Fungus
+
+Oho, Who Endures
+rules_text: Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{5}: Add {W}{U}{B}{R}{G}. => Reach
+If a permanent entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Lands you control have “{T}: Add one mana of any color.”
+
+Cycleborn Mycolid
+rules_text: {B}, Sacrifice a land: Put a +1/+1 counter on this creature.
+{G}, Sacrifice this creature: Create X 1/1 green Saproling creature tokens, where X is the number of land cards in your graveyard. => Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+When this creature dies, return another target non-Fungus permanent card with mana value less or equal to than this creature's power from your graveyard to the battlefield.
+pt: 4/4 => 4/3
+
+Koma's Hearth
+rules_text: Whenever you evoke a spell, gain 2 life.
+At the beginning of your end step, exile a permanent card from your graveyard at random, then you may return a permanent card from your graveyard to your hand. => Whenever you evoke a spell, you gain 2 life.
+At the beginning of your end step, exile a permanent card from your graveyard at random, then you may return a permanent card from your graveyard to your hand.
+
+Saproling
+
+Nebson, Tireless Tinkerer
+rules_text: Whenever you lay waste, create a 1/1 colorless Thopter artifact creature token with flying.
+{2}, Sacrifice an artifact: Creatures you control get +1/+1 until end of turn. Activate only during your turn. => Whenever you lay waste, create a 1/1 colorless Thopter artifact creature token with flying.
+{2}, Lay waste: Draw a card, then discard a card. [i](To lay waste, exile a face-up land you control and return it to the battlefield face down and tapped. It's a land with “{T}: Add {C}.”)[/i]
+
+Energybending
+
+Ghostfire Slice
+
+Null Elemental Blast
+
+Spatial Contortion
+
+Skittering Cicada
+
+Brutal Expulsion
+
+Swarm Surge
+
+Gruesome Slaughter
+
+Genemorph Imago
+
+Icetill Explorer
+
+Hedron Crab
+
+Scythecat Cub
+
+Lotus Cobra
+
+Embodiment of Insight
+
+Trove Warden
+
+Nightshade Harvester
+
+Consign to Memory
+
+Forsaken Momument
+
+Mulldrifter
+
+Obsidian Charmaw
+
+Jackdaw Savior
+
+Prowling Geistcatcher
+
+Steel-Plume Marshal
+
+Stridehangar Automaton
+
+Echoing Assault
+
+
+VERSION 37 CHANGELOG
 ====================
 
 Brutal Expulsion added.
