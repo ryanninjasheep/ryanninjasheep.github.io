@@ -41,7 +41,7 @@
     },
     {
         "card_name": "Destiny Manifest",
-        "number": 28,
+        "number": 29,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -81,7 +81,7 @@
     },
     {
         "card_name": "Empire's Wing",
-        "number": 31,
+        "number": 32,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -112,12 +112,12 @@
         "position": "122"
     },
     {
-        "card_name": "Koma's Hearth",
-        "number": 178,
+        "card_name": "Rampaging Clawfoot",
+        "number": 181,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "266"
+        "position": "218"
     },
     {
         "card_name": "Shen, Heir of Anox",
@@ -152,12 +152,12 @@
         "position": "193"
     },
     {
-        "card_name": "Rampaging Clawfoot",
-        "number": 183,
+        "card_name": "Reveal the Underdark",
+        "number": 182,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "218"
+        "position": "216"
     },
     {
         "card_name": "Soul Siphoner",
@@ -192,12 +192,12 @@
         "position": "195"
     },
     {
-        "card_name": "Reveal the Underdark",
-        "number": 184,
+        "card_name": "Sela's Hearth",
+        "number": 187,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "216"
+        "position": "266"
     },
     {
         "card_name": "Tectonic Shift",
@@ -321,7 +321,7 @@
     },
     {
         "card_name": "Bonded in Battle",
-        "number": 26,
+        "number": 27,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Dawncaller",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -401,7 +401,7 @@
     },
     {
         "card_name": "Excise the Blasphemous",
-        "number": 32,
+        "number": 33,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -593,7 +593,7 @@
     },
     {
         "card_name": "Manaseeker Serpent",
-        "number": 180,
+        "number": 178,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -633,7 +633,7 @@
     },
     {
         "card_name": "Peatfield Ambush",
-        "number": 182,
+        "number": 180,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -673,14 +673,14 @@
     },
     {
         "card_name": "Rite of Rebirth",
-        "number": 185,
+        "number": 183,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "232"
     },
     {
-        "card_name": "Retreat to Essentia",
+        "card_name": "Rewarding Retreat",
         "number": 44,
         "shape": "normal",
         "set": "TVB",
@@ -713,7 +713,7 @@
     },
     {
         "card_name": "Rootkin Wastewalker",
-        "number": 186,
+        "number": 184,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -753,7 +753,7 @@
     },
     {
         "card_name": "Scruptions Tiller",
-        "number": 187,
+        "number": 185,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -872,7 +872,7 @@
         "position": "40"
     },
     {
-        "card_name": "Blessing of Koma",
+        "card_name": "Blessing of Sela",
         "number": 162,
         "shape": "normal",
         "set": "TVB",
@@ -960,12 +960,12 @@
         "position": "46"
     },
     {
-        "card_name": "Eager Settler",
-        "number": 29,
+        "card_name": "Blessing of Enia",
+        "number": 26,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "6"
+        "position": "90"
     },
     {
         "card_name": "Dissonant Dream",
@@ -1000,12 +1000,12 @@
         "position": "51"
     },
     {
-        "card_name": "Emerge from the Cocoon",
+        "card_name": "Eager Settler",
         "number": 30,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "10"
+        "position": "6"
     },
     {
         "card_name": "Flickerlight Projection",
@@ -1032,7 +1032,7 @@
         "position": "34"
     },
     {
-        "card_name": "Disciple of Koma",
+        "card_name": "Disciple of Sela",
         "number": 170,
         "shape": "normal",
         "set": "TVB",
@@ -1040,12 +1040,12 @@
         "position": "52"
     },
     {
-        "card_name": "Feisty Furball",
-        "number": 33,
+        "card_name": "Emerge from the Cocoon",
+        "number": 31,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "0"
+        "position": "10"
     },
     {
         "card_name": "Highspire Sentry",
@@ -1080,12 +1080,12 @@
         "position": "58"
     },
     {
-        "card_name": "Fleeting Flight",
+        "card_name": "Feisty Furball",
         "number": 34,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "90"
+        "position": "0"
     },
     {
         "card_name": "Lumina Technician",
@@ -1152,12 +1152,12 @@
         "position": "39"
     },
     {
-        "card_name": "Koma's Chosen",
+        "card_name": "Leyline Navigation",
         "number": 177,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "56"
+        "position": "57"
     },
     {
         "card_name": "Magnanimous Architect",
@@ -1192,12 +1192,12 @@
         "position": "42"
     },
     {
-        "card_name": "Leyline Navigation",
+        "card_name": "Nature's Wrath",
         "number": 179,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "57"
+        "position": "54"
     },
     {
         "card_name": "Ruinating Strike",
@@ -1232,12 +1232,12 @@
         "position": "33"
     },
     {
-        "card_name": "Nature's Wrath",
-        "number": 181,
+        "card_name": "Sela's Chosen",
+        "number": 186,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
-        "position": "54"
+        "position": "56"
     },
     {
         "card_name": "Severed Sanctum",
@@ -2605,8 +2605,16 @@
         "position": "299"
     },
     {
+        "card_name": "Titan's Presence",
+        "number": 7,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "327"
+    },
+    {
         "card_name": "Chromatic Lantern",
-        "number": 27,
+        "number": 40,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2614,7 +2622,7 @@
     },
     {
         "card_name": "Forsaken Momument",
-        "number": 28,
+        "number": 41,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2622,23 +2630,47 @@
     },
     {
         "card_name": "Stridehangar Automaton",
-        "number": 29,
+        "number": 42,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "319"
     },
     {
+        "card_name": "Three Tree Mascot",
+        "number": 43,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "335"
+    },
+    {
+        "card_name": "Celebrity Fencer",
+        "number": 8,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "328"
+    },
+    {
         "card_name": "Jackdaw Savior",
-        "number": 7,
+        "number": 9,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "316"
     },
     {
+        "card_name": "Possessed Goat",
+        "number": 10,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "323"
+    },
+    {
         "card_name": "Steel-Plume Marshal",
-        "number": 8,
+        "number": 11,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2646,7 +2678,7 @@
     },
     {
         "card_name": "Trove Warden",
-        "number": 9,
+        "number": 12,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2654,7 +2686,7 @@
     },
     {
         "card_name": "Consign to Memory",
-        "number": 10,
+        "number": 13,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2662,7 +2694,7 @@
     },
     {
         "card_name": "Hedron Crab",
-        "number": 11,
+        "number": 14,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2670,15 +2702,47 @@
     },
     {
         "card_name": "Mulldrifter",
-        "number": 12,
+        "number": 15,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "314"
     },
     {
+        "card_name": "Slip Through Space",
+        "number": 16,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "326"
+    },
+    {
+        "card_name": "Stormkeld Prowler",
+        "number": 17,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "332"
+    },
+    {
+        "card_name": "Dawnhand Eulogist",
+        "number": 18,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "330"
+    },
+    {
+        "card_name": "Nadier's Nightblade",
+        "number": 19,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "329"
+    },
+    {
         "card_name": "Nightshade Harvester",
-        "number": 13,
+        "number": 20,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2686,23 +2750,39 @@
     },
     {
         "card_name": "Prowling Geistcatcher",
-        "number": 14,
+        "number": 21,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "317"
     },
     {
+        "card_name": "Souls of the Lost",
+        "number": 22,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "334"
+    },
+    {
         "card_name": "Swarm Surge",
-        "number": 15,
+        "number": 23,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "302"
     },
     {
+        "card_name": "Akoum Hellhound",
+        "number": 24,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "324"
+    },
+    {
         "card_name": "Echoing Assault",
-        "number": 16,
+        "number": 25,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2710,39 +2790,71 @@
     },
     {
         "card_name": "Ghostfire Slice",
-        "number": 17,
+        "number": 26,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "297"
     },
     {
+        "card_name": "Harried Dronesmith",
+        "number": 27,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "331"
+    },
+    {
         "card_name": "Obsidian Charmaw",
-        "number": 18,
+        "number": 28,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "315"
     },
     {
+        "card_name": "Reckless Pyrosurfer",
+        "number": 29,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "325"
+    },
+    {
         "card_name": "Embodiment of Insight",
-        "number": 19,
+        "number": 30,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "309"
     },
     {
+        "card_name": "Fungal Rebirth",
+        "number": 31,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "333"
+    },
+    {
         "card_name": "Icetill Explorer",
-        "number": 20,
+        "number": 32,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "305"
     },
     {
+        "card_name": "Lasyd Prowler",
+        "number": 33,
+        "shape": "normal",
+        "set": "TVB",
+        "rotated": false,
+        "position": "336"
+    },
+    {
         "card_name": "Lotus Cobra",
-        "number": 21,
+        "number": 34,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2750,7 +2862,7 @@
     },
     {
         "card_name": "Scythecat Cub",
-        "number": 22,
+        "number": 35,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2758,7 +2870,7 @@
     },
     {
         "card_name": "Abtruse Appropriation",
-        "number": 23,
+        "number": 36,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2766,7 +2878,7 @@
     },
     {
         "card_name": "Brutal Expulsion",
-        "number": 24,
+        "number": 37,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2774,7 +2886,7 @@
     },
     {
         "card_name": "Genemorph Imago",
-        "number": 25,
+        "number": 38,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
@@ -2782,11 +2894,14 @@
     },
     {
         "card_name": "Mayhem Devil",
-        "number": 26,
+        "number": 39,
         "shape": "normal",
         "set": "TVB",
         "rotated": false,
         "position": "322"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -1,4 +1,40 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+Disciple of Sela added.
+Sela's Chosen added.
+Blessing of Enia added.
+Rewarding Retreat added.
+Blessing of Sela added.
+Sela's Hearth added.
+Possessed Goat added.
+Akoum Hellhound added.
+Reckless Pyrosurfer added.
+Slip Through Space added.
+Titan's Presence added.
+Celebrity Fencer added.
+Nadier's Nightblade added.
+Dawnhand Eulogist added.
+Harried Dronesmith added.
+Stormkeld Prowler added.
+Fungal Rebirth added.
+Souls of the Lost added.
+Three Tree Mascot added.
+Lasyd Prowler added.
+
+Disciple of Koma removed.
+Koma's Chosen removed.
+Fleeting Flight removed.
+Retreat to Essentia removed.
+Blessing of Koma removed.
+Koma's Hearth removed.
+
+Underdark Avenger
+
+Prism
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Retreat to Essentia added.

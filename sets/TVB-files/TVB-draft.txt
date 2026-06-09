@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/0.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/6.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/10.png"
 			}
@@ -521,7 +521,7 @@
 			}
 		},
 		{
-			"name": "Disciple of Koma",
+			"name": "Disciple of Sela",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Druid",
@@ -535,7 +535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/54.png"
 			}
@@ -561,11 +561,11 @@
 			}
 		},
 		{
-			"name": "Koma's Chosen",
+			"name": "Sela's Chosen",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Rebel",
-			"collector_number": "177",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/57.png"
 			}
@@ -901,11 +901,11 @@
 			}
 		},
 		{
-			"name": "Fleeting Flight",
+			"name": "Blessing of Enia",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/90.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/128.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact — Vehicle",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/130.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/136.png"
 			}
@@ -1451,7 +1451,7 @@
 			}
 		},
 		{
-			"name": "Retreat to Essentia",
+			"name": "Rewarding Retreat",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
@@ -1465,7 +1465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/146.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/147.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/216.png"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/218.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Snake",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/220.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "187",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/224.png"
 			}
@@ -2255,7 +2255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "186",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/225.png"
 			}
@@ -2311,10 +2311,10 @@
 			}
 		},
 		{
-			"name": "Blessing of Koma",
+			"name": "Blessing of Sela",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/231.png"
@@ -2325,7 +2325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "185",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/232.png"
 			}
@@ -2661,11 +2661,11 @@
 			}
 		},
 		{
-			"name": "Koma's Hearth",
+			"name": "Sela's Hearth",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact",
-			"collector_number": "178",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/266.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Devoid Instant",
-			"collector_number": "23",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/294.png"
 			}
@@ -2975,7 +2975,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Devoid Instant",
-			"collector_number": "17",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/297.png"
 			}
@@ -3015,7 +3015,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Devoid Instant",
-			"collector_number": "24",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/301.png"
 			}
@@ -3025,7 +3025,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Devoid Sorcery",
-			"collector_number": "15",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/302.png"
 			}
@@ -3045,7 +3045,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Insect Druid",
-			"collector_number": "25",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/304.png"
 			}
@@ -3055,7 +3055,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Insect Scout",
-			"collector_number": "20",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/305.png"
 			}
@@ -3065,7 +3065,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Crab",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/306.png"
 			}
@@ -3075,7 +3075,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Cat",
-			"collector_number": "22",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/307.png"
 			}
@@ -3085,7 +3085,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Snake",
-			"collector_number": "21",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/308.png"
 			}
@@ -3095,7 +3095,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "19",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/309.png"
 			}
@@ -3105,7 +3105,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Cat Beast",
-			"collector_number": "9",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/310.png"
 			}
@@ -3115,7 +3115,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "13",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/311.png"
 			}
@@ -3125,7 +3125,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/312.png"
 			}
@@ -3135,7 +3135,7 @@
 			"rarity": "special",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "28",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/313.png"
 			}
@@ -3145,7 +3145,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "12",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/314.png"
 			}
@@ -3155,7 +3155,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "18",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/315.png"
 			}
@@ -3165,7 +3165,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Bird Cleric",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/316.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "14",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/317.png"
 			}
@@ -3185,7 +3185,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Bird Soldier",
-			"collector_number": "8",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/318.png"
 			}
@@ -3195,7 +3195,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "29",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/319.png"
 			}
@@ -3205,7 +3205,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "16",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/320.png"
 			}
@@ -3215,7 +3215,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "27",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/321.png"
 			}
@@ -3225,9 +3225,149 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Devil",
-			"collector_number": "26",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/322.png"
+			}
+		},
+		{
+			"name": "Possessed Goat",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Goat",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/323.png"
+			}
+		},
+		{
+			"name": "Akoum Hellhound",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Dog",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/324.png"
+			}
+		},
+		{
+			"name": "Reckless Pyrosurfer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/325.png"
+			}
+		},
+		{
+			"name": "Slip Through Space",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Devoid Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/326.png"
+			}
+		},
+		{
+			"name": "Titan's Presence",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/327.png"
+			}
+		},
+		{
+			"name": "Celebrity Fencer",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/328.png"
+			}
+		},
+		{
+			"name": "Nadier's Nightblade",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/329.png"
+			}
+		},
+		{
+			"name": "Dawnhand Eulogist",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Elf Warlock",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/330.png"
+			}
+		},
+		{
+			"name": "Harried Dronesmith",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/331.png"
+			}
+		},
+		{
+			"name": "Stormkeld Prowler",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/332.png"
+			}
+		},
+		{
+			"name": "Fungal Rebirth",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/333.png"
+			}
+		},
+		{
+			"name": "Souls of the Lost",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/334.png"
+			}
+		},
+		{
+			"name": "Three Tree Mascot",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/335.png"
+			}
+		},
+		{
+			"name": "Lasyd Prowler",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Snake Ranger",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/TVB-files/img/336.png"
 			}
 		}
 	]
@@ -3303,7 +3443,7 @@
 	2 Synchrum Puppeteer
 	2 Voidcraft Refiner
 	2 Dregwalker
-	2 Koma's Hearth
+	2 Sela's Hearth
 	1 Herald of Anox
 	2 Fetid Maw
 	1 Empty Heart
@@ -3348,7 +3488,7 @@
 	4 Pioneering Aristocrat
 	4 Scrupulous Patron
 	4 Stormfront Skyport
-	4 Retreat to Essentia
+	4 Rewarding Retreat
 	4 Bonded in Battle
 	4 Excise the Blasphemous
 	4 Voidseeker Sneak
@@ -3465,10 +3605,10 @@
 	8 Soil Stirrer
 	8 Thunderous Terrapin
 	8 Deeproot Treefolk
-	8 Disciple of Koma
+	8 Disciple of Sela
 	8 Nature's Wrath
 	8 Flourishing Stomper
-	8 Koma's Chosen
+	8 Sela's Chosen
 	8 Leyline Navigation
 	8 Harvest Cycle
 	8 Dessicated Diner
@@ -3479,7 +3619,7 @@
 	8 Prismatic Lens
 	8 Ruinating Strike
 	8 Severed Sanctum
-	8 Fleeting Flight
+	8 Blessing of Enia
 	8 Wingblade Recruit
 	8 Unsummon
 	8 Dextrous Dodge
@@ -3493,7 +3633,7 @@
 	8 Obsessive Pursuit
 	8 Voidseeker Fanatic
 	8 Spirited Growth
-	8 Blessing of Koma
+	8 Blessing of Sela
 	8 Leyline Surveyor
 	8 Magma Lash
 [common | masterpiece(1)]
@@ -3547,10 +3687,10 @@
 	8 Soil Stirrer
 	8 Thunderous Terrapin
 	8 Deeproot Treefolk
-	8 Disciple of Koma
+	8 Disciple of Sela
 	8 Nature's Wrath
 	8 Flourishing Stomper
-	8 Koma's Chosen
+	8 Sela's Chosen
 	8 Leyline Navigation
 	8 Harvest Cycle
 	8 Dessicated Diner
@@ -3561,7 +3701,7 @@
 	8 Prismatic Lens
 	8 Ruinating Strike
 	8 Severed Sanctum
-	8 Fleeting Flight
+	8 Blessing of Enia
 	8 Wingblade Recruit
 	8 Unsummon
 	8 Dextrous Dodge
@@ -3575,7 +3715,7 @@
 	8 Obsessive Pursuit
 	8 Voidseeker Fanatic
 	8 Spirited Growth
-	8 Blessing of Koma
+	8 Blessing of Sela
 	8 Leyline Surveyor
 	8 Magma Lash
 	3 Abtruse Appropriation
@@ -3607,6 +3747,20 @@
 	3 Echoing Assault
 	3 Chromatic Lantern
 	3 Mayhem Devil
+	3 Possessed Goat
+	3 Akoum Hellhound
+	3 Reckless Pyrosurfer
+	3 Slip Through Space
+	3 Titan's Presence
+	3 Celebrity Fencer
+	3 Nadier's Nightblade
+	3 Dawnhand Eulogist
+	3 Harried Dronesmith
+	3 Stormkeld Prowler
+	3 Fungal Rebirth
+	3 Souls of the Lost
+	3 Three Tree Mascot
+	3 Lasyd Prowler
 [foil(1)]
 	12 Feisty Furball
 	12 Heartpact Acolyte
@@ -3660,11 +3814,11 @@
 	12 Soil Stirrer
 	12 Thunderous Terrapin
 	12 Deeproot Treefolk
-	12 Disciple of Koma
+	12 Disciple of Sela
 	6 Peatfield Ambush
 	12 Nature's Wrath
 	12 Flourishing Stomper
-	12 Koma's Chosen
+	12 Sela's Chosen
 	12 Leyline Navigation
 	12 Harvest Cycle
 	6 Prideful Priest
@@ -3694,7 +3848,7 @@
 	6 Aderic's Sextant
 	12 Ruinating Strike
 	12 Severed Sanctum
-	12 Fleeting Flight
+	12 Blessing of Enia
 	12 Wingblade Recruit
 	12 Unsummon
 	6 Rasping Currents
@@ -3736,7 +3890,7 @@
 	6 Pioneering Aristocrat
 	6 Scrupulous Patron
 	6 Stormfront Skyport
-	6 Retreat to Essentia
+	6 Rewarding Retreat
 	6 Bonded in Battle
 	6 Excise the Blasphemous
 	1 Ba, Vestige of Knowledge
@@ -3822,7 +3976,7 @@
 	6 Brush Stomper
 	6 Budding Mycospawn
 	12 Spirited Growth
-	12 Blessing of Koma
+	12 Blessing of Sela
 	6 Rite of Rebirth
 	6 Blighted Blossoming
 	2 Crystal Dunes
@@ -3857,7 +4011,7 @@
 	2 Synchrum Puppeteer
 	2 Voidcraft Refiner
 	2 Dregwalker
-	2 Koma's Hearth
+	2 Sela's Hearth
 	12 Leyline Surveyor
 	6 Endless Hollow
 	6 Gravity Gauntlet
@@ -3932,11 +4086,11 @@
 	6 Soil Stirrer
 	6 Thunderous Terrapin
 	6 Deeproot Treefolk
-	6 Disciple of Koma
+	6 Disciple of Sela
 	15 Peatfield Ambush
 	6 Nature's Wrath
 	6 Flourishing Stomper
-	6 Koma's Chosen
+	6 Sela's Chosen
 	6 Leyline Navigation
 	6 Harvest Cycle
 	15 Prideful Priest
@@ -3966,7 +4120,7 @@
 	15 Aderic's Sextant
 	6 Ruinating Strike
 	6 Severed Sanctum
-	6 Fleeting Flight
+	6 Blessing of Enia
 	6 Wingblade Recruit
 	6 Unsummon
 	15 Rasping Currents
@@ -4008,7 +4162,7 @@
 	15 Pioneering Aristocrat
 	15 Scrupulous Patron
 	15 Stormfront Skyport
-	15 Retreat to Essentia
+	15 Rewarding Retreat
 	15 Bonded in Battle
 	15 Excise the Blasphemous
 	4 Ba, Vestige of Knowledge
@@ -4094,7 +4248,7 @@
 	15 Brush Stomper
 	15 Budding Mycospawn
 	6 Spirited Growth
-	6 Blessing of Koma
+	6 Blessing of Sela
 	15 Rite of Rebirth
 	15 Blighted Blossoming
 	7 Crystal Dunes
@@ -4129,7 +4283,7 @@
 	7 Synchrum Puppeteer
 	7 Voidcraft Refiner
 	7 Dregwalker
-	7 Koma's Hearth
+	7 Sela's Hearth
 	6 Leyline Surveyor
 	15 Endless Hollow
 	15 Gravity Gauntlet
