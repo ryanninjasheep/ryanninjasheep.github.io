@@ -1,4 +1,491 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW02 Surveillance Pigeon added.
+CW01 Perpetual Motion Machine added.
+CW03 Starhall Rogue added.
+CW04 Peregrine Guardian added.
+CW06 first strike renown added.
+CW07 Runic Celebrant added.
+CW08 Lifepath Communer added.
+CW09 Squad Rallier added.
+CW11 Unchained Kestrel added.
+CW12 Vision of Calamity added.
+CW13 Subpoena added.
+CW15 Song of Idols added.
+UW01 aggressive 1-drop added.
+UW02 discount enchantment added.
+UW04 double strike renown added.
+UW05 lore lover added.
+UW06 enchantment recursion added.
+UW07 small recursion added.
+UW08 grow scry added.
+UW09 Grace added.
+CU01 Waterwhip Duelist added.
+CU02 Skulking Saboteur added.
+CU04 flying seeker added.
+CU05 weird prowess added.
+CU06 Stoic Ravenspeaker added.
+CU07 fly + loot added.
+CU08 ward cycler added.
+CU09 endorse flying added.
+CU10 That's Not What Happened added.
+CU12 slow draw added.
+CU14 Tumble Through Time added.
+CU15 Song of Tides added.
+UU01 Impish Astrologer added.
+UU02 Deepwell Seeker added.
+UU03 flash flyer added.
+UU04 Skittish Scrier added.
+UU05 Reclusive Runereader added.
+UU06 Precision added.
+UU07 big finisher added.
+UU09 Invocation of Precision added.
+UU11 endorse curiosity added.
+UU12 Early Retirement added.
+CB01 Marked Monument added.
+CB02 Cheerless Reaper added.
+CB03 Grim Apostle added.
+CB05 Scheming Revolutionary added.
+CB06 Silkblade Assassin added.
+CB12 Song of Dread added.
+UB01 Death's Disciple added.
+UB02 renown steal added.
+CB08 send to death added.
+UB04 Infamous Guy added.
+UB05 Slithering Insurgent added.
+UB06 Power added.
+UB07 Preacher of Symmetry added.
+UB03 enchant in gy added.
+UB10 Invocation of Power added.
+UB11 bargain reanimate added.
+CR03 small unblockable added.
+CR02 etb statue added.
+CR04 Notorious Pugilist added.
+CR05 Fiery Insurgent added.
+CR06 pinger added.
+CR07 prowess trample added.
+CR08 Genial Gladiator added.
+CR11 first strike trick added.
+CR12 Song of Stories added.
+CR15 Hobbling Noisemaker added.
+UR02 Prideful Soloist added.
+UR03 Flamewhip Fencer added.
+UR04 valiant double strike added.
+UR05 hasty bargain added.
+UR07 Rage added.
+UR08 Battlesong Berserker added.
+UR10 Bribery Scheme added.
+UR11 Invocation of Rage added.
+UR13 Fan the Flames added.
+CG01 Sprouting Serpent added.
+CG03 Satyr Rootspeaker added.
+CG04 Waterwhip Seeker added.
+CG05 reach doubt added.
+CG07 Wilderland Troubador added.
+CG08 renown trample added.
+CG09 counter discount added.
+CG11 fight propaganda added.
+CG14 Ravenous Roots added.
+CG15 Song of Rebirth added.
+UG02 flash propaganda added.
+UG03 valiant seeker added.
+UG04 lore lover added.
+UG06 alliance seeker added.
+UG07 Memory added.
+UG10 doubt bite added.
+UG11 Invocation of Memory added.
+UG12 x lore added.
+UG13 invoke added.
+UM01 scry grow added.
+UM02 control topend added.
+UM03 Prognostic Frog added.
+UM04 Deepwell Infiltrator added.
+UM07 attack propaganda added.
+UM05 bargain damage added.
+UM06 Spectratog added.
+UM08 Censured Cryptid added.
+UM09 grants counters added.
+UM10 likes counters added.
+UM12 Serpentine Sculptor added.
+UM11 Starlit Researcher added.
+UM13 permanent prowess added.
+UM14 Farsight Flameshaper added.
+UM15 enchantment recursion added.
+UM16 bargain removal added.
+UM17 grow from small added.
+UM18 likes small added.
+UM19 defender seeker added.
+UM20 long game seeker added.
+CA01 etb scry added.
+CA02 Inspiring Effigy added.
+CA03 lore remover added.
+CA04 seek removal added.
+CA06 land fixer added.
+UA01 etb shard added.
+UA02 Invocation of Modernity added.
+UG15 bargain disenchant added.
+UA03 Moonstone Orb added.
+UL01 Sanctum of the Watcher added.
+CL01 Solitary Lighthouse added.
+CL02 Shadowy Office added.
+CL03 Rowdy Tavern added.
+CL04 Postered Alley added.
+CL05 Bustling Forum added.
+CL06 Starlit Observatory added.
+CL07 Horologist's Workshop added.
+CL08 Cryptic Catacomb added.
+CL09 Grand Stage added.
+CL10 Invoker's Sanctuary added.
+CA05 Favorable Fortune added.
+The Inevitable added.
+CU13 tap aura added.
+CW05 Unflappable Conductor added.
+CW10 Pampered Patron added.
+CU11 prowess looter added.
+CB04 Sinister Cynic added.
+CB07 Wicked Lurker added.
+CB09 Looming Omen added.
+CB11 Gorgon's Touch added.
+CB13 Disarming Development added.
+CB15 Sanctify in Ashes added.
+CR01 Intrepid Newsie added.
+CR09 Fated Fighter added.
+CR13 Flip the Table added.
+CR14 Show of Force added.
+CG02 Whisperwood Storyteller added.
+CG06 vigi seeker added.
+CG10 trample cycler added.
+CG12 plummet propaganda added.
+Hero added.
+Sculpture added.
+Treasure added.
+Propaganda added.
+Avatar added.
+UW12 Invocation of Grace added.
+CW14 endorse indestructible added.
+UW11 Idolize added.
+UB09 second life added.
+UR09 endorse firebreathing added.
+CG13 endorse trample added.
+
+CW01 Surveillance Pigeon removed.
+CW02 Capitol Guardian removed.
+CW03 Storied Idol removed.
+CW04 Martyred Idol removed.
+CW05 Silvershield Aerialist removed.
+CW06 Lakefront Siren removed.
+CW07 Shimmervale Scion removed.
+CW09 Clearsong Flautist removed.
+CW10 Pious Summoner removed.
+CW11 Silvershield Luminary removed.
+CW12 Runebreak Trap removed.
+CW13 The Visionary's Exile removed.
+UW12 removed.
+CW15 Righteous Purge removed.
+UW01 Veteran Underwriter removed.
+UW02 Cursed Chaplain removed.
+UW03 Shimmervale Lorekeeper removed.
+UW04 removed.
+UW05 Silvershield Invoker removed.
+UW06 Storied Outlaw removed.
+UW07 Impassioned Recruiter removed.
+UW08 removed.
+UW09 Mistfeather Steed removed.
+UW10 removed.
+UW11 Song of Courage removed.
+CW14 Titan's Valor removed.
+UW13 removed.
+UW14 removed.
+CU01 Murkwater Scavenger removed.
+CU02 Skyseeker Raven removed.
+CU04 Lateral Strategist removed.
+CU05 Watchful Neighbor removed.
+CU06 Runespark Tinkerer removed.
+CU07 Aqueduct Agent removed.
+CU08 Evenflow Drake removed.
+CU09 Into the Mist removed.
+CU10 Control the Narrative removed.
+CU11 Experimental Augury removed.
+CU12 Clear Visions removed.
+CU13 Early Retirement removed.
+CU14 Meddling Grasp removed.
+CU15 Monarch's Wings removed.
+UU01 Mistfeather Osprey removed.
+UU02 Opposition Researcher removed.
+UU03 Shimmervale Infiltrator removed.
+UU04 Patient Strategist removed.
+UU05 Belligerent Bodyguard removed.
+UU06 removed.
+UU07 Gravishift Sphinx removed.
+UU08 Song of Control removed.
+UU09 Erudite Underwriter removed.
+UU10 Deem Unworthy removed.
+UU11 removed.
+UU12 removed.
+UU13 removed.
+UU14 removed.
+CB01 Footlight Fiend removed.
+CB02 Riotous Reactionary removed.
+CB03 Underhall Crawler removed.
+CB04 Sensational Reporter removed.
+CB05 Honored Hireling removed.
+CB06 Runesnare Wyvern removed.
+CB07 Paranoid Prophet removed.
+CB08 Maverick Mortician removed.
+CB09 Macabre Mascot removed.
+CB12 Decontextualize removed.
+CB13 Splintered Thought removed.
+CB15 Essence Sear removed.
+UB01 Goblin Fleshreaper removed.
+UB02 Deathless Underwriter removed.
+UB03 removed.
+UB04 Subtle Spy removed.
+UB05 Keeper of Memories removed.
+UB06 Pietous Propagandist removed.
+UB07 removed.
+UB08 removed.
+UB09 Song of Memory removed.
+CB11 Twisted Blade removed.
+UB11 Careless Mudslinging removed.
+UB12 removed.
+UB13 removed.
+UB14 removed.
+CR01 Dragon Trumpeter removed.
+CR05 Rubblefall Marauder removed.
+CR03 Outspoken Activist removed.
+CR04 Flamesprite Maverick removed.
+CR02 Scorned Duelist removed.
+CR06 Beloved Pet removed.
+CR07 Veteran Songsmith removed.
+CR08 Rubblefall Browbeater removed.
+CR09 Earthquake Wurm removed.
+CR11 Aggressive Stance removed.
+CR12 Grassroots Movement removed.
+CR13 Scavenger's Crest removed.
+CR14 Erase the Past removed.
+CR15 Conclusive Charge removed.
+UR01 removed.
+UR02 Forgetful Researcher removed.
+UR03 Prideful Soloist removed.
+UR04 Inspiring Speaker removed.
+UR05 Vain Underwriter removed.
+UR06 Devilish Dancer removed.
+UR07 Blazing Aggressor removed.
+UR08 removed.
+UR09 Bribery Scheme removed.
+UR10 Song of Valor removed.
+UR11 removed.
+UR12 removed.
+UR13 removed.
+UR14 removed.
+CG01 Amicable Activist removed.
+CG02 Steadfast Botanist removed.
+CG06 High Hall Archivist removed.
+CG04 Rousing Orator removed.
+CG05 Wandervine Historian removed.
+CG03 Shimmervale Nurturer removed.
+CG07 Rune-Etched Arachnaur removed.
+CG08 High Hall General removed.
+CG09 Devoted Conjurer removed.
+CG10 Camelback Elephant removed.
+CG11 Measured Takeover removed.
+CG12 Call a Hit removed.
+CG13 Stoic Resolve removed.
+CG14 Return with Riches removed.
+CG15 Nourishing Roots removed.
+UG01 removed.
+UG02 Runic Ooze removed.
+UG03 Ardent Runebreaker removed.
+UG04 Shimmervale Witness removed.
+UG05 Devoted Underwriter removed.
+UG06 removed.
+UG07 removed.
+UG08 removed.
+UG09 Streamrider Moose removed.
+UG10 Song of Unity removed.
+UG11 Zealous Strength removed.
+UG12 Colossal Might removed.
+UG13 removed.
+UG14 removed.
+UM01 Unimpeachable Image removed.
+UM02 Ravishing Raconteur removed.
+UM03 Murkwater Infiltrator removed.
+UM04 Prideful Populist removed.
+UM06 Dragon's Tongue removed.
+UM05 Rune-Charge Marauder removed.
+UM07 Stirring Siegebreaker removed.
+UM08 Rubblefall Fanatic removed.
+UM09 Bishop of Runes removed.
+UM10 Shimmervale Enchantress removed.
+UM11 Effigy Sculptor removed.
+UM12 Singer of Tragedy removed.
+UM14 Springsuit Artisan removed.
+RM13 Kaya, Unyielding Innovator removed.
+UM15 Song of Regrowth removed.
+UM16 Veilhoarder removed.
+UM17 High Hall Strategist removed.
+UM18 Stellar Paragon removed.
+UM19 Propaganda Profferer removed.
+UM20 Vine Dancer removed.
+CA01 Deepland Surveyor removed.
+CA02 Idol's Effigy removed.
+CA03 Plaza Recycler removed.
+CA04 Prism-Bomb removed.
+CA05 Patron's Cant removed.
+CA06 Alley Map removed.
+UA01 removed.
+UA02 removed.
+UA03 removed.
+UA04 removed.
+UA05 Propagandist's Quill removed.
+UA06 Prismatic Anchor removed.
+UA07 removed.
+UA08 removed.
+UL01 removed.
+UL02 removed.
+RW01 Nok, People's Candidate removed.
+RW02 removed.
+RW03 removed.
+RW04 removed.
+RW05 removed.
+RW06 removed.
+RW07 removed.
+RU01 removed.
+RU02 removed.
+RU03 removed.
+RU04 removed.
+RU05 removed.
+RU06 removed.
+RU07 removed.
+RB01 removed.
+RB02 removed.
+RB03 removed.
+RB04 removed.
+RB05 removed.
+RB06 removed.
+RB07 removed.
+RR01 removed.
+RR02 removed.
+RR03 removed.
+RR04 removed.
+RR05 removed.
+RR06 removed.
+RR07 removed.
+RG01 removed.
+RG02 removed.
+RG03 removed.
+RG04 removed.
+RG05 removed.
+RG06 removed.
+RG07 removed.
+RM01 Majesty removed.
+RM21 Sparkwright Animus removed.
+MM02 low power reanimator removed.
+MW01 removed.
+MW02 removed.
+MU01 removed.
+MU02 removed.
+MB01 removed.
+MB02 removed.
+MR01 removed.
+MR02 removed.
+MG01 removed.
+MG02 removed.
+MM03 removed.
+MM04 removed.
+MM06 removed.
+MM01 removed.
+MM05 removed.
+MM07 removed.
+MM08 saga recursion removed.
+MM09 mega voltron removed.
+MM10 proliferate removed.
+RM02 removed.
+RM03 removed.
+RM04 Silvercloak Strike removed.
+RM05 removed.
+RM06 removed.
+RM07 Fervor removed.
+RM08 removed.
+RM09 removed.
+RM11 removed.
+RM10 removed.
+RM12 removed.
+UM13 Charged Debate removed.
+RM14 removed.
+RM15 removed.
+RM16 removed.
+RM17 removed.
+RM18 removed.
+RM19 removed.
+RM20 removed.
+RM23 removed.
+RM25 removed.
+RM22 removed.
+RM24 removed.
+CL01 Lakefront District removed.
+CL02 Murkwater District removed.
+CL03 Flinthall District removed.
+CL04 Rubblefall District removed.
+CL05 Shimmervale District removed.
+CL06 Echoing District removed.
+CL07 Runespark District removed.
+CL08 Conjurer's District removed.
+CL09 Clearsong District removed.
+CL10 Wandervine District removed.
+Z_Cycles removed.
+CW08 Pampered Prince removed.
+Bard removed.
+Weapon removed.
+Statue removed.
+UB10 Deathless Defiance removed.
+
+Z_Archetypes
+rules_text: {W}{U} Voltron
+{U}{B} Base power 2 or less
+{B}{R} [i]Revolt[/i]
+{R}{G} Loyalty aggro [i](some go wide)[/i]
+{G}{W} Enchantress
+{W}{B} Aristocrats
+{U}{R} Modified
+{B}{G} enchantments in gy
+{R}{W} Attacks alone
+{G}{U} Loyalty proliferate => {W}{U}
+{U}{B}
+{B}{R}
+{R}{G} 
+{G}{W}
+{W}{B}
+{U}{R}
+{B}{G}
+{R}{W}
+{G}{U}
+
+Z_Common Keyword Distribution
+
+CB10 Smear Campaign
+type: Sorcery => Instant
+cost: {2}{B} => {1}{B}
+rules_text: Choose one —
+• Target opponent discards two cards.
+• Target opponent sacrifices a creature of their choice. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Target creature gets -3/-3 until end of turn. If this spell was bargained, that creature gets -5/-5 until end of turn instead.
+
+CB14 Murder
+
+CR10 Shock
+
+CU03 Persistent Paparazzo
+type: Creature — Human Scout => Creature
+rules_text: Flash
+When this creature enters, tap target creature an opponent controls and put a stun counter on it. => When this creature enters, tap up to one target creature and put a stun counter on it.
+pt: 3/2 => 2/2
+
+Incarnation
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

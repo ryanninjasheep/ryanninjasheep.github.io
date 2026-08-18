@@ -783,7 +783,7 @@
 		{
 			"name": "Wasteland Wanderer",
 			"rarity": "common",
-			"mana_cost": "{C}",
+			"mana_cost": "{2/C}",
 			"type": "Creature — Voidling",
 			"collector_number": "20",
 			"image_uris": {
@@ -813,7 +813,7 @@
 		{
 			"name": "Shadow Self",
 			"rarity": "common",
-			"mana_cost": "{1}{C}",
+			"mana_cost": "{1}{2/C}",
 			"type": "Enchantment — Aura",
 			"collector_number": "15",
 			"image_uris": {
@@ -2683,7 +2683,7 @@
 		{
 			"name": "Endless Hollow",
 			"rarity": "uncommon",
-			"mana_cost": "{C}{C}{C}",
+			"mana_cost": "{2/C}{2/C}{2/C}",
 			"type": "Creature — Voidling",
 			"collector_number": "5",
 			"image_uris": {
@@ -3629,6 +3629,16 @@
 	8 Split the Earth
 	8 Barrescape Brawler
 	8 Clawfoot Herd
+	8 Ivyflow Quarry
+	8 Magmafell Quarry
+	8 Rootbound Quarry
+	8 Runespark Quarry
+	8 Sandswept Quarry
+	8 Scorchwheat Quarry
+	8 Shadowcrest Quarry
+	8 Cryptveil Quarry
+	8 Umberdark Quarry
+	8 Wickfield Quarry
 	8 Dissonant Dream
 	8 Obsessive Pursuit
 	8 Voidseeker Fanatic
@@ -3711,6 +3721,16 @@
 	8 Split the Earth
 	8 Barrescape Brawler
 	8 Clawfoot Herd
+	8 Ivyflow Quarry
+	8 Magmafell Quarry
+	8 Rootbound Quarry
+	8 Runespark Quarry
+	8 Sandswept Quarry
+	8 Scorchwheat Quarry
+	8 Shadowcrest Quarry
+	8 Cryptveil Quarry
+	8 Umberdark Quarry
+	8 Wickfield Quarry
 	8 Dissonant Dream
 	8 Obsessive Pursuit
 	8 Voidseeker Fanatic
@@ -4306,18 +4326,3 @@
 	4 A World Asunder
 	4 The Terralance
 [land(1)]
-	8 Ivyflow Quarry
-	8 Magmafell Quarry
-	8 Rootbound Quarry
-	8 Runespark Quarry
-	8 Sandswept Quarry
-	8 Scorchwheat Quarry
-	8 Shadowcrest Quarry
-	8 Cryptveil Quarry
-	8 Umberdark Quarry
-	8 Wickfield Quarry
-    16 Plains
-    16 Island
-    16 Swamp
-    16 Mountain
-    16 Forest
