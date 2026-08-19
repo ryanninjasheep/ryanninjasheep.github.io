@@ -1,4 +1,427 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+UW04 Lifepath Seeker added.
+UW13 Storied Strike added.
+CU05 Wandering Dreamer added.
+CU12 Visionary's Council added.
+UU10 Brainstorm added.
+UU11 Peer Through Time added.
+UB02 Opposition Researcher added.
+UB12 Seek the Beyond added.
+CR11 Feather Technique added.
+CR15 Rabblerousing Runt added.
+UR03 Flashy Fencer added.
+UR04 Lightning Dancer added.
+UR06 aura recursion?? added.
+CG09 Symbiotic Statue added.
+CG11 Smear Campaign added.
+UG14 ferocious draw added.
+UM05 Hired Henchman added.
+UM09 likes counters added.
+UM10 grants counters added.
+UM16 Chimeric Killer added.
+UM17 first stike granter added.
+CA02 Automated Archivist added.
+CA06 Noble Venture added.
+RW01 Indecipherable Mysteries added.
+RW02 Aurora, Calamity of Light added.
+RU01 Roil, Calamity of Tides added.
+RU02 clone saga added.
+RB01 Vzhs, Brutal Barterer added.
+RB03 Marrow, Calamity of Bones added.
+RR02 Cinder, Calamity of Ash added.
+RR03 Cinder's Inferno added.
+RG01 Quake, Calamity of Earth added.
+RG02 valiant doubler added.
+RM01 Insight added.
+RM21 Countdown FLAG added.
+RM03 Dominance added.
+RM05 Commitment added.
+RM07 Kinship added.
+RM09 Narrative added.
+RM11 Ambition added.
+RM13 Ebullience added.
+RM15 Cultivation added.
+RM17 Spectacle added.
+RM19 Abundance added.
+CB10 Deadly Deal added.
+UR09 Dragon's Tongue added.
+
+UW04 double strike renown removed.
+CU05 weird prowess removed.
+CU12 slow draw removed.
+UU11 endorse curiosity removed.
+UB02 renown steal removed.
+CR11 first strike trick removed.
+CR15 Hobbling Noisemaker removed.
+UR03 Flamewhip Fencer removed.
+UR04 valiant double strike removed.
+CG09 counter discount removed.
+CG11 fight propaganda removed.
+UM05 bargain damage removed.
+UM09 grants counters removed.
+UM10 likes counters removed.
+UM16 bargain removal removed.
+UM17 grow from small removed.
+CA03 lore remover removed.
+CA06 land fixer removed.
+CB10 Smear Campaign removed.
+UR09 endorse firebreathing removed.
+
+CW15 Song of Idols
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 1. You gain 2 life.
+Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 1. You gain 1 life.
+Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 1. You gain 2 life.
+Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 1. You gain 1 life.
+Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+​
+
+UW06 enchantment recursion
+pt: 2/2 => 3/2
+
+CU01 Waterwhip Duelist
+
+CU02 Skulking Saboteur
+
+CU04 flying seeker
+
+CU06 Stoic Ravenspeaker
+
+CU07 fly + loot
+
+CU08 ward cycler
+
+CU09 endorse flying
+
+CU10 That's Not What Happened
+
+CU14 Tumble Through Time
+
+CU15 Song of Tides
+
+UU01 Impish Astrologer
+
+UU02 Deepwell Seeker
+
+UU03 flash flyer
+
+UU04 Skittish Scrier
+
+UU05 Reclusive Runereader
+
+UU06 Precision
+
+UU07 big finisher
+
+UU09 Invocation of Precision
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+I, II — Tap up to one target creature.
+III — Create a 4/4 colorless Incarnation enchantment creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+Tap up to one target creature.
+Create a 4/4 colorless Incarnation enchantment creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+I, II — Tap up to one target creature.
+III — Create a 4/4 colorless Incarnation enchantment creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+Tap up to one target creature.
+Create a 4/4 colorless Incarnation enchantment creature token.
+
+UU12 Early Retirement
+cost: ?{U} => {1}{U}
+
+CB01 Marked Monument
+
+CB02 Cheerless Reaper
+
+CB03 Grim Apostle
+
+CB05 Scheming Revolutionary
+
+CB06 Silkblade Assassin
+
+CB12 Song of Dread
+
+UB01 Death's Disciple
+
+CB08 send to death
+
+UB04 Infamous Guy
+
+UB05 Slithering Insurgent
+
+UB06 Power
+
+UB07 Preacher of Symmetry
+
+UB03 enchant in gy
+
+UB10 Invocation of Power
+cost: {3}{B} => {4}{B}
+
+UB11 bargain reanimate
+
+CR03 small unblockable
+
+CR02 etb statue
+
+CR04 Notorious Pugilist
+
+CR05 Fiery Insurgent
+
+CR06 pinger
+rules_text: Reach
+Whenever you cast a spell during an opponent's turn, this creature deals 1 damage to each opponent. => Reach
+Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent.
+
+CR07 prowess trample
+
+CR08 Genial Gladiator
+
+CR12 Song of Stories
+
+UR02 Prideful Soloist
+
+UR05 hasty bargain
+
+UR07 Rage
+
+UR08 Battlesong Berserker
+
+UR10 Bribery Scheme
+
+UR11 Invocation of Rage
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Incarnation enchantment creature token.
+II, III — Target creature you control gets +1/+0 and gains first strike until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Incarnation enchantment creature token.
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Incarnation enchantment creature token.
+II, III — Target creature you control gets +1/+0 and gains first strike until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Incarnation enchantment creature token.
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+​
+
+UR13 Fan the Flames
+type: Enchantment — Propaganda => Enchantment
+
+CG01 Sprouting Serpent
+
+CG03 Satyr Rootspeaker
+
+CG04 Waterwhip Seeker
+
+CG05 reach doubt
+
+CG07 Wilderland Troubador
+
+CG08 renown trample
+
+CG14 Ravenous Roots
+
+CG15 Song of Rebirth
+
+UG02 flash propaganda
+
+UG03 valiant seeker
+
+UG04 lore lover
+
+UG06 alliance seeker
+
+UG07 Memory
+
+UG10 doubt bite
+
+UG11 Invocation of Memory
+
+UG12 x lore
+
+UG13 invoke
+
+UM01 scry grow
+
+UM02 control topend
+
+UM03 Prognostic Frog
+
+UM04 Deepwell Infiltrator
+
+UM07 attack propaganda
+
+UM06 Spectratog
+
+UM08 Censured Cryptid
+
+UM12 Serpentine Sculptor
+
+UM11 Starlit Researcher
+cost: {2}{WB} => {1}{WB}
+pt: 2/3 => 2/2
+
+UM13 permanent prowess
+
+UM14 Farsight Flameshaper
+
+UM15 enchantment recursion
+
+UM18 likes small
+rules_text: Whenever this creature attacks, creatures you control with base power 2 or less gain first strike until end of turn. => At the beginning of combat on your turn, target creature you control with base power 2 or less gains haste and lifelink until end of turn.
+pt: 3/4 => 2/4
+
+UM19 defender seeker
+
+UM20 long game seeker
+
+CA01 etb scry
+
+CA02 Inspiring Effigy
+cost: {5} => {4}
+rules_text: Vigilance, reach
+When this creature enters, create a Propaganda token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i] => Vigilance, reach
+Renown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+pt: 3/5 => 3/3
+
+CA04 seek removal
+
+UA01 etb shard
+
+UA02 Invocation of Modernity
+
+UG15 bargain disenchant
+
+UA03 Moonstone Orb
+
+UL01 Sanctum of the Watcher
+
+Z_Archetypes
+
+Z_Common Keyword Distribution
+
+CL01 Solitary Lighthouse
+
+CL02 Shadowy Office
+
+CL03 Rowdy Tavern
+
+CL04 Postered Alley
+
+CL05 Bustling Forum
+
+CL06 Starlit Observatory
+
+CL07 Horologist's Workshop
+
+CL08 Cryptic Catacomb
+
+CL09 Grand Stage
+
+CL10 Invoker's Sanctuary
+
+CA05 Favorable Fortune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a Treasure token.
+Draw a card.
+III — [i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token.
+Draw a card.
+[i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a Treasure token.
+Draw a card.
+III — [i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token.
+Draw a card.
+[i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets
+
+The Inevitable
+
+CU13 tap aura
+
+CW05 Unflappable Conductor
+
+CW10 Pampered Patron
+
+CU11 prowess looter
+
+CB04 Sinister Cynic
+
+CB07 Wicked Lurker
+
+CB09 Looming Omen
+
+CB11 Gorgon's Touch
+
+CB14 Murder
+
+CB13 Disarming Development
+
+CB15 Sanctify in Ashes
+
+CR01 Intrepid Newsie
+
+CR09 Fated Fighter
+
+CR10 Shock
+
+CR13 Flip the Table
+
+CR14 Show of Force
+
+CG02 Whisperwood Storyteller
+
+CG06 vigi seeker
+
+CG10 trample cycler
+
+CG12 plummet propaganda
+
+CU03 Persistent Paparazzo
+type: Creature => Creature — Human Citizen
+
+Hero
+
+Incarnation
+
+Sculpture
+
+Treasure
+
+Propaganda
+
+Avatar
+
+UW12 Invocation of Grace
+
+CW14 endorse indestructible
+
+UW11 Idolize
+
+UB09 second life
+
+CG13 endorse trample
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CW02 Surveillance Pigeon added.
