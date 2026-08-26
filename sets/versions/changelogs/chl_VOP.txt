@@ -1,4 +1,498 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+UW03 first strike trick added.
+UW10 flying topend added.
+CU07 Wizened Ornithomancer added.
+RU04 Chronoblast added.
+UU08 Deepwell Seeker added.
+UU02 Fateweaver's Apprentice added.
+CB08 Charming Haruspex added.
+UB12 Invoker's Rites added.
+UR01 Enthusiasm added.
+UR05 Pulpit Bully added.
+UR07 ping on small added.
+UR11 Invocation of Enthusiasm added.
+UR12 Roll the Bones added.
+UG01 Plucky Protagonist added.
+UG13 endorse vigilance added.
+CA01 Prismatic Thopter added.
+CA04 Horologist's Lens added.
+UA01 Noble Venture added.
+UL02 Phantom Hourglass added.
+UB15 Ruinbringer's Blade added.
+CA06 Taking the Auspices added.
+RW03 Day of Judgment added.
+RW04 Starhall Augur added.
+RU03 Obsessive Numerologist added.
+CU14 top/bottom+scry added.
+RU05 Cele, Dubious Dealer added.
+RM06 Vzhs, Brutal Barterer added.
+RB02 Fated Omenseeker added.
+RB04 gorgon lord added.
+RB05 saboteur reanimate added.
+RB06 Seek the End added.
+RR04 Wishbone added.
+RR05 endorse double damage added.
+RG03 proliferate saga added.
+RG04 Speaker of Memory added.
+RG05 endorse enchantments added.
+RM04 sneak added.
+RB01 Devil's Drone added.
+RM12 Figure of Notoriety added.
+RM20 endorse avatar added.
+CG06 Patient Tea-Reader added.
+RU02 Double Time added.
+Bird added.
+
+CU07 fly + loot removed.
+CU14 Tumble Through Time removed.
+UU02 Deepwell Seeker removed.
+CB08 send to death removed.
+UB12 Seek the Beyond removed.
+UR05 hasty bargain removed.
+UR07 Rage removed.
+UR11 Invocation of Rage removed.
+UG13 invoke removed.
+CA01 etb scry removed.
+CA04 seek removal removed.
+CA06 Noble Venture removed.
+UA01 etb shard removed.
+RU02 clone saga removed.
+RB01 Vzhs, Brutal Barterer removed.
+RM21 Countdown FLAG removed.
+CG06 vigi seeker removed.
+
+CW04 Peregrine Guardian
+pt: 2/2 => 2/1
+
+UW04 Lifepath Seeker
+cost: {1}{W} => {2}{W}
+pt: 2/2 => 2/3
+
+UW05 lore lover
+
+UW06 enchantment recursion
+
+UW07 small recursion
+
+UW08 grow scry
+
+UW09 Grace
+rules_text: Lifelink
+{W}, Tap an untapped creature you control: Put a +1/+1 counter on that creature. Activate only as a sorcery. => Lifelink
+{W}, Tap another untapped creature you control: Put a +1/+1 counter on that creature. Activate only as a sorcery.
+
+UW13 Storied Strike
+
+CU01 Waterwhip Duelist
+
+CU02 Skulking Saboteur
+
+CU04 flying seeker
+
+CU05 Wandering Dreamer
+rules_text: Whenever you cast a noncreature spell, you may have this creature's base power and toughness become 4/2 until end of turn. => Whenever you cast a noncreature spell, scry 1, then you may have this creature's base power and toughness become 4/2 until end of turn. This ability triggers only once each turn.
+
+CU06 Stoic Ravenspeaker
+
+CU08 ward cycler
+
+CU09 endorse flying
+rules_text: Endorse {U} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature gets +0/+2 and has flying. => Endorse {U} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature gets +0/+2 and has flying.
+
+CU10 That's Not What Happened
+
+CU12 Visionary's Council
+
+CU15 Song of Tides
+
+UU01 Impish Astrologer
+
+UU03 flash flyer
+
+UU04 Skittish Scrier
+
+UU05 Reclusive Runereader
+rules_text: Whenever an Avatar or Incarnation you control enters, draw a card. => When this creature enters, seek the end. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+Whenever an Avatar or Incarnation you control enters, draw a card.
+
+UU06 Precision
+
+UU07 big finisher
+
+UU09 Invocation of Precision
+
+UU10 Brainstorm
+
+UU11 Peer Through Time
+rules_text: Endorse {U} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+Whenever enchanted creature deals combat damage to a player, draw a card. => Endorse {U} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Whenever enchanted creature deals combat damage to a player, draw a card.
+
+UU12 Early Retirement
+
+CB01 Marked Monument
+
+CB02 Cheerless Reaper
+
+CB03 Grim Apostle
+
+CB05 Scheming Revolutionary
+
+CB06 Silkblade Assassin
+
+CB12 Song of Dread
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+You lose 2 life.
+[i]Life feels different if you know when it ends.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+You lose 2 life.
+[i]Never look too far into the future. You won't like what you see.[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+You lose 2 life.
+[i]Life feels different if you know when it ends.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+You lose 2 life.
+[i]Never look too far into the future. You won't like what you see.[/i]
+
+UB01 Death's Disciple
+
+UB02 Opposition Researcher
+
+UB04 Infamous Guy
+
+UB05 Slithering Insurgent
+
+UB06 Power
+
+UB07 Preacher of Symmetry
+
+UB03 enchant in gy
+
+UB10 Invocation of Power
+
+UB11 bargain reanimate
+
+CR03 small unblockable
+
+CR02 etb statue
+rules_text: When this creature enters, create a 1/1 colorless Statue artifact creature token. => When this creature enters, create a 1/1 colorless Sculpture artifact creature token.
+
+CR04 Notorious Pugilist
+
+CR05 Fiery Insurgent
+
+CR06 pinger
+
+CR07 prowess trample
+
+CR08 Genial Gladiator
+
+CR11 Feather Technique
+rules_text: Endorse {1}{R} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+When this enchantment enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0. => Endorse {1}{R} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+When this enchantment enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0.
+
+CR12 Song of Stories
+
+CR15 Rabblerousing Runt
+
+UR02 Prideful Soloist
+
+UR06 aura recursion??
+
+UR08 Battlesong Berserker
+
+UR10 Bribery Scheme
+
+UR13 Fan the Flames
+
+CG01 Sprouting Serpent
+
+CG03 Satyr Rootspeaker
+
+CG04 Waterwhip Seeker
+
+CG05 reach doubt
+
+CG07 Wilderland Troubador
+
+CG08 renown trample
+
+CG09 Symbiotic Statue
+
+CG11 Smear Campaign
+
+CG14 Ravenous Roots
+
+CG15 Song of Rebirth
+
+UG02 flash propaganda
+
+UG03 valiant seeker
+
+UG04 lore lover
+
+UG06 alliance seeker
+
+UG07 Memory
+
+UG10 doubt bite
+
+UG11 Invocation of Memory
+
+UG12 x lore
+
+UG14 ferocious draw
+
+UM01 scry grow
+
+UM02 control topend
+
+UM03 Prognostic Frog
+
+UM04 Deepwell Infiltrator
+
+UM07 attack propaganda
+
+UM05 Hired Henchman
+
+UM06 Spectratog
+
+UM08 Censured Cryptid
+
+UM09 likes counters
+
+UM10 grants counters
+
+UM12 Serpentine Sculptor
+
+UM11 Starlit Researcher
+
+UM13 permanent prowess
+
+UM14 Farsight Flameshaper
+
+UM15 enchantment recursion
+
+UM16 Chimeric Killer
+
+UM17 first stike granter
+
+UM18 likes small
+
+UM19 defender seeker
+
+UM20 long game seeker
+
+CA02 Inspiring Effigy
+
+CA02 Automated Archivist
+
+UA02 Invocation of Modernity
+
+UG15 bargain disenchant
+
+UA03 Moonstone Orb
+
+UL01 Sanctum of the Watcher
+
+RW01 Indecipherable Mysteries
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile target creature until this Saga leaves the battlefield.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature until this Saga leaves the battlefield.
+​
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile target creature until this Saga leaves the battlefield.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature until this Saga leaves the battlefield.
+​
+​
+
+RW02 Aurora, Calamity of Light
+
+RU01 Roil, Calamity of Tides
+
+RB03 Marrow, Calamity of Bones
+
+RG01 Quake, Calamity of Earth
+
+RM01 Insight
+
+Z_Archetypes
+
+Z_Common Keyword Distribution
+
+RM03 Dominance
+
+RM05 Commitment
+rules_text: Whenever a nontoken creature an opponent controls dies, return it to the battlefield under your control. It gains haste and “At the beginning of your end step, sacrifice this creature. You lose life equal to its mana value.” => Each creature card in your graveyard has unearth {1}{B}{R}. [i]({1}{B}{R}: Return the card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]
+
+RM07 Kinship
+
+RM09 Narrative
+
+RM11 Ambition
+
+RM13 Ebullience
+
+RM15 Cultivation
+
+RM17 Spectacle
+rules_text: Each creature spell you cast with power 2 or less has dash. Its dash cost is equal to its mana cost. [i](You may choose to cast that spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)[/i] => The first creature spell you cast with power 2 or less each turn has dash. Its dash cost is equal to its mana cost. [i](You may choose to cast that spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)[/i]
+
+RM19 Abundance
+
+CL01 Solitary Lighthouse
+
+CL02 Shadowy Office
+
+CL03 Rowdy Tavern
+
+CL04 Postered Alley
+
+CL05 Bustling Forum
+
+CL06 Starlit Observatory
+
+CL07 Horologist's Workshop
+
+CL08 Cryptic Catacomb
+
+CL09 Grand Stage
+
+CL10 Invoker's Sanctuary
+
+CA05 Favorable Fortune
+
+The Inevitable
+
+CU13 tap aura
+
+CW05 Unflappable Conductor
+
+CW10 Pampered Patron
+
+CU11 prowess looter
+
+CB04 Sinister Cynic
+
+CB07 Wicked Lurker
+
+CB09 Looming Omen
+
+CB10 Deadly Deal
+
+CB11 Gorgon's Touch
+rules_text: Endorse {B} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature has deathtouch. => Endorse {B} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature has deathtouch.
+
+CB14 Murder
+
+CB13 Disarming Development
+
+CB15 Sanctify in Ashes
+
+CR01 Intrepid Newsie
+
+CR09 Fated Fighter
+
+CR10 Shock
+
+CR13 Flip the Table
+
+CR14 Show of Force
+
+CG02 Whisperwood Storyteller
+
+CG10 trample cycler
+
+CG12 plummet propaganda
+
+CU03 Persistent Paparazzo
+
+Hero
+
+Incarnation
+
+Sculpture
+
+Treasure
+
+Propaganda
+
+Avatar
+
+UW12 Invocation of Grace
+
+CW14 endorse indestructible
+rules_text: Endorse {1}{W} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+When this enchantment enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature gets +1/+1. => Endorse {1}{W} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+When this enchantment enters, enchanted creature gains indestructible until end of turn.
+Enchanted creature gets +1/+1.
+
+UW11 Idolize
+
+UB09 second life
+rules_text: Endorse {1}{B} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature gets +1/+0 and has “When this creature dies, return it to the battlefield tapped under its owner's control.” => Endorse {1}{B} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature gets +1/+0 and has “When this creature dies, return it to the battlefield tapped under its owner's control.”
+
+UR09 Dragon's Tongue
+rules_text: Endorse {R} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature has “{R}: This creature gets +1/+0 until end of turn.” => Endorse {R} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature has “{R}: This creature gets +1/+0 until end of turn.”
+
+CG13 endorse trample
+rules_text: Endorse {1}{G} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn. You may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature gets +3/+3 and has trample. => Endorse {1}{G} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature gets +3/+3 and has trample.
+
+RG02 valiant doubler
+
+RR02 Cinder, Calamity of Ash
+
+RR03 Cinder's Inferno
+
+UR03 Flashy Fencer
+
+UR04 Lightning Dancer
+type: Creature — Human Warrior => Creature — Human Performer
+rules_text: Whenever this creature becomes the target of a spell or ability you control for the first time each turn, it gains double strike until end of turn. => Prowess
+Whenever this creature attacks, if it has power is 4 or greater, it gains double strike until end of turn.
+pt: 3/2 => 2/2
+
+
+VERSION 3 CHANGELOG
 ====================
 
 UW04 Lifepath Seeker added.
