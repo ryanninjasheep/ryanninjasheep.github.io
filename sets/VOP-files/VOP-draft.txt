@@ -5,19 +5,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/U}",
 			"type": "Artifact Creature — Bird Construct",
-			"collector_number": "188",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/0.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/0.jpg"
 			}
 		},
 		{
-			"name": "CW01 Perpetual Motion Machine",
+			"name": "CW01 move counters",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Artifact Creature — Sculpture",
+			"type": "Artifact Creature",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/1.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/1.jpg"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Elf Rogue",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/2.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/2.jpg"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/3.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/3.jpg"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}",
 			"type": "Creature",
-			"collector_number": "189",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/4.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/4.jpg"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Angel Artificer",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/5.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/5.jpg"
 			}
 		},
 		{
@@ -67,17 +67,17 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/6.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/6.jpg"
 			}
 		},
 		{
-			"name": "CW09 Squad Rallier",
+			"name": "CW09 valiant grow",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/7.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/7.jpg"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Bird",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/8.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/8.jpg"
 			}
 		},
 		{
@@ -97,17 +97,17 @@
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/9.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/9.jpg"
 			}
 		},
 		{
-			"name": "CW13 Subpoena",
+			"name": "CW13 Banishing Light",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/10.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/10.jpg"
 			}
 		},
 		{
@@ -117,47 +117,47 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/11.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/11.jpg"
 			}
 		},
 		{
-			"name": "UW01 aggressive 1-drop",
+			"name": "UW01 scry renown",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/12.png"
-			}
-		},
-		{
-			"name": "UW02 discount enchantment",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Creature",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/13.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/12.jpg"
 			}
 		},
 		{
-			"name": "UW03 first strike trick",
+			"name": "UW02 Skybound Astrologer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/14.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/13.jpg"
 			}
 		},
 		{
-			"name": "UW04 Lifepath Seeker",
+			"name": "UW03 Frostwind Lieutenant",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Monk",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/15.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/14.jpg"
+			}
+		},
+		{
+			"name": "UW08 Lifepath Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/15.jpg"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/16.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/16.jpg"
 			}
 		},
 		{
@@ -175,29 +175,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature",
-			"collector_number": "27",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/17.png"
-			}
-		},
-		{
-			"name": "UW07 small recursion",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Creature",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/18.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/17.jpg"
 			}
 		},
 		{
-			"name": "UW08 grow scry",
+			"name": "UW07 Blessed Summoner",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature",
+			"type": "Creature — Human Cleric Soldier",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/19.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/18.jpg"
+			}
+		},
+		{
+			"name": "UW04 grow scry",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/19.jpg"
 			}
 		},
 		{
@@ -205,19 +205,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/20.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/20.jpg"
 			}
 		},
 		{
-			"name": "UW10 flying topend",
+			"name": "UW10 Valiant Skyseeker",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature",
-			"collector_number": "31",
+			"type": "Creature — Human Soldier",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/21.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/21.jpg"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/22.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/22.jpg"
 			}
 		},
 		{
@@ -237,27 +237,27 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/23.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/23.jpg"
 			}
 		},
 		{
-			"name": "CU02 Skulking Saboteur",
+			"name": "CU02 Skulking Striker",
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "186",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/24.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/24.jpg"
 			}
 		},
 		{
-			"name": "CU04 flying seeker",
+			"name": "CU04 Promethean Lightseeker",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature",
+			"type": "Creature — Human Scout",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/25.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/25.jpg"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/26.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/26.jpg"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/27.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/27.jpg"
 			}
 		},
 		{
@@ -287,27 +287,27 @@
 			"type": "Creature",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/28.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/28.jpg"
 			}
 		},
 		{
-			"name": "CU08 ward cycler",
+			"name": "CU08 Slithering Lurker",
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature",
+			"type": "Creature — Leviathan",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/29.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/29.jpg"
 			}
 		},
 		{
-			"name": "CU09 endorse flying",
+			"name": "CU09 Wind's Grace",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/30.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/30.jpg"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/31.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/31.jpg"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/32.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/32.jpg"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/33.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/33.jpg"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/34.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/34.jpg"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Faerie",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/35.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/35.jpg"
 			}
 		},
 		{
@@ -367,27 +367,27 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/36.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/36.jpg"
 			}
 		},
 		{
-			"name": "UU03 flash flyer",
+			"name": "UU03 splendor flyer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/37.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/37.jpg"
 			}
 		},
 		{
-			"name": "UU04 Skittish Scrier",
+			"name": "UU04 Suspicious Scrier",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/38.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/38.jpg"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Creature — Dwarf Advisor",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/39.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/39.jpg"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Enchantment Creature — Incarnation",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/40.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/40.jpg"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/41.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/41.jpg"
 			}
 		},
 		{
@@ -427,17 +427,17 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/42.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/42.jpg"
 			}
 		},
 		{
 			"name": "UU09 Invocation of Precision",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/43.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/43.jpg"
 			}
 		},
 		{
@@ -447,47 +447,47 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/44.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/44.jpg"
 			}
 		},
 		{
-			"name": "UU11 Peer Through Time",
+			"name": "UU11 Keep Down",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/45.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/45.jpg"
 			}
 		},
 		{
-			"name": "UU12 Early Retirement",
+			"name": "UU12 Sublimate",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/46.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/46.jpg"
 			}
 		},
 		{
 			"name": "CB01 Marked Monument",
 			"rarity": "common",
 			"mana_cost": "{B/R}",
-			"type": "Artifact Creature — Sculpture",
-			"collector_number": "180",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/47.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/47.jpg"
 			}
 		},
 		{
-			"name": "CB02 Cheerless Reaper",
+			"name": "CB02 Maddening Fabulist",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Gorgon Warlock",
+			"type": "Creature — Human Bard",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/48.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/48.jpg"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/49.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/49.jpg"
 			}
 		},
 		{
@@ -507,17 +507,17 @@
 			"type": "Creature — Human Rebel",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/50.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/50.jpg"
 			}
 		},
 		{
 			"name": "CB06 Silkblade Assassin",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Aetherborn Assassin",
+			"type": "Creature — Elf Assassin",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/51.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/51.jpg"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/52.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/52.jpg"
 			}
 		},
 		{
@@ -535,19 +535,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton Cleric",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/53.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/53.jpg"
 			}
 		},
 		{
-			"name": "UB02 Opposition Researcher",
+			"name": "UB02 Ravishing Rogue",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature",
-			"collector_number": "85",
+			"type": "Creature — Human Pirate",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/54.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/54.jpg"
 			}
 		},
 		{
@@ -557,27 +557,27 @@
 			"type": "Creature",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/55.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/55.jpg"
 			}
 		},
 		{
-			"name": "UB04 Infamous Guy",
+			"name": "UB04 Conniving Truthtwister",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature",
+			"type": "Creature — Aetherborn Rogue",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/56.jpg"
+			}
+		},
+		{
+			"name": "UB05 Toxin Purveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Aetherborn Rogue",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/56.png"
-			}
-		},
-		{
-			"name": "UB05 Slithering Insurgent",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Gorgon Advisor",
-			"collector_number": "88",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/57.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/57.jpg"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "89",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/58.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/58.jpg"
 			}
 		},
 		{
@@ -595,19 +595,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/59.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/59.jpg"
 			}
 		},
 		{
-			"name": "UB03 enchant in gy",
+			"name": "UB03 Harbinger of Doubt",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/60.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/60.jpg"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/61.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/61.jpg"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/62.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/62.jpg"
 			}
 		},
 		{
@@ -635,29 +635,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/63.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/63.jpg"
 			}
 		},
 		{
-			"name": "CR03 small unblockable",
+			"name": "CR01 Harried Courier",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/64.jpg"
+			}
+		},
+		{
+			"name": "CR02 ferocious",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "97",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/64.png"
-			}
-		},
-		{
-			"name": "CR02 etb statue",
-			"rarity": "common",
-			"mana_cost": "{2}{R/W}",
 			"type": "Creature",
-			"collector_number": "184",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/65.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/65.jpg"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/G}",
 			"type": "Creature — Giant Barbarian",
-			"collector_number": "185",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/66.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/66.jpg"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Sorcerer",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/67.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/67.jpg"
 			}
 		},
 		{
@@ -685,19 +685,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/68.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/68.jpg"
 			}
 		},
 		{
-			"name": "CR07 prowess trample",
+			"name": "CR07 Frostwind Pummeller",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature",
-			"collector_number": "100",
+			"type": "Creature — Dwarf Sorcerer",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/69.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/69.jpg"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Barbarian",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/70.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/70.jpg"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/71.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/71.jpg"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/72.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/72.jpg"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Goblin Construct",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/73.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/73.jpg"
 			}
 		},
 		{
@@ -747,67 +747,57 @@
 			"type": "Enchantment Creature — Incarnation",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/74.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/74.jpg"
 			}
 		},
 		{
-			"name": "UR02 Prideful Soloist",
+			"name": "UR02 Gregarious Host",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Goblin Bard",
+			"type": "Creature — Goblin Performer",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/75.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/75.jpg"
 			}
 		},
 		{
-			"name": "UR05 Pulpit Bully",
+			"name": "UR05 Blazing Scourgestomper",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature",
+			"type": "Creature — Aetherborn Rebel",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/76.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/76.jpg"
 			}
 		},
 		{
-			"name": "UR06 aura recursion??",
+			"name": "UR06 Sparking Hearthborn",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature",
+			"type": "Creature — Elemental",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/77.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/77.jpg"
 			}
 		},
 		{
-			"name": "UR07 ping on small",
+			"name": "UR07 splendor pump",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/78.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/78.jpg"
 			}
 		},
 		{
-			"name": "UR08 Battlesong Berserker",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Berserker",
-			"collector_number": "120",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/79.png"
-			}
-		},
-		{
-			"name": "UR10 Bribery Scheme",
+			"name": "UR10 tktk goatnap",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/80.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/79.jpg"
 			}
 		},
 		{
@@ -815,9 +805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/81.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/80.jpg"
 			}
 		},
 		{
@@ -825,19 +815,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/82.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/81.jpg"
 			}
 		},
 		{
 			"name": "UR13 Fan the Flames",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment",
-			"collector_number": "125",
+			"type": "Enchantment — Rumor",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/83.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/82.jpg"
 			}
 		},
 		{
@@ -845,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Snake",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/84.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/83.jpg"
 			}
 		},
 		{
@@ -855,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Satyr Druid",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/85.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/84.jpg"
 			}
 		},
 		{
@@ -865,19 +855,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G/U}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "182",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/86.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/85.jpg"
 			}
 		},
 		{
-			"name": "CG05 reach doubt",
+			"name": "CG05 Moon-Blessed Marksman",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature",
-			"collector_number": "129",
+			"type": "Creature — Elf Archer",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/87.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/86.jpg"
 			}
 		},
 		{
@@ -885,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G/W}",
 			"type": "Creature — Human Bard",
-			"collector_number": "183",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/88.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/87.jpg"
 			}
 		},
 		{
@@ -895,29 +885,29 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/89.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/88.jpg"
 			}
 		},
 		{
 			"name": "CG09 Symbiotic Statue",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Artifact Creature — Sculpture",
-			"collector_number": "132",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/90.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/89.jpg"
 			}
 		},
 		{
-			"name": "CG11 Smear Campaign",
+			"name": "CG11 fight rumor",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Propaganda",
-			"collector_number": "134",
+			"type": "Enchantment — Rumor",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/91.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/90.jpg"
 			}
 		},
 		{
@@ -925,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/92.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/91.jpg"
 			}
 		},
 		{
@@ -935,39 +925,39 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/93.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/92.jpg"
 			}
 		},
 		{
-			"name": "UG01 Plucky Protagonist",
+			"name": "UG01 avatarify",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "144",
+			"type": "Creature",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/94.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/93.jpg"
 			}
 		},
 		{
-			"name": "UG02 flash propaganda",
+			"name": "UG02 flash rumor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/95.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/94.jpg"
 			}
 		},
 		{
-			"name": "UG03 valiant seeker",
+			"name": "UG03 alliance seeker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/96.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/95.jpg"
 			}
 		},
 		{
@@ -975,19 +965,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/97.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/96.jpg"
 			}
 		},
 		{
-			"name": "UG06 alliance seeker",
+			"name": "UG05 renown seeker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/98.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/97.jpg"
 			}
 		},
 		{
@@ -995,9 +985,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment Creature — Incarnation",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/98.jpg"
+			}
+		},
+		{
+			"name": "UG09 behold saga",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/99.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/99.jpg"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Instant",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/100.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/100.jpg"
 			}
 		},
 		{
@@ -1017,27 +1017,17 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/101.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/101.jpg"
 			}
 		},
 		{
-			"name": "UG12 x lore",
-			"rarity": "uncommon",
-			"mana_cost": "{X}{G}",
-			"type": "Sorcery",
-			"collector_number": "152",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/102.png"
-			}
-		},
-		{
-			"name": "UG13 endorse vigilance",
+			"name": "UG13 herald vigilance",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "153",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/103.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/102.jpg"
 			}
 		},
 		{
@@ -1045,29 +1035,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/104.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/103.jpg"
 			}
 		},
 		{
-			"name": "UM01 scry grow",
+			"name": "UM01 scry attack",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W/U}",
 			"type": "Creature",
-			"collector_number": "190",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/105.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/104.jpg"
 			}
 		},
 		{
-			"name": "UM02 control topend",
+			"name": "UM02 Omen of Hope",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{U}",
-			"type": "Creature",
-			"collector_number": "170",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Hippogriff",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/106.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/105.jpg"
 			}
 		},
 		{
@@ -1075,29 +1065,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Frog",
-			"collector_number": "191",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/107.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/106.jpg"
 			}
 		},
 		{
 			"name": "UM04 Deepwell Infiltrator",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Shapeshifter Rogue",
-			"collector_number": "171",
+			"type": "Creature — Shapeshifter Assassin",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/108.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/107.jpg"
 			}
 		},
 		{
-			"name": "UM07 attack propaganda",
+			"name": "UM07 Censured Cryptid",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R/G}",
-			"type": "Creature",
-			"collector_number": "193",
+			"type": "Creature — Beast",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/109.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/108.jpg"
 			}
 		},
 		{
@@ -1105,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/R}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "192",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/110.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/109.jpg"
 			}
 		},
 		{
@@ -1115,19 +1105,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Atog",
-			"collector_number": "172",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/111.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/110.jpg"
 			}
 		},
 		{
-			"name": "UM08 Censured Cryptid",
+			"name": "UM08 Brash Accelerationist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Beast",
-			"collector_number": "173",
+			"type": "Creature — Human Rebel",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/112.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/111.jpg"
 			}
 		},
 		{
@@ -1135,29 +1125,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G/W}",
 			"type": "Creature",
-			"collector_number": "194",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/113.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/112.jpg"
 			}
 		},
 		{
-			"name": "UM10 grants counters",
+			"name": "UM10 grants counters FLAG",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature",
-			"collector_number": "174",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/114.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/113.jpg"
 			}
 		},
 		{
-			"name": "UM12 Serpentine Sculptor",
+			"name": "UM12 renown drain",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Gorgon Citizen",
-			"collector_number": "175",
+			"type": "Creature",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/115.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/114.jpg"
 			}
 		},
 		{
@@ -1165,19 +1155,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/B}",
 			"type": "Creature — Insect Scientist",
-			"collector_number": "195",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/116.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/115.jpg"
 			}
 		},
 		{
-			"name": "UM13 permanent prowess",
+			"name": "UM13 permanent splendor",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U/R}",
+			"mana_cost": "{3}{U/R}",
 			"type": "Creature",
-			"collector_number": "196",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/117.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/116.jpg"
 			}
 		},
 		{
@@ -1185,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "176",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/118.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/117.jpg"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature",
-			"collector_number": "197",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/119.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/118.jpg"
 			}
 		},
 		{
@@ -1205,29 +1195,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "177",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/120.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/119.jpg"
 			}
 		},
 		{
-			"name": "UM17 first stike granter",
+			"name": "UM17 Plucky Protagonist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R/W}",
-			"type": "Creature",
-			"collector_number": "198",
+			"type": "Creature — Human Citizen",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/121.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/120.jpg"
 			}
 		},
 		{
-			"name": "UM18 likes small",
+			"name": "UM18 likes auras",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Creature",
-			"collector_number": "178",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/122.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/121.jpg"
 			}
 		},
 		{
@@ -1235,19 +1225,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}",
 			"type": "Creature",
-			"collector_number": "199",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/123.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/122.jpg"
 			}
 		},
 		{
-			"name": "UM20 long game seeker",
+			"name": "UM20 Bishop of Calamity",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature",
-			"collector_number": "179",
+			"type": "Creature — Human Cleric",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/124.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/123.jpg"
 			}
 		},
 		{
@@ -1255,19 +1245,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "200",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/125.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/124.jpg"
 			}
 		},
 		{
 			"name": "CA02 Inspiring Effigy",
 			"rarity": "common",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Sculpture",
-			"collector_number": "202",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/126.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/125.jpg"
 			}
 		},
 		{
@@ -1275,29 +1265,29 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "201",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/127.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/126.jpg"
 			}
 		},
 		{
-			"name": "CA04 Horologist's Lens",
+			"name": "CA04 Chronoscope",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "203",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/128.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/127.jpg"
 			}
 		},
 		{
-			"name": "UA01 Noble Venture",
+			"name": "UA01 Noble Pursuit",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Enchantment — Propaganda",
+			"type": "Enchantment — Rumor",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/129.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/128.jpg"
 			}
 		},
 		{
@@ -1305,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "205",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/130.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/129.jpg"
 			}
 		},
 		{
@@ -1317,7 +1307,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/131.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/130.jpg"
 			}
 		},
 		{
@@ -1325,19 +1315,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/132.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/131.jpg"
 			}
 		},
 		{
-			"name": "UG15 bargain disenchant",
+			"name": "UG15 Scornful Capnomancer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature",
-			"collector_number": "155",
+			"type": "Creature — Aetherborn Sorcerer",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/133.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/132.jpg"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "204",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/134.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/133.jpg"
 			}
 		},
 		{
@@ -1355,19 +1345,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "216",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/135.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/134.jpg"
 			}
 		},
 		{
-			"name": "CA06 Taking the Auspices",
+			"name": "CA06 Auspicious Occasion",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Enchantment — Propaganda",
+			"type": "Enchantment — Rumor",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/136.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/135.jpg"
 			}
 		},
 		{
@@ -1377,7 +1367,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/137.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/136.jpg"
 			}
 		},
 		{
@@ -1387,17 +1377,17 @@
 			"type": "Legendary Creature — Angel Avatar",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/138.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/137.jpg"
 			}
 		},
 		{
-			"name": "RW03 Day of Judgment",
+			"name": "RW03 Eider's Prophecy",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/139.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/138.jpg"
 			}
 		},
 		{
@@ -1407,7 +1397,17 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/140.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/139.jpg"
+			}
+		},
+		{
+			"name": "RW05 Chara, Beacon of Hope",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Angel Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/140.jpg"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Legendary Creature — Elemental Avatar",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/141.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/141.jpg"
 			}
 		},
 		{
@@ -1427,17 +1427,17 @@
 			"type": "Creature — Human Advisor",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/142.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/142.jpg"
 			}
 		},
 		{
-			"name": "CU14 top/bottom+scry",
+			"name": "CU14 Glittering Refraction",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/143.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/143.jpg"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Legendary Creature — Faerie Wizard",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/144.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/144.jpg"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Gorgon Warlock",
-			"collector_number": "160",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/145.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/145.jpg"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/146.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/146.jpg"
 			}
 		},
 		{
@@ -1475,29 +1475,29 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Skeleton Avatar",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/147.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/147.jpg"
 			}
 		},
 		{
-			"name": "RB04 gorgon lord",
+			"name": "RB04 doubt sac",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Gorgon Advisor",
-			"collector_number": "81",
+			"type": "Creature",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/148.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/148.jpg"
 			}
 		},
 		{
-			"name": "RB05 saboteur reanimate",
+			"name": "RB05 Callous Invoker",
 			"rarity": "rare",
-			"mana_cost": "?{B}",
-			"type": "Creature",
-			"collector_number": "82",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Sorcerer",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/149.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/149.jpg"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Saga",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/150.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/150.jpg"
 			}
 		},
 		{
@@ -1515,19 +1515,29 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/151.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/151.jpg"
 			}
 		},
 		{
-			"name": "RR05 endorse double damage",
+			"name": "RR05 herald double damage",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Aura",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/152.jpg"
+			}
+		},
+		{
+			"name": "RR06 mobilize auras",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Aetherborn Soldier",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/152.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/153.jpg"
 			}
 		},
 		{
@@ -1535,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Wurm Avatar",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/153.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/154.jpg"
 			}
 		},
 		{
@@ -1545,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/154.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/155.jpg"
 			}
 		},
 		{
@@ -1555,19 +1565,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Bard",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/155.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/156.jpg"
 			}
 		},
 		{
-			"name": "RG05 endorse enchantments",
+			"name": "RG05 herald enchantments",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/156.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/157.jpg"
 			}
 		},
 		{
@@ -1575,9 +1585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/157.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/158.jpg"
 			}
 		},
 		{
@@ -1585,9 +1595,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/158.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/159.jpg"
 			}
 		},
 		{
@@ -1595,9 +1605,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/159.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/160.jpg"
 			}
 		},
 		{
@@ -1605,9 +1615,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "217",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/160.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/161.jpg"
 			}
 		},
 		{
@@ -1615,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "218",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/161.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/162.jpg"
 			}
 		},
 		{
@@ -1625,9 +1635,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "219",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/162.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/163.jpg"
 			}
 		},
 		{
@@ -1635,9 +1645,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "220",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/163.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/164.jpg"
 			}
 		},
 		{
@@ -1645,19 +1655,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "221",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/164.png"
-			}
-		},
-		{
-			"name": "RM03 Dominance",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "157",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/165.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/165.jpg"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "158",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/166.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/166.jpg"
 			}
 		},
 		{
@@ -1675,19 +1675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "159",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/167.png"
-			}
-		},
-		{
-			"name": "RB01 Devil's Drone",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Insect",
-			"collector_number": "78",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/168.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/167.jpg"
 			}
 		},
 		{
@@ -1695,9 +1685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "161",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/169.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/168.jpg"
 			}
 		},
 		{
@@ -1705,9 +1695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "162",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/170.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/169.jpg"
 			}
 		},
 		{
@@ -1715,19 +1705,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "163",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/171.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/170.jpg"
 			}
 		},
 		{
 			"name": "RM12 Figure of Notoriety",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Creature — Angel Demon",
-			"collector_number": "164",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/172.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/171.jpg"
 			}
 		},
 		{
@@ -1735,9 +1725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "165",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/173.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/172.jpg"
 			}
 		},
 		{
@@ -1745,39 +1735,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "166",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/174.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/173.jpg"
 			}
 		},
 		{
 			"name": "RM17 Spectacle",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}{W}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "167",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/175.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/174.jpg"
 			}
 		},
 		{
-			"name": "RM19 Abundance",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
-			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "168",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/176.png"
-			}
-		},
-		{
-			"name": "RM20 endorse avatar",
+			"name": "RM20 herald avatar",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "169",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/177.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/175.jpg"
 			}
 		},
 		{
@@ -1785,9 +1765,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "206",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/178.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/176.jpg"
 			}
 		},
 		{
@@ -1795,9 +1775,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "207",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/179.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/177.jpg"
 			}
 		},
 		{
@@ -1805,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "208",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/180.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/178.jpg"
 			}
 		},
 		{
@@ -1815,9 +1795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "209",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/181.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/179.jpg"
 			}
 		},
 		{
@@ -1825,9 +1805,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "210",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/182.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/180.jpg"
 			}
 		},
 		{
@@ -1835,9 +1815,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "211",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/183.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/181.jpg"
 			}
 		},
 		{
@@ -1845,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "212",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/184.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/182.jpg"
 			}
 		},
 		{
@@ -1855,9 +1835,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "213",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/185.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/183.jpg"
 			}
 		},
 		{
@@ -1865,9 +1845,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "214",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/186.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/184.jpg"
 			}
 		},
 		{
@@ -1875,9 +1855,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "215",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/187.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/185.jpg"
 			}
 		},
 		{
@@ -1887,7 +1867,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/188.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/186.jpg"
 			}
 		},
 		{
@@ -1895,19 +1875,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Legendary Token Enchantment — Saga",
-			"collector_number": "222",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/189.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/187.jpg"
 			}
 		},
 		{
-			"name": "CU13 tap aura",
+			"name": "CU13 Shift the Timeline",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Instant",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/190.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/188.jpg"
 			}
 		},
 		{
@@ -1917,7 +1897,7 @@
 			"type": "Creature — Human Bard",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/191.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/189.jpg"
 			}
 		},
 		{
@@ -1927,17 +1907,17 @@
 			"type": "Creature — Merfolk Noble",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/192.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/190.jpg"
 			}
 		},
 		{
-			"name": "CU11 prowess looter",
+			"name": "CU11 rummage splendor",
 			"rarity": "common",
-			"mana_cost": "{1}{U/R}",
+			"mana_cost": "{2}{U/R}",
 			"type": "Creature",
-			"collector_number": "187",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/193.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/191.jpg"
 			}
 		},
 		{
@@ -1945,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
 			"type": "Creature — Aetherborn Mercenary",
-			"collector_number": "181",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/194.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/192.jpg"
 			}
 		},
 		{
@@ -1957,17 +1937,17 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/195.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/193.jpg"
 			}
 		},
 		{
-			"name": "CB09 Looming Omen",
+			"name": "CB09 menace cycler",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Artifact Creature — Sculpture",
+			"type": "Creature",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/196.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/194.jpg"
 			}
 		},
 		{
@@ -1977,37 +1957,37 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/197.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/195.jpg"
 			}
 		},
 		{
-			"name": "CB11 Gorgon's Touch",
+			"name": "CB11 Serpent's Touch",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/198.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/196.jpg"
 			}
 		},
 		{
-			"name": "CB14 Murder",
+			"name": "CB14 murder",
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/199.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/197.jpg"
 			}
 		},
 		{
 			"name": "CB13 Disarming Development",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Propaganda",
+			"type": "Enchantment — Rumor",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/200.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/198.jpg"
 			}
 		},
 		{
@@ -2017,17 +1997,17 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/201.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/199.jpg"
 			}
 		},
 		{
-			"name": "CR01 Intrepid Newsie",
+			"name": "CR03 valiant",
 			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Creature — Human Citizen",
-			"collector_number": "96",
+			"mana_cost": "{1}{R/W}",
+			"type": "Creature",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/202.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/200.jpg"
 			}
 		},
 		{
@@ -2035,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Minoutar Berserker",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/203.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/201.jpg"
 			}
 		},
 		{
@@ -2045,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/204.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/202.jpg"
 			}
 		},
 		{
@@ -2055,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/205.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/203.jpg"
 			}
 		},
 		{
@@ -2065,9 +2045,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/206.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/204.jpg"
 			}
 		},
 		{
@@ -2075,9 +2055,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Bard",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/207.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/205.jpg"
 			}
 		},
 		{
@@ -2085,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/208.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/206.jpg"
 			}
 		},
 		{
@@ -2095,29 +2075,29 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/209.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/207.jpg"
 			}
 		},
 		{
-			"name": "CG12 plummet propaganda",
+			"name": "CG12 Make Disappear",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/210.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/208.jpg"
 			}
 		},
 		{
-			"name": "CU03 Persistent Paparazzo",
+			"name": "CU03 flash stun",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/211.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/209.jpg"
 			}
 		},
 		{
@@ -2127,7 +2107,7 @@
 			"type": "Token Creature — Hero",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/212.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/210.jpg"
 			}
 		},
 		{
@@ -2137,17 +2117,17 @@
 			"type": "Token Enchantment Creature — Incarnation",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/213.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/211.jpg"
 			}
 		},
 		{
-			"name": "Sculpture",
+			"name": "Aetherborn",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Sculpture",
+			"type": "Token Creature — Aetherborn",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/214.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/212.jpg"
 			}
 		},
 		{
@@ -2157,17 +2137,17 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/215.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/213.jpg"
 			}
 		},
 		{
-			"name": "Propaganda",
+			"name": "Rumor",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Enchantment — Propaganda",
+			"type": "Token Enchantment — Rumor",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/216.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/214.jpg"
 			}
 		},
 		{
@@ -2177,47 +2157,37 @@
 			"type": "Token Creature — Avatar",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/217.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/215.jpg"
 			}
 		},
 		{
 			"name": "UW12 Invocation of Grace",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/218.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/216.jpg"
 			}
 		},
 		{
-			"name": "CW14 endorse indestructible",
+			"name": "CW14 Mask of the Lion Dragon",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/219.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/217.jpg"
 			}
 		},
 		{
-			"name": "UW11 Idolize",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/220.png"
-			}
-		},
-		{
-			"name": "UB09 second life",
+			"name": "UB09 Death's Defiance",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/221.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/218.jpg"
 			}
 		},
 		{
@@ -2225,29 +2195,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/222.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/219.jpg"
 			}
 		},
 		{
-			"name": "CG13 endorse trample",
+			"name": "CG13 herald trample",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/223.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/220.jpg"
 			}
 		},
 		{
-			"name": "RG02 valiant doubler",
+			"name": "RG02 Scourge of Cantasia",
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Creature — Hydra",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/224.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/221.jpg"
 			}
 		},
 		{
@@ -2255,19 +2225,19 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Elemental Avatar",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/225.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/222.jpg"
 			}
 		},
 		{
-			"name": "RR03 Cinder's Inferno",
+			"name": "RR03 Rampant Rumors",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/226.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/223.jpg"
 			}
 		},
 		{
@@ -2277,17 +2247,17 @@
 			"type": "Creature — Human Performer",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/227.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/224.jpg"
 			}
 		},
 		{
-			"name": "UR04 Lightning Dancer",
+			"name": "UR04 Lightning Lasher",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Performer",
+			"type": "Creature — Human Soldier",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/228.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/225.jpg"
 			}
 		},
 		{
@@ -2297,7 +2267,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/229.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/226.jpg"
 			}
 		},
 		{
@@ -2307,262 +2277,134 @@
 			"type": "Token Creature — Bird",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/230.png"
+				"en": "https://ryanninjasheep.github.io/sets/VOP-files/img/227.jpg"
 			}
 		}
 	]
 
-[rare(1)]
-	2 RU04 Chronoblast
-	2 RW01 Indecipherable Mysteries
-	2 RW02 Aurora, Calamity of Light
-	2 RW03 Day of Judgment
-	2 RW04 Starhall Augur
-	2 RU01 Roil, Calamity of Tides
-	2 RU03 Obsessive Numerologist
-	2 RU05 Cele, Dubious Dealer
-	2 RM06 Vzhs, Brutal Barterer
-	2 RB02 Fated Omenseeker
-	2 RB03 Marrow, Calamity of Bones
-	2 RB04 gorgon lord
-	2 RB05 saboteur reanimate
-	2 RB06 Seek the End
-	2 RR04 Wishbone
-	2 RR05 endorse double damage
-	2 RG01 Quake, Calamity of Earth
-	2 RG03 proliferate saga
-	2 RG04 Speaker of Memory
-	2 RG05 endorse enchantments
-	2 RM01 Insight
-	2 RM03 Dominance
-	2 RM04 sneak
-	2 RM05 Commitment
-	2 RB01 Devil's Drone
-	2 RM07 Kinship
-	2 RM09 Narrative
-	2 RM11 Ambition
-	2 RM12 Figure of Notoriety
-	2 RM13 Ebullience
-	2 RM15 Cultivation
-	2 RM17 Spectacle
-	2 RM19 Abundance
-	2 RM20 endorse avatar
-	2 RG02 valiant doubler
-	2 RR02 Cinder, Calamity of Ash
-	2 RR03 Cinder's Inferno
-	2 RU02 Double Time
-	4 UW01 aggressive 1-drop
-	4 UW02 discount enchantment
-	4 UW03 first strike trick
-	4 UW04 Lifepath Seeker
+[uncommon(4)]
+	4 UW01 scry renown
+	4 UW02 Skybound Astrologer
+	4 UW03 Frostwind Lieutenant
+	4 UW08 Lifepath Seeker
 	4 UW05 lore lover
 	4 UW06 enchantment recursion
-	4 UW07 small recursion
-	4 UW08 grow scry
+	4 UW07 Blessed Summoner
+	4 UW04 grow scry
 	4 UW09 Grace
-	4 UW10 flying topend
+	4 UW10 Valiant Skyseeker
 	4 UW13 Storied Strike
 	4 UU01 Impish Astrologer
 	4 UU08 Deepwell Seeker
-	4 UU03 flash flyer
-	4 UU04 Skittish Scrier
+	4 UU03 splendor flyer
+	4 UU04 Suspicious Scrier
 	4 UU05 Reclusive Runereader
 	4 UU06 Precision
 	4 UU07 big finisher
 	4 UU02 Fateweaver's Apprentice
 	4 UU09 Invocation of Precision
 	4 UU10 Brainstorm
-	4 UU11 Peer Through Time
-	4 UU12 Early Retirement
+	4 UU11 Keep Down
+	4 UU12 Sublimate
 	4 UB01 Death's Disciple
-	4 UB02 Opposition Researcher
-	4 UB04 Infamous Guy
-	4 UB05 Slithering Insurgent
+	4 UB02 Ravishing Rogue
+	4 UB04 Conniving Truthtwister
+	4 UB05 Toxin Purveyor
 	4 UB06 Power
 	4 UB07 Preacher of Symmetry
-	4 UB03 enchant in gy
+	4 UB03 Harbinger of Doubt
 	4 UB10 Invocation of Power
 	4 UB11 bargain reanimate
 	4 UB12 Invoker's Rites
 	4 UR01 Enthusiasm
-	4 UR02 Prideful Soloist
-	4 UR05 Pulpit Bully
-	4 UR06 aura recursion??
-	4 UR07 ping on small
-	4 UR08 Battlesong Berserker
-	4 UR10 Bribery Scheme
+	4 UR02 Gregarious Host
+	4 UR05 Blazing Scourgestomper
+	4 UR06 Sparking Hearthborn
+	4 UR07 splendor pump
+	4 UR10 tktk goatnap
 	4 UR11 Invocation of Enthusiasm
 	4 UR12 Roll the Bones
 	4 UR13 Fan the Flames
-	4 UG01 Plucky Protagonist
-	4 UG02 flash propaganda
-	4 UG03 valiant seeker
+	4 UG01 avatarify
+	4 UG02 flash rumor
+	4 UG03 alliance seeker
 	4 UG04 lore lover
-	4 UG06 alliance seeker
+	4 UG05 renown seeker
 	4 UG07 Memory
+	4 UG09 behold saga
 	4 UG10 doubt bite
 	4 UG11 Invocation of Memory
-	4 UG12 x lore
-	4 UG13 endorse vigilance
+	4 UG13 herald vigilance
 	4 UG14 ferocious draw
-	4 UM01 scry grow
-	4 UM02 control topend
+	4 UM01 scry attack
+	4 UM02 Omen of Hope
 	4 UM03 Prognostic Frog
 	4 UM04 Deepwell Infiltrator
-	4 UM07 attack propaganda
+	4 UM07 Censured Cryptid
 	4 UM05 Hired Henchman
 	4 UM06 Spectratog
-	4 UM08 Censured Cryptid
+	4 UM08 Brash Accelerationist
 	4 UM09 likes counters
-	4 UM10 grants counters
-	4 UM12 Serpentine Sculptor
+	4 UM10 grants counters FLAG
+	4 UM12 renown drain
 	4 UM11 Starlit Researcher
-	4 UM13 permanent prowess
+	4 UM13 permanent splendor
 	4 UM14 Farsight Flameshaper
 	4 UM15 enchantment recursion
 	4 UM16 Chimeric Killer
-	4 UM17 first stike granter
-	4 UM18 likes small
+	4 UM17 Plucky Protagonist
+	4 UM18 likes auras
 	4 UM19 defender seeker
-	4 UM20 long game seeker
-	4 UA01 Noble Venture
+	4 UM20 Bishop of Calamity
+	4 UA01 Noble Pursuit
 	4 UL02 Phantom Hourglass
 	4 UA02 Invocation of Modernity
 	4 UB15 Ruinbringer's Blade
-	4 UG15 bargain disenchant
+	4 UG15 Scornful Capnomancer
 	4 UA03 Moonstone Orb
 	4 UL01 Sanctum of the Watcher
 	4 UW12 Invocation of Grace
-	4 UW11 Idolize
-	4 UB09 second life
+	4 UB09 Death's Defiance
 	4 UR09 Dragon's Tongue
 	4 UR03 Flashy Fencer
-	4 UR04 Lightning Dancer
-[uncommon(3)]
-	4 UW01 aggressive 1-drop
-	4 UW02 discount enchantment
-	4 UW03 first strike trick
-	4 UW04 Lifepath Seeker
-	4 UW05 lore lover
-	4 UW06 enchantment recursion
-	4 UW07 small recursion
-	4 UW08 grow scry
-	4 UW09 Grace
-	4 UW10 flying topend
-	4 UW13 Storied Strike
-	4 UU01 Impish Astrologer
-	4 UU08 Deepwell Seeker
-	4 UU03 flash flyer
-	4 UU04 Skittish Scrier
-	4 UU05 Reclusive Runereader
-	4 UU06 Precision
-	4 UU07 big finisher
-	4 UU02 Fateweaver's Apprentice
-	4 UU09 Invocation of Precision
-	4 UU10 Brainstorm
-	4 UU11 Peer Through Time
-	4 UU12 Early Retirement
-	4 UB01 Death's Disciple
-	4 UB02 Opposition Researcher
-	4 UB04 Infamous Guy
-	4 UB05 Slithering Insurgent
-	4 UB06 Power
-	4 UB07 Preacher of Symmetry
-	4 UB03 enchant in gy
-	4 UB10 Invocation of Power
-	4 UB11 bargain reanimate
-	4 UB12 Invoker's Rites
-	4 UR01 Enthusiasm
-	4 UR02 Prideful Soloist
-	4 UR05 Pulpit Bully
-	4 UR06 aura recursion??
-	4 UR07 ping on small
-	4 UR08 Battlesong Berserker
-	4 UR10 Bribery Scheme
-	4 UR11 Invocation of Enthusiasm
-	4 UR12 Roll the Bones
-	4 UR13 Fan the Flames
-	4 UG01 Plucky Protagonist
-	4 UG02 flash propaganda
-	4 UG03 valiant seeker
-	4 UG04 lore lover
-	4 UG06 alliance seeker
-	4 UG07 Memory
-	4 UG10 doubt bite
-	4 UG11 Invocation of Memory
-	4 UG12 x lore
-	4 UG13 endorse vigilance
-	4 UG14 ferocious draw
-	4 UM01 scry grow
-	4 UM02 control topend
-	4 UM03 Prognostic Frog
-	4 UM04 Deepwell Infiltrator
-	4 UM07 attack propaganda
-	4 UM05 Hired Henchman
-	4 UM06 Spectratog
-	4 UM08 Censured Cryptid
-	4 UM09 likes counters
-	4 UM10 grants counters
-	4 UM12 Serpentine Sculptor
-	4 UM11 Starlit Researcher
-	4 UM13 permanent prowess
-	4 UM14 Farsight Flameshaper
-	4 UM15 enchantment recursion
-	4 UM16 Chimeric Killer
-	4 UM17 first stike granter
-	4 UM18 likes small
-	4 UM19 defender seeker
-	4 UM20 long game seeker
-	4 UA01 Noble Venture
-	4 UL02 Phantom Hourglass
-	4 UA02 Invocation of Modernity
-	4 UB15 Ruinbringer's Blade
-	4 UG15 bargain disenchant
-	4 UA03 Moonstone Orb
-	4 UL01 Sanctum of the Watcher
-	4 UW12 Invocation of Grace
-	4 UW11 Idolize
-	4 UB09 second life
-	4 UR09 Dragon's Tongue
-	4 UR03 Flashy Fencer
-	4 UR04 Lightning Dancer
+	4 UR04 Lightning Lasher
 [common(6)]
 	8 CW02 Surveillance Pigeon
-	8 CW01 Perpetual Motion Machine
+	8 CW01 move counters
 	8 CW03 Starhall Rogue
 	8 CW04 Peregrine Guardian
 	8 CW06 first strike renown
 	8 CW07 Runic Celebrant
 	8 CW08 Lifepath Communer
-	8 CW09 Squad Rallier
+	8 CW09 valiant grow
 	8 CW11 Unchained Kestrel
 	8 CW12 Vision of Calamity
-	8 CW13 Subpoena
+	8 CW13 Banishing Light
 	8 CW15 Song of Idols
 	8 CU01 Waterwhip Duelist
-	8 CU02 Skulking Saboteur
-	8 CU04 flying seeker
+	8 CU02 Skulking Striker
+	8 CU04 Promethean Lightseeker
 	8 CU05 Wandering Dreamer
 	8 CU06 Stoic Ravenspeaker
 	8 CU07 Wizened Ornithomancer
-	8 CU08 ward cycler
-	8 CU09 endorse flying
+	8 CU08 Slithering Lurker
+	8 CU09 Wind's Grace
 	8 CU10 That's Not What Happened
 	8 CU12 Visionary's Council
 	8 CU15 Song of Tides
 	8 CB01 Marked Monument
-	8 CB02 Cheerless Reaper
+	8 CB02 Maddening Fabulist
 	8 CB03 Grim Apostle
 	8 CB05 Scheming Revolutionary
 	8 CB06 Silkblade Assassin
 	8 CB12 Song of Dread
 	8 CB08 Charming Haruspex
-	8 CR03 small unblockable
-	8 CR02 etb statue
+	8 CR01 Harried Courier
+	8 CR02 ferocious
 	8 CR04 Notorious Pugilist
 	8 CR05 Fiery Insurgent
 	8 CR06 pinger
-	8 CR07 prowess trample
+	8 CR07 Frostwind Pummeller
 	8 CR08 Genial Gladiator
 	8 CR11 Feather Technique
 	8 CR12 Song of Stories
@@ -2570,43 +2412,33 @@
 	8 CG01 Sprouting Serpent
 	8 CG03 Satyr Rootspeaker
 	8 CG04 Waterwhip Seeker
-	8 CG05 reach doubt
+	8 CG05 Moon-Blessed Marksman
 	8 CG07 Wilderland Troubador
 	8 CG08 renown trample
 	8 CG09 Symbiotic Statue
-	8 CG11 Smear Campaign
+	8 CG11 fight rumor
 	8 CG14 Ravenous Roots
 	8 CG15 Song of Rebirth
 	8 CA01 Prismatic Thopter
 	8 CA02 Inspiring Effigy
 	8 CA02 Automated Archivist
-	8 CA04 Horologist's Lens
-	8 CA06 Taking the Auspices
-	8 CU14 top/bottom+scry
-	8 CL01 Solitary Lighthouse
-	8 CL02 Shadowy Office
-	8 CL03 Rowdy Tavern
-	8 CL04 Postered Alley
-	8 CL05 Bustling Forum
-	8 CL06 Starlit Observatory
-	8 CL07 Horologist's Workshop
-	8 CL08 Cryptic Catacomb
-	8 CL09 Grand Stage
-	8 CL10 Invoker's Sanctuary
+	8 CA04 Chronoscope
+	8 CA06 Auspicious Occasion
+	8 CU14 Glittering Refraction
 	8 CA05 Favorable Fortune
-	8 CU13 tap aura
+	8 CU13 Shift the Timeline
 	8 CW05 Unflappable Conductor
 	8 CW10 Pampered Patron
-	8 CU11 prowess looter
+	8 CU11 rummage splendor
 	8 CB04 Sinister Cynic
 	8 CB07 Wicked Lurker
-	8 CB09 Looming Omen
+	8 CB09 menace cycler
 	8 CB10 Deadly Deal
-	8 CB11 Gorgon's Touch
-	8 CB14 Murder
+	8 CB11 Serpent's Touch
+	8 CB14 murder
 	8 CB13 Disarming Development
 	8 CB15 Sanctify in Ashes
-	8 CR01 Intrepid Newsie
+	8 CR03 valiant
 	8 CR09 Fated Fighter
 	8 CR10 Shock
 	8 CR13 Flip the Table
@@ -2614,266 +2446,172 @@
 	8 CG02 Whisperwood Storyteller
 	8 CG06 Patient Tea-Reader
 	8 CG10 trample cycler
-	8 CG12 plummet propaganda
-	8 CU03 Persistent Paparazzo
-	8 CW14 endorse indestructible
-	8 CG13 endorse trample
-[common | masterpiece(1)]
-	8 CW02 Surveillance Pigeon
-	8 CW01 Perpetual Motion Machine
-	8 CW03 Starhall Rogue
-	8 CW04 Peregrine Guardian
-	8 CW06 first strike renown
-	8 CW07 Runic Celebrant
-	8 CW08 Lifepath Communer
-	8 CW09 Squad Rallier
-	8 CW11 Unchained Kestrel
-	8 CW12 Vision of Calamity
-	8 CW13 Subpoena
-	8 CW15 Song of Idols
-	8 CU01 Waterwhip Duelist
-	8 CU02 Skulking Saboteur
-	8 CU04 flying seeker
-	8 CU05 Wandering Dreamer
-	8 CU06 Stoic Ravenspeaker
-	8 CU07 Wizened Ornithomancer
-	8 CU08 ward cycler
-	8 CU09 endorse flying
-	8 CU10 That's Not What Happened
-	8 CU12 Visionary's Council
-	8 CU15 Song of Tides
-	8 CB01 Marked Monument
-	8 CB02 Cheerless Reaper
-	8 CB03 Grim Apostle
-	8 CB05 Scheming Revolutionary
-	8 CB06 Silkblade Assassin
-	8 CB12 Song of Dread
-	8 CB08 Charming Haruspex
-	8 CR03 small unblockable
-	8 CR02 etb statue
-	8 CR04 Notorious Pugilist
-	8 CR05 Fiery Insurgent
-	8 CR06 pinger
-	8 CR07 prowess trample
-	8 CR08 Genial Gladiator
-	8 CR11 Feather Technique
-	8 CR12 Song of Stories
-	8 CR15 Rabblerousing Runt
-	8 CG01 Sprouting Serpent
-	8 CG03 Satyr Rootspeaker
-	8 CG04 Waterwhip Seeker
-	8 CG05 reach doubt
-	8 CG07 Wilderland Troubador
-	8 CG08 renown trample
-	8 CG09 Symbiotic Statue
-	8 CG11 Smear Campaign
-	8 CG14 Ravenous Roots
-	8 CG15 Song of Rebirth
-	8 CA01 Prismatic Thopter
-	8 CA02 Inspiring Effigy
-	8 CA02 Automated Archivist
-	8 CA04 Horologist's Lens
-	8 CA06 Taking the Auspices
-	8 CU14 top/bottom+scry
-	8 CL01 Solitary Lighthouse
-	8 CL02 Shadowy Office
-	8 CL03 Rowdy Tavern
-	8 CL04 Postered Alley
-	8 CL05 Bustling Forum
-	8 CL06 Starlit Observatory
-	8 CL07 Horologist's Workshop
-	8 CL08 Cryptic Catacomb
-	8 CL09 Grand Stage
-	8 CL10 Invoker's Sanctuary
-	8 CA05 Favorable Fortune
-	8 The Inevitable
-	8 CU13 tap aura
-	8 CW05 Unflappable Conductor
-	8 CW10 Pampered Patron
-	8 CU11 prowess looter
-	8 CB04 Sinister Cynic
-	8 CB07 Wicked Lurker
-	8 CB09 Looming Omen
-	8 CB10 Deadly Deal
-	8 CB11 Gorgon's Touch
-	8 CB14 Murder
-	8 CB13 Disarming Development
-	8 CB15 Sanctify in Ashes
-	8 CR01 Intrepid Newsie
-	8 CR09 Fated Fighter
-	8 CR10 Shock
-	8 CR13 Flip the Table
-	8 CR14 Show of Force
-	8 CG02 Whisperwood Storyteller
-	8 CG06 Patient Tea-Reader
-	8 CG10 trample cycler
-	8 CG12 plummet propaganda
-	8 CU03 Persistent Paparazzo
-	8 CW14 endorse indestructible
-	8 CG13 endorse trample
-[foil(1)]
+	8 CG12 Make Disappear
+	8 CU03 flash stun
+	8 CW14 Mask of the Lion Dragon
+	8 CG13 herald trample
+[foil(2)]
 	12 CW02 Surveillance Pigeon
-	12 CW01 Perpetual Motion Machine
+	12 CW01 move counters
 	12 CW03 Starhall Rogue
 	12 CW04 Peregrine Guardian
 	12 CW06 first strike renown
 	12 CW07 Runic Celebrant
 	12 CW08 Lifepath Communer
-	12 CW09 Squad Rallier
+	12 CW09 valiant grow
 	12 CW11 Unchained Kestrel
 	12 CW12 Vision of Calamity
-	12 CW13 Subpoena
+	12 CW13 Banishing Light
 	12 CW15 Song of Idols
-	6 UW01 aggressive 1-drop
-	6 UW02 discount enchantment
-	6 UW03 first strike trick
-	6 UW04 Lifepath Seeker
+	6 UW01 scry renown
+	6 UW02 Skybound Astrologer
+	6 UW03 Frostwind Lieutenant
+	6 UW08 Lifepath Seeker
 	6 UW05 lore lover
 	6 UW06 enchantment recursion
-	6 UW07 small recursion
-	6 UW08 grow scry
+	6 UW07 Blessed Summoner
+	6 UW04 grow scry
 	6 UW09 Grace
-	6 UW10 flying topend
+	6 UW10 Valiant Skyseeker
 	6 UW13 Storied Strike
 	12 CU01 Waterwhip Duelist
-	12 CU02 Skulking Saboteur
-	12 CU04 flying seeker
+	12 CU02 Skulking Striker
+	12 CU04 Promethean Lightseeker
 	12 CU05 Wandering Dreamer
 	12 CU06 Stoic Ravenspeaker
 	12 CU07 Wizened Ornithomancer
-	12 CU08 ward cycler
-	12 CU09 endorse flying
+	12 CU08 Slithering Lurker
+	12 CU09 Wind's Grace
 	12 CU10 That's Not What Happened
 	12 CU12 Visionary's Council
 	2 RU04 Chronoblast
 	12 CU15 Song of Tides
 	6 UU01 Impish Astrologer
 	6 UU08 Deepwell Seeker
-	6 UU03 flash flyer
-	6 UU04 Skittish Scrier
+	6 UU03 splendor flyer
+	6 UU04 Suspicious Scrier
 	6 UU05 Reclusive Runereader
 	6 UU06 Precision
 	6 UU07 big finisher
 	6 UU02 Fateweaver's Apprentice
 	6 UU09 Invocation of Precision
 	6 UU10 Brainstorm
-	6 UU11 Peer Through Time
-	6 UU12 Early Retirement
+	6 UU11 Keep Down
+	6 UU12 Sublimate
 	12 CB01 Marked Monument
-	12 CB02 Cheerless Reaper
+	12 CB02 Maddening Fabulist
 	12 CB03 Grim Apostle
 	12 CB05 Scheming Revolutionary
 	12 CB06 Silkblade Assassin
 	12 CB12 Song of Dread
 	6 UB01 Death's Disciple
-	6 UB02 Opposition Researcher
+	6 UB02 Ravishing Rogue
 	12 CB08 Charming Haruspex
-	6 UB04 Infamous Guy
-	6 UB05 Slithering Insurgent
+	6 UB04 Conniving Truthtwister
+	6 UB05 Toxin Purveyor
 	6 UB06 Power
 	6 UB07 Preacher of Symmetry
-	6 UB03 enchant in gy
+	6 UB03 Harbinger of Doubt
 	6 UB10 Invocation of Power
 	6 UB11 bargain reanimate
 	6 UB12 Invoker's Rites
-	12 CR03 small unblockable
-	12 CR02 etb statue
+	12 CR01 Harried Courier
+	12 CR02 ferocious
 	12 CR04 Notorious Pugilist
 	12 CR05 Fiery Insurgent
 	12 CR06 pinger
-	12 CR07 prowess trample
+	12 CR07 Frostwind Pummeller
 	12 CR08 Genial Gladiator
 	12 CR11 Feather Technique
 	12 CR12 Song of Stories
 	12 CR15 Rabblerousing Runt
 	6 UR01 Enthusiasm
-	6 UR02 Prideful Soloist
-	6 UR05 Pulpit Bully
-	6 UR06 aura recursion??
-	6 UR07 ping on small
-	6 UR08 Battlesong Berserker
-	6 UR10 Bribery Scheme
+	6 UR02 Gregarious Host
+	6 UR05 Blazing Scourgestomper
+	6 UR06 Sparking Hearthborn
+	6 UR07 splendor pump
+	6 UR10 tktk goatnap
 	6 UR11 Invocation of Enthusiasm
 	6 UR12 Roll the Bones
 	6 UR13 Fan the Flames
 	12 CG01 Sprouting Serpent
 	12 CG03 Satyr Rootspeaker
 	12 CG04 Waterwhip Seeker
-	12 CG05 reach doubt
+	12 CG05 Moon-Blessed Marksman
 	12 CG07 Wilderland Troubador
 	12 CG08 renown trample
 	12 CG09 Symbiotic Statue
-	12 CG11 Smear Campaign
+	12 CG11 fight rumor
 	12 CG14 Ravenous Roots
 	12 CG15 Song of Rebirth
-	6 UG01 Plucky Protagonist
-	6 UG02 flash propaganda
-	6 UG03 valiant seeker
+	6 UG01 avatarify
+	6 UG02 flash rumor
+	6 UG03 alliance seeker
 	6 UG04 lore lover
-	6 UG06 alliance seeker
+	6 UG05 renown seeker
 	6 UG07 Memory
+	6 UG09 behold saga
 	6 UG10 doubt bite
 	6 UG11 Invocation of Memory
-	6 UG12 x lore
-	6 UG13 endorse vigilance
+	6 UG13 herald vigilance
 	6 UG14 ferocious draw
-	6 UM01 scry grow
-	6 UM02 control topend
+	6 UM01 scry attack
+	6 UM02 Omen of Hope
 	6 UM03 Prognostic Frog
 	6 UM04 Deepwell Infiltrator
-	6 UM07 attack propaganda
+	6 UM07 Censured Cryptid
 	6 UM05 Hired Henchman
 	6 UM06 Spectratog
-	6 UM08 Censured Cryptid
+	6 UM08 Brash Accelerationist
 	6 UM09 likes counters
-	6 UM10 grants counters
-	6 UM12 Serpentine Sculptor
+	6 UM10 grants counters FLAG
+	6 UM12 renown drain
 	6 UM11 Starlit Researcher
-	6 UM13 permanent prowess
+	6 UM13 permanent splendor
 	6 UM14 Farsight Flameshaper
 	6 UM15 enchantment recursion
 	6 UM16 Chimeric Killer
-	6 UM17 first stike granter
-	6 UM18 likes small
+	6 UM17 Plucky Protagonist
+	6 UM18 likes auras
 	6 UM19 defender seeker
-	6 UM20 long game seeker
+	6 UM20 Bishop of Calamity
 	12 CA01 Prismatic Thopter
 	12 CA02 Inspiring Effigy
 	12 CA02 Automated Archivist
-	12 CA04 Horologist's Lens
-	6 UA01 Noble Venture
+	12 CA04 Chronoscope
+	6 UA01 Noble Pursuit
 	6 UL02 Phantom Hourglass
 	6 UA02 Invocation of Modernity
 	6 UB15 Ruinbringer's Blade
-	6 UG15 bargain disenchant
+	6 UG15 Scornful Capnomancer
 	6 UA03 Moonstone Orb
 	6 UL01 Sanctum of the Watcher
-	12 CA06 Taking the Auspices
+	12 CA06 Auspicious Occasion
 	2 RW01 Indecipherable Mysteries
 	2 RW02 Aurora, Calamity of Light
-	2 RW03 Day of Judgment
+	2 RW03 Eider's Prophecy
 	2 RW04 Starhall Augur
+	2 RW05 Chara, Beacon of Hope
 	2 RU01 Roil, Calamity of Tides
 	2 RU03 Obsessive Numerologist
-	12 CU14 top/bottom+scry
+	12 CU14 Glittering Refraction
 	2 RU05 Cele, Dubious Dealer
 	2 RM06 Vzhs, Brutal Barterer
 	2 RB02 Fated Omenseeker
 	2 RB03 Marrow, Calamity of Bones
-	2 RB04 gorgon lord
-	2 RB05 saboteur reanimate
+	2 RB04 doubt sac
+	2 RB05 Callous Invoker
 	2 RB06 Seek the End
 	2 RR04 Wishbone
-	2 RR05 endorse double damage
+	2 RR05 herald double damage
+	2 RR06 mobilize auras
 	2 RG01 Quake, Calamity of Earth
 	2 RG03 proliferate saga
 	2 RG04 Speaker of Memory
-	2 RG05 endorse enchantments
+	2 RG05 herald enchantments
 	2 RM01 Insight
-	2 RM03 Dominance
 	2 RM04 sneak
 	2 RM05 Commitment
-	2 RB01 Devil's Drone
 	2 RM07 Kinship
 	2 RM09 Narrative
 	2 RM11 Ambition
@@ -2881,8 +2619,7 @@
 	2 RM13 Ebullience
 	2 RM15 Cultivation
 	2 RM17 Spectacle
-	2 RM19 Abundance
-	2 RM20 endorse avatar
+	2 RM20 herald avatar
 	12 CL01 Solitary Lighthouse
 	12 CL02 Shadowy Office
 	12 CL03 Rowdy Tavern
@@ -2894,20 +2631,19 @@
 	12 CL09 Grand Stage
 	12 CL10 Invoker's Sanctuary
 	12 CA05 Favorable Fortune
-	12 The Inevitable
-	12 CU13 tap aura
+	12 CU13 Shift the Timeline
 	12 CW05 Unflappable Conductor
 	12 CW10 Pampered Patron
-	12 CU11 prowess looter
+	12 CU11 rummage splendor
 	12 CB04 Sinister Cynic
 	12 CB07 Wicked Lurker
-	12 CB09 Looming Omen
+	12 CB09 menace cycler
 	12 CB10 Deadly Deal
-	12 CB11 Gorgon's Touch
-	12 CB14 Murder
+	12 CB11 Serpent's Touch
+	12 CB14 murder
 	12 CB13 Disarming Development
 	12 CB15 Sanctify in Ashes
-	12 CR01 Intrepid Newsie
+	12 CR03 valiant
 	12 CR09 Fated Fighter
 	12 CR10 Shock
 	12 CR13 Flip the Table
@@ -2915,183 +2651,181 @@
 	12 CG02 Whisperwood Storyteller
 	12 CG06 Patient Tea-Reader
 	12 CG10 trample cycler
-	12 CG12 plummet propaganda
-	12 CU03 Persistent Paparazzo
+	12 CG12 Make Disappear
+	12 CU03 flash stun
 	6 UW12 Invocation of Grace
-	12 CW14 endorse indestructible
-	6 UW11 Idolize
-	6 UB09 second life
+	12 CW14 Mask of the Lion Dragon
+	6 UB09 Death's Defiance
 	6 UR09 Dragon's Tongue
-	12 CG13 endorse trample
-	2 RG02 valiant doubler
+	12 CG13 herald trample
+	2 RG02 Scourge of Cantasia
 	2 RR02 Cinder, Calamity of Ash
-	2 RR03 Cinder's Inferno
+	2 RR03 Rampant Rumors
 	6 UR03 Flashy Fencer
-	6 UR04 Lightning Dancer
+	6 UR04 Lightning Lasher
 	2 RU02 Double Time
 [wildcard(1)]
 	6 CW02 Surveillance Pigeon
-	6 CW01 Perpetual Motion Machine
+	6 CW01 move counters
 	6 CW03 Starhall Rogue
 	6 CW04 Peregrine Guardian
 	6 CW06 first strike renown
 	6 CW07 Runic Celebrant
 	6 CW08 Lifepath Communer
-	6 CW09 Squad Rallier
+	6 CW09 valiant grow
 	6 CW11 Unchained Kestrel
 	6 CW12 Vision of Calamity
-	6 CW13 Subpoena
+	6 CW13 Banishing Light
 	6 CW15 Song of Idols
-	15 UW01 aggressive 1-drop
-	15 UW02 discount enchantment
-	15 UW03 first strike trick
-	15 UW04 Lifepath Seeker
+	15 UW01 scry renown
+	15 UW02 Skybound Astrologer
+	15 UW03 Frostwind Lieutenant
+	15 UW08 Lifepath Seeker
 	15 UW05 lore lover
 	15 UW06 enchantment recursion
-	15 UW07 small recursion
-	15 UW08 grow scry
+	15 UW07 Blessed Summoner
+	15 UW04 grow scry
 	15 UW09 Grace
-	15 UW10 flying topend
+	15 UW10 Valiant Skyseeker
 	15 UW13 Storied Strike
 	6 CU01 Waterwhip Duelist
-	6 CU02 Skulking Saboteur
-	6 CU04 flying seeker
+	6 CU02 Skulking Striker
+	6 CU04 Promethean Lightseeker
 	6 CU05 Wandering Dreamer
 	6 CU06 Stoic Ravenspeaker
 	6 CU07 Wizened Ornithomancer
-	6 CU08 ward cycler
-	6 CU09 endorse flying
+	6 CU08 Slithering Lurker
+	6 CU09 Wind's Grace
 	6 CU10 That's Not What Happened
 	6 CU12 Visionary's Council
 	7 RU04 Chronoblast
 	6 CU15 Song of Tides
 	15 UU01 Impish Astrologer
 	15 UU08 Deepwell Seeker
-	15 UU03 flash flyer
-	15 UU04 Skittish Scrier
+	15 UU03 splendor flyer
+	15 UU04 Suspicious Scrier
 	15 UU05 Reclusive Runereader
 	15 UU06 Precision
 	15 UU07 big finisher
 	15 UU02 Fateweaver's Apprentice
 	15 UU09 Invocation of Precision
 	15 UU10 Brainstorm
-	15 UU11 Peer Through Time
-	15 UU12 Early Retirement
+	15 UU11 Keep Down
+	15 UU12 Sublimate
 	6 CB01 Marked Monument
-	6 CB02 Cheerless Reaper
+	6 CB02 Maddening Fabulist
 	6 CB03 Grim Apostle
 	6 CB05 Scheming Revolutionary
 	6 CB06 Silkblade Assassin
 	6 CB12 Song of Dread
 	15 UB01 Death's Disciple
-	15 UB02 Opposition Researcher
+	15 UB02 Ravishing Rogue
 	6 CB08 Charming Haruspex
-	15 UB04 Infamous Guy
-	15 UB05 Slithering Insurgent
+	15 UB04 Conniving Truthtwister
+	15 UB05 Toxin Purveyor
 	15 UB06 Power
 	15 UB07 Preacher of Symmetry
-	15 UB03 enchant in gy
+	15 UB03 Harbinger of Doubt
 	15 UB10 Invocation of Power
 	15 UB11 bargain reanimate
 	15 UB12 Invoker's Rites
-	6 CR03 small unblockable
-	6 CR02 etb statue
+	6 CR01 Harried Courier
+	6 CR02 ferocious
 	6 CR04 Notorious Pugilist
 	6 CR05 Fiery Insurgent
 	6 CR06 pinger
-	6 CR07 prowess trample
+	6 CR07 Frostwind Pummeller
 	6 CR08 Genial Gladiator
 	6 CR11 Feather Technique
 	6 CR12 Song of Stories
 	6 CR15 Rabblerousing Runt
 	15 UR01 Enthusiasm
-	15 UR02 Prideful Soloist
-	15 UR05 Pulpit Bully
-	15 UR06 aura recursion??
-	15 UR07 ping on small
-	15 UR08 Battlesong Berserker
-	15 UR10 Bribery Scheme
+	15 UR02 Gregarious Host
+	15 UR05 Blazing Scourgestomper
+	15 UR06 Sparking Hearthborn
+	15 UR07 splendor pump
+	15 UR10 tktk goatnap
 	15 UR11 Invocation of Enthusiasm
 	15 UR12 Roll the Bones
 	15 UR13 Fan the Flames
 	6 CG01 Sprouting Serpent
 	6 CG03 Satyr Rootspeaker
 	6 CG04 Waterwhip Seeker
-	6 CG05 reach doubt
+	6 CG05 Moon-Blessed Marksman
 	6 CG07 Wilderland Troubador
 	6 CG08 renown trample
 	6 CG09 Symbiotic Statue
-	6 CG11 Smear Campaign
+	6 CG11 fight rumor
 	6 CG14 Ravenous Roots
 	6 CG15 Song of Rebirth
-	15 UG01 Plucky Protagonist
-	15 UG02 flash propaganda
-	15 UG03 valiant seeker
+	15 UG01 avatarify
+	15 UG02 flash rumor
+	15 UG03 alliance seeker
 	15 UG04 lore lover
-	15 UG06 alliance seeker
+	15 UG05 renown seeker
 	15 UG07 Memory
+	15 UG09 behold saga
 	15 UG10 doubt bite
 	15 UG11 Invocation of Memory
-	15 UG12 x lore
-	15 UG13 endorse vigilance
+	15 UG13 herald vigilance
 	15 UG14 ferocious draw
-	15 UM01 scry grow
-	15 UM02 control topend
+	15 UM01 scry attack
+	15 UM02 Omen of Hope
 	15 UM03 Prognostic Frog
 	15 UM04 Deepwell Infiltrator
-	15 UM07 attack propaganda
+	15 UM07 Censured Cryptid
 	15 UM05 Hired Henchman
 	15 UM06 Spectratog
-	15 UM08 Censured Cryptid
+	15 UM08 Brash Accelerationist
 	15 UM09 likes counters
-	15 UM10 grants counters
-	15 UM12 Serpentine Sculptor
+	15 UM10 grants counters FLAG
+	15 UM12 renown drain
 	15 UM11 Starlit Researcher
-	15 UM13 permanent prowess
+	15 UM13 permanent splendor
 	15 UM14 Farsight Flameshaper
 	15 UM15 enchantment recursion
 	15 UM16 Chimeric Killer
-	15 UM17 first stike granter
-	15 UM18 likes small
+	15 UM17 Plucky Protagonist
+	15 UM18 likes auras
 	15 UM19 defender seeker
-	15 UM20 long game seeker
+	15 UM20 Bishop of Calamity
 	6 CA01 Prismatic Thopter
 	6 CA02 Inspiring Effigy
 	6 CA02 Automated Archivist
-	6 CA04 Horologist's Lens
-	15 UA01 Noble Venture
+	6 CA04 Chronoscope
+	15 UA01 Noble Pursuit
 	15 UL02 Phantom Hourglass
 	15 UA02 Invocation of Modernity
 	15 UB15 Ruinbringer's Blade
-	15 UG15 bargain disenchant
+	15 UG15 Scornful Capnomancer
 	15 UA03 Moonstone Orb
 	15 UL01 Sanctum of the Watcher
-	6 CA06 Taking the Auspices
+	6 CA06 Auspicious Occasion
 	7 RW01 Indecipherable Mysteries
 	7 RW02 Aurora, Calamity of Light
-	7 RW03 Day of Judgment
+	7 RW03 Eider's Prophecy
 	7 RW04 Starhall Augur
+	7 RW05 Chara, Beacon of Hope
 	7 RU01 Roil, Calamity of Tides
 	7 RU03 Obsessive Numerologist
-	6 CU14 top/bottom+scry
+	6 CU14 Glittering Refraction
 	7 RU05 Cele, Dubious Dealer
 	7 RM06 Vzhs, Brutal Barterer
 	7 RB02 Fated Omenseeker
 	7 RB03 Marrow, Calamity of Bones
-	7 RB04 gorgon lord
-	7 RB05 saboteur reanimate
+	7 RB04 doubt sac
+	7 RB05 Callous Invoker
 	7 RB06 Seek the End
 	7 RR04 Wishbone
-	7 RR05 endorse double damage
+	7 RR05 herald double damage
+	7 RR06 mobilize auras
 	7 RG01 Quake, Calamity of Earth
 	7 RG03 proliferate saga
 	7 RG04 Speaker of Memory
-	7 RG05 endorse enchantments
+	7 RG05 herald enchantments
 	7 RM01 Insight
-	7 RM03 Dominance
 	7 RM04 sneak
 	7 RM05 Commitment
-	7 RB01 Devil's Drone
 	7 RM07 Kinship
 	7 RM09 Narrative
 	7 RM11 Ambition
@@ -3099,8 +2833,7 @@
 	7 RM13 Ebullience
 	7 RM15 Cultivation
 	7 RM17 Spectacle
-	7 RM19 Abundance
-	7 RM20 endorse avatar
+	7 RM20 herald avatar
 	6 CL01 Solitary Lighthouse
 	6 CL02 Shadowy Office
 	6 CL03 Rowdy Tavern
@@ -3112,20 +2845,19 @@
 	6 CL09 Grand Stage
 	6 CL10 Invoker's Sanctuary
 	6 CA05 Favorable Fortune
-	6 The Inevitable
-	6 CU13 tap aura
+	6 CU13 Shift the Timeline
 	6 CW05 Unflappable Conductor
 	6 CW10 Pampered Patron
-	6 CU11 prowess looter
+	6 CU11 rummage splendor
 	6 CB04 Sinister Cynic
 	6 CB07 Wicked Lurker
-	6 CB09 Looming Omen
+	6 CB09 menace cycler
 	6 CB10 Deadly Deal
-	6 CB11 Gorgon's Touch
-	6 CB14 Murder
+	6 CB11 Serpent's Touch
+	6 CB14 murder
 	6 CB13 Disarming Development
 	6 CB15 Sanctify in Ashes
-	6 CR01 Intrepid Newsie
+	6 CR03 valiant
 	6 CR09 Fated Fighter
 	6 CR10 Shock
 	6 CR13 Flip the Table
@@ -3133,18 +2865,32 @@
 	6 CG02 Whisperwood Storyteller
 	6 CG06 Patient Tea-Reader
 	6 CG10 trample cycler
-	6 CG12 plummet propaganda
-	6 CU03 Persistent Paparazzo
+	6 CG12 Make Disappear
+	6 CU03 flash stun
 	15 UW12 Invocation of Grace
-	6 CW14 endorse indestructible
-	15 UW11 Idolize
-	15 UB09 second life
+	6 CW14 Mask of the Lion Dragon
+	15 UB09 Death's Defiance
 	15 UR09 Dragon's Tongue
-	6 CG13 endorse trample
-	7 RG02 valiant doubler
+	6 CG13 herald trample
+	7 RG02 Scourge of Cantasia
 	7 RR02 Cinder, Calamity of Ash
-	7 RR03 Cinder's Inferno
+	7 RR03 Rampant Rumors
 	15 UR03 Flashy Fencer
-	15 UR04 Lightning Dancer
+	15 UR04 Lightning Lasher
 	7 RU02 Double Time
 [land(1)]
+	8 CL01 Solitary Lighthouse
+	8 CL02 Shadowy Office
+	8 CL03 Rowdy Tavern
+	8 CL04 Postered Alley
+	8 CL05 Bustling Forum
+	8 CL06 Starlit Observatory
+	8 CL07 Horologist's Workshop
+	8 CL08 Cryptic Catacomb
+	8 CL09 Grand Stage
+	8 CL10 Invoker's Sanctuary
+    16 Plains
+    16 Island
+    16 Swamp
+    16 Forest
+    16 Mountain

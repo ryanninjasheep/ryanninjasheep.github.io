@@ -1,4 +1,663 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CW01 move counters added.
+CW09 valiant grow added.
+CW13 Banishing Light added.
+UW01 scry renown added.
+UW02 Skybound Astrologer added.
+UW03 Frostwind Lieutenant added.
+UW08 Lifepath Seeker added.
+UW07 Blessed Summoner added.
+UW04 grow scry added.
+UW10 Valiant Skyseeker added.
+CU02 Skulking Striker added.
+CU04 Promethean Lightseeker added.
+CU08 Slithering Lurker added.
+CU09 Wind's Grace added.
+UU03 splendor flyer added.
+UU04 Suspicious Scrier added.
+UU11 Keep Down added.
+UU12 Sublimate added.
+CB02 Maddening Fabulist added.
+UB02 Ravishing Rogue added.
+UB04 Conniving Truthtwister added.
+UB05 Toxin Purveyor added.
+UB03 Harbinger of Doubt added.
+CR01 Harried Courier added.
+CR02 ferocious added.
+CR07 Frostwind Pummeller added.
+UR02 Gregarious Host added.
+UR05 Blazing Scourgestomper added.
+UR06 Sparking Hearthborn added.
+UR07 splendor pump added.
+UR10 tktk goatnap added.
+CG05 Moon-Blessed Marksman added.
+CG11 fight rumor added.
+UG01 avatarify added.
+UG02 flash rumor added.
+UG03 alliance seeker added.
+UG05 renown seeker added.
+UG09 behold saga added.
+UG13 herald vigilance added.
+UM01 scry attack added.
+UM02 Omen of Hope added.
+UM07 Censured Cryptid added.
+UM08 Brash Accelerationist added.
+UM10 grants counters FLAG added.
+UM12 renown drain added.
+UM13 permanent splendor added.
+UM17 Plucky Protagonist added.
+UM18 likes auras added.
+UM20 Bishop of Calamity added.
+CA04 Chronoscope added.
+UA01 Noble Pursuit added.
+UG15 Scornful Capnomancer added.
+CA06 Auspicious Occasion added.
+RW03 Eider's Prophecy added.
+RW05 Chara, Beacon of Hope added.
+CU14 Glittering Refraction added.
+RB04 doubt sac added.
+RB05 Callous Invoker added.
+RR05 herald double damage added.
+RR06 mobilize auras added.
+RG05 herald enchantments added.
+RM20 herald avatar added.
+CU13 Shift the Timeline added.
+CU11 rummage splendor added.
+CB09 menace cycler added.
+CB11 Serpent's Touch added.
+CB14 murder added.
+CR03 valiant added.
+CG12 Make Disappear added.
+CU03 flash stun added.
+Aetherborn added.
+Rumor added.
+CW14 Mask of the Lion Dragon added.
+UB09 Death's Defiance added.
+CG13 herald trample added.
+RG02 Scourge of Cantasia added.
+RR03 Rampant Rumors added.
+UR04 Lightning Lasher added.
+
+CW01 Perpetual Motion Machine removed.
+CW09 Squad Rallier removed.
+CW13 Subpoena removed.
+UW01 aggressive 1-drop removed.
+UW02 discount enchantment removed.
+UW03 first strike trick removed.
+UW04 Lifepath Seeker removed.
+UW07 small recursion removed.
+UW08 grow scry removed.
+UW10 flying topend removed.
+CU02 Skulking Saboteur removed.
+CU04 flying seeker removed.
+CU08 ward cycler removed.
+CU09 endorse flying removed.
+UU03 flash flyer removed.
+UU04 Skittish Scrier removed.
+UU11 Peer Through Time removed.
+UU12 Early Retirement removed.
+CB02 Cheerless Reaper removed.
+UB02 Opposition Researcher removed.
+UB04 Infamous Guy removed.
+UB05 Slithering Insurgent removed.
+UB03 enchant in gy removed.
+CR03 small unblockable removed.
+CR02 etb statue removed.
+CR07 prowess trample removed.
+UR02 Prideful Soloist removed.
+UR05 Pulpit Bully removed.
+UR06 aura recursion?? removed.
+UR07 ping on small removed.
+UR08 Battlesong Berserker removed.
+UR10 Bribery Scheme removed.
+CG05 reach doubt removed.
+CG11 Smear Campaign removed.
+UG01 Plucky Protagonist removed.
+UG02 flash propaganda removed.
+UG03 valiant seeker removed.
+UG06 alliance seeker removed.
+UG12 x lore removed.
+UG13 endorse vigilance removed.
+UM01 scry grow removed.
+UM02 control topend removed.
+UM07 attack propaganda removed.
+UM08 Censured Cryptid removed.
+UM10 grants counters removed.
+UM12 Serpentine Sculptor removed.
+UM13 permanent prowess removed.
+UM17 first stike granter removed.
+UM18 likes small removed.
+UM20 long game seeker removed.
+CA04 Horologist's Lens removed.
+UA01 Noble Venture removed.
+UG15 bargain disenchant removed.
+CA06 Taking the Auspices removed.
+RW03 Day of Judgment removed.
+CU14 top/bottom+scry removed.
+RB04 gorgon lord removed.
+RB05 saboteur reanimate removed.
+RR05 endorse double damage removed.
+RG05 endorse enchantments removed.
+RM03 Dominance removed.
+RB01 Devil's Drone removed.
+RM19 Abundance removed.
+RM20 endorse avatar removed.
+CU13 tap aura removed.
+CU11 prowess looter removed.
+CB09 Looming Omen removed.
+CB11 Gorgon's Touch removed.
+CB14 Murder removed.
+CR01 Intrepid Newsie removed.
+CG12 plummet propaganda removed.
+CU03 Persistent Paparazzo removed.
+Sculpture removed.
+Propaganda removed.
+CW14 endorse indestructible removed.
+UW11 Idolize removed.
+UB09 second life removed.
+CG13 endorse trample removed.
+RG02 valiant doubler removed.
+RR03 Cinder's Inferno removed.
+UR04 Lightning Dancer removed.
+
+CW08 Lifepath Communer
+rules_text: Whenever another creature you control enters, scry 1. => Whenever this creature or another creature you control enters, scry 1.
+
+CW15 Song of Idols
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 1. You gain 1 life.
+Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Scry 1. You gain 1 life.
+III — Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Scry 1. You gain 1 life.
+Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Scry 1. You gain 1 life.
+III — Create a 1/1 white Hero creature token with renown 1. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+
+UW06 enchantment recursion
+rules_text: Prowess
+When this creature enters, return target enchantment card from your graveyard to your hand. => When this creature enters, return target enchantment card from your graveyard to your hand.
+[i]Splendor[/i] — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+1 until end of turn.
+
+CU01 Waterwhip Duelist
+rules_text: Flash
+When this creature enters, target creature an opponent controls gets -2/-0 until end of turn. => [i]Splendor[/i] — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+1 until end of turn.
+
+CU05 Wandering Dreamer
+rules_text: Whenever you cast a noncreature spell, scry 1, then you may have this creature's base power and toughness become 4/2 until end of turn. This ability triggers only once each turn. => [i]Splendor[/i] — Whenever you cast an enchantment, instant, or sorcery spell, scry 1. Then you may have this creature's base power and toughness become 4/2 until end of turn. This ability triggers only once each turn.
+
+CU15 Song of Tides
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+Target creature can't be blocked this turn.
+[i]“You cannot fight the tides. But you can follow them to smoother waters.”
+—Instructor Kal[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Draw a card, then discard a card.
+III — Target creature can't be blocked this turn.
+[i]“You cannot fight the tides. But you can follow them to smoother waters.”
+—Instructor Kal[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card, then discard a card.
+Target creature can't be blocked this turn.
+[i]“You cannot fight the tides. But you can follow them to smoother waters.”
+—Instructor Kal[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Draw a card, then discard a card.
+III — Target creature can't be blocked this turn.
+[i]“You cannot fight the tides. But you can follow them to smoother waters.”
+—Instructor Kal[/i]
+
+UU01 Impish Astrologer
+rules_text: Flying
+When this creature enters, tap up to one target creature.
+{T}: Scry 1. => Flash
+Flying
+{T}: Scry 1.
+
+UU02 Fateweaver's Apprentice
+rules_text: Vigilance
+Whenever you scry, tap up to one target creature. => Vigilance
+Whenever you scry or surveil, seek the end. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+
+UU09 Invocation of Precision
+cost: {2}{U} => {2}{U}{U}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+Tap up to one target creature.
+Create a 4/4 colorless Incarnation enchantment creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+I — Counter up to one target spell.
+II — Scry 1, then draw a card.
+III — Create a 4/4 colorless Incarnation enchantment creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+Tap up to one target creature.
+Create a 4/4 colorless Incarnation enchantment creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+I — Counter up to one target spell.
+II — Scry 1, then draw a card.
+III — Create a 4/4 colorless Incarnation enchantment creature token.
+
+UU10 Brainstorm
+
+CB01 Marked Monument
+type: Artifact Creature — Sculpture => Artifact Creature — Construct
+rules_text: When this creature dies, create a Propaganda token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i] => When this creature dies, create a Rumor token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i]
+
+CB03 Grim Apostle
+rules_text: Lifelink
+When this creature enters, create a Propaganda token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i] => Lifelink
+When this creature enters, create a Rumor token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i]
+
+CB05 Scheming Revolutionary
+rules_text: When this creature enters, each opponent discards a card.
+{1}{B}: This creature gets +1/+1 until end of turn. => Flash
+{1}{B}: This creature gets +1/+1 until end of turn.
+pt: 2/2 => 3/2
+
+CB06 Silkblade Assassin
+type: Creature — Aetherborn Assassin => Creature — Elf Assassin
+
+CB12 Song of Dread
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+You lose 2 life.
+[i]Never look too far into the future. You won't like what you see.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Draw a card.
+III — You lose 2 life.
+[i]Never look too far into the future. You won't like what you see.[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Draw a card.
+You lose 2 life.
+[i]Never look too far into the future. You won't like what you see.[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Draw a card.
+III — You lose 2 life.
+[i]Never look too far into the future. You won't like what you see.[/i]
+
+CR04 Notorious Pugilist
+rules_text: When this creature enters, choose one —
+• Create a Propaganda token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i]
+• Create a Treasure token. => Reach
+Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +2/+2 until end of turn.
+
+CR06 pinger
+rules_text: Reach
+Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent. => Reach
+[i]Splendor[/i] — Whenever you cast an enchantment, instant, or sorcery spell, this creature deals 1 damage to each opponent.
+
+CR11 Feather Technique
+rules_text: Endorse {1}{R} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+When this enchantment enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0. => Herald {1}{R} [i](You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+When this enchantment enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0.
+
+CR12 Song of Stories
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top card of your library. You may play it for as long as you control this Saga.
+Target creature you control gains menace until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top card of your library. You may play it for as long as you control this Saga.
+III — Target creature you control gains menace until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile the top card of your library. You may play it for as long as you control this Saga.
+Target creature you control gains menace until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile the top card of your library. You may play it for as long as you control this Saga.
+III — Target creature you control gains menace until end of turn.
+
+UR11 Invocation of Enthusiasm
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Incarnation enchantment creature token.
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Incarnation enchantment creature token.
+II, III — Target creature you control gets +1/+0 and gains first strike until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Incarnation enchantment creature token.
+Target creature you control gets +1/+0 and gains first strike until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Incarnation enchantment creature token.
+II, III — Target creature you control gets +1/+0 and gains first strike until end of turn.
+
+UR12 Roll the Bones
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Choose one. If this spell was bargained, choose both instead.
+• Roll the Bones deals 3 damage to target creature. 
+• Discard a card, then draw a card. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Choose one. If this spell was bargained, choose both instead.
+• Roll the Bones deals 3 damage to target creature. 
+• Discard a card. If you do, draw two cards.
+
+UR13 Fan the Flames
+type: Enchantment => Enchantment — Rumor
+
+CG01 Sprouting Serpent
+
+CG03 Satyr Rootspeaker
+
+CG04 Waterwhip Seeker
+
+CG07 Wilderland Troubador
+
+CG08 renown trample
+
+CG09 Symbiotic Statue
+type: Artifact Creature — Sculpture => Artifact Creature — Construct
+
+CG14 Ravenous Roots
+
+CG15 Song of Rebirth
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill two cards.
+Return target permanent card from your graveyard to your hand.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards.
+III — Return target permanent card from your graveyard to your hand.
+[i]In all endings, there are beginnings.[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill two cards.
+Return target permanent card from your graveyard to your hand.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Mill two cards.
+III — Return target permanent card from your graveyard to your hand.
+[i]In all endings, there are beginnings.[/i]
+
+UG04 lore lover
+
+UG07 Memory
+
+UG14 ferocious draw
+
+UM03 Prognostic Frog
+
+UM04 Deepwell Infiltrator
+type: Creature — Shapeshifter Rogue => Creature — Shapeshifter Assassin
+rules_text: Deathtouch
+Whenever this creature deals combat damage to a player, you may have it become a copy of another target creature except it has deathtouch and this ability. => Deathtouch
+Whenever this creature deals combat damage to a player, draw a card.
+Whenever you cast a spell during an opponent's turn, untap this creature.
+pt: 2/2 => 2/3
+
+UM05 Hired Henchman
+
+UM06 Spectratog
+rules_text: Menace
+{1}, Sacrifice an artifact, enchantment, or token: This creature gets +2/+2 until end of turn. => {1}, Sacrifice an artifact, enchantment, or token: This creature gets +2/+2 until end of turn.
+
+UM09 likes counters
+
+UM11 Starlit Researcher
+
+UM14 Farsight Flameshaper
+rules_text: Whenever you cast a spell during an opponent's turn, this creature deals 2 damage to that opponent. Scry 1. This ability triggers only once each turn. => [i]Splendor[/i] — Whenever you cast an enchantment, instant, or sorcery spell, this creature deals 2 damage to each opponent. Scry 1. This ability triggers only once each turn.
+
+UM15 enchantment recursion
+
+UM16 Chimeric Killer
+
+UM19 defender seeker
+
+CA01 Prismatic Thopter
+
+CA02 Inspiring Effigy
+type: Artifact Creature — Sculpture => Artifact Creature — Construct
+
+CA02 Automated Archivist
+
+UL02 Phantom Hourglass
+
+UA02 Invocation of Modernity
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Incarnation enchantment creature token.
+Put a +1/+1 counter on up to one target creature.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Incarnation enchantment creature token.
+II, III — Put a +1/+1 counter on up to one target creature.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 4/4 colorless Incarnation enchantment creature token.
+Put a +1/+1 counter on up to one target creature.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 colorless Incarnation enchantment creature token.
+II, III — Put a +1/+1 counter on up to one target creature.
+
+UB15 Ruinbringer's Blade
+rules_text: When this Equipment enters, create a 1/1 white Hero creature token with renown 1, then attach this equipment to it. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+Equipped creature gets +1/+0. As long as it's renowned, it has menace.
+Equip {2} => When this Equipment enters, create a 1/1 white Hero creature token with renown 1, then attach this equipment to it. [i](When that creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i]
+Equipped creature gets +1/+1. As long as it's renowned, it has menace.
+Equip {2}
+
+UA03 Moonstone Orb
+
+UL01 Sanctum of the Watcher
+
+RW01 Indecipherable Mysteries
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature until this Saga leaves the battlefield.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile target creature until this Saga leaves the battlefield.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Exile target creature until this Saga leaves the battlefield.
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Exile target creature until this Saga leaves the battlefield.
+
+RW02 Aurora, Calamity of Light
+
+RW04 Starhall Augur
+rules_text: Prowess
+Whenever you scry, create a 1/1 blue Bird creature token with flying. => Vigilance
+Whenever you scry or surveil, create a 1/1 blue Bird creature token with flying.
+
+RB03 Marrow, Calamity of Bones
+
+RB06 Seek the End
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Sacrifice a creature.
+II — Discard a card.
+III — Create a 10/10 black Avatar creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II — Sacrifice a creature.
+III — Create a 10/10 black Avatar creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Sacrifice a creature.
+II — Discard a card.
+III — Create a 10/10 black Avatar creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II — Sacrifice a creature.
+III — Create a 10/10 black Avatar creature token.
+
+RG01 Quake, Calamity of Earth
+
+RG03 proliferate saga
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+​
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Choose one —
+• Put a +1/+1 counter on target creature.
+• Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+RG04 Speaker of Memory
+
+RM01 Insight
+
+Z_Archetypes
+
+Z_Common Keyword Distribution
+
+RM07 Kinship
+
+RM09 Narrative
+
+RM11 Ambition
+
+RM12 Figure of Notoriety
+type: Legendary Creature — Angel Demon => Legendary Creature — Demon
+rules_text: Other creatures you control have renown 2. [i](When that creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)[/i]
+Whenever a creature you control becomes renowned, put a +1/+1 counter on this creature. => Other creatures you control have renown 2. [i](When that creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)[/i]
+Whenever a creature you control becomes renowned, draw a card, then discard a card.
+
+RM13 Ebullience
+
+RM15 Cultivation
+
+RM17 Spectacle
+cost: {2}{R}{W} => {1}{R}{W}
+rules_text: The first creature spell you cast with power 2 or less each turn has dash. Its dash cost is equal to its mana cost. [i](You may choose to cast that spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)[/i] => Whenever you cast an Aura spell that targets only this creature, copy that spell for each other permanent you control that the spell could target, except the copies gain “At the beginning of your cleanup step, sacrifice this Aura.” Each copy targets a different one of those creatures. [i](Copies of permanent spells become tokens.)[/i]
+
+CL01 Solitary Lighthouse
+
+CL02 Shadowy Office
+
+CL03 Rowdy Tavern
+
+CL04 Postered Alley
+
+CL05 Bustling Forum
+
+CL06 Starlit Observatory
+
+CL07 Horologist's Workshop
+
+CL08 Cryptic Catacomb
+
+CL09 Grand Stage
+
+CL10 Invoker's Sanctuary
+
+CA05 Favorable Fortune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token.
+Draw a card.
+[i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a Treasure token.
+III — Draw a card.
+[i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a Treasure token.
+Draw a card.
+[i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a Treasure token.
+III — Draw a card.
+[i]“It's easy to tell someone's future. The hard part is getting paid for it.”
+—[/i]Profit for Prophets
+
+The Inevitable
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VII.)[/i]
+Indestructible [i](Effects that say “destroy” don't destroy this enchantment.)[/i]
+Create a 10/10 black Avatar creature token.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after X.)[/i]
+Indestructible [i](Effects that say “destroy” don't destroy this enchantment.)[/i]
+X — Create a 10/10 black Avatar creature token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after VII.)[/i]
+Indestructible [i](Effects that say “destroy” don't destroy this enchantment.)[/i]
+Create a 10/10 black Avatar creature token.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after X.)[/i]
+Indestructible [i](Effects that say “destroy” don't destroy this enchantment.)[/i]
+X — Create a 10/10 black Avatar creature token.
+
+CW05 Unflappable Conductor
+
+CW10 Pampered Patron
+
+CB04 Sinister Cynic
+
+CB07 Wicked Lurker
+
+CB10 Deadly Deal
+
+CB13 Disarming Development
+type: Enchantment — Propaganda => Enchantment — Rumor
+
+CB15 Sanctify in Ashes
+
+CR09 Fated Fighter
+rules_text: When this creature enters, create a Propaganda token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i]
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, create a Rumor token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i]
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CR10 Shock
+
+CR13 Flip the Table
+
+CR14 Show of Force
+
+CG02 Whisperwood Storyteller
+
+CG06 Patient Tea-Reader
+
+CG10 trample cycler
+
+Hero
+
+Incarnation
+
+Treasure
+
+Avatar
+
+UW12 Invocation of Grace
+cost: {1}{W} => {2}{W}
+
+UR09 Dragon's Tongue
+rules_text: Endorse {R} [i](You may cast this from your hand as though it had flash for its endorse cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature has “{R}: This creature gets +1/+0 until end of turn.” => Herald {R} [i](You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)[/i]
+Enchant creature
+Enchanted creature has “{R}: This creature gets +1/+0 until end of turn.”
+
+RR02 Cinder, Calamity of Ash
+rules_text: Whenever you cast a noncreature spell, exile the top card of your library.
+As long as there are three or more cards exiled with Cinder, it has first strike. As long as there are five or more cards exiled with Cinder, it has indestructible. As long as there are seven or more cards exiled with Cinder, you may play cards exiled this way. => [i]Splendor[/i] — Whenever you cast an enchantment, instant, or sorcery spell, exile the top card of your library.
+As long as there are three or more cards exiled with Cinder, it has first strike. As long as there are five or more cards exiled with Cinder, it has indestructible. As long as there are seven or more cards exiled with Cinder, you may play cards exiled this way.
+
+UR03 Flashy Fencer
+rules_text: First strike
+Whenever you cast a spell during an opponent's turn, create a Propaganda token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i] => First strike
+Whenever this creature becomes the target of a spell or ability you control for the first time each turn, create a Treasure token.
+pt: 2/1 => 2/2
+
+RU02 Double Time
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Draw a card.
+IV — Take an extra turn after this one. Exile this Saga.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Draw a card.
+IV — Take an extra turn after this one. Exile this Saga.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Draw a card.
+IV — Take an extra turn after this one. Exile this Saga.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II, III — Draw a card.
+IV — Take an extra turn after this one. Exile this Saga.
+
+Bird
+
+
+VERSION 4 CHANGELOG
 ====================
 
 UW03 first strike trick added.

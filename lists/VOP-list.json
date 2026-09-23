@@ -5,7 +5,7 @@
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "137"
+        "position": "136"
     },
     {
         "card_name": "RU01 Roil, Calamity of Tides",
@@ -16,28 +16,28 @@
         "position": "141"
     },
     {
-        "card_name": "RB01 Devil's Drone",
+        "card_name": "RB02 Fated Omenseeker",
         "number": 78,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "168"
+        "position": "146"
     },
     {
         "card_name": "RR02 Cinder, Calamity of Ash",
-        "number": 109,
+        "number": 108,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "225"
+        "position": "222"
     },
     {
         "card_name": "RG01 Quake, Calamity of Earth",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "153"
+        "position": "154"
     },
     {
         "card_name": "RW02 Aurora, Calamity of Light",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "138"
+        "position": "137"
     },
     {
         "card_name": "RU02 Double Time",
@@ -53,39 +53,39 @@
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "229"
+        "position": "226"
     },
     {
-        "card_name": "RB02 Fated Omenseeker",
+        "card_name": "RB03 Marrow, Calamity of Bones",
         "number": 79,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "146"
+        "position": "147"
     },
     {
-        "card_name": "RR03 Cinder's Inferno",
-        "number": 110,
+        "card_name": "RR03 Rampant Rumors",
+        "number": 109,
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "226"
+        "position": "223"
     },
     {
-        "card_name": "RG02 valiant doubler",
-        "number": 140,
+        "card_name": "RG02 Scourge of Cantasia",
+        "number": 139,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "224"
+        "position": "221"
     },
     {
-        "card_name": "RW03 Day of Judgment",
+        "card_name": "RW03 Eider's Prophecy",
         "number": 20,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "139"
+        "position": "138"
     },
     {
         "card_name": "RU03 Obsessive Numerologist",
@@ -96,16 +96,16 @@
         "position": "142"
     },
     {
-        "card_name": "RB03 Marrow, Calamity of Bones",
+        "card_name": "RB04 doubt sac",
         "number": 80,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "147"
+        "position": "148"
     },
     {
         "card_name": "RR04 Wishbone",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -113,11 +113,11 @@
     },
     {
         "card_name": "RG03 proliferate saga",
-        "number": 141,
+        "number": 140,
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "154"
+        "position": "155"
     },
     {
         "card_name": "RW04 Starhall Augur",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "140"
+        "position": "139"
     },
     {
         "card_name": "RU04 Chronoblast",
@@ -136,16 +136,16 @@
         "position": "33"
     },
     {
-        "card_name": "RB04 gorgon lord",
+        "card_name": "RB05 Callous Invoker",
         "number": 81,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "148"
+        "position": "149"
     },
     {
-        "card_name": "RR05 endorse double damage",
-        "number": 112,
+        "card_name": "RR05 herald double damage",
+        "number": 111,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -153,19 +153,19 @@
     },
     {
         "card_name": "RG04 Speaker of Memory",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "155"
+        "position": "156"
     },
     {
-        "card_name": "UW01 aggressive 1-drop",
+        "card_name": "RW05 Chara, Beacon of Hope",
         "number": 22,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "12"
+        "position": "140"
     },
     {
         "card_name": "RU05 Cele, Dubious Dealer",
@@ -176,36 +176,36 @@
         "position": "144"
     },
     {
-        "card_name": "RB05 saboteur reanimate",
+        "card_name": "RB06 Seek the End",
         "number": 82,
+        "shape": "saga",
+        "set": "VOP",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "RR06 mobilize auras",
+        "number": 112,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "149"
+        "position": "153"
     },
     {
-        "card_name": "UR01 Enthusiasm",
-        "number": 113,
+        "card_name": "RG05 herald enchantments",
+        "number": 142,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "74"
+        "position": "157"
     },
     {
-        "card_name": "RG05 endorse enchantments",
-        "number": 143,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "156"
-    },
-    {
-        "card_name": "UW02 discount enchantment",
+        "card_name": "UW01 scry renown",
         "number": 23,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "13"
+        "position": "12"
     },
     {
         "card_name": "UU01 Impish Astrologer",
@@ -216,36 +216,36 @@
         "position": "35"
     },
     {
-        "card_name": "RB06 Seek the End",
+        "card_name": "UB01 Death's Disciple",
         "number": 83,
-        "shape": "saga",
-        "set": "VOP",
-        "rotated": false,
-        "position": "150"
-    },
-    {
-        "card_name": "UR02 Prideful Soloist",
-        "number": 114,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "75"
+        "position": "53"
     },
     {
-        "card_name": "UG01 Plucky Protagonist",
-        "number": 144,
+        "card_name": "UR01 Enthusiasm",
+        "number": 113,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "94"
+        "position": "74"
     },
     {
-        "card_name": "UW03 first strike trick",
+        "card_name": "UG01 avatarify",
+        "number": 143,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "UW02 Skybound Astrologer",
         "number": 24,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "14"
+        "position": "13"
     },
     {
         "card_name": "UU02 Fateweaver's Apprentice",
@@ -256,39 +256,39 @@
         "position": "42"
     },
     {
-        "card_name": "UB01 Death's Disciple",
+        "card_name": "UB02 Ravishing Rogue",
         "number": 84,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "53"
+        "position": "54"
     },
     {
-        "card_name": "UR03 Flashy Fencer",
-        "number": 115,
+        "card_name": "UR02 Gregarious Host",
+        "number": 114,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "227"
+        "position": "75"
     },
     {
-        "card_name": "UG02 flash propaganda",
-        "number": 145,
+        "card_name": "UG02 flash rumor",
+        "number": 144,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "95"
+        "position": "94"
     },
     {
-        "card_name": "UW04 Lifepath Seeker",
+        "card_name": "UW03 Frostwind Lieutenant",
         "number": 25,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "15"
+        "position": "14"
     },
     {
-        "card_name": "UU03 flash flyer",
+        "card_name": "UU03 splendor flyer",
         "number": 55,
         "shape": "normal",
         "set": "VOP",
@@ -296,23 +296,63 @@
         "position": "37"
     },
     {
-        "card_name": "UB02 Opposition Researcher",
+        "card_name": "UB03 Harbinger of Doubt",
         "number": 85,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "54"
+        "position": "60"
     },
     {
-        "card_name": "UR04 Lightning Dancer",
+        "card_name": "UR03 Flashy Fencer",
+        "number": 115,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "UG03 alliance seeker",
+        "number": 145,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "UW04 grow scry",
+        "number": 26,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "UU04 Suspicious Scrier",
+        "number": 56,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "UB04 Conniving Truthtwister",
+        "number": 86,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "UR04 Lightning Lasher",
         "number": 116,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "228"
+        "position": "225"
     },
     {
-        "card_name": "UG03 valiant seeker",
+        "card_name": "UG04 lore lover",
         "number": 146,
         "shape": "normal",
         "set": "VOP",
@@ -321,51 +361,11 @@
     },
     {
         "card_name": "UW05 lore lover",
-        "number": 26,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "16"
-    },
-    {
-        "card_name": "UU04 Skittish Scrier",
-        "number": 56,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "38"
-    },
-    {
-        "card_name": "UB03 enchant in gy",
-        "number": 86,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "60"
-    },
-    {
-        "card_name": "UR05 Pulpit Bully",
-        "number": 117,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "76"
-    },
-    {
-        "card_name": "UG04 lore lover",
-        "number": 147,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "97"
-    },
-    {
-        "card_name": "UW06 enchantment recursion",
         "number": 27,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "17"
+        "position": "16"
     },
     {
         "card_name": "UU05 Reclusive Runereader",
@@ -376,36 +376,36 @@
         "position": "39"
     },
     {
-        "card_name": "UB04 Infamous Guy",
+        "card_name": "UB05 Toxin Purveyor",
         "number": 87,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "56"
+        "position": "57"
     },
     {
-        "card_name": "UR06 aura recursion??",
-        "number": 118,
+        "card_name": "UR05 Blazing Scourgestomper",
+        "number": 117,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "77"
+        "position": "76"
     },
     {
-        "card_name": "UG06 alliance seeker",
-        "number": 148,
+        "card_name": "UG05 renown seeker",
+        "number": 147,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "98"
+        "position": "97"
     },
     {
-        "card_name": "UW07 small recursion",
+        "card_name": "UW06 enchantment recursion",
         "number": 28,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "18"
+        "position": "17"
     },
     {
         "card_name": "UU06 Precision",
@@ -416,36 +416,36 @@
         "position": "40"
     },
     {
-        "card_name": "UB05 Slithering Insurgent",
+        "card_name": "UB06 Power",
         "number": 88,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "57"
+        "position": "58"
     },
     {
-        "card_name": "UR07 ping on small",
-        "number": 119,
+        "card_name": "UR06 Sparking Hearthborn",
+        "number": 118,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "78"
+        "position": "77"
     },
     {
         "card_name": "UG07 Memory",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "99"
+        "position": "98"
     },
     {
-        "card_name": "UW08 grow scry",
+        "card_name": "UW07 Blessed Summoner",
         "number": 29,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "19"
+        "position": "18"
     },
     {
         "card_name": "UU07 big finisher",
@@ -456,20 +456,60 @@
         "position": "41"
     },
     {
-        "card_name": "UB06 Power",
+        "card_name": "UB07 Preacher of Symmetry",
         "number": 89,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "58"
+        "position": "59"
     },
     {
-        "card_name": "UR08 Battlesong Berserker",
+        "card_name": "UR07 splendor pump",
+        "number": 119,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "UG09 behold saga",
+        "number": 149,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "UW08 Lifepath Seeker",
+        "number": 30,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "UU08 Deepwell Seeker",
+        "number": 60,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "UB09 Death's Defiance",
+        "number": 90,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "UR09 Dragon's Tongue",
         "number": 120,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "79"
+        "position": "219"
     },
     {
         "card_name": "UG10 doubt bite",
@@ -481,51 +521,11 @@
     },
     {
         "card_name": "UW09 Grace",
-        "number": 30,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "20"
-    },
-    {
-        "card_name": "UU08 Deepwell Seeker",
-        "number": 60,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "36"
-    },
-    {
-        "card_name": "UB07 Preacher of Symmetry",
-        "number": 90,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "59"
-    },
-    {
-        "card_name": "UR09 Dragon's Tongue",
-        "number": 121,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "222"
-    },
-    {
-        "card_name": "UG11 Invocation of Memory",
-        "number": 151,
-        "shape": "saga",
-        "set": "VOP",
-        "rotated": false,
-        "position": "101"
-    },
-    {
-        "card_name": "UW10 flying topend",
         "number": 31,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "21"
+        "position": "20"
     },
     {
         "card_name": "UU09 Invocation of Precision",
@@ -536,36 +536,36 @@
         "position": "43"
     },
     {
-        "card_name": "UB09 second life",
+        "card_name": "UB10 Invocation of Power",
         "number": 91,
+        "shape": "saga",
+        "set": "VOP",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "UR10 tktk goatnap",
+        "number": 121,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "221"
+        "position": "79"
     },
     {
-        "card_name": "UR10 Bribery Scheme",
-        "number": 122,
-        "shape": "normal",
+        "card_name": "UG11 Invocation of Memory",
+        "number": 151,
+        "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "80"
+        "position": "101"
     },
     {
-        "card_name": "UG12 x lore",
-        "number": 152,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "102"
-    },
-    {
-        "card_name": "UW11 Idolize",
+        "card_name": "UW10 Valiant Skyseeker",
         "number": 32,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "220"
+        "position": "21"
     },
     {
         "card_name": "UU10 Brainstorm",
@@ -576,28 +576,28 @@
         "position": "44"
     },
     {
-        "card_name": "UB10 Invocation of Power",
+        "card_name": "UB11 bargain reanimate",
         "number": 92,
-        "shape": "saga",
-        "set": "VOP",
-        "rotated": false,
-        "position": "61"
-    },
-    {
-        "card_name": "UR11 Invocation of Enthusiasm",
-        "number": 123,
-        "shape": "saga",
-        "set": "VOP",
-        "rotated": false,
-        "position": "81"
-    },
-    {
-        "card_name": "UG13 endorse vigilance",
-        "number": 153,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "103"
+        "position": "62"
+    },
+    {
+        "card_name": "UR11 Invocation of Enthusiasm",
+        "number": 122,
+        "shape": "saga",
+        "set": "VOP",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "UG13 herald vigilance",
+        "number": 152,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "102"
     },
     {
         "card_name": "UW12 Invocation of Grace",
@@ -605,10 +605,10 @@
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "218"
+        "position": "216"
     },
     {
-        "card_name": "UU11 Peer Through Time",
+        "card_name": "UU11 Keep Down",
         "number": 63,
         "shape": "normal",
         "set": "VOP",
@@ -616,28 +616,28 @@
         "position": "45"
     },
     {
-        "card_name": "UB11 bargain reanimate",
+        "card_name": "UB12 Invoker's Rites",
         "number": 93,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "62"
+        "position": "63"
     },
     {
         "card_name": "UR12 Roll the Bones",
-        "number": 124,
+        "number": 123,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "82"
+        "position": "81"
     },
     {
         "card_name": "UG14 ferocious draw",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "104"
+        "position": "103"
     },
     {
         "card_name": "UW13 Storied Strike",
@@ -648,7 +648,7 @@
         "position": "22"
     },
     {
-        "card_name": "UU12 Early Retirement",
+        "card_name": "UU12 Sublimate",
         "number": 64,
         "shape": "normal",
         "set": "VOP",
@@ -656,31 +656,31 @@
         "position": "46"
     },
     {
-        "card_name": "UB12 Invoker's Rites",
+        "card_name": "UB15 Ruinbringer's Blade",
         "number": 94,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "63"
+        "position": "131"
     },
     {
         "card_name": "UR13 Fan the Flames",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "83"
+        "position": "82"
     },
     {
-        "card_name": "UG15 bargain disenchant",
-        "number": 155,
+        "card_name": "UG15 Scornful Capnomancer",
+        "number": 154,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "133"
+        "position": "132"
     },
     {
-        "card_name": "CW01 Perpetual Motion Machine",
+        "card_name": "CW01 move counters",
         "number": 5,
         "shape": "normal",
         "set": "VOP",
@@ -696,28 +696,28 @@
         "position": "23"
     },
     {
-        "card_name": "UB15 Ruinbringer's Blade",
+        "card_name": "CB02 Maddening Fabulist",
+        "number": 65,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "CR01 Harried Courier",
         "number": 95,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "132"
-    },
-    {
-        "card_name": "CR01 Intrepid Newsie",
-        "number": 96,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "202"
+        "position": "64"
     },
     {
         "card_name": "CG01 Sprouting Serpent",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "84"
+        "position": "83"
     },
     {
         "card_name": "CW03 Starhall Rogue",
@@ -728,52 +728,12 @@
         "position": "2"
     },
     {
-        "card_name": "CU03 Persistent Paparazzo",
+        "card_name": "CU03 flash stun",
         "number": 36,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "211"
-    },
-    {
-        "card_name": "CB02 Cheerless Reaper",
-        "number": 65,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "48"
-    },
-    {
-        "card_name": "CR03 small unblockable",
-        "number": 97,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "64"
-    },
-    {
-        "card_name": "CG02 Whisperwood Storyteller",
-        "number": 127,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "207"
-    },
-    {
-        "card_name": "CW04 Peregrine Guardian",
-        "number": 7,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "3"
-    },
-    {
-        "card_name": "CU04 flying seeker",
-        "number": 37,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "25"
+        "position": "209"
     },
     {
         "card_name": "CB03 Grim Apostle",
@@ -784,36 +744,36 @@
         "position": "49"
     },
     {
-        "card_name": "CR05 Fiery Insurgent",
-        "number": 98,
+        "card_name": "CR02 ferocious",
+        "number": 96,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "67"
+        "position": "65"
     },
     {
-        "card_name": "CG03 Satyr Rootspeaker",
-        "number": 128,
+        "card_name": "CG02 Whisperwood Storyteller",
+        "number": 126,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "85"
+        "position": "205"
     },
     {
-        "card_name": "CW05 Unflappable Conductor",
-        "number": 8,
+        "card_name": "CW04 Peregrine Guardian",
+        "number": 7,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "191"
+        "position": "3"
     },
     {
-        "card_name": "CU05 Wandering Dreamer",
-        "number": 38,
+        "card_name": "CU04 Promethean Lightseeker",
+        "number": 37,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "26"
+        "position": "25"
     },
     {
         "card_name": "CB05 Scheming Revolutionary",
@@ -824,20 +784,60 @@
         "position": "50"
     },
     {
+        "card_name": "CR05 Fiery Insurgent",
+        "number": 97,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "CG03 Satyr Rootspeaker",
+        "number": 127,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "CW05 Unflappable Conductor",
+        "number": 8,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "CU05 Wandering Dreamer",
+        "number": 38,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "CB06 Silkblade Assassin",
+        "number": 68,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "51"
+    },
+    {
         "card_name": "CR06 pinger",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "68"
     },
     {
-        "card_name": "CG05 reach doubt",
-        "number": 129,
+        "card_name": "CG05 Moon-Blessed Marksman",
+        "number": 128,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "87"
+        "position": "86"
     },
     {
         "card_name": "CW07 Runic Celebrant",
@@ -856,16 +856,16 @@
         "position": "27"
     },
     {
-        "card_name": "CB06 Silkblade Assassin",
-        "number": 68,
+        "card_name": "CB07 Wicked Lurker",
+        "number": 69,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "51"
+        "position": "193"
     },
     {
-        "card_name": "CR07 prowess trample",
-        "number": 100,
+        "card_name": "CR07 Frostwind Pummeller",
+        "number": 99,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -873,11 +873,11 @@
     },
     {
         "card_name": "CG06 Patient Tea-Reader",
-        "number": 130,
+        "number": 129,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "208"
+        "position": "206"
     },
     {
         "card_name": "CW08 Lifepath Communer",
@@ -896,46 +896,6 @@
         "position": "28"
     },
     {
-        "card_name": "CB07 Wicked Lurker",
-        "number": 69,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "195"
-    },
-    {
-        "card_name": "CR08 Genial Gladiator",
-        "number": 101,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "70"
-    },
-    {
-        "card_name": "CG08 renown trample",
-        "number": 131,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "89"
-    },
-    {
-        "card_name": "CW09 Squad Rallier",
-        "number": 11,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "7"
-    },
-    {
-        "card_name": "CU08 ward cycler",
-        "number": 41,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "29"
-    },
-    {
         "card_name": "CB08 Charming Haruspex",
         "number": 70,
         "shape": "normal",
@@ -944,20 +904,60 @@
         "position": "55"
     },
     {
-        "card_name": "CR09 Fated Fighter",
-        "number": 102,
+        "card_name": "CR08 Genial Gladiator",
+        "number": 100,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "203"
+        "position": "70"
+    },
+    {
+        "card_name": "CG08 renown trample",
+        "number": 130,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "CW09 valiant grow",
+        "number": 11,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "CU08 Slithering Lurker",
+        "number": 41,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "CB09 menace cycler",
+        "number": 71,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "CR09 Fated Fighter",
+        "number": 101,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "201"
     },
     {
         "card_name": "CG09 Symbiotic Statue",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "90"
+        "position": "89"
     },
     {
         "card_name": "CW10 Pampered Patron",
@@ -965,10 +965,10 @@
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "192"
+        "position": "190"
     },
     {
-        "card_name": "CU09 endorse flying",
+        "card_name": "CU09 Wind's Grace",
         "number": 42,
         "shape": "normal",
         "set": "VOP",
@@ -976,28 +976,28 @@
         "position": "30"
     },
     {
-        "card_name": "CB09 Looming Omen",
-        "number": 71,
+        "card_name": "CB10 Deadly Deal",
+        "number": 72,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "196"
+        "position": "195"
     },
     {
         "card_name": "CR10 Shock",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "204"
+        "position": "202"
     },
     {
         "card_name": "CG10 trample cycler",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "209"
+        "position": "207"
     },
     {
         "card_name": "CW11 Unchained Kestrel",
@@ -1016,28 +1016,28 @@
         "position": "31"
     },
     {
-        "card_name": "CB10 Deadly Deal",
-        "number": 72,
+        "card_name": "CB11 Serpent's Touch",
+        "number": 73,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "197"
+        "position": "196"
     },
     {
         "card_name": "CR11 Feather Technique",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "71"
     },
     {
-        "card_name": "CG11 Smear Campaign",
-        "number": 134,
+        "card_name": "CG11 fight rumor",
+        "number": 133,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "91"
+        "position": "90"
     },
     {
         "card_name": "CW12 Vision of Calamity",
@@ -1056,46 +1056,6 @@
         "position": "32"
     },
     {
-        "card_name": "CB11 Gorgon's Touch",
-        "number": 73,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "198"
-    },
-    {
-        "card_name": "CR12 Song of Stories",
-        "number": 105,
-        "shape": "saga",
-        "set": "VOP",
-        "rotated": false,
-        "position": "72"
-    },
-    {
-        "card_name": "CG12 plummet propaganda",
-        "number": 135,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "210"
-    },
-    {
-        "card_name": "CW13 Subpoena",
-        "number": 15,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "10"
-    },
-    {
-        "card_name": "CU13 tap aura",
-        "number": 45,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "190"
-    },
-    {
         "card_name": "CB12 Song of Dread",
         "number": 74,
         "shape": "saga",
@@ -1104,36 +1064,36 @@
         "position": "52"
     },
     {
-        "card_name": "CR13 Flip the Table",
-        "number": 106,
-        "shape": "normal",
+        "card_name": "CR12 Song of Stories",
+        "number": 104,
+        "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "205"
+        "position": "72"
     },
     {
-        "card_name": "CG13 endorse trample",
-        "number": 136,
+        "card_name": "CG12 Make Disappear",
+        "number": 134,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "223"
+        "position": "208"
     },
     {
-        "card_name": "CW14 endorse indestructible",
-        "number": 16,
+        "card_name": "CW13 Banishing Light",
+        "number": 15,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "219"
+        "position": "10"
     },
     {
-        "card_name": "CU14 top/bottom+scry",
-        "number": 46,
+        "card_name": "CU13 Shift the Timeline",
+        "number": 45,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "143"
+        "position": "188"
     },
     {
         "card_name": "CB13 Disarming Development",
@@ -1141,23 +1101,63 @@
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "200"
+        "position": "198"
+    },
+    {
+        "card_name": "CR13 Flip the Table",
+        "number": 105,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "CG13 herald trample",
+        "number": 135,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "CW14 Mask of the Lion Dragon",
+        "number": 16,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "CU14 Glittering Refraction",
+        "number": 46,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "CB14 murder",
+        "number": 76,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "197"
     },
     {
         "card_name": "CR14 Show of Force",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "206"
+        "position": "204"
     },
     {
         "card_name": "CG14 Ravenous Roots",
-        "number": 137,
+        "number": 136,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "92"
+        "position": "91"
     },
     {
         "card_name": "CW15 Song of Idols",
@@ -1176,8 +1176,8 @@
         "position": "34"
     },
     {
-        "card_name": "CB14 Murder",
-        "number": 76,
+        "card_name": "CB15 Sanctify in Ashes",
+        "number": 77,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1185,7 +1185,7 @@
     },
     {
         "card_name": "CR15 Rabblerousing Runt",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1193,31 +1193,11 @@
     },
     {
         "card_name": "CG15 Song of Rebirth",
-        "number": 138,
+        "number": 137,
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "93"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CB15 Sanctify in Ashes",
-        "number": 77,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "201"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "92"
     },
     {
         "card_name": "er"
@@ -1234,23 +1214,23 @@
     "a->gold",
     {
         "card_name": "RM01 Insight",
+        "number": 155,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "RM04 sneak",
         "number": 156,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "157"
-    },
-    {
-        "card_name": "RM03 Dominance",
-        "number": 157,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "165"
+        "position": "166"
     },
     {
         "card_name": "RM05 Commitment",
-        "number": 159,
+        "number": 157,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1258,63 +1238,23 @@
     },
     {
         "card_name": "RM07 Kinship",
-        "number": 161,
+        "number": 159,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "RM09 Narrative",
+        "number": 160,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "169"
     },
     {
-        "card_name": "RM09 Narrative",
-        "number": 162,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "170"
-    },
-    {
-        "card_name": "UM02 control topend",
-        "number": 170,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "106"
-    },
-    {
-        "card_name": "RM04 sneak",
-        "number": 158,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "166"
-    },
-    {
-        "card_name": "RM06 Vzhs, Brutal Barterer",
-        "number": 160,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "145"
-    },
-    {
-        "card_name": "UM08 Censured Cryptid",
-        "number": 173,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "112"
-    },
-    {
-        "card_name": "UM10 grants counters",
-        "number": 174,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "114"
-    },
-    {
-        "card_name": "UM01 scry grow",
-        "number": 190,
+        "card_name": "UM02 Omen of Hope",
+        "number": 167,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1322,63 +1262,103 @@
     },
     {
         "card_name": "UM04 Deepwell Infiltrator",
-        "number": 171,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "108"
-    },
-    {
-        "card_name": "UM06 Spectratog",
-        "number": 172,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "111"
-    },
-    {
-        "card_name": "UM07 attack propaganda",
-        "number": 193,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "109"
-    },
-    {
-        "card_name": "UM09 likes counters",
-        "number": 194,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "CW02 Surveillance Pigeon",
-        "number": 188,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "0"
-    },
-    {
-        "card_name": "UM03 Prognostic Frog",
-        "number": 191,
+        "number": 168,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "107"
     },
     {
-        "card_name": "UM05 Hired Henchman",
-        "number": 192,
+        "card_name": "RM06 Vzhs, Brutal Barterer",
+        "number": 158,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "UM08 Brash Accelerationist",
+        "number": 170,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "UM10 grants counters FLAG",
+        "number": 171,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "UM01 scry attack",
+        "number": 187,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "UM03 Prognostic Frog",
+        "number": 188,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "UM06 Spectratog",
+        "number": 169,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "110"
     },
     {
-        "card_name": "CR04 Notorious Pugilist",
+        "card_name": "UM07 Censured Cryptid",
+        "number": 190,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "UM09 likes counters",
+        "number": 191,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "CW02 Surveillance Pigeon",
         "number": 185,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "CU02 Skulking Striker",
+        "number": 183,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "UM05 Hired Henchman",
+        "number": 189,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "CR04 Notorious Pugilist",
+        "number": 182,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1386,26 +1366,21 @@
     },
     {
         "card_name": "CG07 Wilderland Troubador",
-        "number": 183,
+        "number": 180,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "88"
+        "position": "87"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "CU02 Skulking Saboteur",
-        "number": 186,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "24"
+        "card_name": "e"
     },
     {
         "card_name": "CB01 Marked Monument",
-        "number": 180,
+        "number": 177,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1434,167 +1409,167 @@
     },
     {
         "card_name": "RM11 Ambition",
-        "number": 163,
+        "number": 161,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "171"
+        "position": "170"
     },
     {
         "card_name": "RM13 Ebullience",
-        "number": 165,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "173"
-    },
-    {
-        "card_name": "RM15 Cultivation",
-        "number": 166,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "174"
-    },
-    {
-        "card_name": "RM17 Spectacle",
-        "number": 167,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "175"
-    },
-    {
-        "card_name": "RM19 Abundance",
-        "number": 168,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "176"
-    },
-    {
-        "card_name": "RM12 Figure of Notoriety",
-        "number": 164,
+        "number": 163,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "172"
     },
     {
+        "card_name": "RM15 Cultivation",
+        "number": 164,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "RM17 Spectacle",
+        "number": 165,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "RM20 herald avatar",
+        "number": 166,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "RM12 Figure of Notoriety",
+        "number": 162,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "171"
+    },
+    {
         "card_name": "UM14 Farsight Flameshaper",
-        "number": 176,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "118"
-    },
-    {
-        "card_name": "UM16 Chimeric Killer",
-        "number": 177,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "120"
-    },
-    {
-        "card_name": "UM18 likes small",
-        "number": 178,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "122"
-    },
-    {
-        "card_name": "RM20 endorse avatar",
-        "number": 169,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "177"
-    },
-    {
-        "card_name": "UM12 Serpentine Sculptor",
-        "number": 175,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "115"
-    },
-    {
-        "card_name": "UM13 permanent prowess",
-        "number": 196,
+        "number": 173,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "117"
     },
     {
-        "card_name": "UM15 enchantment recursion",
-        "number": 197,
+        "card_name": "UM16 Chimeric Killer",
+        "number": 174,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "119"
     },
     {
-        "card_name": "UM17 first stike granter",
-        "number": 198,
+        "card_name": "UM18 likes auras",
+        "number": 175,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "121"
     },
     {
-        "card_name": "UM20 long game seeker",
-        "number": 179,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "124"
-    },
-    {
-        "card_name": "UM11 Starlit Researcher",
-        "number": 195,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "116"
-    },
-    {
-        "card_name": "CU11 prowess looter",
-        "number": 187,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "193"
-    },
-    {
-        "card_name": "CB04 Sinister Cynic",
-        "number": 181,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "194"
-    },
-    {
-        "card_name": "CR02 etb statue",
-        "number": 184,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "65"
-    },
-    {
-        "card_name": "UM19 defender seeker",
-        "number": 199,
+        "card_name": "UM20 Bishop of Calamity",
+        "number": 176,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "123"
     },
     {
+        "card_name": "UM12 renown drain",
+        "number": 172,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "UM13 permanent splendor",
+        "number": 193,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "UM15 enchantment recursion",
+        "number": 194,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "UM17 Plucky Protagonist",
+        "number": 195,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "UM19 defender seeker",
+        "number": 196,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "UM11 Starlit Researcher",
+        "number": 192,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "CU11 rummage splendor",
+        "number": 184,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "CB04 Sinister Cynic",
+        "number": 178,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "CR03 valiant",
+        "number": 181,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "CG04 Waterwhip Seeker",
+        "number": 179,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "85"
+    },
+    {
         "card_name": "CW06 first strike renown",
-        "number": 189,
+        "number": 186,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
@@ -1610,12 +1585,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "CG04 Waterwhip Seeker",
-        "number": 182,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "86"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1631,12 +1601,12 @@
     },
     "a->colorless",
     {
-        "card_name": "UA01 Noble Venture",
+        "card_name": "UA01 Noble Pursuit",
         "number": 3,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "129"
+        "position": "128"
     },
     {
         "card_name": "UA02 Invocation of Modernity",
@@ -1644,23 +1614,23 @@
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "131"
+        "position": "130"
     },
     {
         "card_name": "UA03 Moonstone Orb",
-        "number": 204,
+        "number": 201,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "134"
+        "position": "133"
     },
     {
         "card_name": "UL02 Phantom Hourglass",
-        "number": 205,
+        "number": 202,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "130"
+        "position": "129"
     },
     {
         "card_name": "CA05 Favorable Fortune",
@@ -1668,67 +1638,47 @@
         "shape": "saga",
         "set": "VOP",
         "rotated": false,
-        "position": "188"
+        "position": "186"
     },
     {
-        "card_name": "CA06 Taking the Auspices",
+        "card_name": "CA06 Auspicious Occasion",
         "number": 2,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "136"
+        "position": "135"
     },
     {
         "card_name": "CA01 Prismatic Thopter",
-        "number": 200,
+        "number": 197,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "125"
+        "position": "124"
     },
     {
         "card_name": "CA02 Automated Archivist",
-        "number": 201,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "127"
-    },
-    {
-        "card_name": "CA02 Inspiring Effigy",
-        "number": 202,
+        "number": 198,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "126"
     },
     {
-        "card_name": "CA04 Horologist's Lens",
-        "number": 203,
+        "card_name": "CA02 Inspiring Effigy",
+        "number": 199,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "128"
+        "position": "125"
     },
     {
-        "card_name": "The Inevitable",
-        "number": 222,
-        "shape": "saga",
+        "card_name": "CA04 Chronoscope",
+        "number": 200,
+        "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "189"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "127"
     },
     {
         "card_name": "er"
@@ -1747,43 +1697,43 @@
     },
     {
         "card_name": "CL01 Solitary Lighthouse",
-        "number": 206,
+        "number": 203,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "CL02 Shadowy Office",
+        "number": 204,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "CL03 Rowdy Tavern",
+        "number": 205,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "178"
     },
     {
-        "card_name": "CL02 Shadowy Office",
-        "number": 207,
+        "card_name": "CL04 Postered Alley",
+        "number": 206,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "179"
     },
     {
-        "card_name": "CL03 Rowdy Tavern",
-        "number": 208,
+        "card_name": "CL05 Bustling Forum",
+        "number": 207,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "180"
-    },
-    {
-        "card_name": "CL04 Postered Alley",
-        "number": 209,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "181"
-    },
-    {
-        "card_name": "CL05 Bustling Forum",
-        "number": 210,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "182"
     },
     {
         "card_name": "er"
@@ -1802,43 +1752,43 @@
     },
     {
         "card_name": "CL06 Starlit Observatory",
-        "number": 211,
+        "number": 208,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "CL07 Horologist's Workshop",
+        "number": 209,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "CL08 Cryptic Catacomb",
+        "number": 210,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "183"
     },
     {
-        "card_name": "CL07 Horologist's Workshop",
-        "number": 212,
+        "card_name": "CL09 Grand Stage",
+        "number": 211,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "184"
     },
     {
-        "card_name": "CL08 Cryptic Catacomb",
-        "number": 213,
+        "card_name": "CL10 Invoker's Sanctuary",
+        "number": 212,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "185"
-    },
-    {
-        "card_name": "CL09 Grand Stage",
-        "number": 214,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "186"
-    },
-    {
-        "card_name": "CL10 Invoker's Sanctuary",
-        "number": 215,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "187"
     },
     {
         "card_name": "er"
@@ -1857,11 +1807,11 @@
     },
     {
         "card_name": "UL01 Sanctum of the Watcher",
-        "number": 216,
+        "number": 213,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
-        "position": "135"
+        "position": "134"
     },
     {
         "card_name": "e"
@@ -1892,43 +1842,43 @@
     },
     {
         "card_name": "Plains",
-        "number": 217,
-        "shape": "normal",
-        "set": "VOP",
-        "rotated": false,
-        "position": "160"
-    },
-    {
-        "card_name": "Island",
-        "number": 218,
+        "number": 214,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "161"
     },
     {
-        "card_name": "Swamp",
-        "number": 219,
+        "card_name": "Island",
+        "number": 215,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "162"
     },
     {
-        "card_name": "Mountain",
-        "number": 220,
+        "card_name": "Swamp",
+        "number": 216,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "163"
     },
     {
-        "card_name": "Forest",
-        "number": 221,
+        "card_name": "Mountain",
+        "number": 217,
         "shape": "normal",
         "set": "VOP",
         "rotated": false,
         "position": "164"
+    },
+    {
+        "card_name": "Forest",
+        "number": 218,
+        "shape": "normal",
+        "set": "VOP",
+        "rotated": false,
+        "position": "165"
     },
     {
         "card_name": "er"
@@ -1949,19 +1899,11 @@
         "shape": "token",
         "set": "VOP",
         "rotated": false,
-        "position": "213"
+        "position": "211"
     },
     {
-        "card_name": "Propaganda",
+        "card_name": "Rumor",
         "number": 2,
-        "shape": "token",
-        "set": "VOP",
-        "rotated": false,
-        "position": "216"
-    },
-    {
-        "card_name": "Sculpture",
-        "number": 6,
         "shape": "token",
         "set": "VOP",
         "rotated": false,
@@ -1973,18 +1915,18 @@
         "shape": "token",
         "set": "VOP",
         "rotated": false,
-        "position": "215"
+        "position": "213"
     },
     {
-        "card_name": "Z_Archetypes",
+        "card_name": "The Inevitable",
         "number": 8,
         "shape": "token",
         "set": "VOP",
         "rotated": false,
-        "position": "158"
+        "position": "187"
     },
     {
-        "card_name": "Z_Common Keyword Distribution",
+        "card_name": "Z_Archetypes",
         "number": 9,
         "shape": "token",
         "set": "VOP",
@@ -1992,12 +1934,20 @@
         "position": "159"
     },
     {
+        "card_name": "Z_Common Keyword Distribution",
+        "number": 10,
+        "shape": "token",
+        "set": "VOP",
+        "rotated": false,
+        "position": "160"
+    },
+    {
         "card_name": "Hero",
         "number": 3,
         "shape": "token",
         "set": "VOP",
         "rotated": false,
-        "position": "212"
+        "position": "210"
     },
     {
         "card_name": "Bird",
@@ -2005,7 +1955,7 @@
         "shape": "token",
         "set": "VOP",
         "rotated": false,
-        "position": "230"
+        "position": "227"
     },
     {
         "card_name": "Avatar",
@@ -2013,10 +1963,15 @@
         "shape": "token",
         "set": "VOP",
         "rotated": false,
-        "position": "217"
+        "position": "215"
     },
     {
-        "card_name": "e"
+        "card_name": "Aetherborn",
+        "number": 6,
+        "shape": "token",
+        "set": "VOP",
+        "rotated": false,
+        "position": "212"
     },
     {
         "card_name": "er"
