@@ -4325,4 +4325,4 @@
 	4 Syzygy, Whole One
 	4 A World Asunder
 	4 The Terralance
-[land(1)]
+[landslot(1)]
