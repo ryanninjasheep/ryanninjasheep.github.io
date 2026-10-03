@@ -5,7 +5,7 @@
 			<name>VOP</name>
 			<longname>Visions of Presh</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-02</releasedate>
+			<releasedate>2026-10-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -13,7 +13,7 @@
 			<name>CW02 Surveillance Pigeon</name>
 			<text>Flying
 When this creature enters, scry 2.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/0.jpg" num="195">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/0.jpg" num="201">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -85,7 +85,7 @@ Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t r
 			<name>CW06 first strike renown</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 During your turn, this creature has first strike.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/4.jpg" num="196">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/4.jpg" num="202">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -224,7 +224,7 @@ III — Create a 1/1 white Hero creature token with renown 1. (When that creatur
 			<name>UW01 scry renown</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Whenever one or more +1/+1 counters are put on this creature, scry 1. You gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/12.jpg" num="23">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/12.jpg" num="24">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -242,7 +242,7 @@ Whenever one or more +1/+1 counters are put on this creature, scry 1. You gain 1
 			<name>UW02 Skybound Astrologer</name>
 			<text>Flying
 Enchantment spells you cast cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/13.jpg" num="24">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/13.jpg" num="25">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -260,7 +260,7 @@ Enchantment spells you cast cost {1} less to cast.</text>
 			<name>UW03 Frostwind Lieutenant</name>
 			<text>Flash
 When this creature enters, target creature you control gains first strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/14.jpg" num="25">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/14.jpg" num="26">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -278,7 +278,7 @@ When this creature enters, target creature you control gains first strike until 
 			<name>UW08 Lifepath Seeker</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 As long as this creature is renowned, it has double strike.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/15.jpg" num="30">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/15.jpg" num="31">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -296,7 +296,7 @@ As long as this creature is renowned, it has double strike.</text>
 			<name>UW05 lore lover</name>
 			<text>Vigilance
 Whenever you put a lore counter on a Saga you control, creatures you control get +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/16.jpg" num="27">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/16.jpg" num="28">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -314,7 +314,7 @@ Whenever you put a lore counter on a Saga you control, creatures you control get
 			<name>UW06 enchantment recursion</name>
 			<text>When this creature enters, return target enchantment card from your graveyard to your hand.
 Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/17.jpg" num="28">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/17.jpg" num="29">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -333,7 +333,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<text>When this creature enters, choose one —
 • Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 • Create a 1/1 white Hero token with renown 1. (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/18.jpg" num="29">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/18.jpg" num="30">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -351,7 +351,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<name>UW04 grow scry</name>
 			<text>Whenever you scry or surveil, put a +1/+1 counter on this creature.
 {3}{W}: Scry 1.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/19.jpg" num="26">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/19.jpg" num="27">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -369,7 +369,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<name>UW09 Grace</name>
 			<text>Lifelink
 {1}{W}: Tap another target untapped creature and put a +1/+1 counter on it. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/20.jpg" num="31">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/20.jpg" num="32">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -387,7 +387,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<name>UW10 Valiant Skyseeker</name>
 			<text>Flying, vigilance
 At the beginning of combat on your turn, another target creature you control gains flying and vigilance until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/21.jpg" num="32">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/21.jpg" num="33">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -404,7 +404,7 @@ At the beginning of combat on your turn, another target creature you control gai
 		<card>
 			<name>UW13 Storied Strike</name>
 			<text>Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn. If it&apos;s renowned, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/22.jpg" num="34">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/22.jpg" num="35">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -418,9 +418,27 @@ At the beginning of combat on your turn, another target creature you control gai
 			<tablerow>3</tablerow>
 		</card>
 		<card>
+			<name>UW14 Hero&apos;s Mantle</name>
+			<text>Herald {1}{W} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
+Enchant creature
+When this enchantment enters and whenever enchanted creature attacks, put a +1/+1 counter on enchanted creature.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/23.jpg" num="36">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
 			<name>CU01 Waterwhip Duelist</name>
 			<text>Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/23.jpg" num="35">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/24.jpg" num="37">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -438,7 +456,7 @@ At the beginning of combat on your turn, another target creature you control gai
 			<name>CU02 Skulking Striker</name>
 			<text>Flash
 When this creature enters, target creature an opponent controls gets -2/-0 until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/24.jpg" num="193">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/25.jpg" num="199">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -456,7 +474,7 @@ When this creature enters, target creature an opponent controls gets -2/-0 until
 			<name>CU04 Promethean Lightseeker</name>
 			<text>Flying
 When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/25.jpg" num="37">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/26.jpg" num="39">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -473,7 +491,7 @@ When this creature enters, seek the end. (Put a lore counter on a Saga you contr
 		<card>
 			<name>CU05 Wandering Dreamer</name>
 			<text>Splendor — Whenever you cast an enchantment, instant, or sorcery spell, scry 1. Then you may have this creature&apos;s base power and toughness become 4/2 until end of turn. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/26.jpg" num="38">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/27.jpg" num="40">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -490,7 +508,7 @@ When this creature enters, seek the end. (Put a lore counter on a Saga you contr
 		<card>
 			<name>CU06 Stoic Ravenspeaker</name>
 			<text>Whenever this creature deals combat damage to a player, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/27.jpg" num="39">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/28.jpg" num="41">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -508,7 +526,7 @@ When this creature enters, seek the end. (Put a lore counter on a Saga you contr
 			<name>CU07 Wizened Ornithomancer</name>
 			<text>Flying
 When this creature enters, draw two cards, then discard two cards unless you discard an enchantment card.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/28.jpg" num="40">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/29.jpg" num="42">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -526,7 +544,7 @@ When this creature enters, draw two cards, then discard two cards unless you dis
 			<name>CU08 Slithering Lurker</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 {2}, Discard this card: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/29.jpg" num="41">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/30.jpg" num="43">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -545,7 +563,7 @@ When this creature enters, draw two cards, then discard two cards unless you dis
 			<text>Herald {U} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature gets +0/+2 and has flying.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/30.jpg" num="42">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/31.jpg" num="44">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -561,7 +579,7 @@ Enchanted creature gets +0/+2 and has flying.</text>
 		<card>
 			<name>CU10 That&apos;s Not What Happened</name>
 			<text>Counter target spell unless its controller pays {2}. If you control a Saga, instead counter that spell unless its controller pays {4}.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/31.jpg" num="43">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/32.jpg" num="45">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -578,7 +596,7 @@ Enchanted creature gets +0/+2 and has flying.</text>
 			<name>CU12 Visionary&apos;s Council</name>
 			<text>When this enchantment enters, draw a card.
 {3}{U}, Sacrifice this enchantment: Draw two cards.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/32.jpg" num="44">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/33.jpg" num="46">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -594,7 +612,7 @@ Enchanted creature gets +0/+2 and has flying.</text>
 		<card>
 			<name>RU04 Chronoblast</name>
 			<text>Target nonland permanent&apos;s owner puts it on the bottom of their library or X from the top. (If X is 0, it would go on top.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/33.jpg" num="51">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/34.jpg" num="53">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -614,7 +632,7 @@ I, II — Draw a card, then discard a card.
 III — Target creature can&apos;t be blocked this turn.
 &quot;You cannot fight the tides. But you can follow them to smoother waters.&quot;
 —Instructor Kal</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/34.jpg" num="47">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/35.jpg" num="49">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -632,7 +650,7 @@ III — Target creature can&apos;t be blocked this turn.
 			<text>Flash
 Flying
 {T}: Scry 1.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/35.jpg" num="54">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/36.jpg" num="56">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -649,7 +667,7 @@ Flying
 		<card>
 			<name>UU08 Deepwell Seeker</name>
 			<text>{T}: Seek the end. Activate only as a sorcery. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/36.jpg" num="61">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/37.jpg" num="63">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -667,7 +685,7 @@ Flying
 			<name>UU03 splendor flyer</name>
 			<text>Flying
 Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/37.jpg" num="56">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/38.jpg" num="58">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -684,7 +702,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 		<card>
 			<name>UU04 Suspicious Scrier</name>
 			<text>Whenever you cast a spell during an opponent&apos;s turn, create a Shard token. (It&apos;s an enchantment with &quot;{2}, Sacrifice this token: Scry 1, then draw a card.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/38.jpg" num="57">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/39.jpg" num="59">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -702,7 +720,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<name>UU05 Reclusive Runereader</name>
 			<text>When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 Whenever you attack with one or more Avatars or Incarnations, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/39.jpg" num="58">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/40.jpg" num="60">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -721,7 +739,7 @@ Whenever you attack with one or more Avatars or Incarnations, draw a card.</text
 			<text>Flying
 This creature&apos;s power is equal to the number of cards in your hand.
 Whenever one or more creatures you control deal combat damage to a player, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/40.jpg" num="59">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/41.jpg" num="61">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -740,7 +758,7 @@ Whenever one or more creatures you control deal combat damage to a player, draw 
 			<text>Flash
 This creature enters tapped if it&apos;s not your turn.
 When this creature enters, tap up to two target creatures.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/41.jpg" num="60">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/42.jpg" num="62">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -758,7 +776,7 @@ When this creature enters, tap up to two target creatures.</text>
 			<name>UU02 Fateweaver&apos;s Apprentice</name>
 			<text>Vigilance
 Whenever you scry or surveil, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/42.jpg" num="55">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/43.jpg" num="57">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -779,7 +797,7 @@ Flash
 I — Counter up to one target spell.
 II — Scry 1, then draw a card.
 III — Create a 4/4 colorless Incarnation enchantment creature token.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/43.jpg" num="62">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/44.jpg" num="64">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -795,7 +813,7 @@ III — Create a 4/4 colorless Incarnation enchantment creature token.</text>
 		<card>
 			<name>UU10 Brainstorm</name>
 			<text>Draw three cards, then put two cards from your hand on top of your library in any order.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/44.jpg" num="63">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/45.jpg" num="65">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -814,7 +832,7 @@ III — Create a 4/4 colorless Incarnation enchantment creature token.</text>
 Enchant creature
 When this enchantment enters, tap enchanted creature.
 Enchanted creature loses all abilities and doesn&apos;t untap during its controller&apos;s untap step.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/45.jpg" num="64">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/46.jpg" num="66">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -832,7 +850,7 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 			<text>Choose one —
 • Until end of turn, target creature becomes a Coward with base power and toughness 1/1.
 • Until end of turn, target enchantment becomes a 4/5 Incarnation creature in addition to its other types.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/46.jpg" num="65">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/47.jpg" num="67">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -848,7 +866,7 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 		<card>
 			<name>CB01 Marked Monument</name>
 			<text>When this creature dies, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/47.jpg" num="187">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/48.jpg" num="193">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -866,7 +884,7 @@ Enchanted creature loses all abilities and doesn&apos;t untap during its control
 			<name>CB02 Maddening Fabulist</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 When this creature enters, each opponent discards a card.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/48.jpg" num="66">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/49.jpg" num="69">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -884,7 +902,7 @@ When this creature enters, each opponent discards a card.</text>
 			<name>CB03 Grim Apostle</name>
 			<text>Lifelink
 When this creature enters, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/49.jpg" num="67">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/50.jpg" num="70">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -902,7 +920,7 @@ When this creature enters, create a Rumor token. (It&apos;s an enchantment with 
 			<name>CB05 Scheming Revolutionary</name>
 			<text>Flash
 {1}{B}: This creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/50.jpg" num="68">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/51.jpg" num="71">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -920,7 +938,7 @@ When this creature enters, create a Rumor token. (It&apos;s an enchantment with 
 			<name>CB06 Silkblade Assassin</name>
 			<text>Menace
 Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/51.jpg" num="69">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/52.jpg" num="72">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -935,12 +953,31 @@ Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t r
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>UM16 Gire&apos;s Gambit</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Destroy target nonland permanent.
+II — Create a Treasure token.
+III — Return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/53.jpg" num="190">VOP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
 			<name>CB12 Song of Dread</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Draw a card.
 III — You lose 2 life.
 Never look too far into the future. You won&apos;t like what you see.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/52.jpg" num="75">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/54.jpg" num="78">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -957,7 +994,7 @@ Never look too far into the future. You won&apos;t like what you see.</text>
 			<name>UB01 Death&apos;s Disciple</name>
 			<text>When this creature dies, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 {2}{B}: Return this card from your graveyard to your hand.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/53.jpg" num="85">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/55.jpg" num="88">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -975,7 +1012,7 @@ Never look too far into the future. You won&apos;t like what you see.</text>
 			<name>UB02 Faithful Following</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Create a 2/2 red Aetherborn creature token. If this spell was bargained, instead create a 4/4 colorless Incarnation enchantment creature token.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/54.jpg" num="86">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/56.jpg" num="89">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -991,7 +1028,7 @@ Create a 2/2 red Aetherborn creature token. If this spell was bargained, instead
 		<card>
 			<name>CB08 Charming Haruspex</name>
 			<text>Whenever you attack, target creature you control gets +1/+0 until end of turn. When that creature dies this turn, scry 1.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/55.jpg" num="71">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/57.jpg" num="74">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1009,7 +1046,7 @@ Create a 2/2 red Aetherborn creature token. If this spell was bargained, instead
 			<name>UB03 Conniving Truthtwister</name>
 			<text>Menace
 Whenever you cast a spell during an opponent&apos;s turn, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/56.jpg" num="87">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/58.jpg" num="90">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1027,7 +1064,7 @@ Whenever you cast a spell during an opponent&apos;s turn, create a Rumor token. 
 			<name>UB05 Toxin Purveyor</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Whenever you attack, target creature you control gains deathtouch until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/57.jpg" num="89">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/59.jpg" num="92">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1044,7 +1081,7 @@ Whenever you attack, target creature you control gains deathtouch until end of t
 		<card>
 			<name>UB06 Power</name>
 			<text>{1}, Sacrifice another artifact, enchantment, or token: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/58.jpg" num="90">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/60.jpg" num="93">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1059,28 +1096,10 @@ Whenever you attack, target creature you control gains deathtouch until end of t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UB07 Preacher of Symmetry</name>
-			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
-When this creature enters, if it was bargained, each opponent sacrifices a creature of their choice.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/59.jpg" num="91">VOP</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature</type>
-				<maintype>Creature</maintype>
-				<manacost>4B</manacost>
-				<cmc>5</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>5/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>UB04 Harbinger of Doubt</name>
-			<text>Flying, lifelink
-Whenever an enchantment you control leaves the battlefield, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/60.jpg" num="88">VOP</set>
+			<text>Flying
+Whenever an enchantment you control leaves the battlefield, this creature gets +1/+0 until end of turn. If it was a Saga, this creature also gains lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/61.jpg" num="91">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1090,7 +1109,7 @@ Whenever an enchantment you control leaves the battlefield, this creature gets +
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1100,7 +1119,7 @@ Whenever an enchantment you control leaves the battlefield, this creature gets +
 I — Destroy up to one target creature.
 II — Create a 4/4 colorless Incarnation enchantment creature token.
 III — You may sacrifice a token. If you do, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/61.jpg" num="93">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/62.jpg" num="96">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1114,10 +1133,10 @@ III — You may sacrifice a token. If you do, draw a card.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UB11 Gire&apos;s Gambit</name>
+			<name>UB11 Infernal Pact</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Choose target creature card in your graveyard with mana value 4 or less. If this spell was bargained, instead choose target creature card in your graveyard. Return the chosen card to the battlefield.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/62.jpg" num="94">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/63.jpg" num="97">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1134,7 +1153,7 @@ Choose target creature card in your graveyard with mana value 4 or less. If this
 			<name>UB12 Invoker&apos;s Rites</name>
 			<text>When this enchantment enters, look at the top four cards of your library. Put one of them into your hand hand the rest into your graveyard.
 When this enchantment is put into your graveyard from the battlefield, create a 4/4 colorless Incarnation enchantment creature token.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/63.jpg" num="95">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/64.jpg" num="98">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1148,10 +1167,26 @@ When this enchantment is put into your graveyard from the battlefield, create a 
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>UB13 Lose Hope</name>
+			<text>Target creature gets -1/-1 until end of turn. Scry 2.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/65.jpg" num="99">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
 			<name>CR01 Harried Courier</name>
 			<text>Haste
 When this creature enters, target creature can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/64.jpg" num="97">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/66.jpg" num="101">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1168,7 +1203,7 @@ When this creature enters, target creature can&apos;t block this turn.</text>
 		<card>
 			<name>CR02 ferocious</name>
 			<text>Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +1/+0 and gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/65.jpg" num="98">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/67.jpg" num="102">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1186,7 +1221,7 @@ When this creature enters, target creature can&apos;t block this turn.</text>
 			<name>CR04 Notorious Pugilist</name>
 			<text>Reach
 Whenever this creature attacks while you control a creature with power 4 or greater, this creature gets +2/+2 until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/66.jpg" num="192">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/68.jpg" num="198">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1203,7 +1238,7 @@ Whenever this creature attacks while you control a creature with power 4 or grea
 		<card>
 			<name>CR05 Fiery Insurgent</name>
 			<text>Whenever this creature becomes the target of a spell or ability you control for the first time each turn, you may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/67.jpg" num="99">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/69.jpg" num="103">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1221,7 +1256,7 @@ Whenever this creature attacks while you control a creature with power 4 or grea
 			<name>CR06 pinger</name>
 			<text>Reach
 Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature deals 1 damage to each opponent.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/68.jpg" num="100">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/70.jpg" num="104">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1239,7 +1274,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<name>CR07 Frostwind Pummeller</name>
 			<text>Trample
 Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/69.jpg" num="101">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/71.jpg" num="105">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1256,7 +1291,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 		<card>
 			<name>CR08 Genial Gladiator</name>
 			<text>Whenever you attack, target creature you control gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/70.jpg" num="102">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/72.jpg" num="106">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1276,7 +1311,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 Enchant creature
 When this enchantment enters, enchanted creature gains first strike until end of turn.
 Enchanted creature gets +2/+0.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/71.jpg" num="105">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/73.jpg" num="109">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1294,7 +1329,7 @@ Enchanted creature gets +2/+0.</text>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II — Exile the top card of your library. You may play it for as long as you control this Saga.
 III — Target creature you control gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/72.jpg" num="106">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/74.jpg" num="110">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1311,7 +1346,7 @@ III — Target creature you control gains menace until end of turn.</text>
 			<name>CR15 Rabblerousing Runt</name>
 			<text>Menace
 This creature attacks each combat if able.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/73.jpg" num="109">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/75.jpg" num="113">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1329,7 +1364,7 @@ This creature attacks each combat if able.</text>
 			<name>UR01 Enthusiasm</name>
 			<text>Haste
 {T}: Target creature gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/74.jpg" num="116">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/76.jpg" num="120">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1345,8 +1380,9 @@ This creature attacks each combat if able.</text>
 		</card>
 		<card>
 			<name>UR02 Gregarious Host</name>
-			<text>Whenever this creature or another creature you control with power 2 or less enters, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/75.jpg" num="117">VOP</set>
+			<text>When this creature enters, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)
+Whenever you attack with one or more creatures with power 4 or greater, exile the top card of your library. You may play it this turn.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/77.jpg" num="121">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1364,7 +1400,7 @@ This creature attacks each combat if able.</text>
 			<name>UR05 Blazing Scourgestomper</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 When this creature enters, if it was bargained, put two +1/+1 counters on it. It gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/76.jpg" num="120">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/78.jpg" num="124">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1381,7 +1417,7 @@ When this creature enters, if it was bargained, put two +1/+1 counters on it. It
 		<card>
 			<name>UR06 Sparking Hearthborn</name>
 			<text>{R}, Sacrifice this creature: Return target instant or sorcery card from your graveyard or heralded Aura card you own in exile to your hand.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/77.jpg" num="121">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/79.jpg" num="125">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1399,7 +1435,7 @@ When this creature enters, if it was bargained, put two +1/+1 counters on it. It
 			<name>UR07 splendor pump</name>
 			<text>Trample
 Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +X/+0 until end of turn, where X is the amount of mana spent to cast that spell.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/78.jpg" num="122">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/80.jpg" num="126">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1414,9 +1450,27 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>UR08 saga ramp</name>
+			<text>Whenever you put one or more lore counters on a Saga you control, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+{R}: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/81.jpg" num="127">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>UR10 tktk goatnap</name>
 			<text>Gain control of target creature that player controls until end of turn. Untap it. It gains haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/79.jpg" num="124">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/82.jpg" num="129">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1434,7 +1488,7 @@ Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this c
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 4/4 colorless Incarnation enchantment creature token.
 II, III — Target creature you control gets +1/+0 and gains first strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/80.jpg" num="125">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/83.jpg" num="130">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1453,7 +1507,7 @@ II, III — Target creature you control gets +1/+0 and gains first strike until 
 Choose one. If this spell was bargained, choose both instead.
 • Roll the Bones deals 3 damage to target creature. 
 • Discard a card. If you do, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/81.jpg" num="126">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/84.jpg" num="131">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1470,7 +1524,7 @@ Choose one. If this spell was bargained, choose both instead.
 			<name>UR13 Fan the Flames</name>
 			<text>When this enchantment enters, it deals 1 damage to each creature your opponents control.
 {1}, Sacrifice this enchantment: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/82.jpg" num="127">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/85.jpg" num="132">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1486,8 +1540,8 @@ Choose one. If this spell was bargained, choose both instead.
 		<card>
 			<name>CG01 Sprouting Serpent</name>
 			<text>Deathtouch
-Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/83.jpg" num="128">VOP</set>
+{1}{G}, Exile this card from your graveyard: Seek the end. Activate only as a sorcery. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/86.jpg" num="133">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1505,7 +1559,7 @@ Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t r
 			<name>CG03 Satyr Rootspeaker</name>
 			<text>When this creature enters, mill three cards, then you may return a basic land card from your graveyard to your hand.
 Exhaust — {3}{G}: Put two +1/+1 counters on this creature. Activate only as a sorcery. (Activate each exhaust ability only once.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/84.jpg" num="130">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/87.jpg" num="135">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1524,7 +1578,7 @@ Exhaust — {3}{G}: Put two +1/+1 counters on this creature. Activate only as a 
 			<text>Reach
 When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 When this creature dies, if you control an Avatar, draw a card.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/85.jpg" num="189">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/88.jpg" num="195">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1542,7 +1596,7 @@ When this creature dies, if you control an Avatar, draw a card.</text>
 			<name>CG05 Moon-Blessed Marksman</name>
 			<text>Reach
 Whenever an enchantment you control leaves the battlefield, you gain 2 life.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/86.jpg" num="131">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/89.jpg" num="136">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1552,7 +1606,7 @@ Whenever an enchantment you control leaves the battlefield, you gain 2 life.</te
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/2</pt>
+				<pt>4/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1561,7 +1615,7 @@ Whenever an enchantment you control leaves the battlefield, you gain 2 life.</te
 			<text>When this creature enters, choose one —
 • Put a lore counter on target Saga you control.
 • Put a +1/+1 counter on target creature you control.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/87.jpg" num="190">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/90.jpg" num="196">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1579,7 +1633,7 @@ Whenever an enchantment you control leaves the battlefield, you gain 2 life.</te
 			<name>CG08 renown trample</name>
 			<text>Trample
 Renown 2 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put two +1/+1 counters on it and it becomes renowned.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/88.jpg" num="133">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/91.jpg" num="138">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1597,7 +1651,7 @@ Renown 2 (When this creature deals combat damage to a player, if it isn&apos;t r
 			<name>CG09 Symbiotic Statue</name>
 			<text>This spell costs {1} less to cast if you control a creature with a +1/+1 counter on it.
 When this creature enters, you gain 2 life.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/89.jpg" num="134">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/92.jpg" num="139">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1614,7 +1668,7 @@ When this creature enters, you gain 2 life.</text>
 		<card>
 			<name>CG11 Square Up</name>
 			<text>Choose target creature you control and target creature an opponent controls. If either creature has power 4 or greater, put a +1/+1 counter on the creature you control. Then, those creatures fight. (Each deals damage equal to its power to the other.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/90.jpg" num="136">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/93.jpg" num="141">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1630,7 +1684,7 @@ When this creature enters, you gain 2 life.</text>
 		<card>
 			<name>CG14 Ravenous Roots</name>
 			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/91.jpg" num="139">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/94.jpg" num="144">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1649,7 +1703,7 @@ When this creature enters, you gain 2 life.</text>
 I, II — Mill two cards.
 III — Return target permanent card from your graveyard to your hand.
 In all endings, there are beginnings.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/92.jpg" num="140">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/95.jpg" num="145">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1666,7 +1720,7 @@ In all endings, there are beginnings.</text>
 			<name>UG01 avatarify</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
 Exhaust — {6}{G}{G}: Put nine +1/+1 counters on this creature. It becomes an Avatar. (Activate each exhaust ability only once.)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/93.jpg" num="147">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/96.jpg" num="152">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1684,7 +1738,7 @@ Exhaust — {6}{G}{G}: Put nine +1/+1 counters on this creature. It becomes an A
 			<name>UG02 flash rumor</name>
 			<text>Flash
 When this creature enters, target creature gets +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/94.jpg" num="148">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/97.jpg" num="153">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1699,10 +1753,27 @@ When this creature enters, target creature gets +2/+2 until end of turn.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>UG03 big power seeker</name>
+			<text>Whenever this creature attacks while you control a creature with power 4 or greater, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/98.jpg" num="154">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>UG04 lore lover</name>
 			<text>When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
-This creature gets +X/+X, where X is the greatest number of lore counters among enchantments you control.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/95.jpg" num="149">VOP</set>
+Whenever you put one or more counters on a permanent you control, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/99.jpg" num="155">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1720,7 +1791,7 @@ This creature gets +X/+X, where X is the greatest number of lore counters among 
 			<name>UG05 renown seeker</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Whenever one or more +1/+1 counters are put on this creature, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/96.jpg" num="150">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/100.jpg" num="156">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1738,7 +1809,7 @@ Whenever one or more +1/+1 counters are put on this creature, seek the end. (Put
 			<name>UG07 Memory</name>
 			<text>Whenever another enchantment you control leaves the battlefield, put a lore counter on this creature.
 Other creatures you control get +1/+1 for each lore counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/97.jpg" num="151">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/101.jpg" num="157">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1756,7 +1827,7 @@ Other creatures you control get +1/+1 for each lore counter on this creature.</t
 			<name>UG09 behold saga</name>
 			<text>As an additional cost to cast this spell, pay {1} or behold a Saga. (Choose a Saga you control or reveal a Saga card from your hand.)
 Reach, trample</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/98.jpg" num="152">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/102.jpg" num="158">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1773,7 +1844,7 @@ Reach, trample</text>
 		<card>
 			<name>UG10 doubt bite</name>
 			<text>Target creature you control gets +2/+0 until end of turn if there is an enchantment card in your graveyard. Then that creature deals damage equal to its power to target creature an opponent controls.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/99.jpg" num="153">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/103.jpg" num="159">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1792,7 +1863,7 @@ Reach, trample</text>
 I — You may play an additional land this turn.
 II — Create a 4/4 colorless Incarnation enchantment creature token.
 III — You may pay {2}. If you do, return this Saga to your hand.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/100.jpg" num="154">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/104.jpg" num="160">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1808,7 +1879,7 @@ III — You may pay {2}. If you do, return this Saga to your hand.</text>
 		<card>
 			<name>UG12 x lore</name>
 			<text>Seek the end. When you do, put X lore counters on target Saga you control. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/101.jpg" num="155">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/105.jpg" num="161">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1827,7 +1898,7 @@ III — You may pay {2}. If you do, return this Saga to your hand.</text>
 Enchant creature
 When this Aura enters, untap enchanted creature.
 Enchanted creature gets +1/+2 and has vigilance and reach.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/102.jpg" num="156">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/106.jpg" num="162">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1844,7 +1915,7 @@ Enchanted creature gets +1/+2 and has vigilance and reach.</text>
 			<name>UG14 ferocious draw</name>
 			<text>When this enchantment enters, put a +1/+1 counter on target creature you control.
 Whenever you attack with one or more creatures with power 4 or greater, draw a card.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/103.jpg" num="157">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/107.jpg" num="163">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1860,7 +1931,7 @@ Whenever you attack with one or more creatures with power 4 or greater, draw a c
 		<card>
 			<name>UM01 scry attack</name>
 			<text>Whenever this creature attacks, scry 1.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/104.jpg" num="197">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/108.jpg" num="203">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1879,7 +1950,7 @@ Whenever you attack with one or more creatures with power 4 or greater, draw a c
 			<text>This creature costs {X} less to cast, where X is the number of cards you have looked at while scrying or surveiling this turn.
 Flying
 When this creature enters, draw a card. You gain 2 life.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/105.jpg" num="177">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/109.jpg" num="183">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1897,7 +1968,7 @@ When this creature enters, draw a card. You gain 2 life.</text>
 			<name>UM03 Prognostic Frog</name>
 			<text>At the beginning of your end step, if you didn&apos;t cast a spell this turn, you draw a card and lose 1 life.
 Discard a card: This creature gets +1/+1 and gains flying until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/106.jpg" num="198">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/110.jpg" num="204">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1916,7 +1987,7 @@ Discard a card: This creature gets +1/+1 and gains flying until end of turn.</te
 			<text>Deathtouch
 Whenever this creature deals combat damage to a player, draw a card.
 Whenever you cast a spell during an opponent&apos;s turn, untap this creature.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/107.jpg" num="178">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/111.jpg" num="184">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1933,7 +2004,7 @@ Whenever you cast a spell during an opponent&apos;s turn, untap this creature.</
 		<card>
 			<name>UM07 Censured Cryptid</name>
 			<text>Whenever this creature attacks, if you don&apos;t control a Rumor, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/108.jpg" num="200">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/112.jpg" num="206">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1951,7 +2022,7 @@ Whenever you cast a spell during an opponent&apos;s turn, untap this creature.</
 			<name>UM05 Hired Henchman</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 When this creature enters, if it was bargained, it deals 2 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/109.jpg" num="199">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/113.jpg" num="205">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1968,7 +2039,7 @@ When this creature enters, if it was bargained, it deals 2 damage to any target.
 		<card>
 			<name>UM06 Spectratog</name>
 			<text>{1}, Sacrifice an artifact, enchantment, or token: This creature gets +2/+2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/110.jpg" num="179">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/114.jpg" num="185">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1986,7 +2057,7 @@ When this creature enters, if it was bargained, it deals 2 damage to any target.
 			<name>UM08 Brash Accelerationist</name>
 			<text>When this creature enters, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)
 At the beginning of combat on your turn, creatures you control with power 4 or greater gain trample and haste until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/111.jpg" num="180">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/115.jpg" num="186">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2004,7 +2075,7 @@ At the beginning of combat on your turn, creatures you control with power 4 or g
 			<name>UM09 likes counters</name>
 			<text>Vigilance
 Whenever you put one or more +1/+1 counters on another creature you control, put that many +1/+1 counters on this creature. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/112.jpg" num="201">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/116.jpg" num="207">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2021,7 +2092,7 @@ Whenever you put one or more +1/+1 counters on another creature you control, put
 		<card>
 			<name>UM10 grants counters FLAG</name>
 			<text>Whenever this creature attacks, put a +1/+1 counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/113.jpg" num="181">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/117.jpg" num="187">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2039,7 +2110,7 @@ Whenever you put one or more +1/+1 counters on another creature you control, put
 			<name>UM12 renown drain</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Whenever a creature you control becomes renowned, each opponent loses 1 life and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/114.jpg" num="182">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/118.jpg" num="188">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2057,7 +2128,7 @@ Whenever a creature you control becomes renowned, each opponent loses 1 life and
 			<name>UM11 Starlit Philosopher</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 As long as this creature is renowned, it has flying.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/115.jpg" num="202">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/119.jpg" num="208">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2074,7 +2145,7 @@ As long as this creature is renowned, it has flying.</text>
 		<card>
 			<name>UM13 permanent splendor</name>
 			<text>Splendor — Whenever you cast an enchantment, instant, or sorcery spell, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/116.jpg" num="203">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/120.jpg" num="209">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2091,7 +2162,7 @@ As long as this creature is renowned, it has flying.</text>
 		<card>
 			<name>UM14 Farsight Flameshaper</name>
 			<text>Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature deals 2 damage to each opponent. Scry 1. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/117.jpg" num="183">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/121.jpg" num="189">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2108,7 +2179,7 @@ As long as this creature is renowned, it has flying.</text>
 		<card>
 			<name>UM15 enchantment recursion</name>
 			<text>When this creature enters, return up to one target enchantment card from your graveyard to your hand. You lose life equal to its mana value.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/118.jpg" num="204">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/122.jpg" num="210">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2123,21 +2194,21 @@ As long as this creature is renowned, it has flying.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UM16 Chimeric Killer</name>
+			<name>UB07 Chimeric Killer</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
-When this creature enters, if it was bargained, destroy target nonland permanent.
-As long as there is an enchantment card in your graveyard, this creature has vigilance and menace.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/119.jpg" num="184">VOP</set>
+When this creature enters, if it was bargained, destroy target creature.
+As long as there is an enchantment card in your graveyard, this creature has menace.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/123.jpg" num="94">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>2BG</manacost>
-				<cmc>4</cmc>
-				<colors>BG</colors>
-				<coloridentity>BG</coloridentity>
-				<pt>3/3</pt>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2145,7 +2216,7 @@ As long as there is an enchantment card in your graveyard, this creature has vig
 			<name>UM17 Plucky Protagonist</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Spells you cast that target this creature cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/120.jpg" num="205">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/124.jpg" num="211">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2163,7 +2234,7 @@ Spells you cast that target this creature cost {1} less to cast.</text>
 			<name>UM18 likes auras</name>
 			<text>First strike
 This creature gets +2/+0 for each Aura and Equipment attached to it.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/121.jpg" num="185">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/125.jpg" num="191">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2182,7 +2253,7 @@ This creature gets +2/+0 for each Aura and Equipment attached to it.</text>
 			<text>Defender
 When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 As long as you control an Avatar, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/122.jpg" num="206">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/126.jpg" num="212">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2201,7 +2272,7 @@ As long as you control an Avatar, this creature can attack as though it didn&apo
 			<text>Vigilance
 When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 Avatars you control can&apos;t be blocked by creatures with power 2 or less.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/123.jpg" num="186">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/127.jpg" num="192">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2219,7 +2290,7 @@ Avatars you control can&apos;t be blocked by creatures with power 2 or less.</te
 			<name>CA01 Prismatic Thopter</name>
 			<text>Flying
 {1}: Add one mana of any color. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/124.jpg" num="207">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/128.jpg" num="213">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2235,7 +2306,7 @@ Avatars you control can&apos;t be blocked by creatures with power 2 or less.</te
 			<name>CA02 Inspiring Effigy</name>
 			<text>Vigilance, reach
 Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/125.jpg" num="209">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/129.jpg" num="215">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2252,7 +2323,7 @@ Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t r
 			<text>When this creature enters, choose up to one —
 • Put a lore counter on target Saga you control.
 • Remove a lore counter from target Saga you control. (Removing lore counters doesn&apos;t cause chapter abilities to trigger.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/126.jpg" num="208">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/130.jpg" num="214">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2269,7 +2340,7 @@ Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t r
 			<text>When this Equipment enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)
 During your turn, equipped creature has first strike.
 Equip {2}</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/127.jpg" num="210">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/131.jpg" num="216">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2285,7 +2356,7 @@ Equip {2}</text>
 			<text>When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {1}, Sacrifice this enchantment: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.
 {W}{U}{B}{R}{G}, Sacrifice this enchantment: Put two +1/+1 counters on target creature. Draw a card. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/128.jpg" num="3">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/132.jpg" num="3">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2301,7 +2372,7 @@ Equip {2}</text>
 			<name>UL02 Phantom Hourglass</name>
 			<text>When this artifact enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 {10}, {T}, Sacrifice this artifact: Destroy target nonland permanent. This ability costs {X} less to activate, where X is the greatest number of lore counters among Sagas you control.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/129.jpg" num="212">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/133.jpg" num="218">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2317,7 +2388,7 @@ Equip {2}</text>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 4/4 colorless Incarnation enchantment creature token.
 II, III — Put a +1/+1 counter on up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/130.jpg" num="4">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/134.jpg" num="4">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2329,11 +2400,29 @@ II, III — Put a +1/+1 counter on up to one target creature.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>UU15 Baleful Horologist</name>
+			<text>When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
+At the beginning of your end step, scry X, where X is the number of lore counters you put on Sagas this turn.</text>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/135.jpg" num="68">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>UB15 Ruinbringer&apos;s Blade</name>
 			<text>When this Equipment enters, create a 1/1 white Hero creature token with renown 1, then attach this equipment to it. (When that creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 Equipped creature gets +1/+1. As long as it&apos;s renowned, it has menace.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/131.jpg" num="96">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/136.jpg" num="100">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2350,7 +2439,7 @@ Equip {2}</text>
 			<name>UG15 Scornful Capnomancer</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 When this creature enters, if it was bargained, destroy target artifact or enchantment.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/132.jpg" num="158">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/137.jpg" num="164">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2368,7 +2457,7 @@ When this creature enters, if it was bargained, destroy target artifact or encha
 			<name>UA03 Moonstone Orb</name>
 			<text>{T}: Add one mana of any color.
 {T}: Put target card from a graveyard on the bottom of its owner&apos;s library.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/133.jpg" num="211">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/138.jpg" num="217">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2384,7 +2473,7 @@ When this creature enters, if it was bargained, destroy target artifact or encha
 			<text>When this land enters, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/134.jpg" num="223">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/139.jpg" num="230">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2399,7 +2488,7 @@ When this creature enters, if it was bargained, destroy target artifact or encha
 			<name>CA06 Auspicious Occasion</name>
 			<text>When this enchantment enters, scry 1, then draw a card.
 {1}, Sacrifice this enchantment: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/135.jpg" num="2">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/140.jpg" num="2">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2414,7 +2503,7 @@ When this creature enters, if it was bargained, destroy target artifact or encha
 			<name>RW01 Indecipherable Mysteries</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II, III — Exile target creature until this Saga leaves the battlefield.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/136.jpg" num="18">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/141.jpg" num="18">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2431,7 +2520,7 @@ I, II, III — Exile target creature until this Saga leaves the battlefield.</te
 			<name>RW02 Aurora, Calamity of Light</name>
 			<text>Flying, lifelink
 As long as you have at least 10 life more than your starting life total, Aurora has indestructible.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/137.jpg" num="19">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/142.jpg" num="19">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2449,7 +2538,7 @@ As long as you have at least 10 life more than your starting life total, Aurora 
 			<name>RW03 Eider&apos;s Prophecy</name>
 			<text>Destroy all creatures.
 Foretell {1}{W}{W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/138.jpg" num="20">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/143.jpg" num="20">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2466,17 +2555,17 @@ Foretell {1}{W}{W} (During your turn, you may pay {2} and exile this card from y
 			<name>RW04 Starhall Augur</name>
 			<text>Vigilance
 Whenever you scry or surveil, create a 1/1 blue Bird creature token with flying.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/139.jpg" num="21">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/144.jpg" num="21">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
-				<cmc>3</cmc>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2484,7 +2573,7 @@ Whenever you scry or surveil, create a 1/1 blue Bird creature token with flying.
 			<name>RW05 Chara, Beacon of Hope</name>
 			<text>Flying
 Whenever this creature becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/140.jpg" num="22">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/145.jpg" num="22">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2499,10 +2588,28 @@ Whenever this creature becomes the target of a spell or ability you control for 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
+			<name>RW06 renown reanimate</name>
+			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
+When this creature becomes renowned, return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/146.jpg" num="23">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
 			<name>RU01 Roil, Calamity of Tides</name>
 			<text>Whenever this creature becomes tapped, put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it.
 As long as you control seven or more Islands, Roil has indestructible.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/141.jpg" num="48">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/147.jpg" num="50">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2521,7 +2628,7 @@ As long as you control seven or more Islands, Roil has indestructible.</text>
 			<text>{1}{U}: This creature can&apos;t be blocked this turn.
 {2}{U}{U}: Draw a card.
 {3}{U}{U}{U}: This creature loses all abilities and becomes a 10/10 black Avatar.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/142.jpg" num="50">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/148.jpg" num="52">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2538,7 +2645,7 @@ As long as you control seven or more Islands, Roil has indestructible.</text>
 		<card>
 			<name>CU14 Glittering Refraction</name>
 			<text>Target nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library. Scry 1.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/143.jpg" num="46">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/149.jpg" num="48">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2556,7 +2663,7 @@ As long as you control seven or more Islands, Roil has indestructible.</text>
 			<text>Flying
 Whenever Cele attacks, scry 1.
 {U}, {T}: Choose target spell, then reveal the top card of your library. If the two cards share a type, counter that spell.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/144.jpg" num="52">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/150.jpg" num="54">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2574,7 +2681,7 @@ Whenever Cele attacks, scry 1.
 			<name>RU06 Cacix&apos;s Prophecy</name>
 			<text>Each player may shuffle their hand and graveyard into their library. Each player who does draws seven cards.
 Foretell {1}{U}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/145.jpg" num="53">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/151.jpg" num="55">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2591,7 +2698,7 @@ Foretell {1}{U}{U} (During your turn, you may pay {2} and exile this card from y
 			<name>RM06 Daz, Brutal Barterer</name>
 			<text>Menace
 Whenever you sacrifice a permanent as an additional cost to cast a spell, copy that spell. You may choose new targets for the copies. (Copies of permanent spells become tokens.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/146.jpg" num="166">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/152.jpg" num="172">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2609,7 +2716,7 @@ Whenever you sacrifice a permanent as an additional cost to cast a spell, copy t
 			<name>RB02 Fated Omenseeker</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)
 When this creature becomes renowned, search your library for a card and put it into your hand.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/147.jpg" num="80">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/153.jpg" num="83">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2628,7 +2735,7 @@ When this creature becomes renowned, search your library for a card and put it i
 			<text>Menace
 Whenever Marrow attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on Marrow.
 As long as there are seven or more permanent cards in your graveyard, Marrow has indestructible.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/148.jpg" num="81">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/154.jpg" num="84">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2643,13 +2750,13 @@ As long as there are seven or more permanent cards in your graveyard, Marrow has
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RB04 doubt sac</name>
+			<name>RB04 Preacher of Symmetry</name>
 			<text>Whenever a nontoken enchantment you control leaves the battlefield, target opponent sacrifices a permanent of their choice.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/149.jpg" num="82">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/155.jpg" num="85">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Human Cleric</type>
 				<maintype>Creature</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
@@ -2663,7 +2770,7 @@ As long as there are seven or more permanent cards in your graveyard, Marrow has
 			<name>RB05 Callous Invoker</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 When this creature enters, if it was bargained, create a 4/4 colorless Incarnation enchantment creature token.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/150.jpg" num="83">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/156.jpg" num="86">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2683,7 +2790,7 @@ When this creature enters, if it was bargained, create a 4/4 colorless Incarnati
 I — Discard a card.
 II — Sacrifice a creature.
 III — Create a 10/10 black Avatar creature token.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/151.jpg" num="84">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/157.jpg" num="87">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2700,7 +2807,7 @@ III — Create a 10/10 black Avatar creature token.</text>
 			<name>RR01 Daz&apos;s Prophecy</name>
 			<text>Untap all creatures that attacked this turn. After this phase, there is an additional combat phase, followed by an additional main phase.
 Foretell {2}{R}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/152.jpg" num="110">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/158.jpg" num="114">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2719,7 +2826,7 @@ Foretell {2}{R}{R} (During your turn, you may pay {2} and exile this card from y
 Discard your hand, Sacrifice this Equipment: Put all cards exiled with this Equipment into their owner&apos;s hands.
 Equipped creature gets +2/+0.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/153.jpg" num="113">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/159.jpg" num="117">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2737,7 +2844,7 @@ Equip {1}</text>
 			<text>Herald {1}{R} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Double all damage enchanted creature would deal.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/154.jpg" num="114">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/160.jpg" num="118">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2751,10 +2858,9 @@ Double all damage enchanted creature would deal.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RR06 mobilize auras</name>
-			<text>Trample
-Whenever mobilize auras attacks, create X 1/1 red Aetherborn [flag] creature tokens that are tapped and attacking, where X is the number of Auras attached to mobilize auras. Sacrifice those tokens at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/155.jpg" num="115">VOP</set>
+			<name>RR06 Agra, Soulsworn Champion</name>
+			<text>Whenever Agra attacks, create X 2/2 red Aetherborn creature tokens that are tapped and attacking, where X is the number of Auras attached to Agra. Sacrifice those tokens at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/161.jpg" num="119">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2773,7 +2879,7 @@ Whenever mobilize auras attacks, create X 1/1 red Aetherborn [flag] creature tok
 			<text>Trample
 Landfall — Whenever a land you control enters, put a +1/+1 counter on Quake.
 As long as you control seven or more lands with different names, Quake has indestructible.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/156.jpg" num="141">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/162.jpg" num="146">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2793,7 +2899,7 @@ As long as you control seven or more lands with different names, Quake has indes
 I, II, III — Choose one —
 • Put a +1/+1 counter on target creature.
 • Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/157.jpg" num="143">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/163.jpg" num="148">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -2810,7 +2916,7 @@ I, II, III — Choose one —
 			<name>RG04 Speaker of Memory</name>
 			<text>When this creature enters, look at the top six cards of your library. You may reveal a Saga card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 Whenever a Saga you control leaves the battlefield, draw a card.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/158.jpg" num="144">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/164.jpg" num="149">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2829,7 +2935,7 @@ Whenever a Saga you control leaves the battlefield, draw a card.</text>
 			<text>Herald {G} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature gets +1/+1 for each enchantment you control and each enchantment card in your graveyard.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/159.jpg" num="145">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/165.jpg" num="150">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2846,7 +2952,7 @@ Enchanted creature gets +1/+1 for each enchantment you control and each enchantm
 			<name>RG06 Zoat&apos;s Prophecy</name>
 			<text>Reveal cards from the top of your library until you reveal X permanent cards, where X is the greatest power among creatures you control. You may put a permanent card from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 Foretell {2}{G}{G} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/160.jpg" num="146">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/166.jpg" num="151">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2864,7 +2970,7 @@ Foretell {2}{G}{G} (During your turn, you may pay {2} and exile this card from y
 			<text>Flying
 When this creature enters, scry 3.
 At the beginning of your upkeep, reveal the top five cards of your library. If you reveal an artifact, creature, enchantment, instant, and sorcery card this way, you win the game.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/161.jpg" num="162">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/167.jpg" num="168">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2882,7 +2988,7 @@ At the beginning of your upkeep, reveal the top five cards of your library. If y
 			<name>MM02 Cacix, Fateweaver</name>
 			<text>Vigilance, lifelink
 {T}: For each player, look at the top card of that player&apos;s library. You may put it on the bottom of that player&apos;s library. Then each player draws a card.</text>
-			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/162.jpg" num="159">VOP</set>
+			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/168.jpg" num="165">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2908,7 +3014,7 @@ At the beginning of your upkeep, reveal the top five cards of your library. If y
 {B}{G}
 {R}{W}
 {G}{U}</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/163.jpg" num="9">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/169.jpg" num="9">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2954,7 +3060,7 @@ CG Keyword Distribution
  1 Deathtouch
  0.5 Ward N
  0.20 Haste</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/164.jpg" num="10">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/170.jpg" num="10">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2969,7 +3075,7 @@ CG Keyword Distribution
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/165.jpg" num="224">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/171.jpg" num="231">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2984,7 +3090,7 @@ CG Keyword Distribution
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/166.jpg" num="225">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/172.jpg" num="232">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2999,7 +3105,7 @@ CG Keyword Distribution
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/167.jpg" num="226">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/173.jpg" num="233">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3014,7 +3120,7 @@ CG Keyword Distribution
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/168.jpg" num="227">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/174.jpg" num="234">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3029,7 +3135,7 @@ CG Keyword Distribution
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/169.jpg" num="228">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/175.jpg" num="235">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3045,7 +3151,7 @@ CG Keyword Distribution
 			<name>MM08 Brekt, Lifepath Ancient</name>
 			<text>Whenever a creature you control dies, if it had one or more +1/+1 counters on it, put a +1/+1 counter on up to one target creature.
 Whenever an enchantment you control is put into your graveyard from the battlefield, if it had one or more lore counters on it, put a lore counter on up to one target enchantment.</text>
-			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/170.jpg" num="160">VOP</set>
+			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/176.jpg" num="166">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3061,9 +3167,9 @@ Whenever an enchantment you control is put into your graveyard from the battlefi
 		</card>
 		<card>
 			<name>MM10 Kath, Corrupt Invoker</name>
-			<text>Whenever this creature enters or attacks, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
+			<text>Whenever Kath enters or attacks, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)
 Sagas you control have &quot;III — Create a 4/4 colorless Incarnation enchantment creature token.&quot;</text>
-			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/171.jpg" num="161">VOP</set>
+			<set rarity="mythic" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/177.jpg" num="167">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3081,7 +3187,7 @@ Sagas you control have &quot;III — Create a 4/4 colorless Incarnation enchantm
 			<name>RM03 Dominance</name>
 			<text>Whenever you cast a spell during an opponent&apos;s turn, exile the top card of that player&apos;s library.
 {7}: You may cast a card exiled with this creature without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/172.jpg" num="163">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/178.jpg" num="169">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3100,7 +3206,7 @@ Sagas you control have &quot;III — Create a 4/4 colorless Incarnation enchantm
 			<text>Choose one —
 • Counter target spell. Its controller loses 2 life.
 • Return target nonland permanent to its owner&apos;s hand, then that player discards a card.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/173.jpg" num="164">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/179.jpg" num="170">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3116,7 +3222,7 @@ Sagas you control have &quot;III — Create a 4/4 colorless Incarnation enchantm
 		<card>
 			<name>RM05 Commitment</name>
 			<text>Each creature card in your graveyard has unearth {1}{B}{R}. ({1}{B}{R}: Return the card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/174.jpg" num="165">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/180.jpg" num="171">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3134,7 +3240,7 @@ Sagas you control have &quot;III — Create a 4/4 colorless Incarnation enchantm
 			<name>RB01 Gire&apos;s Prophecy</name>
 			<text>Return each creature card that was put into a graveyard this turn to the battlefield under your control.
 Foretell {2}{B}{B} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/175.jpg" num="79">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/181.jpg" num="82">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3151,7 +3257,7 @@ Foretell {2}{B}{B} (During your turn, you may pay {2} and exile this card from y
 			<name>RM07 Kinship</name>
 			<text>Whenever you activate an ability that targets a creature you control, copy that ability. You may choose new targets for the copy.
 {3}: Target creature you control gets +2/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/176.jpg" num="167">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/182.jpg" num="173">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3169,7 +3275,7 @@ Foretell {2}{B}{B} (During your turn, you may pay {2} and exile this card from y
 			<name>RM09 Narrative</name>
 			<text>Vigilance
 Sagas you control have &quot;II — Put a +1/+1 counter on target creature.&quot;</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/177.jpg" num="168">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/183.jpg" num="174">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3186,7 +3292,7 @@ Sagas you control have &quot;II — Put a +1/+1 counter on target creature.&quot
 		<card>
 			<name>RM11 Ambition</name>
 			<text>Whenever you put one or more +1/+1 counters on a creature you control, target opponent loses that much life.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/178.jpg" num="169">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/184.jpg" num="175">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3204,7 +3310,7 @@ Sagas you control have &quot;II — Put a +1/+1 counter on target creature.&quot
 			<name>RM12 Figure of Notoriety</name>
 			<text>Other creatures you control have renown 2. (When that creature deals combat damage to a player, if it isn&apos;t renowned, put two +1/+1 counters on it and it becomes renowned.)
 Renowned creatures you control have lifelink.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/179.jpg" num="170">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/185.jpg" num="176">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3222,7 +3328,7 @@ Renowned creatures you control have lifelink.</text>
 			<name>RM13 Ebullience</name>
 			<text>You may cast noncreature spells as though they had flash.
 {1}{U}{R}: Draw a card, then discard a card.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/180.jpg" num="171">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/186.jpg" num="177">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3240,7 +3346,7 @@ Renowned creatures you control have lifelink.</text>
 			<name>RM15 Cultivation</name>
 			<text>If you would draw a card, instead mill three cards, then return a card from your graveyard to your hand.
 If a card would be put into your graveyard from anywhere other than your library, exile it instead.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/181.jpg" num="172">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/187.jpg" num="178">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3258,7 +3364,7 @@ If a card would be put into your graveyard from anywhere other than your library
 			<name>RM16 Hana, Aetherwitch</name>
 			<text>{T}: Add one mana of any color. Spend this mana only to cast enchantment spells.
 Whenever an enchantment you control leaves the battlefield, each opponent loses X life and you gain X life, where X is that enchantment&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/182.jpg" num="173">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/188.jpg" num="179">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3275,7 +3381,7 @@ Whenever an enchantment you control leaves the battlefield, each opponent loses 
 		<card>
 			<name>RM17 Spectacle</name>
 			<text>Whenever you cast an Aura spell that targets only this creature, copy that spell for each other permanent you control that the spell could target, except the copies gain &quot;At the beginning of your cleanup step, sacrifice this Aura.&quot; Each copy targets a different one of those creatures. (Copies of permanent spells become tokens.)</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/183.jpg" num="174">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/189.jpg" num="180">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3293,7 +3399,7 @@ Whenever an enchantment you control leaves the battlefield, each opponent loses 
 			<name>RM19 Abundance</name>
 			<text>Vigilance
 Whenever you draw a card, add {C}. Until end of turn, you don&apos;t lose this mana as steps and phases end.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/184.jpg" num="175">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/190.jpg" num="181">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3312,7 +3418,7 @@ Whenever you draw a card, add {C}. Until end of turn, you don&apos;t lose this m
 			<text>Herald {G}{G}{U}{U} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature has base power and toughness 10/10 and is an Avatar in addition to its other types.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/185.jpg" num="176">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/191.jpg" num="182">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3326,11 +3432,26 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<tablerow>1</tablerow>
 		</card>
 		<card>
+			<name>RM24 Grand Chronoplex</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Put a lore counter on target Saga you control.</text>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/192.jpg" num="229">VOP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
 			<name>CL01 Solitary Lighthouse</name>
 			<text>This land enters tapped.
 {T}: Add {W} or {U}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/186.jpg" num="213">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/193.jpg" num="219">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3347,7 +3468,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {U} or {B}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/187.jpg" num="214">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/194.jpg" num="220">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3364,7 +3485,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {B} or {R}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/188.jpg" num="215">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/195.jpg" num="221">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3381,7 +3502,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/189.jpg" num="216">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/196.jpg" num="222">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3398,7 +3519,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/190.jpg" num="217">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/197.jpg" num="223">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3415,7 +3536,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/191.jpg" num="218">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/198.jpg" num="224">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3432,7 +3553,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/192.jpg" num="219">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/199.jpg" num="225">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3449,7 +3570,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {B} or {G}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/193.jpg" num="220">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/200.jpg" num="226">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3466,7 +3587,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {R} or {W}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/194.jpg" num="221">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/201.jpg" num="227">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3483,7 +3604,7 @@ Enchanted creature has base power and toughness 10/10 and is an Avatar in additi
 			<text>This land enters tapped.
 {T}: Add {G} or {U}.
 {4}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/195.jpg" num="222">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/202.jpg" num="228">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3502,7 +3623,7 @@ I, II — Create a Treasure token.
 III — Draw a card.
 &quot;It&apos;s easy to tell someone&apos;s future. The hard part is getting paid for it.&quot;
 —Profit for Prophets</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/196.jpg" num="1">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/203.jpg" num="1">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3518,7 +3639,7 @@ III — Draw a card.
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after X.)
 Indestructible (Effects that say &quot;destroy&quot; don&apos;t destroy this enchantment.)
 X — Create a 10/10 black Avatar creature token.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/197.jpg" num="8">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/204.jpg" num="8">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3534,7 +3655,7 @@ X — Create a 10/10 black Avatar creature token.</text>
 			<name>CU13 Shift the Timeline</name>
 			<text>Target creature gets -4/-0 until end of turn.
 Scry 1, then draw a card.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/198.jpg" num="45">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/205.jpg" num="47">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3551,7 +3672,7 @@ Scry 1, then draw a card.</text>
 			<name>CW05 Unflappable Conductor</name>
 			<text>When this creature enters, put a +1/+1 counter on another target creature you control.
 {W}, {T}: Tap target creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/199.jpg" num="8">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/206.jpg" num="8">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3569,7 +3690,7 @@ Scry 1, then draw a card.</text>
 			<name>CW10 Pampered Patron</name>
 			<text>Vigilance
 When this creature enters, create a 1/1 white Hero creature token with renown 1. (When that creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/200.jpg" num="12">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/207.jpg" num="12">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3586,7 +3707,7 @@ When this creature enters, create a 1/1 white Hero creature token with renown 1.
 		<card>
 			<name>CU11 rummage splendor</name>
 			<text>Create a 2/2 red Aetherborn creature token. You may discard a card. If you do, draw a card.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/201.jpg" num="194">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/208.jpg" num="200">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3602,7 +3723,7 @@ When this creature enters, create a 1/1 white Hero creature token with renown 1.
 		<card>
 			<name>CB04 Sinister Cynic</name>
 			<text>Whenever an enchantment you control leaves the battlefield, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/202.jpg" num="188">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/209.jpg" num="194">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3620,7 +3741,7 @@ When this creature enters, create a 1/1 white Hero creature token with renown 1.
 			<name>CB07 Wicked Lurker</name>
 			<text>Flying
 When this creature enters, mill three cards. Then if there is an enchantment card in your graveyard, each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/203.jpg" num="70">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/210.jpg" num="73">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3638,7 +3759,7 @@ When this creature enters, mill three cards. Then if there is an enchantment car
 			<name>CB09 menace cycler</name>
 			<text>Menace
 {2}, Discard this card: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/204.jpg" num="72">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/211.jpg" num="75">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3656,7 +3777,7 @@ When this creature enters, mill three cards. Then if there is an enchantment car
 			<name>CB10 Deadly Deal</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Target creature gets -3/-3 until end of turn. If this spell was bargained, that creature gets -5/-5 until end of turn instead.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/205.jpg" num="73">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/212.jpg" num="76">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3674,7 +3795,7 @@ Target creature gets -3/-3 until end of turn. If this spell was bargained, that 
 			<text>Herald {B} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature has deathtouch.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/206.jpg" num="74">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/213.jpg" num="77">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3690,7 +3811,7 @@ Enchanted creature has deathtouch.</text>
 		<card>
 			<name>CB14 murder</name>
 			<text>Destroy target creature.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/207.jpg" num="77">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/214.jpg" num="80">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3707,7 +3828,7 @@ Enchanted creature has deathtouch.</text>
 			<name>CB13 Disarming Development</name>
 			<text>When this enchantment enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
 {1}, Sacrifice this enchantment: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/208.jpg" num="76">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/215.jpg" num="79">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3724,7 +3845,7 @@ Enchanted creature has deathtouch.</text>
 			<name>CB15 Sanctify in Ashes</name>
 			<text>Destroy target creature or enchantment.
 Seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/209.jpg" num="78">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/216.jpg" num="81">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3740,7 +3861,7 @@ Seek the end. (Put a lore counter on a Saga you control or create The Inevitable
 		<card>
 			<name>CR03 valiant</name>
 			<text>Whenever this creature becomes the target of a spell or ability you control for the first time each turn, it gets +1/+0 and gains first strike until end of turn. Scry 1.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/210.jpg" num="191">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/217.jpg" num="197">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3758,7 +3879,7 @@ Seek the end. (Put a lore counter on a Saga you control or create The Inevitable
 			<name>CR09 Fated Fighter</name>
 			<text>When this creature enters, create a Rumor token. (It&apos;s an enchantment with &quot;{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.&quot;)
 {2}, Discard this card: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/211.jpg" num="103">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/218.jpg" num="107">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3775,7 +3896,7 @@ Seek the end. (Put a lore counter on a Saga you control or create The Inevitable
 		<card>
 			<name>CR10 Shock</name>
 			<text>Shock deals 2 damage to any target.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/212.jpg" num="104">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/219.jpg" num="108">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3794,7 +3915,7 @@ Seek the end. (Put a lore counter on a Saga you control or create The Inevitable
 Choose one. If this spell was bargained, choose both instead.
 • Destroy target noncreature artifact.
 • Target creature you control deals damage equal to its power to target creature an opponent controls.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/213.jpg" num="107">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/220.jpg" num="111">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3811,7 +3932,7 @@ Choose one. If this spell was bargained, choose both instead.
 			<name>CR14 Show of Force</name>
 			<text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
 Show of Force deals 4 damage to target creature. If this spell was bargained, it deals 6 damage to that creature instead.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/214.jpg" num="108">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/221.jpg" num="112">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3828,7 +3949,7 @@ Show of Force deals 4 damage to target creature. If this spell was bargained, it
 			<name>CG02 Whisperwood Storyteller</name>
 			<text>{T}: Add {G}.
 {T}: Add one mana of any color. Spend this mana only to cast enchantment spells.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/215.jpg" num="129">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/222.jpg" num="134">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3846,7 +3967,7 @@ Show of Force deals 4 damage to target creature. If this spell was bargained, it
 			<name>CG06 Patient Tea-Reader</name>
 			<text>Vigilance
 When this creature enters, seek the end. (Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and &quot;X—Create a 10/10 black Avatar creature token.&quot;)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/216.jpg" num="132">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/223.jpg" num="137">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3856,7 +3977,7 @@ When this creature enters, seek the end. (Put a lore counter on a Saga you contr
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3864,7 +3985,7 @@ When this creature enters, seek the end. (Put a lore counter on a Saga you contr
 			<name>CG10 trample cycler</name>
 			<text>Trample
 {2}, Discard this card: Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/217.jpg" num="135">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/224.jpg" num="140">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3882,7 +4003,7 @@ When this creature enters, seek the end. (Put a lore counter on a Saga you contr
 			<name>CG12 Make Disappear</name>
 			<text>When this enchantment enters, destroy up to one target artifact, enchantment, or creature with flying.
 {1}, Sacrifice this enchantment: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/218.jpg" num="137">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/225.jpg" num="142">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3902,7 +4023,7 @@ When this creature enters, choose one —
 • Tap target creature.
 • Untap target creature.
 • Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/219.jpg" num="36">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/226.jpg" num="38">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3919,7 +4040,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Hero VOP</name>
 			<text>Renown 1 (When this creature deals combat damage to a player, if it isn&apos;t renowned, put a +1/+1 counter on it and it becomes renowned.)</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/220.jpg" num="3">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/227.jpg" num="3">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3937,7 +4058,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Incarnation VOP</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/221.jpg" num="1">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/228.jpg" num="1">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3953,7 +4074,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Aetherborn VOP</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/222.jpg" num="6">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/229.jpg" num="6">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3971,7 +4092,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Treasure VOP</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/223.jpg" num="7">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/230.jpg" num="7">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3986,7 +4107,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Rumor VOP</name>
 			<text>{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/224.jpg" num="2">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/231.jpg" num="2">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4001,7 +4122,7 @@ When this creature enters, choose one —
 		<card>
 			<name>Avatar VOP</name>
 			<text></text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/225.jpg" num="5">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/232.jpg" num="5">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4022,7 +4143,7 @@ When this creature enters, choose one —
 I — Exile up to one target creature with power 4 or greater.
 II — Each player gains 2 life.
 III — Create a 4/4 colorless Incarnation enchantment creature token.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/226.jpg" num="33">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/233.jpg" num="34">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4041,7 +4162,7 @@ III — Create a 4/4 colorless Incarnation enchantment creature token.</text>
 Enchant creature
 When this enchantment enters, enchanted creature gains indestructible until end of turn.
 Enchanted creature gets +1/+1.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/227.jpg" num="16">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/234.jpg" num="16">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4059,7 +4180,7 @@ Enchanted creature gets +1/+1.</text>
 			<text>Herald {1}{B} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature gets +1/+0 and has &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/228.jpg" num="92">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/235.jpg" num="95">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4077,7 +4198,7 @@ Enchanted creature gets +1/+0 and has &quot;When this creature dies, return it t
 			<text>Herald {R} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature has &quot;{R}: This creature gets +1/+0 until end of turn.&quot;</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/229.jpg" num="123">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/236.jpg" num="128">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4095,7 +4216,7 @@ Enchanted creature has &quot;{R}: This creature gets +1/+0 until end of turn.&qu
 			<text>Herald {1}{G} (You may cast this from your hand as though it had flash for its herald cost. Exile it from the battlefield or your graveyard at end of turn, then you may cast it from exile.)
 Enchant creature
 Enchanted creature gets +3/+3 and has trample.</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/230.jpg" num="138">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/237.jpg" num="143">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4113,7 +4234,7 @@ Enchanted creature gets +3/+3 and has trample.</text>
 			<text>This creature enters with X +1/+1 counters on it.
 Reach, trample
 Whenever this creature becomes the target of a spell or ability you control for the first time each turn, double the number of +1/+1 counters on it.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/231.jpg" num="142">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/238.jpg" num="147">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4131,7 +4252,7 @@ Whenever this creature becomes the target of a spell or ability you control for 
 			<name>RR02 Cinder, Calamity of Ash</name>
 			<text>Splendor — Whenever you cast an enchantment, instant, or sorcery spell, exile the top card of your library.
 As long as there are three or more cards exiled with Cinder, it has first strike. As long as there are five or more cards exiled with Cinder, it has indestructible. As long as there are seven or more cards exiled with Cinder, you may play cards exiled this way.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/232.jpg" num="111">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/239.jpg" num="115">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4149,7 +4270,7 @@ As long as there are three or more cards exiled with Cinder, it has first strike
 			<name>RR03 Rampant Rumors</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I, II, III — Up to X target creatures get +2/+2 until end of turn, where X is the number of lore counters on this Saga</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/233.jpg" num="112">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/240.jpg" num="116">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4166,7 +4287,7 @@ I, II, III — Up to X target creatures get +2/+2 until end of turn, where X is 
 			<name>UR03 Flashy Fencer</name>
 			<text>First strike
 Whenever this creature becomes the target of a spell or ability you control for the first time each turn, create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/234.jpg" num="118">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/241.jpg" num="122">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4184,7 +4305,7 @@ Whenever this creature becomes the target of a spell or ability you control for 
 			<name>UR04 Lightning Lasher</name>
 			<text>Splendor — Whenever you cast an enchantment, instant, or sorcery spell, this creature gets +1/+0 until end of turn.
 Whenever this creature attacks, if it has power 4 or greater, it gains double strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/235.jpg" num="119">VOP</set>
+			<set rarity="uncommon" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/242.jpg" num="123">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4203,7 +4324,7 @@ Whenever this creature attacks, if it has power 4 or greater, it gains double st
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 I, II, III — Draw a card.
 IV — Take an extra turn after this one. Exile this Saga.</text>
-			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/236.jpg" num="49">VOP</set>
+			<set rarity="rare" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/243.jpg" num="51">VOP</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4219,7 +4340,7 @@ IV — Take an extra turn after this one. Exile this Saga.</text>
 		<card>
 			<name>Bird VOP</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/237.jpg" num="4">VOP</set>
+			<set rarity="common" picurl="https://ryanninjasheep.github.io/sets/VOP-files/img/244.jpg" num="4">VOP</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

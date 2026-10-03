@@ -1,4 +1,458 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+UW14 Hero's Mantle added.
+UM16 Gire's Gambit added.
+UB11 Infernal Pact added.
+UB13 Lose Hope added.
+UR08 saga ramp added.
+UG03 big power seeker added.
+UB07 Chimeric Killer added.
+UU15 Baleful Horologist added.
+RW06 renown reanimate added.
+RB04 Preacher of Symmetry added.
+RR06 Agra, Soulsworn Champion added.
+RM24 Grand Chronoplex added.
+
+UB07 Preacher of Symmetry removed.
+UB11 Gire's Gambit removed.
+UM16 Chimeric Killer removed.
+RB04 doubt sac removed.
+RR06 mobilize auras removed.
+
+UW05 lore lover
+
+CU01 Waterwhip Duelist
+
+CU02 Skulking Striker
+
+CU04 Promethean Lightseeker
+
+CU05 Wandering Dreamer
+
+CU06 Stoic Ravenspeaker
+
+CU07 Wizened Ornithomancer
+
+CU08 Slithering Lurker
+
+CU09 Wind's Grace
+
+CU10 That's Not What Happened
+
+CU12 Visionary's Council
+
+RU04 Chronoblast
+
+CU15 Song of Tides
+
+UU01 Impish Astrologer
+
+UU08 Deepwell Seeker
+
+UU03 splendor flyer
+
+UU04 Suspicious Scrier
+
+UU05 Reclusive Runereader
+
+UU06 Precision
+
+UU07 big finisher
+
+UU02 Fateweaver's Apprentice
+
+UU09 Invocation of Precision
+
+UU10 Brainstorm
+
+UU11 Keep Down
+
+UU12 Sublimate
+
+CB01 Marked Monument
+
+CB02 Maddening Fabulist
+
+CB03 Grim Apostle
+
+CB05 Scheming Revolutionary
+
+CB06 Silkblade Assassin
+
+CB12 Song of Dread
+
+UB01 Death's Disciple
+
+UB02 Faithful Following
+
+CB08 Charming Haruspex
+
+UB03 Conniving Truthtwister
+
+UB05 Toxin Purveyor
+
+UB06 Power
+
+UB04 Harbinger of Doubt
+rules_text: Flying, lifelink
+Whenever an enchantment you control leaves the battlefield, this creature gets +1/+0 until end of turn. => Flying
+Whenever an enchantment you control leaves the battlefield, this creature gets +1/+0 until end of turn. If it was a Saga, this creature also gains lifelink until end of turn.
+pt: 1/4 => 2/3
+
+UB10 Invocation of Power
+
+UB12 Invoker's Rites
+
+CR01 Harried Courier
+
+CR02 ferocious
+
+CR04 Notorious Pugilist
+
+CR05 Fiery Insurgent
+
+CR06 pinger
+
+CR07 Frostwind Pummeller
+
+CR08 Genial Gladiator
+
+CR11 Feather Technique
+
+CR12 Song of Stories
+
+CR15 Rabblerousing Runt
+
+UR01 Enthusiasm
+
+UR02 Gregarious Host
+rules_text: Whenever this creature or another creature you control with power 2 or less enters, create a Rumor token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i] => When this creature enters, create a Rumor token. [i](It's an enchantment with “{1}, Sacrifice this token: Target creature gets +2/+2 until end of turn. Activate only as a sorcery.”)[/i]
+Whenever you attack with one or more creatures with power 4 or greater, exile the top card of your library. You may play it this turn.
+
+UR05 Blazing Scourgestomper
+
+UR06 Sparking Hearthborn
+
+UR07 splendor pump
+
+UR10 tktk goatnap
+
+UR11 Invocation of Enthusiasm
+
+UR12 Roll the Bones
+
+UR13 Fan the Flames
+
+CG01 Sprouting Serpent
+rules_text: Deathtouch
+Renown 1 [i](When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)[/i] => Deathtouch
+{1}{G}, Exile this card from your graveyard: Seek the end. Activate only as a sorcery. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+
+CG03 Satyr Rootspeaker
+
+CG04 Waterwhip Seeker
+
+CG05 Moon-Blessed Marksman
+pt: 3/2 => 4/2
+
+CG07 Wilderland Troubador
+
+CG08 renown trample
+
+CG09 Symbiotic Statue
+
+CG11 Square Up
+
+CG14 Ravenous Roots
+
+CG15 Song of Rebirth
+
+UG01 avatarify
+
+UG02 flash rumor
+
+UG04 lore lover
+rules_text: When this creature enters, seek the end. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+This creature gets +X/+X, where X is the greatest number of lore counters among enchantments you control. => When this creature enters, seek the end. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+Whenever you put one or more counters on a permanent you control, this creature gets +1/+1 until end of turn.
+
+UG05 renown seeker
+
+UG07 Memory
+
+UG09 behold saga
+
+UG10 doubt bite
+
+UG11 Invocation of Memory
+
+UG12 x lore
+
+UG13 herald vigilance
+
+UG14 ferocious draw
+
+UM01 scry attack
+
+UM02 Omen of Hope
+
+UM03 Prognostic Frog
+
+UM04 Deepwell Infiltrator
+
+UM07 Censured Cryptid
+
+UM05 Hired Henchman
+
+UM06 Spectratog
+
+UM08 Brash Accelerationist
+
+UM09 likes counters
+
+UM10 grants counters FLAG
+
+UM12 renown drain
+
+UM11 Starlit Philosopher
+
+UM13 permanent splendor
+
+UM14 Farsight Flameshaper
+
+UM15 enchantment recursion
+
+UM17 Plucky Protagonist
+
+UM18 likes auras
+
+UM19 defender seeker
+
+UM20 Bishop of Calamity
+
+CA01 Prismatic Thopter
+
+CA02 Inspiring Effigy
+
+CA02 Automated Archivist
+
+CA04 Chronoscope
+
+UA01 Noble Pursuit
+
+UL02 Phantom Hourglass
+
+UA02 Invocation of Modernity
+
+UB15 Ruinbringer's Blade
+
+UG15 Scornful Capnomancer
+
+UA03 Moonstone Orb
+
+UL01 Sanctum of the Watcher
+
+CA06 Auspicious Occasion
+
+RW01 Indecipherable Mysteries
+
+RW02 Aurora, Calamity of Light
+
+RW03 Eider's Prophecy
+
+RW04 Starhall Augur
+cost: {2}{W} => {3}{W}
+pt: 3/3 => 3/4
+
+RW05 Chara, Beacon of Hope
+
+RU01 Roil, Calamity of Tides
+
+RU03 Obsessive Numerologist
+
+CU14 Glittering Refraction
+
+RU05 Cele, Dubious Dealer
+
+RU06 Cacix's Prophecy
+
+RM06 Daz, Brutal Barterer
+
+RB02 Fated Omenseeker
+
+RB03 Marrow, Calamity of Bones
+
+RB05 Callous Invoker
+
+RB06 Seek the End
+
+RR01 Daz's Prophecy
+
+RR04 Wishbone
+
+RR05 herald double damage
+
+RG01 Quake, Calamity of Earth
+
+RG03 proliferate saga
+
+RG04 Speaker of Memory
+
+RG05 herald enchantments
+
+RG06 Zoat's Prophecy
+
+RM01 Insight
+
+MM02 Cacix, Fateweaver
+
+Z_Archetypes
+
+Z_Common Keyword Distribution
+
+MM08 Brekt, Lifepath Ancient
+
+MM10 Kath, Corrupt Invoker
+rules_text: Whenever this creature enters or attacks, seek the end. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+Sagas you control have “III — Create a 4/4 colorless Incarnation enchantment creature token.” => Whenever Kath enters or attacks, seek the end. [i](Put a lore counter on a Saga you control or create The Inevitable, a legendary Saga token with indestructible and “X—Create a 10/10 black Avatar creature token.”)[/i]
+Sagas you control have “III — Create a 4/4 colorless Incarnation enchantment creature token.”
+
+RM03 Dominance
+
+RM04 Beset by Terrors
+
+RM05 Commitment
+
+RB01 Gire's Prophecy
+
+RM07 Kinship
+
+RM09 Narrative
+
+RM11 Ambition
+
+RM12 Figure of Notoriety
+
+RM13 Ebullience
+
+RM15 Cultivation
+
+RM16 Hana, Aetherwitch
+
+RM17 Spectacle
+
+RM19 Abundance
+
+RM20 herald avatar
+
+CL01 Solitary Lighthouse
+
+CL02 Shadowy Office
+
+CL03 Rowdy Tavern
+
+CL04 Postered Alley
+
+CL05 Bustling Forum
+
+CL06 Starlit Observatory
+
+CL07 Horologist's Workshop
+
+CL08 Cryptic Catacomb
+
+CL09 Grand Stage
+
+CL10 Invoker's Sanctuary
+
+CA05 Favorable Fortune
+
+The Inevitable
+
+CU13 Shift the Timeline
+
+CW05 Unflappable Conductor
+
+CW10 Pampered Patron
+
+CU11 rummage splendor
+
+CB04 Sinister Cynic
+
+CB07 Wicked Lurker
+
+CB09 menace cycler
+
+CB10 Deadly Deal
+
+CB11 Serpent's Touch
+
+CB14 murder
+
+CB13 Disarming Development
+
+CB15 Sanctify in Ashes
+
+CR03 valiant
+
+CR09 Fated Fighter
+
+CR10 Shock
+
+CR13 Flip the Table
+
+CR14 Show of Force
+
+CG02 Whisperwood Storyteller
+
+CG06 Patient Tea-Reader
+pt: 3/3 => 4/3
+
+CG10 trample cycler
+
+CG12 Make Disappear
+
+CU03 flash stun
+
+Hero
+
+Incarnation
+
+Aetherborn
+
+Treasure
+
+Rumor
+
+Avatar
+
+UW12 Invocation of Grace
+
+CW14 Mask of the Lion Dragon
+
+UB09 Death's Defiance
+
+UR09 Dragon's Tongue
+
+CG13 herald trample
+
+RG02 Scourge of Cantasia
+
+RR02 Cinder, Calamity of Ash
+
+RR03 Rampant Rumors
+
+UR03 Flashy Fencer
+
+UR04 Lightning Lasher
+
+RU02 Double Time
+
+Bird
+
+
+VERSION 6 CHANGELOG
 ====================
 
 UB02 Faithful Following added.
